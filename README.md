@@ -22,3 +22,8 @@ Para converter os dados carregados para o formato SPADL, basta executar o comand
 ### Dados de Elo
 
 Para realizar o _download_ dos dados de Elo, basta executar o comando `python3 scripts/get_elo_data.py` no diretório raiz, e os dados salvos no diretório `data/elo`. Para obter esses dados, utilizamos a API pública disponibilizada pelo [ClubElo](http://clubelo.com/).
+
+## Execução 
+
+Execute no diretório `interface` o comando `python main.py`
+
