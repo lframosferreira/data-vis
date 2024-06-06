@@ -6,6 +6,7 @@ from dash import Dash, Input, Output, dcc, exceptions, html
 from src.components.layout import create_layout
 
 ELO_DATA_DIR: str = "../data/elo/"
+BRASILEIRO_DATA_DIR: str = "../data/brasileirao/"
 
 
 def main() -> None:
@@ -16,6 +17,10 @@ def main() -> None:
     for filename in os.listdir("../data/elo/"):
         club_name: str = filename[: filename.index(".")]
         df_dict[club_name] = pd.read_csv(f"{ELO_DATA_DIR}/{filename}")
+    
+    for filename in os.listdir("../data/brasileirao/"):
+        club_name: str = filename[: filename.index(".")]
+        df_dict[club_name] = pd.read_csv(f"{BRASILEIRO_DATA_DIR}/{filename}")
 
     app.layout = create_layout(app=app, df_dict=df_dict)
 
