@@ -40,7 +40,6 @@ def make_radar_plot(df_dict: dict[str, pd.DataFrame],player,fig) -> go.Figure:
     
 
     values: np.array = jogadorSeries[names].to_numpy()[0]
-    print(values)
 
     fig.add_trace(go.Scatterpolar(
         r=values,
