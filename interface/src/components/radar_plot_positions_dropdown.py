@@ -9,11 +9,11 @@ from dash import Dash, Input, Output, dcc, exceptions, html
 import numpy as np
 
 teamns: list[str] = [
-    "América(MG)",
+    "América (MG)",
     "Ath Paranaense",
     "Atlético Mineiro",
     "Bahia",
-    "Botafogo(RJ)",
+    "Botafogo (RJ)",
     "Corinthians",
     "Coritiba",
     "Cruzeiro",
@@ -101,10 +101,10 @@ def make_mean_radar_plot(df_dict,ticker,fig) -> go.Figure:
 def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> None:
     @app.callback(Output("radar-positions-plot", "figure"), [Input("players-positions-dropdown", "value"), Input("players-positions-mean-dropdown", "value")],prevent_initial_call=True)
     def display_radar_plot(ticker, ticker2):
-        fig = go.Figure()
         
         if ticker and len(ticker) == 0:
             raise exceptions.PreventUpdate
+        fig = go.Figure()
         if ticker:
             fig = make_radar_plot(df_dict,ticker,fig)
         
