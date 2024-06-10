@@ -9,11 +9,11 @@ from dash import Dash, Input, Output, dcc, exceptions, html
 import numpy as np
 
 teamns: list[str] = [
-    "América(MG)",
+    "América (MG)",
     "Ath Paranaense",
     "Atlético Mineiro",
     "Bahia",
-    "Botafogo(RJ)",
+    "Botafogo (RJ)",
     "Corinthians",
     "Coritiba",
     "Cruzeiro",
