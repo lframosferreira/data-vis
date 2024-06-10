@@ -41,25 +41,30 @@ def renderPlayersDropdown(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.D
 
 def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
     return html.Div(
-        [
-            # df_dict["players_standard_statsP90"].keys() -> atributos dos jogadores
-            
-            dcc.Dropdown(
-                id="teams-dropdown",
-                multi=False,
-                placeholder="Selecione um time:",
-                options=teams,
-                value=[],
-                clearable=False,
-                style={"width": "50%"},
-            ),
-            dcc.Dropdown(
-                id="players-dropdown",
-                multi=True,
-                placeholder="Selecione um jogador:",
-                options= renderPlayersDropdown(app, df_dict),
-                value=[],
-                clearable=False,
+        [   
+            html.Div(
+                className="dropdowns-container",
+                style={"display": "flex", "justify-content": "center","width":"100%","flex-direction":"column","align-items":"center"},
+                children=[
+                    dcc.Dropdown(
+                        id="teams-dropdown",
+                        multi=False,
+                        placeholder="Selecione um time:",
+                        options=teams,
+                        value=[],
+                        clearable=True,
+                        style={"width": "90%", "margin-bottom": "10px", "margin-top": "10px"},
+                    ),
+                    dcc.Dropdown(
+                        id="players-dropdown",
+                        multi=True,
+                        placeholder="Selecione um jogador:",
+                        options= renderPlayersDropdown(app, df_dict),
+                        value=[],
+                        clearable=True,
+                        style={"width": "90%"},
+                    ),
+                ],
             ),
             dcc.Graph(
                 id="radar-plot",

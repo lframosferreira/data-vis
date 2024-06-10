@@ -63,7 +63,6 @@ def make_radar_plot(df_dict: dict[str, pd.DataFrame],player,fig) -> go.Figure:
 def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> None:
     @app.callback(Output("radar-plot", "figure"), Input("players-dropdown", "value"))
     def display_time_series(ticker):
-        print(ticker)
         if len(ticker) == 0:
             raise exceptions.PreventUpdate
         fig = go.Figure()
