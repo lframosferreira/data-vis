@@ -7,6 +7,7 @@ from src.components.layout import create_layout
 
 ELO_DATA_DIR: str = "../data/elo/"
 BRASILEIRO_DATA_DIR: str = "../data/brasileirao/"
+SHOTS_DATA_DIR: str = "../data/shots/"
 
 
 def main() -> None:
@@ -21,6 +22,10 @@ def main() -> None:
     for filename in os.listdir("../data/brasileirao/"):
         club_name: str = filename[: filename.index(".")]
         df_dict[club_name] = pd.read_csv(f"{BRASILEIRO_DATA_DIR}/{filename}")
+
+    for filename in os.listdir("../data/shots/"):
+        league_name: str = filename[: filename.index("_")]
+        df_dict[f"{league_name}_shots"] = pd.read_csv(f"{SHOTS_DATA_DIR}/{filename}")
 
     app.layout = create_layout(app=app, df_dict=df_dict)
 

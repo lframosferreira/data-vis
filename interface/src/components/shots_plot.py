@@ -15,21 +15,12 @@ LEAGUES: list[str, str] = {
 }
 
 def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
-    @app.callback(Output("shots-players-dropdown", "disabled"), Input("league-dropdown", "value"))
+    @app.callback([Output("shots-players-dropdown", "disabled"), Output("shots-players-dropdown", "value")], Input("league-dropdown", "value"))
     def enable_shots_dropdown(league: str):
-        return ((league is None))
+        return ((league is None)), None
 
     @app.callback(Output("shots-plot", "srcDoc"), [Input("shots-players-dropdown", "value"), Input("league-dropdown", "value")])
     def plot_shots(player_name: str, league: str):
-        league_key = next((key for key, value in LEAGUES.items() if value == league), None)
-        if league_key is None:
-            raise exceptions.PreventUpdate
-        
-        shots = df_dict[f"{league_key}_shots"]
-        filtered_shots = shots[
-            (shots["player_name"] == player_name) & 
-            ((shots["xG"] < 0.3) & (shots["result_name"] == "success"))].sort_values(by="xG").head(5)
-
         plt.style.use("ggplot")
 
         pitch = VerticalPitch(
@@ -44,9 +35,17 @@ def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
 
         fig, ax = pitch.draw()
 
-        for idx, shot in filtered_shots.iterrows():
-            pitch.scatter(shot['start_x'], shot['start_y'], color='#276cb7', s=100, ax=ax, label='Shooter', zorder=1.2)
-            pitch.arrows(shot['start_x'], shot['start_y'], shot['end_x'], shot['end_y'], label='shot', color='#cb5a4c', width=1, headwidth=5, headlength=5, ax=ax)
+        league_key = next((key for key, value in LEAGUES.items() if value == league), None)
+        if not(league_key is None):
+            # raise exceptions.PreventUpdate
+            shots = df_dict[f"{league_key}_shots"]
+            filtered_shots = shots[
+                (shots["player_name"] == player_name) & 
+                ((shots["xG"] < 0.3) & (shots["result_name"] == "success"))].sort_values(by="xG").head(5)
+
+            for idx, shot in filtered_shots.iterrows():
+                pitch.scatter(shot['start_x'], shot['start_y'], color='#276cb7', s=100, ax=ax, label='Shooter', zorder=1.2)
+                pitch.arrows(shot['start_x'], shot['start_y'], shot['end_x'], shot['end_y'], label='shot', color='#cb5a4c', width=1, headwidth=5, headlength=5, ax=ax)
             
         img = BytesIO()
         fig.savefig(img, format='png')

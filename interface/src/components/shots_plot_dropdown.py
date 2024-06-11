@@ -28,27 +28,27 @@ def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> None:
         return player_options
 
     return html.Div(
-        [   
-            html.Hr(style={"margin-top": "50px"}),
-            html.P("Selecione a liga:"),
+        children=[   
+            html.Hr(style={"margin-top": "50px", "margin-bottom": "50px"}),
+            html.H2("Gols com menos de 30% de chance feitos pelo jogador", style={"textAlign": "center", "margin-bottom": "50px"}),
             dcc.Dropdown(
                 id="league-dropdown",
                 multi=False,
-                placeholder="Liga",
+                placeholder="Selecione a liga",
                 options=list(LEAGUES.values()),
-                clearable=False,
+                clearable=True,
+                searchable=False,
+                style={"margin-bottom": "10px", "margin-top": "10px"},
             ),
-            html.P("Selecione o jogador:"),
             dcc.Dropdown(
                 id="shots-players-dropdown",
                 multi=False,
-                placeholder="Jogador",
+                placeholder="Selecione um jogador",
                 options=[],
-                value=[],
-                clearable=False,
+                clearable=True,
                 disabled=False,
+                style={"margin-bottom": "10px"},
             ),
-            html.H4("Gols com menos de 30% de chance feitos pelo jogador"),
             html.Div(
                 style={"display": "flex", "justify-content": "center", "align-items": "center", "flex-direction": "column"},
                 children=[html.Iframe(
