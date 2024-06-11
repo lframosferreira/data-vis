@@ -51,7 +51,6 @@ def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
         [   
             html.Div(
                 className="dropdowns-positions-container",
-                style={"display": "flex", "justify-content": "center","width":"100%","flex-direction":"column","align-items":"center"},
                 children=[
                     dcc.Dropdown(
                         id="players-positions-dropdown",
@@ -60,7 +59,7 @@ def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
                         options=list(df_dict["players_standard_statsP90"]["Jogador"]),
                         value=[],
                         clearable=True,
-                        style={"width": "90%", "margin-bottom": "10px", "margin-top": "10px"},
+                        style={"margin-bottom": "10px", "margin-top": "10px"},
                     ),
                     dcc.Dropdown(
                         id="players-positions-mean-dropdown",
@@ -69,7 +68,6 @@ def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
                         options= teamsAndPositions,
                         value=[],
                         clearable=True,
-                        style={"width": "90%"},
                     ),
                 ],
             ),
