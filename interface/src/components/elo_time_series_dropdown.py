@@ -1,17 +1,6 @@
 import pandas as pd
 import plotly.graph_objects as go
-from dash import Dash, Input, Output, dcc, exceptions, html
-
-COLORS: dict[str, str] = {
-    "arsenal": "red",
-    "liverpool": "red",
-    "chelsea": "blue",
-    "tottenham": "grey",
-    "girona": "red",
-    "realmadrid": "silver",
-    "barcelona": "dark blue",
-    "everton": "blue",
-}
+from dash import Dash, Input, Output, exceptions
 
 
 def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> None:
@@ -27,7 +16,7 @@ def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> None:
                     x=df["From"],
                     y=df["Elo"],
                     mode="lines",
-                    name=club,
+                    name=CLUBS_DICT[club],
                 )
             )
         fig.update_layout(xaxis_title="Ano", yaxis_title="Elo")
