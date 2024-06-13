@@ -486,6 +486,7 @@ pyrightconfig.json
 
 /data/elo*
 /data/wyscout*
+/data/spadl_format*
 
 /alpha-venv
 
