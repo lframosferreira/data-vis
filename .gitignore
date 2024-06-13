@@ -484,9 +484,7 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,latex
 
-/data/elo*
-/data/wyscout*
-/data/spadl_format*
+/data/
 
 /alpha-venv
 
