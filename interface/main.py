@@ -1,8 +1,7 @@
 import os
 
 import pandas as pd
-import plotly.graph_objects as go
-from dash import Dash, Input, Output, dcc, exceptions, html
+from dash import Dash
 from src.components.layout import create_layout
 
 ELO_DATA_DIR: str = "../data/elo/"
@@ -18,7 +17,7 @@ def main() -> None:
     for filename in os.listdir("../data/elo/"):
         club_name: str = filename[: filename.index(".")]
         df_dict[club_name] = pd.read_csv(f"{ELO_DATA_DIR}/{filename}")
-    
+
     for filename in os.listdir("../data/brasileirao/"):
         club_name: str = filename[: filename.index(".")]
         df_dict[club_name] = pd.read_csv(f"{BRASILEIRO_DATA_DIR}/{filename}")
