@@ -3,8 +3,7 @@ from dash import Dash, dcc, html
 import plotly.graph_objects as go
 import numpy as np
 import matplotlib.pyplot as plt
-from dash import Dash, html, dash_table, dcc, callback, Output, Input
-
+from dash import Dash, html, dash_table, dcc, Output, Input
 import os
 
 teamsAndPositions: list[str] = [
@@ -46,7 +45,7 @@ teamsAndPositions: list[str] = [
 
 
 
-def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
+def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
     return html.Div(
         [   
             html.Div(

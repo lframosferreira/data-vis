@@ -1,10 +1,10 @@
-from dash import Dash, html, dash_table, dcc, callback, Output, Input
+from dash import Dash, html, dash_table, dcc, Output, Input
 import pandas as pd
 import plotly.express as px
 
 import pandas as pd
 import plotly.graph_objects as go
-from dash import Dash, Input, Output, dcc, exceptions, html
+from dash import Dash, Input, Output, dcc, exceptions, html, callback
 
 import numpy as np
 
@@ -98,8 +98,8 @@ def make_mean_radar_plot(df_dict,ticker,fig) -> go.Figure:
     return fig
 
 
-def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> None:
-    @app.callback(Output("radar-positions-plot", "figure"), [Input("players-positions-dropdown", "value"), Input("players-positions-mean-dropdown", "value")],prevent_initial_call=True)
+def render(df_dict: dict[str, pd.DataFrame]) -> None:
+    @callback(Output("radar-positions-plot", "figure"), [Input("players-positions-dropdown", "value"), Input("players-positions-mean-dropdown", "value")],prevent_initial_call=True)
     def display_radar_plot(ticker, ticker2):
         
         if ticker and len(ticker) == 0:

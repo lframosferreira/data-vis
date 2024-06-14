@@ -1,10 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from mplsoccer import VerticalPitch
-from dash import Dash, html, Input, Output, exceptions
+from dash import Dash, html, Input, Output, exceptions, callback
 from io import BytesIO
 import base64
 import matplotlib.colors as mcolors
+
 
 LEAGUES: list[str, str] = {
     "england": "Premier League",
@@ -14,12 +15,12 @@ LEAGUES: list[str, str] = {
     "france": "Ligue 1",
 }
 
-def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
-    @app.callback([Output("shots-players-dropdown", "disabled"), Output("shots-players-dropdown", "value")], Input("league-dropdown", "value"))
+def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
+    @callback([Output("shots-players-dropdown", "disabled"), Output("shots-players-dropdown", "value")], Input("league-dropdown", "value"))
     def enable_shots_dropdown(league: str):
         return ((league is None)), None
 
-    @app.callback(Output("shots-plot", "srcDoc"), [Input("shots-players-dropdown", "value"), Input("league-dropdown", "value")])
+    @callback(Output("shots-plot", "srcDoc"), [Input("shots-players-dropdown", "value"), Input("league-dropdown", "value")])
     def plot_shots(player_name: str, league: str):
         plt.style.use("ggplot")
 

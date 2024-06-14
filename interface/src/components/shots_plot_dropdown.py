@@ -1,6 +1,7 @@
 import pandas as pd
 import plotly.graph_objects as go
-from dash import Dash, Input, Output, dcc, exceptions, html
+from dash import Dash, Input, Output, dcc, exceptions, html, callback
+
 
 LEAGUES: list[str, str] = {
     "england": "Premier League",
@@ -10,8 +11,8 @@ LEAGUES: list[str, str] = {
     "france": "Ligue 1",
 }
 
-def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> None:
-    @app.callback(Output("shots-players-dropdown", "options"), Input("league-dropdown", "value"))
+def render(df_dict: dict[str, pd.DataFrame]) -> None:
+    @callback(Output("shots-players-dropdown", "options"), Input("league-dropdown", "value"))
     def populate_shots_dropdown(league: str):
         if league is None:
             raise exceptions.PreventUpdate

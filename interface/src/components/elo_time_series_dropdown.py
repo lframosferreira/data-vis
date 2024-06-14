@@ -1,6 +1,6 @@
 import pandas as pd
 import plotly.graph_objects as go
-from dash import Dash, Input, Output, exceptions
+from dash import Dash, Input, Output, exceptions, callback
 
 REVERSED_CLUBS_DICT = {
     "Barcelona": "barcelona",
@@ -46,8 +46,8 @@ REVERSED_CLUBS_DICT = {
 }
 
 
-def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> None:
-    @app.callback(Output("elo-evolution-chart", "figure"), Input("ticker", "value"))
+def render(df_dict: dict[str, pd.DataFrame]) -> None:
+    @callback(Output("elo-evolution-chart", "figure"), Input("ticker", "value"))
     def display_time_series(ticker):
         if len(ticker) == 0:
             raise exceptions.PreventUpdate
