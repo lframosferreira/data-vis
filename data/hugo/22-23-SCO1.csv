@@ -1,0 +1,265 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+Celtic Glasgow,1,1,0,0,2,0,2,3,1
+Glasgow Rangers,1,1,0,0,2,2,0,3,2
+Livingston,1,1,0,0,0,0,0,3,3
+St Mirren,1,0,1,0,0,0,0,1,4
+Hearts,1,0,1,0,0,1,-1,1,5
+Hibernian,1,0,1,0,0,5,-5,1,6
+Motherwell,1,0,0,1,3,0,3,0,7
+Dundee United,1,0,0,1,2,0,2,0,8
+Kilmarnock,1,0,0,1,0,0,0,0,9
+Ross County,1,0,0,1,0,0,0,0,10
+Aberdeen,1,0,0,1,1,2,-1,0,11
+St Johnstone,1,0,0,1,0,3,-3,0,12
+Glasgow Rangers,2,2,0,0,4,2,2,6,1
+Celtic Glasgow,2,2,0,0,3,1,2,6,2
+Hearts,2,1,1,0,3,1,2,4,3
+Livingston,2,1,1,0,1,0,1,4,4
+St Mirren,2,0,2,0,0,0,0,2,5
+Hibernian,2,0,2,0,3,10,-7,2,6
+Dundee United,2,0,1,1,6,0,6,1,7
+Motherwell,2,0,1,1,4,0,4,1,8
+St Johnstone,2,0,1,1,6,6,0,1,9
+Aberdeen,2,0,1,1,3,3,0,1,10
+Kilmarnock,2,0,1,1,1,2,-1,1,11
+Ross County,2,0,1,1,0,1,-1,1,12
+Celtic Glasgow,3,3,0,0,6,1,5,9,1
+Livingston,3,2,1,0,4,0,4,7,2
+Hearts,3,2,1,0,6,3,3,7,3
+Glasgow Rangers,3,2,1,0,4,3,1,7,4
+St Mirren,3,0,2,1,0,0,0,2,5
+Hibernian,3,0,2,1,3,12,-9,2,6
+Dundee United,3,0,1,2,10,1,9,1,7
+Motherwell,3,0,1,2,6,3,3,1,8
+St Johnstone,3,0,1,2,6,7,-1,1,9
+Aberdeen,3,0,1,2,4,5,-1,1,10
+Ross County,3,0,1,2,0,2,-2,1,11
+Kilmarnock,3,0,1,2,1,5,-4,1,12
+Celtic Glasgow,4,4,0,0,8,2,6,12,1
+Hearts,4,3,1,0,8,4,4,10,2
+Glasgow Rangers,4,3,1,0,5,4,1,10,3
+Livingston,4,2,2,0,4,0,4,8,4
+St Mirren,4,0,3,1,0,1,-1,3,5
+Hibernian,4,0,3,1,3,12,-9,3,6
+Motherwell,4,0,2,2,6,4,2,2,7
+Aberdeen,4,0,2,2,7,6,1,2,8
+St Johnstone,4,0,2,2,9,11,-2,2,9
+Kilmarnock,4,0,2,2,4,11,-7,2,10
+Dundee United,4,0,1,3,11,8,3,1,11
+Ross County,4,0,1,3,0,3,-3,1,12
+Celtic Glasgow,5,5,0,0,13,3,10,15,1
+Hearts,5,4,1,0,9,4,5,13,2
+Glasgow Rangers,5,4,1,0,6,4,2,13,3
+Livingston,5,2,2,1,4,2,2,8,4
+St Johnstone,5,1,2,2,10,12,-2,5,5
+St Mirren,5,0,4,1,2,3,-1,4,6
+Hibernian,5,0,4,1,4,15,-11,4,7
+Aberdeen,5,0,3,2,8,7,1,3,8
+Motherwell,5,0,3,2,6,5,1,3,9
+Kilmarnock,5,0,3,2,4,11,-7,3,10
+Dundee United,5,0,1,4,13,9,4,1,11
+Ross County,5,0,1,4,3,3,0,1,12
+Celtic Glasgow,6,6,0,0,16,4,12,18,1
+Hearts,6,5,1,0,9,4,5,16,2
+Glasgow Rangers,6,4,1,1,7,6,1,13,3
+Livingston,6,3,2,1,6,3,3,11,4
+St Mirren,6,1,4,1,5,4,1,7,5
+St Johnstone,6,1,3,2,11,15,-4,6,6
+Hibernian,6,0,4,2,4,17,-13,4,7
+Aberdeen,6,0,3,3,9,10,-1,3,8
+Motherwell,6,0,3,3,8,9,-1,3,9
+Kilmarnock,6,0,3,3,5,12,-7,3,10
+Dundee United,6,0,1,5,13,12,1,1,11
+Ross County,6,0,1,5,4,6,-2,1,12
+Celtic Glasgow,7,7,0,0,20,4,16,21,1
+Glasgow Rangers,7,5,1,1,11,6,5,16,2
+Hearts,7,5,1,1,9,7,2,16,3
+Livingston,7,3,2,2,8,5,3,11,4
+St Mirren,7,1,5,1,6,5,1,8,5
+St Johnstone,7,1,4,2,12,15,-3,7,6
+Hibernian,7,0,5,2,6,19,-13,5,7
+Aberdeen,7,0,4,3,12,10,2,4,8
+Kilmarnock,7,0,4,3,6,14,-8,4,9
+Motherwell,7,0,3,4,11,9,2,3,10
+Dundee United,7,0,1,6,16,13,3,1,11
+Ross County,7,0,1,6,4,6,-2,1,12
+Celtic Glasgow,8,8,0,0,25,4,21,24,1
+Glasgow Rangers,8,6,1,1,13,6,7,19,2
+Hearts,8,6,1,1,11,8,3,19,3
+Livingston,8,4,2,2,8,8,0,14,4
+St Mirren,8,1,6,1,6,5,1,9,5
+Aberdeen,8,1,4,3,16,11,5,7,6
+St Johnstone,8,1,4,3,13,17,-4,7,7
+Hibernian,8,0,5,3,7,20,-13,5,8
+Kilmarnock,8,0,4,4,6,16,-10,4,9
+Motherwell,8,0,3,5,11,10,1,3,10
+Dundee United,8,0,1,7,16,16,0,1,11
+Ross County,8,0,1,7,6,9,-3,1,12
+Celtic Glasgow,9,9,0,0,32,4,28,27,1
+Glasgow Rangers,9,7,1,1,16,6,10,22,2
+Hearts,9,6,2,1,12,8,4,20,3
+Livingston,9,5,2,2,8,8,0,17,4
+St Mirren,9,1,6,2,7,10,-3,9,5
+Aberdeen,9,1,5,3,20,16,4,8,6
+St Johnstone,9,1,5,3,14,20,-6,8,7
+Hibernian,9,0,6,3,8,20,-12,6,8
+Kilmarnock,9,0,5,4,6,17,-11,5,9
+Motherwell,9,0,4,5,13,16,-3,4,10
+Dundee United,9,0,1,8,17,18,-1,1,11
+Ross County,9,0,1,8,6,10,-4,1,12
+Celtic Glasgow,10,10,0,0,35,4,31,30,1
+Glasgow Rangers,10,8,1,1,19,10,9,25,2
+Hearts,10,7,2,1,15,10,5,23,3
+Livingston,10,5,3,2,13,8,5,18,4
+Aberdeen,10,2,5,3,22,18,4,11,5
+St Mirren,10,1,7,2,8,11,-3,10,6
+St Johnstone,10,1,5,4,15,21,-6,8,7
+Motherwell,10,1,4,5,16,16,0,7,8
+Hibernian,10,0,7,3,8,21,-13,7,9
+Kilmarnock,10,0,6,4,7,17,-10,6,10
+Dundee United,10,0,2,8,18,19,-1,2,11
+Ross County,10,0,2,8,6,13,-7,2,12
+Celtic Glasgow,11,11,0,0,38,5,33,33,1
+Glasgow Rangers,11,9,1,1,24,10,14,28,2
+Hearts,11,8,2,1,16,10,6,26,3
+Livingston,11,6,3,2,13,10,3,21,4
+Aberdeen,11,3,5,3,26,20,6,14,5
+St Mirren,11,1,7,3,8,12,-4,10,6
+Hibernian,11,1,7,3,12,22,-10,10,7
+St Johnstone,11,1,6,4,16,21,-5,9,8
+Motherwell,11,1,5,5,16,20,-4,8,9
+Kilmarnock,11,0,7,4,12,20,-8,7,10
+Ross County,11,0,3,8,6,13,-7,3,11
+Dundee United,11,0,2,9,19,23,-4,2,12
+Celtic Glasgow,12,12,0,0,40,6,34,36,1
+Glasgow Rangers,12,10,1,1,25,10,15,31,2
+Hearts,12,9,2,1,18,10,8,29,3
+Livingston,12,6,4,2,15,11,4,22,4
+Aberdeen,12,3,5,4,26,27,-1,14,5
+Hibernian,12,2,7,3,14,23,-9,13,6
+St Johnstone,12,2,6,4,17,21,-4,12,7
+St Mirren,12,1,8,3,9,12,-3,11,8
+Motherwell,12,1,6,5,16,21,-5,9,9
+Kilmarnock,12,0,8,4,12,24,-12,8,10
+Dundee United,12,0,3,9,20,24,-4,3,11
+Ross County,12,0,3,9,6,14,-8,3,12
+Celtic Glasgow,13,13,0,0,44,8,36,39,1
+Glasgow Rangers,13,10,2,1,25,10,15,32,2
+Hearts,13,10,2,1,19,14,5,32,3
+Livingston,13,6,4,3,17,14,3,22,4
+Aberdeen,13,3,5,5,26,31,-5,14,5
+St Mirren,13,2,8,3,9,15,-6,14,6
+Hibernian,13,2,8,3,15,24,-9,14,7
+St Johnstone,13,2,7,4,17,21,-4,13,8
+Motherwell,13,1,7,5,17,23,-6,10,9
+Kilmarnock,13,0,8,5,13,26,-13,8,10
+Dundee United,13,1,3,9,22,28,-6,6,11
+Ross County,13,0,4,9,7,14,-7,4,12
+Celtic Glasgow,14,14,0,0,47,9,38,42,1
+Glasgow Rangers,14,11,2,1,27,11,16,35,2
+Hearts,14,10,3,1,22,15,7,33,3
+Livingston,14,6,5,3,21,17,4,23,4
+Aberdeen,14,4,5,5,26,34,-8,17,5
+Hibernian,14,3,8,3,19,26,-7,17,6
+St Johnstone,14,3,7,4,24,22,2,16,7
+St Mirren,14,2,9,3,12,16,-4,15,8
+Motherwell,14,1,7,6,19,26,-7,10,9
+Kilmarnock,14,0,8,6,14,27,-13,8,10
+Dundee United,14,1,4,9,22,30,-8,7,11
+Ross County,14,0,5,9,7,14,-7,5,12
+Celtic Glasgow,15,15,0,0,49,9,40,45,1
+Glasgow Rangers,15,12,2,1,28,11,17,38,2
+Hearts,15,10,4,1,23,16,7,34,3
+Livingston,15,6,6,3,23,19,4,24,4
+Aberdeen,15,5,5,5,26,34,-8,20,5
+Hibernian,15,4,8,3,19,26,-7,20,6
+St Mirren,15,3,9,3,13,18,-5,18,7
+St Johnstone,15,3,8,4,24,22,2,17,8
+Motherwell,15,1,8,6,22,27,-5,11,9
+Dundee United,15,1,5,9,24,30,-6,8,10
+Kilmarnock,15,0,8,7,15,30,-15,8,11
+Ross County,15,0,5,10,7,17,-10,5,12
+Celtic Glasgow,16,16,0,0,52,9,43,48,1
+Glasgow Rangers,16,13,2,1,31,13,18,41,2
+Hearts,16,10,4,2,23,21,2,34,3
+Livingston,16,6,6,4,24,22,2,24,4
+Aberdeen,16,5,6,5,28,36,-8,21,5
+Hibernian,16,4,8,4,21,27,-6,20,6
+St Mirren,16,3,9,4,13,21,-8,18,7
+St Johnstone,16,3,8,5,24,29,-5,17,8
+Motherwell,16,1,8,7,22,29,-7,11,9
+Dundee United,16,1,6,9,24,30,-6,9,10
+Kilmarnock,16,0,8,8,15,34,-19,8,11
+Ross County,16,0,6,10,9,18,-9,6,12
+Celtic Glasgow,17,17,0,0,59,9,50,51,1
+Glasgow Rangers,17,14,2,1,32,14,18,44,2
+Hearts,17,10,5,2,28,25,3,35,3
+Livingston,17,6,7,4,24,25,-1,25,4
+Aberdeen,17,6,6,5,29,39,-10,24,5
+Hibernian,17,5,8,4,23,28,-5,23,6
+St Mirren,17,3,9,5,15,25,-10,18,7
+St Johnstone,17,3,8,6,26,31,-5,17,8
+Motherwell,17,2,8,7,23,29,-6,14,9
+Dundee United,17,1,6,10,24,33,-9,9,10
+Kilmarnock,17,0,8,9,16,38,-22,8,11
+Ross County,17,0,6,11,9,20,-11,6,12
+Celtic Glasgow,18,17,1,0,59,9,50,52,1
+Glasgow Rangers,18,15,2,1,35,14,21,47,2
+Hearts,18,10,5,3,32,28,4,35,3
+Livingston,18,6,7,5,24,27,-3,25,4
+Aberdeen,18,6,6,6,30,41,-11,24,5
+Hibernian,18,5,8,5,23,28,-5,23,6
+St Mirren,18,3,9,6,15,26,-11,18,7
+St Johnstone,18,3,8,7,26,36,-10,17,8
+Motherwell,18,2,9,7,23,30,-7,15,9
+Dundee United,18,1,7,10,26,37,-11,10,10
+Kilmarnock,18,0,8,10,16,41,-25,8,11
+Ross County,18,0,7,11,9,21,-12,7,12
+Celtic Glasgow,19,18,1,0,62,11,51,55,1
+Glasgow Rangers,19,16,2,1,37,14,23,50,2
+Hearts,19,10,6,3,36,28,8,36,3
+Livingston,19,6,8,5,30,29,1,26,4
+Hibernian,19,6,8,5,27,29,-2,26,5
+Aberdeen,19,6,7,6,31,44,-13,25,6
+St Mirren,19,3,10,6,17,27,-10,19,7
+Motherwell,19,3,9,7,25,31,-6,18,8
+St Johnstone,19,3,9,7,27,36,-9,18,9
+Dundee United,19,1,7,11,26,38,-12,10,10
+Ross County,19,0,8,11,10,21,-11,8,11
+Kilmarnock,19,0,8,11,16,44,-28,8,12
+Celtic Glasgow,20,19,1,0,65,11,54,58,1
+Glasgow Rangers,20,17,2,1,39,14,25,53,2
+Hearts,20,11,6,3,37,28,9,39,3
+Hibernian,20,7,8,5,29,31,-2,29,4
+Livingston,20,6,9,5,33,29,4,27,5
+Aberdeen,20,6,8,6,32,46,-14,26,6
+St Mirren,20,3,11,6,17,27,-10,20,7
+Motherwell,20,3,10,7,26,31,-5,19,8
+St Johnstone,20,3,10,7,27,37,-10,19,9
+Dundee United,20,1,8,11,27,38,-11,11,10
+Ross County,20,0,9,11,11,22,-11,9,11
+Kilmarnock,20,0,9,11,16,44,-28,9,12
+Celtic Glasgow,21,20,1,0,66,13,53,61,1
+Glasgow Rangers,21,18,2,1,39,14,25,56,2
+Hearts,21,11,7,3,38,29,9,40,3
+Hibernian,21,8,8,5,33,32,1,32,4
+Livingston,21,6,9,6,34,33,1,27,5
+Aberdeen,21,6,8,7,33,48,-15,26,6
+St Mirren,21,3,11,7,17,27,-10,20,7
+Motherwell,21,3,10,8,27,35,-8,19,8
+St Johnstone,21,3,10,8,29,41,-12,19,9
+Dundee United,21,2,8,11,27,38,-11,14,10
+Ross County,21,0,9,12,13,24,-11,9,11
+Kilmarnock,21,0,9,12,17,46,-29,9,12
+Celtic Glasgow,22,21,1,0,69,13,56,64,1
+Glasgow Rangers,22,19,2,1,40,14,26,59,2
+Hearts,22,11,8,3,40,29,11,41,3
+Hibernian,22,8,9,5,34,34,0,33,4
+Livingston,22,6,10,6,35,34,1,28,5
+Aberdeen,22,6,9,7,37,50,-13,27,6
+St Mirren,22,3,12,7,17,27,-10,21,7
+Motherwell,22,3,11,8,27,36,-9,20,8
+St Johnstone,22,3,11,8,29,43,-14,20,9
+Dundee United,22,2,9,11,29,39,-10,15,10
+Ross County,22,0,9,13,13,24,-11,9,11
+Kilmarnock,22,0,9,13,21,48,-27,9,12

@@ -1,0 +1,181 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+Ayr United,1,1,0,0,3,2,1,3,1
+FC Dundee,1,0,1,0,2,1,1,1,2
+Queens Park,1,0,1,0,0,2,-2,1,3
+Hamilton Academical,1,0,0,1,2,1,1,0,4
+Raith Rovers,1,0,0,1,2,2,0,0,5
+Partick Thistle,1,0,0,1,0,0,0,0,6
+Cove Rangers,1,0,0,1,2,3,-1,0,7
+Inverness CT,1,0,0,1,2,3,-1,0,8
+Greenock Morton,1,0,0,1,0,2,-2,0,9
+Arbroath,1,0,0,1,0,3,-3,0,10
+Ayr United,2,1,1,0,4,4,0,4,1
+Queens Park,2,1,1,0,2,2,0,4,2
+FC Dundee,2,1,1,0,2,4,-2,4,3
+Inverness CT,2,0,1,1,5,4,1,1,4
+Partick Thistle,2,0,1,1,1,1,0,1,5
+Raith Rovers,2,0,1,1,3,5,-2,1,6
+Greenock Morton,2,0,1,1,1,3,-2,1,7
+Arbroath,2,0,1,1,1,4,-3,1,8
+Hamilton Academical,2,0,0,2,2,2,0,0,9
+Cove Rangers,2,0,0,2,5,8,-3,0,10
+Ayr United,3,2,1,0,5,6,-1,7,1
+Queens Park,3,1,2,0,5,3,2,5,2
+FC Dundee,3,1,2,0,4,6,-2,5,3
+Greenock Morton,3,0,1,2,1,3,-2,1,4
+Inverness CT,3,0,1,2,6,9,-3,1,5
+Raith Rovers,3,0,1,2,4,7,-3,1,6
+Partick Thistle,3,0,1,2,2,5,-3,1,7
+Arbroath,3,0,1,2,1,5,-4,1,8
+Cove Rangers,3,0,0,3,8,8,0,0,9
+Hamilton Academical,3,0,0,3,3,6,-3,0,10
+Ayr United,4,3,1,0,8,8,0,10,1
+Queens Park,4,2,2,0,7,3,4,8,2
+FC Dundee,4,2,2,0,5,7,-2,8,3
+Greenock Morton,4,1,1,2,2,3,-1,4,4
+Inverness CT,4,1,1,2,6,9,-3,4,5
+Partick Thistle,4,1,1,2,2,5,-3,4,6
+Cove Rangers,4,1,0,3,9,8,1,3,7
+Arbroath,4,0,2,2,1,5,-4,2,8
+Raith Rovers,4,0,2,2,4,9,-5,2,9
+Hamilton Academical,4,0,0,4,3,10,-7,0,10
+Ayr United,5,3,2,0,10,8,2,11,1
+FC Dundee,5,3,2,0,9,8,1,11,2
+Queens Park,5,2,3,0,8,5,3,9,3
+Inverness CT,5,1,2,2,10,11,-1,5,4
+Greenock Morton,5,1,2,2,4,5,-1,5,5
+Partick Thistle,5,1,2,2,4,5,-1,5,6
+Cove Rangers,5,1,1,3,10,11,-1,4,7
+Raith Rovers,5,0,3,2,5,10,-5,3,8
+Arbroath,5,0,2,3,1,6,-5,2,9
+Hamilton Academical,5,0,1,4,4,11,-7,1,10
+FC Dundee,6,4,2,0,14,9,5,14,1
+Ayr United,6,4,2,0,13,8,5,14,2
+Queens Park,6,3,3,0,12,5,7,12,3
+Inverness CT,6,2,2,2,14,12,2,8,4
+Partick Thistle,6,1,2,3,6,8,-2,5,5
+Greenock Morton,6,1,2,3,4,7,-3,5,6
+Cove Rangers,6,1,1,4,10,13,-3,4,7
+Raith Rovers,6,0,3,3,6,12,-6,3,8
+Arbroath,6,0,2,4,2,10,-8,2,9
+Hamilton Academical,6,0,1,5,5,11,-6,1,10
+Ayr United,7,5,2,0,15,8,7,17,1
+Queens Park,7,4,3,0,12,7,5,15,2
+FC Dundee,7,4,3,0,15,12,3,15,3
+Inverness CT,7,2,3,2,14,14,0,9,4
+Partick Thistle,7,1,3,3,8,9,-1,6,5
+Greenock Morton,7,1,3,3,6,9,-3,6,6
+Cove Rangers,7,1,2,4,11,14,-3,5,7
+Raith Rovers,7,0,4,3,11,12,-1,4,8
+Arbroath,7,0,2,5,2,12,-10,2,9
+Hamilton Academical,7,0,1,6,5,11,-6,1,10
+Ayr United,8,6,2,0,15,8,7,20,1
+FC Dundee,8,5,3,0,16,12,4,18,2
+Queens Park,8,4,4,0,14,7,7,16,3
+Inverness CT,8,3,3,2,14,14,0,12,4
+Greenock Morton,8,1,4,3,8,10,-2,7,5
+Cove Rangers,8,1,3,4,12,15,-3,6,6
+Partick Thistle,8,1,3,4,9,12,-3,6,7
+Raith Rovers,8,0,4,4,11,13,-2,4,8
+Arbroath,8,0,3,5,3,15,-12,3,9
+Hamilton Academical,8,0,1,7,5,13,-8,1,10
+Ayr United,9,7,2,0,17,10,7,23,1
+FC Dundee,9,6,3,0,16,12,4,21,2
+Queens Park,9,5,4,0,19,8,11,19,3
+Inverness CT,9,3,4,2,16,15,1,13,4
+Greenock Morton,9,2,4,3,10,10,0,10,5
+Cove Rangers,9,1,4,4,13,16,-3,7,6
+Partick Thistle,9,1,4,4,9,12,-3,7,7
+Raith Rovers,9,0,4,5,13,16,-3,4,8
+Arbroath,9,0,3,6,5,17,-12,3,9
+Hamilton Academical,9,0,2,7,5,13,-8,2,10
+Ayr United,10,8,2,0,22,13,9,26,1
+FC Dundee,10,7,3,0,20,13,7,24,2
+Queens Park,10,6,4,0,22,8,14,22,3
+Inverness CT,10,4,4,2,17,15,2,16,4
+Greenock Morton,10,2,5,3,12,10,2,11,5
+Partick Thistle,10,2,4,4,10,15,-5,10,6
+Cove Rangers,10,1,5,4,16,17,-1,8,7
+Raith Rovers,10,0,5,5,15,16,-1,5,8
+Arbroath,10,0,4,6,7,19,-12,4,9
+Hamilton Academical,10,0,2,8,5,14,-9,2,10
+Ayr United,11,8,3,0,24,15,9,27,1
+FC Dundee,11,8,3,0,22,14,8,27,2
+Queens Park,11,7,4,0,26,9,17,25,3
+Inverness CT,11,4,5,2,19,17,2,17,4
+Greenock Morton,11,3,5,3,13,10,3,14,5
+Partick Thistle,11,2,5,4,12,17,-5,11,6
+Raith Rovers,11,1,5,5,19,17,2,8,7
+Cove Rangers,11,1,5,5,17,18,-1,8,8
+Arbroath,11,0,5,6,9,19,-10,5,9
+Hamilton Academical,11,0,2,9,5,14,-9,2,10
+Ayr United,12,9,3,0,28,15,13,30,1
+FC Dundee,12,9,3,0,22,15,7,30,2
+Queens Park,12,8,4,0,28,9,19,28,3
+Inverness CT,12,4,6,2,19,19,0,18,4
+Greenock Morton,12,3,6,3,15,10,5,15,5
+Partick Thistle,12,3,5,4,14,18,-4,14,6
+Raith Rovers,12,1,6,5,21,18,3,9,7
+Cove Rangers,12,1,6,5,18,19,-1,9,8
+Arbroath,12,0,5,7,10,20,-10,5,9
+Hamilton Academical,12,0,3,9,7,14,-7,3,10
+Queens Park,13,9,4,0,31,11,20,31,1
+Ayr United,13,9,4,0,30,19,11,31,2
+FC Dundee,13,9,4,0,24,15,9,31,3
+Inverness CT,13,4,7,2,20,20,0,19,4
+Greenock Morton,13,3,7,3,16,12,4,16,5
+Partick Thistle,13,3,6,4,16,21,-5,15,6
+Raith Rovers,13,2,6,5,25,19,6,12,7
+Cove Rangers,13,1,6,6,19,23,-4,9,8
+Arbroath,13,0,6,7,12,22,-10,6,9
+Hamilton Academical,13,0,3,10,7,14,-7,3,10
+Queens Park,14,10,4,0,33,12,21,34,1
+FC Dundee,14,9,5,0,24,17,7,32,2
+Ayr United,14,9,4,1,30,23,7,31,3
+Greenock Morton,14,4,7,3,19,13,6,19,4
+Inverness CT,14,4,7,3,20,23,-3,19,5
+Partick Thistle,14,3,7,4,20,24,-4,16,6
+Raith Rovers,14,2,7,5,26,20,6,13,7
+Cove Rangers,14,1,6,7,21,23,-2,9,8
+Arbroath,14,0,7,7,13,24,-11,7,9
+Hamilton Academical,14,0,3,11,8,19,-11,3,10
+Queens Park,15,11,4,0,34,13,21,37,1
+FC Dundee,15,10,5,0,26,19,7,35,2
+Ayr United,15,10,4,1,32,23,9,34,3
+Greenock Morton,15,5,7,3,22,14,8,22,4
+Inverness CT,15,4,8,3,20,25,-5,20,5
+Partick Thistle,15,4,7,4,23,26,-3,19,6
+Raith Rovers,15,2,8,5,27,20,7,14,7
+Cove Rangers,15,1,7,7,24,24,0,10,8
+Arbroath,15,0,8,7,13,29,-16,8,9
+Hamilton Academical,15,0,4,11,10,21,-11,4,10
+Queens Park,16,11,5,0,36,14,22,38,1
+FC Dundee,16,10,6,0,26,21,5,36,2
+Ayr United,16,10,5,1,33,25,8,35,3
+Greenock Morton,16,6,7,3,23,14,9,25,4
+Inverness CT,16,4,9,3,20,27,-7,21,5
+Partick Thistle,16,4,8,4,28,28,0,20,6
+Raith Rovers,16,3,8,5,30,20,10,17,7
+Cove Rangers,16,1,7,8,24,26,-2,10,8
+Arbroath,16,0,8,8,14,32,-18,8,9
+Hamilton Academical,16,0,4,12,10,22,-12,4,10
+Queens Park,17,11,6,0,39,18,21,39,1
+FC Dundee,17,10,7,0,28,23,5,37,2
+Ayr United,17,10,6,1,33,25,8,36,3
+Greenock Morton,17,6,8,3,25,19,6,26,4
+Partick Thistle,17,5,8,4,31,30,1,23,5
+Inverness CT,17,4,10,3,23,29,-6,22,6
+Raith Rovers,17,3,9,5,31,24,7,18,7
+Cove Rangers,17,1,7,9,27,27,0,10,8
+Arbroath,17,0,8,9,16,35,-19,8,9
+Hamilton Academical,17,0,4,13,11,24,-13,4,10
+Queens Park,18,11,7,0,39,19,20,40,1
+FC Dundee,18,10,8,0,29,25,4,38,2
+Ayr United,18,10,7,1,33,27,6,37,3
+Greenock Morton,18,6,9,3,29,20,9,27,4
+Partick Thistle,18,5,9,4,32,33,-1,24,5
+Inverness CT,18,4,11,3,24,30,-6,23,6
+Raith Rovers,18,3,10,5,34,25,9,19,7
+Cove Rangers,18,1,7,10,28,31,-3,10,8
+Arbroath,18,0,8,10,16,38,-22,8,9
+Hamilton Academical,18,0,4,14,12,28,-16,4,10

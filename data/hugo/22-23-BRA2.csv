@@ -1,0 +1,761 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+Cruzeiro Esporte Clube,1,1,0,0,1,0,1,3,1
+Chapecoense,1,0,1,0,3,0,3,1,2
+Sport Club Recife,1,0,1,0,2,0,2,1,3
+Ituano - SP,1,0,1,0,2,1,1,1,4
+Criciuma Esporte Clube,1,0,1,0,1,0,1,1,5
+Sampaio Correa FC,1,0,1,0,1,0,1,1,6
+Ponte Preta,1,0,1,0,1,1,0,1,7
+Tombense - MG,1,0,1,0,1,1,0,1,8
+Brusque - SC,1,0,1,0,0,0,0,1,9
+Vasco da Gama,1,0,1,0,0,0,0,1,10
+Esporte Clube Bahia,1,0,1,0,0,0,0,1,11
+Londrina Esporte Clube,1,0,1,0,0,0,0,1,12
+Vila Nova FC GO,1,0,1,0,0,0,0,1,13
+Gremio Porto Alegre,1,0,1,0,0,0,0,1,14
+Guarani FC,1,0,1,0,0,0,0,1,15
+Centro Sportivo Alagoano,1,0,1,0,0,0,0,1,16
+Operario Ferroviario ,1,0,1,0,1,2,-1,1,17
+Gremio Novorizontino,1,0,1,0,0,1,-1,1,18
+Clube de Regatas Brasil,1,0,1,0,0,2,-2,1,19
+Clube Nautico,1,0,0,1,1,1,0,0,20
+Vasco da Gama,2,1,1,0,2,0,2,4,1
+Cruzeiro Esporte Clube,2,1,1,0,2,2,0,4,2
+Brusque - SC,2,0,2,0,0,0,0,2,3
+Gremio Porto Alegre,2,0,2,0,0,0,0,2,4
+Esporte Clube Bahia,2,0,2,0,1,2,-1,2,5
+Sport Club Recife,2,0,1,1,4,1,3,1,6
+Criciuma Esporte Clube,2,0,1,1,3,0,3,1,7
+Chapecoense,2,0,1,1,3,2,1,1,8
+Sampaio Correa FC,2,0,1,1,3,2,1,1,9
+Londrina Esporte Clube,2,0,1,1,0,0,0,1,10
+Guarani FC,2,0,1,1,0,0,0,1,11
+Tombense - MG,2,0,1,1,3,4,-1,1,12
+Ituano - SP,2,0,1,1,3,4,-1,1,13
+Gremio Novorizontino,2,0,1,1,1,2,-1,1,14
+Operario Ferroviario ,2,0,1,1,2,4,-2,1,15
+Ponte Preta,2,0,1,1,1,3,-2,1,16
+Clube de Regatas Brasil,2,0,1,1,0,2,-2,1,17
+Centro Sportivo Alagoano,2,0,1,1,0,2,-2,1,18
+Vila Nova FC GO,2,0,1,1,0,4,-4,1,19
+Clube Nautico,2,0,0,2,1,3,-2,0,20
+Vasco da Gama,3,1,2,0,4,1,3,5,1
+Esporte Clube Bahia,3,1,2,0,3,2,1,5,2
+Cruzeiro Esporte Clube,3,1,2,0,3,3,0,5,3
+Brusque - SC,3,0,3,0,0,3,-3,3,4
+Gremio Porto Alegre,3,0,3,0,0,5,-5,3,5
+Sampaio Correa FC,3,0,1,2,5,3,2,1,6
+Sport Club Recife,3,0,1,2,5,4,1,1,7
+Ituano - SP,3,0,1,2,5,4,1,1,8
+Criciuma Esporte Clube,3,0,1,2,3,2,1,1,9
+Guarani FC,3,0,1,2,1,0,1,1,10
+Tombense - MG,3,0,1,2,4,5,-1,1,11
+Chapecoense,3,0,1,2,3,4,-1,1,12
+Gremio Novorizontino,3,0,1,2,2,3,-1,1,13
+Vila Nova FC GO,3,0,1,2,2,4,-2,1,14
+Clube de Regatas Brasil,3,0,1,2,1,3,-2,1,15
+Londrina Esporte Clube,3,0,1,2,0,3,-3,1,16
+Ponte Preta,3,0,1,2,2,6,-4,1,17
+Centro Sportivo Alagoano,3,0,1,2,0,5,-5,1,18
+Operario Ferroviario ,3,0,1,2,2,8,-6,1,19
+Clube Nautico,3,0,0,3,1,6,-5,0,20
+Vasco da Gama,4,2,2,0,6,1,5,8,1
+Esporte Clube Bahia,4,2,2,0,5,2,3,8,2
+Cruzeiro Esporte Clube,4,1,3,0,3,4,-1,6,3
+Chapecoense,4,1,1,2,4,4,0,4,4
+Brusque - SC,4,0,4,0,1,4,-3,4,5
+Gremio Porto Alegre,4,0,4,0,0,5,-5,4,6
+Sampaio Correa FC,4,0,2,2,6,5,1,2,7
+Ituano - SP,4,0,2,2,5,4,1,2,8
+Criciuma Esporte Clube,4,0,2,2,4,3,1,2,9
+Sport Club Recife,4,0,2,2,6,6,0,2,10
+Londrina Esporte Clube,4,0,2,2,2,3,-1,2,11
+Vila Nova FC GO,4,0,2,2,2,4,-2,2,12
+Ponte Preta,4,0,2,2,3,9,-6,2,13
+Guarani FC,4,0,1,3,1,0,1,1,14
+Tombense - MG,4,0,1,3,4,6,-2,1,15
+Gremio Novorizontino,4,0,1,3,2,4,-2,1,16
+Centro Sportivo Alagoano,4,0,1,3,2,6,-4,1,17
+Clube de Regatas Brasil,4,0,1,3,3,8,-5,1,18
+Operario Ferroviario ,4,0,1,3,2,9,-7,1,19
+Clube Nautico,4,0,0,4,2,8,-6,0,20
+Vasco da Gama,5,3,2,0,8,1,7,11,1
+Esporte Clube Bahia,5,3,2,0,7,2,5,11,2
+Cruzeiro Esporte Clube,5,1,4,0,4,5,-1,7,3
+Chapecoense,5,1,2,2,6,5,1,5,4
+Ponte Preta,5,1,2,2,3,9,-6,5,5
+Gremio Porto Alegre,5,0,5,0,2,6,-4,5,6
+Brusque - SC,5,0,5,0,1,6,-5,5,7
+Sampaio Correa FC,5,0,3,2,9,7,2,3,8
+Ituano - SP,5,0,3,2,6,6,0,3,9
+Criciuma Esporte Clube,5,0,3,2,4,4,0,3,10
+Sport Club Recife,5,0,3,2,6,7,-1,3,11
+Londrina Esporte Clube,5,0,3,2,3,6,-3,3,12
+Vila Nova FC GO,5,0,3,2,2,7,-5,3,13
+Guarani FC,5,0,2,3,3,0,3,2,14
+Tombense - MG,5,0,1,4,6,6,0,1,15
+Gremio Novorizontino,5,0,1,4,4,6,-2,1,16
+Centro Sportivo Alagoano,5,0,1,4,2,6,-4,1,17
+Clube de Regatas Brasil,5,0,1,4,4,9,-5,1,18
+Operario Ferroviario ,5,0,1,4,2,11,-9,1,19
+Clube Nautico,5,0,0,5,3,9,-6,0,20
+Esporte Clube Bahia,6,4,2,0,10,3,7,14,1
+Vasco da Gama,6,4,2,0,9,3,6,14,2
+Cruzeiro Esporte Clube,6,1,5,0,6,6,0,8,3
+Chapecoense,6,1,3,2,8,6,2,6,4
+Sport Club Recife,6,1,3,2,8,8,0,6,5
+Ponte Preta,6,1,3,2,4,9,-5,6,6
+Brusque - SC,6,0,6,0,2,7,-5,6,7
+Gremio Porto Alegre,6,0,6,0,2,8,-6,6,8
+Criciuma Esporte Clube,6,0,4,2,5,5,0,4,9
+Ituano - SP,6,0,4,2,6,8,-2,4,10
+Sampaio Correa FC,6,0,3,3,10,8,2,3,11
+Londrina Esporte Clube,6,0,3,3,3,6,-3,3,12
+Vila Nova FC GO,6,0,3,3,3,7,-4,3,13
+Guarani FC,6,0,2,4,3,2,1,2,14
+Tombense - MG,6,0,1,5,7,7,0,1,15
+Gremio Novorizontino,6,0,1,5,4,8,-4,1,16
+Centro Sportivo Alagoano,6,0,1,5,2,7,-5,1,17
+Clube de Regatas Brasil,6,0,1,5,4,11,-7,1,18
+Operario Ferroviario ,6,0,1,5,3,11,-8,1,19
+Clube Nautico,6,0,0,6,4,11,-7,0,20
+Esporte Clube Bahia,7,5,2,0,13,4,9,17,1
+Vasco da Gama,7,5,2,0,12,5,7,17,2
+Cruzeiro Esporte Clube,7,1,6,0,7,7,0,9,3
+Chapecoense,7,1,4,2,11,7,4,7,4
+Sport Club Recife,7,1,4,2,10,12,-2,7,5
+Ponte Preta,7,1,4,2,5,9,-4,7,6
+Brusque - SC,7,0,7,0,2,7,-5,7,7
+Gremio Porto Alegre,7,0,7,0,2,9,-7,7,8
+Criciuma Esporte Clube,7,0,5,2,5,6,-1,5,9
+Ituano - SP,7,0,5,2,6,9,-3,5,10
+Tombense - MG,7,1,1,5,8,7,1,4,11
+Sampaio Correa FC,7,0,4,3,11,10,1,4,12
+Londrina Esporte Clube,7,0,4,3,4,9,-5,4,13
+Vila Nova FC GO,7,0,4,3,3,8,-5,4,14
+Guarani FC,7,0,3,4,3,2,1,3,15
+Gremio Novorizontino,7,0,1,6,4,9,-5,1,16
+Centro Sportivo Alagoano,7,0,1,6,3,8,-5,1,17
+Clube de Regatas Brasil,7,0,1,6,4,12,-8,1,18
+Operario Ferroviario ,7,0,1,6,4,13,-9,1,19
+Clube Nautico,7,0,0,7,5,14,-9,0,20
+Esporte Clube Bahia,8,6,2,0,14,5,9,20,1
+Vasco da Gama,8,6,2,0,12,5,7,20,2
+Cruzeiro Esporte Clube,8,1,7,0,7,8,-1,10,3
+Chapecoense,8,1,5,2,13,8,5,8,4
+Sport Club Recife,8,1,5,2,10,13,-3,8,5
+Ponte Preta,8,1,5,2,5,10,-5,8,6
+Gremio Porto Alegre,8,0,8,0,4,9,-5,8,7
+Brusque - SC,8,0,8,0,2,7,-5,8,8
+Londrina Esporte Clube,8,1,4,3,6,9,-3,7,9
+Criciuma Esporte Clube,8,0,6,2,6,7,-1,6,10
+Ituano - SP,8,0,6,2,7,11,-4,6,11
+Tombense - MG,8,1,2,5,8,8,0,5,12
+Sampaio Correa FC,8,0,5,3,12,10,2,5,13
+Vila Nova FC GO,8,0,5,3,4,8,-4,5,14
+Guarani FC,8,0,3,5,3,3,0,3,15
+Gremio Novorizontino,8,0,1,7,7,11,-4,1,16
+Centro Sportivo Alagoano,8,0,1,7,3,9,-6,1,17
+Operario Ferroviario ,8,0,1,7,8,17,-9,1,18
+Clube de Regatas Brasil,8,0,1,7,4,13,-9,1,19
+Clube Nautico,8,0,0,8,5,17,-12,0,20
+Esporte Clube Bahia,9,7,2,0,17,5,12,23,1
+Vasco da Gama,9,7,2,0,16,5,11,23,2
+Chapecoense,9,2,5,2,14,8,6,11,3
+Sport Club Recife,9,2,5,2,12,13,-1,11,4
+Cruzeiro Esporte Clube,9,1,8,0,8,8,0,11,5
+Ponte Preta,9,1,6,2,6,10,-4,9,6
+Gremio Porto Alegre,9,0,9,0,4,9,-5,9,7
+Londrina Esporte Clube,9,1,5,3,9,9,0,8,8
+Vila Nova FC GO,9,1,5,3,4,9,-5,8,9
+Brusque - SC,9,0,8,1,2,8,-6,8,10
+Criciuma Esporte Clube,9,0,7,2,6,8,-2,7,11
+Ituano - SP,9,0,7,2,8,11,-3,7,12
+Tombense - MG,9,1,3,5,8,8,0,6,13
+Sampaio Correa FC,9,0,6,3,12,10,2,6,14
+Guarani FC,9,0,4,5,3,5,-2,4,15
+Centro Sportivo Alagoano,9,0,2,7,3,10,-7,2,16
+Clube de Regatas Brasil,9,0,2,7,4,14,-10,2,17
+Gremio Novorizontino,9,0,1,8,8,11,-3,1,18
+Operario Ferroviario ,9,0,1,8,9,18,-9,1,19
+Clube Nautico,9,0,0,9,5,19,-14,0,20
+Esporte Clube Bahia,10,8,2,0,17,7,10,26,1
+Vasco da Gama,10,7,3,0,18,6,12,24,2
+Sport Club Recife,10,3,5,2,12,13,-1,14,3
+Cruzeiro Esporte Clube,10,2,8,0,10,9,1,14,4
+Chapecoense,10,2,6,2,14,10,4,12,5
+Ponte Preta,10,2,6,2,6,12,-6,12,6
+Londrina Esporte Clube,10,1,6,3,11,9,2,9,7
+Vila Nova FC GO,10,1,6,3,6,10,-4,9,8
+Gremio Porto Alegre,10,0,9,1,7,10,-3,9,9
+Brusque - SC,10,0,9,1,2,9,-7,9,10
+Tombense - MG,10,1,4,5,8,9,-1,7,11
+Ituano - SP,10,0,7,3,9,12,-3,7,12
+Criciuma Esporte Clube,10,0,7,3,7,10,-3,7,13
+Sampaio Correa FC,10,0,6,4,13,13,0,6,14
+Guarani FC,10,0,4,6,3,6,-3,4,15
+Clube de Regatas Brasil,10,0,2,8,5,15,-10,2,16
+Centro Sportivo Alagoano,10,0,2,8,3,15,-12,2,17
+Gremio Novorizontino,10,0,1,9,8,14,-6,1,18
+Operario Ferroviario ,10,0,1,9,9,21,-12,1,19
+Clube Nautico,10,0,0,10,7,20,-13,0,20
+Vasco da Gama,11,8,3,0,18,8,10,27,1
+Esporte Clube Bahia,11,8,3,0,18,8,10,27,2
+Sport Club Recife,11,4,5,2,13,14,-1,17,3
+Cruzeiro Esporte Clube,11,3,8,0,12,9,3,17,4
+Chapecoense,11,2,7,2,14,10,4,13,5
+Ponte Preta,11,2,7,2,9,13,-4,13,6
+Londrina Esporte Clube,11,2,6,3,12,11,1,12,7
+Vila Nova FC GO,11,1,7,3,8,11,-3,10,8
+Criciuma Esporte Clube,11,1,7,3,7,10,-3,10,9
+Gremio Porto Alegre,11,0,10,1,7,11,-4,10,10
+Brusque - SC,11,0,10,1,2,9,-7,10,11
+Tombense - MG,11,1,5,5,12,10,2,8,12
+Ituano - SP,11,0,7,4,9,13,-4,7,13
+Sampaio Correa FC,11,0,6,5,13,14,-1,6,14
+Guarani FC,11,0,4,7,3,7,-4,4,15
+Clube de Regatas Brasil,11,0,2,9,7,16,-9,2,16
+Centro Sportivo Alagoano,11,0,2,9,3,16,-13,2,17
+Gremio Novorizontino,11,0,1,10,9,15,-6,1,18
+Operario Ferroviario ,11,0,1,10,10,21,-11,1,19
+Clube Nautico,11,0,0,11,7,22,-15,0,20
+Esporte Clube Bahia,12,9,3,0,20,8,12,30,1
+Vasco da Gama,12,8,4,0,18,8,10,28,2
+Sport Club Recife,12,5,5,2,13,14,-1,20,3
+Cruzeiro Esporte Clube,12,4,8,0,14,9,5,20,4
+Chapecoense,12,2,8,2,15,10,5,14,5
+Ponte Preta,12,2,8,2,12,13,-1,14,6
+Londrina Esporte Clube,12,2,7,3,14,11,3,13,7
+Criciuma Esporte Clube,12,2,7,3,8,10,-2,13,8
+Gremio Porto Alegre,12,1,10,1,10,11,-1,13,9
+Brusque - SC,12,1,10,1,3,10,-7,13,10
+Vila Nova FC GO,12,1,8,3,9,11,-2,11,11
+Tombense - MG,12,1,6,5,12,12,0,9,12
+Ituano - SP,12,0,7,5,9,14,-5,7,13
+Sampaio Correa FC,12,0,6,6,13,14,-1,6,14
+Guarani FC,12,0,4,8,4,8,-4,4,15
+Clube de Regatas Brasil,12,0,2,10,8,17,-9,2,16
+Centro Sportivo Alagoano,12,0,2,10,4,16,-12,2,17
+Gremio Novorizontino,12,0,1,11,9,15,-6,1,18
+Operario Ferroviario ,12,0,1,11,10,24,-14,1,19
+Clube Nautico,12,0,0,12,8,23,-15,0,20
+Esporte Clube Bahia,13,9,4,0,25,8,17,31,1
+Vasco da Gama,13,9,4,0,20,8,12,31,2
+Sport Club Recife,13,6,5,2,13,15,-2,23,3
+Cruzeiro Esporte Clube,13,5,8,0,16,10,6,23,4
+Gremio Porto Alegre,13,2,10,1,12,12,0,16,5
+Chapecoense,13,2,9,2,16,11,5,15,6
+Ponte Preta,13,2,9,2,13,14,-1,15,7
+Londrina Esporte Clube,13,2,8,3,14,13,1,14,8
+Criciuma Esporte Clube,13,2,8,3,9,10,-1,14,9
+Brusque - SC,13,1,11,1,5,11,-6,14,10
+Vila Nova FC GO,13,1,9,3,11,14,-3,12,11
+Tombense - MG,13,1,7,5,15,13,2,10,12
+Ituano - SP,13,0,8,5,9,17,-8,8,13
+Sampaio Correa FC,13,0,7,6,14,14,0,7,14
+Guarani FC,13,0,5,8,6,8,-2,5,15
+Clube de Regatas Brasil,13,0,3,10,10,19,-9,3,16
+Centro Sportivo Alagoano,13,0,3,10,5,16,-11,3,17
+Gremio Novorizontino,13,0,2,11,10,15,-5,2,18
+Operario Ferroviario ,13,0,1,12,11,24,-13,1,19
+Clube Nautico,13,0,1,12,8,24,-16,1,20
+Esporte Clube Bahia,14,10,4,0,28,8,20,34,1
+Vasco da Gama,14,10,4,0,22,9,13,34,2
+Cruzeiro Esporte Clube,14,6,8,0,18,10,8,26,3
+Sport Club Recife,14,6,6,2,14,17,-3,24,4
+Gremio Porto Alegre,14,3,10,1,12,14,-2,19,5
+Londrina Esporte Clube,14,3,8,3,15,13,2,17,6
+Criciuma Esporte Clube,14,3,8,3,9,10,-1,17,7
+Chapecoense,14,2,10,2,16,11,5,16,8
+Ponte Preta,14,2,10,2,14,14,0,16,9
+Brusque - SC,14,1,12,1,6,13,-7,15,10
+Vila Nova FC GO,14,1,10,3,11,14,-3,13,11
+Tombense - MG,14,1,8,5,16,13,3,11,12
+Ituano - SP,14,0,9,5,9,17,-8,9,13
+Sampaio Correa FC,14,0,8,6,18,16,2,8,14
+Guarani FC,14,0,6,8,7,11,-4,6,15
+Clube de Regatas Brasil,14,0,4,10,12,20,-8,4,16
+Centro Sportivo Alagoano,14,0,4,10,7,18,-11,4,17
+Gremio Novorizontino,14,0,3,11,10,16,-6,3,18
+Operario Ferroviario ,14,0,2,12,12,24,-12,2,19
+Clube Nautico,14,0,2,12,8,25,-17,2,20
+Esporte Clube Bahia,15,11,4,0,32,8,24,37,1
+Vasco da Gama,15,11,4,0,25,10,15,37,2
+Cruzeiro Esporte Clube,15,7,8,0,19,10,9,29,3
+Sport Club Recife,15,6,7,2,15,18,-3,25,4
+Gremio Porto Alegre,15,4,10,1,13,14,-1,22,5
+Criciuma Esporte Clube,15,4,8,3,10,10,0,20,6
+Chapecoense,15,3,10,2,18,12,6,19,7
+Londrina Esporte Clube,15,3,9,3,15,14,1,18,8
+Ponte Preta,15,2,11,2,15,16,-1,17,9
+Vila Nova FC GO,15,2,10,3,12,14,-2,16,10
+Brusque - SC,15,1,13,1,6,14,-8,16,11
+Tombense - MG,15,1,9,5,17,14,3,12,12
+Ituano - SP,15,1,9,5,12,17,-5,12,13
+Sampaio Correa FC,15,0,8,7,18,16,2,8,14
+Guarani FC,15,0,6,9,7,13,-6,6,15
+Clube de Regatas Brasil,15,0,4,11,12,21,-9,4,16
+Centro Sportivo Alagoano,15,0,4,11,8,20,-12,4,17
+Gremio Novorizontino,15,0,3,12,11,17,-6,3,18
+Operario Ferroviario ,15,0,3,12,13,25,-12,3,19
+Clube Nautico,15,0,2,13,9,25,-16,2,20
+Esporte Clube Bahia,16,12,4,0,32,10,22,40,1
+Vasco da Gama,16,12,4,0,27,12,15,40,2
+Cruzeiro Esporte Clube,16,8,8,0,20,10,10,32,3
+Sport Club Recife,16,6,8,2,17,18,-1,26,4
+Gremio Porto Alegre,16,5,10,1,15,14,1,25,5
+Criciuma Esporte Clube,16,5,8,3,10,11,-1,23,6
+Chapecoense,16,4,10,2,19,12,7,22,7
+Ponte Preta,16,3,11,2,16,17,-1,20,8
+Londrina Esporte Clube,16,3,10,3,16,14,2,19,9
+Vila Nova FC GO,16,2,11,3,13,14,-1,17,10
+Brusque - SC,16,1,14,1,6,14,-8,17,11
+Ituano - SP,16,2,9,5,12,17,-5,15,12
+Tombense - MG,16,1,10,5,18,14,4,13,13
+Sampaio Correa FC,16,1,8,7,18,16,2,11,14
+Guarani FC,16,0,6,10,7,15,-8,6,15
+Operario Ferroviario ,16,0,4,12,14,26,-12,4,16
+Clube de Regatas Brasil,16,0,4,12,12,24,-12,4,17
+Centro Sportivo Alagoano,16,0,4,12,8,20,-12,4,18
+Gremio Novorizontino,16,0,3,13,12,18,-6,3,19
+Clube Nautico,16,0,3,13,10,25,-15,3,20
+Esporte Clube Bahia,17,13,4,0,33,12,21,43,1
+Vasco da Gama,17,13,4,0,27,12,15,43,2
+Cruzeiro Esporte Clube,17,9,8,0,22,10,12,35,3
+Sport Club Recife,17,7,8,2,19,19,0,29,4
+Gremio Porto Alegre,17,6,10,1,17,14,3,28,5
+Criciuma Esporte Clube,17,6,8,3,11,11,0,26,6
+Chapecoense,17,4,11,2,19,12,7,23,7
+Ponte Preta,17,4,11,2,18,17,1,23,8
+Londrina Esporte Clube,17,3,11,3,17,15,2,20,9
+Vila Nova FC GO,17,2,12,3,13,15,-2,18,10
+Brusque - SC,17,1,15,1,8,14,-6,18,11
+Ituano - SP,17,2,10,5,13,17,-4,16,12
+Sampaio Correa FC,17,2,8,7,21,17,4,14,13
+Tombense - MG,17,1,11,5,19,14,5,14,14
+Guarani FC,17,1,6,10,9,15,-6,9,15
+Operario Ferroviario ,17,0,5,12,14,26,-12,5,16
+Clube de Regatas Brasil,17,0,4,13,12,25,-13,4,17
+Centro Sportivo Alagoano,17,0,4,13,8,21,-13,4,18
+Clube Nautico,17,0,4,13,12,26,-14,4,19
+Gremio Novorizontino,17,0,3,14,13,20,-7,3,20
+Esporte Clube Bahia,18,14,4,0,33,13,20,46,1
+Vasco da Gama,18,14,4,0,27,12,15,46,2
+Cruzeiro Esporte Clube,18,10,8,0,23,11,12,38,3
+Sport Club Recife,18,8,8,2,19,20,-1,32,4
+Gremio Porto Alegre,18,7,10,1,19,15,4,31,5
+Criciuma Esporte Clube,18,7,8,3,14,12,2,29,6
+Chapecoense,18,4,12,2,21,13,8,24,7
+Ponte Preta,18,4,12,2,20,18,2,24,8
+Londrina Esporte Clube,18,3,12,3,17,17,0,21,9
+Ituano - SP,18,3,10,5,14,18,-4,19,10
+Vila Nova FC GO,18,2,13,3,14,15,-1,19,11
+Brusque - SC,18,1,16,1,8,14,-6,19,12
+Tombense - MG,18,2,11,5,22,15,7,17,13
+Sampaio Correa FC,18,2,9,7,21,20,1,15,14
+Guarani FC,18,1,7,10,10,15,-5,10,15
+Clube de Regatas Brasil,18,1,4,13,15,25,-10,7,16
+Operario Ferroviario ,18,0,6,12,17,27,-10,6,17
+Clube Nautico,18,0,5,13,14,28,-14,5,18
+Centro Sportivo Alagoano,18,0,4,14,9,22,-13,4,19
+Gremio Novorizontino,18,0,3,15,14,20,-6,3,20
+Esporte Clube Bahia,19,15,4,0,34,14,20,49,1
+Vasco da Gama,19,15,4,0,29,12,17,49,2
+Cruzeiro Esporte Clube,19,11,8,0,25,12,13,41,3
+Gremio Porto Alegre,19,8,10,1,20,15,5,34,4
+Sport Club Recife,19,8,9,2,21,20,1,33,5
+Criciuma Esporte Clube,19,8,8,3,14,12,2,32,6
+Chapecoense,19,5,12,2,21,13,8,27,7
+Ponte Preta,19,4,13,2,22,21,1,25,8
+Londrina Esporte Clube,19,4,12,3,20,17,3,24,9
+Ituano - SP,19,4,10,5,15,18,-3,22,10
+Tombense - MG,19,3,11,5,24,16,8,20,11
+Vila Nova FC GO,19,2,14,3,14,15,-1,20,12
+Brusque - SC,19,1,17,1,9,14,-5,20,13
+Sampaio Correa FC,19,3,9,7,22,20,2,18,14
+Guarani FC,19,1,8,10,11,15,-4,11,15
+Clube de Regatas Brasil,19,1,5,13,15,27,-12,8,16
+Centro Sportivo Alagoano,19,1,4,14,12,23,-11,7,17
+Operario Ferroviario ,19,0,7,12,17,28,-11,7,18
+Clube Nautico,19,0,6,13,16,28,-12,6,19
+Gremio Novorizontino,19,0,4,15,15,20,-5,4,20
+Esporte Clube Bahia,20,16,4,0,37,14,23,52,1
+Vasco da Gama,20,16,4,0,30,13,17,52,2
+Cruzeiro Esporte Clube,20,12,8,0,26,15,11,44,3
+Gremio Porto Alegre,20,9,10,1,22,15,7,37,4
+Sport Club Recife,20,9,9,2,22,21,1,36,5
+Criciuma Esporte Clube,20,8,9,3,18,13,5,33,6
+Chapecoense,20,6,12,2,26,15,11,30,7
+Londrina Esporte Clube,20,5,12,3,24,21,3,27,8
+Ponte Preta,20,4,14,2,22,23,-1,26,9
+Ituano - SP,20,5,10,5,17,18,-1,25,10
+Vila Nova FC GO,20,3,14,3,16,15,1,23,11
+Sampaio Correa FC,20,4,9,7,23,20,3,21,12
+Tombense - MG,20,3,12,5,25,16,9,21,13
+Brusque - SC,20,1,17,2,9,16,-7,20,14
+Guarani FC,20,1,9,10,13,15,-2,12,15
+Clube de Regatas Brasil,20,1,6,13,15,28,-13,9,16
+Centro Sportivo Alagoano,20,1,5,14,13,24,-11,8,17
+Operario Ferroviario ,20,0,8,12,17,31,-14,8,18
+Gremio Novorizontino,20,1,4,15,17,20,-3,7,19
+Clube Nautico,20,0,7,13,16,29,-13,7,20
+Esporte Clube Bahia,21,17,4,0,38,15,23,55,1
+Vasco da Gama,21,16,4,1,30,15,15,52,2
+Cruzeiro Esporte Clube,21,13,8,0,27,17,10,47,3
+Sport Club Recife,21,10,9,2,24,21,3,39,4
+Gremio Porto Alegre,21,9,11,1,24,15,9,38,5
+Criciuma Esporte Clube,21,8,10,3,19,13,6,34,6
+Chapecoense,21,7,12,2,27,17,10,33,7
+Ponte Preta,21,5,14,2,23,24,-1,29,8
+Ituano - SP,21,6,10,5,17,18,-1,28,9
+Londrina Esporte Clube,21,5,13,3,26,22,4,28,10
+Vila Nova FC GO,21,4,14,3,17,16,1,26,11
+Sampaio Correa FC,21,5,9,7,24,20,4,24,12
+Tombense - MG,21,3,13,5,27,17,10,22,13
+Brusque - SC,21,1,17,3,9,18,-9,20,14
+Guarani FC,21,1,10,10,13,15,-2,13,15
+Clube de Regatas Brasil,21,1,7,13,16,28,-12,10,16
+Centro Sportivo Alagoano,21,1,6,14,13,24,-11,9,17
+Operario Ferroviario ,21,0,9,12,18,31,-13,9,18
+Gremio Novorizontino,21,1,5,15,19,21,-2,8,19
+Clube Nautico,21,0,8,13,17,32,-15,8,20
+Esporte Clube Bahia,22,17,5,0,39,17,22,56,1
+Vasco da Gama,22,16,5,1,31,17,14,53,2
+Cruzeiro Esporte Clube,22,14,8,0,30,17,13,50,3
+Sport Club Recife,22,11,9,2,26,21,5,42,4
+Gremio Porto Alegre,22,10,11,1,24,16,8,41,5
+Criciuma Esporte Clube,22,9,10,3,21,13,8,37,6
+Chapecoense,22,8,12,2,28,17,11,36,7
+Ponte Preta,22,6,14,2,23,24,-1,32,8
+Ituano - SP,22,7,10,5,19,20,-1,31,9
+Londrina Esporte Clube,22,5,14,3,26,23,3,29,10
+Sampaio Correa FC,22,6,9,7,27,22,5,27,11
+Vila Nova FC GO,22,4,15,3,17,17,0,27,12
+Tombense - MG,22,3,14,5,27,17,10,23,13
+Brusque - SC,22,1,17,4,9,19,-10,20,14
+Guarani FC,22,1,11,10,13,15,-2,14,15
+Clube de Regatas Brasil,22,1,8,13,18,28,-10,11,16
+Centro Sportivo Alagoano,22,1,7,14,13,25,-12,10,17
+Operario Ferroviario ,22,0,10,12,18,31,-13,10,18
+Gremio Novorizontino,22,1,6,15,21,21,0,9,19
+Clube Nautico,22,0,8,14,17,34,-17,8,20
+Esporte Clube Bahia,23,17,6,0,39,18,21,57,1
+Vasco da Gama,23,16,6,1,31,18,13,54,2
+Cruzeiro Esporte Clube,23,15,8,0,31,18,13,53,3
+Sport Club Recife,23,12,9,2,27,21,6,45,4
+Gremio Porto Alegre,23,11,11,1,25,17,8,44,5
+Criciuma Esporte Clube,23,10,10,3,21,14,7,40,6
+Chapecoense,23,8,13,2,29,17,12,37,7
+Ponte Preta,23,7,14,2,25,26,-1,35,8
+Ituano - SP,23,8,10,5,20,22,-2,34,9
+Londrina Esporte Clube,23,6,14,3,27,23,4,32,10
+Sampaio Correa FC,23,7,9,7,29,24,5,30,11
+Vila Nova FC GO,23,4,16,3,17,17,0,28,12
+Tombense - MG,23,4,14,5,28,17,11,26,13
+Brusque - SC,23,1,17,5,9,19,-10,20,14
+Guarani FC,23,2,11,10,14,16,-2,17,15
+Gremio Novorizontino,23,2,6,15,24,22,2,12,16
+Clube de Regatas Brasil,23,1,9,13,18,28,-10,12,17
+Centro Sportivo Alagoano,23,1,8,14,15,25,-10,11,18
+Operario Ferroviario ,23,0,10,13,18,34,-16,10,19
+Clube Nautico,23,0,9,14,18,37,-19,9,20
+Esporte Clube Bahia,24,17,7,0,40,18,22,58,1
+Cruzeiro Esporte Clube,24,16,8,0,34,19,15,56,2
+Vasco da Gama,24,16,7,1,35,20,15,55,3
+Sport Club Recife,24,13,9,2,29,21,8,48,4
+Gremio Porto Alegre,24,12,11,1,28,17,11,47,5
+Criciuma Esporte Clube,24,11,10,3,22,14,8,43,6
+Chapecoense,24,8,13,3,29,19,10,37,7
+Ituano - SP,24,8,11,5,20,22,-2,35,8
+Londrina Esporte Clube,24,7,14,3,28,23,5,35,9
+Ponte Preta,24,7,14,3,25,26,-1,35,10
+Sampaio Correa FC,24,8,9,7,29,24,5,33,11
+Tombense - MG,24,5,14,5,29,18,11,29,12
+Vila Nova FC GO,24,4,17,3,19,17,2,29,13
+Brusque - SC,24,1,17,6,10,21,-11,20,14
+Guarani FC,24,2,12,10,15,17,-2,18,15
+Gremio Novorizontino,24,3,6,15,24,24,0,15,16
+Clube de Regatas Brasil,24,2,9,13,18,29,-11,15,17
+Centro Sportivo Alagoano,24,1,9,14,17,27,-10,12,18
+Operario Ferroviario ,24,0,11,13,20,35,-15,11,19
+Clube Nautico,24,0,9,15,19,39,-20,9,20
+Esporte Clube Bahia,25,17,8,0,40,18,22,59,1
+Cruzeiro Esporte Clube,25,17,8,0,35,19,16,59,2
+Vasco da Gama,25,16,8,1,36,20,16,56,3
+Gremio Porto Alegre,25,13,11,1,29,17,12,50,4
+Sport Club Recife,25,13,10,2,31,21,10,49,5
+Criciuma Esporte Clube,25,12,10,3,23,14,9,46,6
+Chapecoense,25,8,14,3,30,19,11,38,7
+Londrina Esporte Clube,25,8,14,3,29,23,6,38,8
+Ituano - SP,25,8,12,5,20,23,-3,36,9
+Ponte Preta,25,7,15,3,26,30,-4,36,10
+Sampaio Correa FC,25,8,10,7,30,24,6,34,11
+Tombense - MG,25,6,14,5,30,18,12,32,12
+Vila Nova FC GO,25,4,18,3,20,17,3,30,13
+Brusque - SC,25,1,17,7,10,22,-12,20,14
+Guarani FC,25,2,13,10,15,17,-2,19,15
+Gremio Novorizontino,25,3,7,15,24,26,-2,16,16
+Clube de Regatas Brasil,25,2,10,13,20,29,-9,16,17
+Centro Sportivo Alagoano,25,1,10,14,17,28,-11,13,18
+Clube Nautico,25,1,9,15,19,40,-21,12,19
+Operario Ferroviario ,25,0,11,14,20,35,-15,11,20
+Cruzeiro Esporte Clube,26,18,8,0,36,20,16,62,1
+Esporte Clube Bahia,26,17,9,0,40,20,20,60,2
+Vasco da Gama,26,16,9,1,36,23,13,57,3
+Gremio Porto Alegre,26,14,11,1,29,17,12,53,4
+Sport Club Recife,26,13,11,2,33,21,12,50,5
+Criciuma Esporte Clube,26,13,10,3,24,14,10,49,6
+Londrina Esporte Clube,26,9,14,3,31,26,5,41,7
+Chapecoense,26,8,14,4,32,20,12,38,8
+Ituano - SP,26,8,13,5,22,25,-3,37,9
+Ponte Preta,26,7,16,3,26,32,-6,37,10
+Sampaio Correa FC,26,8,11,7,31,26,5,35,11
+Tombense - MG,26,6,14,6,30,19,11,32,12
+Vila Nova FC GO,26,4,19,3,21,17,4,31,13
+Guarani FC,26,2,14,10,15,17,-2,20,14
+Brusque - SC,26,1,17,8,10,24,-14,20,15
+Gremio Novorizontino,26,4,7,15,27,28,-1,19,16
+Clube de Regatas Brasil,26,2,11,13,23,29,-6,17,17
+Centro Sportivo Alagoano,26,1,11,14,19,31,-12,14,18
+Operario Ferroviario ,26,1,11,14,21,35,-14,14,19
+Clube Nautico,26,1,10,15,22,40,-18,13,20
+Cruzeiro Esporte Clube,27,19,8,0,41,20,21,65,1
+Esporte Clube Bahia,27,17,10,0,41,22,19,61,2
+Vasco da Gama,27,16,10,1,37,25,12,58,3
+Gremio Porto Alegre,27,15,11,1,30,18,12,56,4
+Criciuma Esporte Clube,27,14,10,3,25,16,9,52,5
+Sport Club Recife,27,13,12,2,33,21,12,51,6
+Londrina Esporte Clube,27,9,15,3,31,27,4,42,7
+Ituano - SP,27,9,13,5,23,26,-3,40,8
+Chapecoense,27,8,15,4,32,21,11,39,9
+Ponte Preta,27,7,17,3,29,34,-5,38,10
+Sampaio Correa FC,27,8,12,7,31,28,3,36,11
+Vila Nova FC GO,27,5,19,3,21,18,3,34,12
+Tombense - MG,27,6,14,7,30,20,10,32,13
+Gremio Novorizontino,27,5,7,15,28,29,-1,22,14
+Guarani FC,27,2,15,10,15,18,-3,21,15
+Brusque - SC,27,1,17,9,11,24,-13,20,16
+Clube de Regatas Brasil,27,2,12,13,23,31,-8,18,17
+Centro Sportivo Alagoano,27,1,12,14,20,31,-11,15,18
+Operario Ferroviario ,27,1,12,14,21,35,-14,15,19
+Clube Nautico,27,1,11,15,22,41,-19,14,20
+Cruzeiro Esporte Clube,28,20,8,0,44,20,24,68,1
+Esporte Clube Bahia,28,17,10,1,41,24,17,61,2
+Gremio Porto Alegre,28,16,11,1,31,19,12,59,3
+Vasco da Gama,28,16,10,2,37,27,10,58,4
+Criciuma Esporte Clube,28,15,10,3,26,16,10,55,5
+Sport Club Recife,28,13,12,3,33,22,11,51,6
+Ituano - SP,28,10,13,5,26,26,0,43,7
+Londrina Esporte Clube,28,9,15,4,31,29,2,42,8
+Sampaio Correa FC,28,9,12,7,34,29,5,39,9
+Chapecoense,28,8,15,5,33,23,10,39,10
+Ponte Preta,28,7,17,4,29,36,-7,38,11
+Vila Nova FC GO,28,5,19,4,22,19,3,34,12
+Tombense - MG,28,6,14,8,30,21,9,32,13
+Gremio Novorizontino,28,6,7,15,29,29,0,25,14
+Guarani FC,28,2,16,10,15,19,-4,22,15
+Brusque - SC,28,1,17,10,12,26,-14,20,16
+Clube de Regatas Brasil,28,2,13,13,24,32,-8,19,17
+Centro Sportivo Alagoano,28,1,13,14,21,32,-11,16,18
+Operario Ferroviario ,28,1,13,14,23,39,-16,16,19
+Clube Nautico,28,1,12,15,22,43,-21,15,20
+Cruzeiro Esporte Clube,29,20,9,0,45,24,21,69,1
+Esporte Clube Bahia,29,17,11,1,41,25,16,62,2
+Gremio Porto Alegre,29,17,11,1,31,20,11,62,3
+Criciuma Esporte Clube,29,16,10,3,27,17,10,58,4
+Vasco da Gama,29,16,10,3,37,28,9,58,5
+Sport Club Recife,29,13,12,4,34,22,12,51,6
+Ituano - SP,29,11,13,5,26,26,0,46,7
+Sampaio Correa FC,29,10,12,7,36,29,7,42,8
+Londrina Esporte Clube,29,9,15,5,32,32,0,42,9
+Chapecoense,29,8,15,6,33,23,10,39,10
+Ponte Preta,29,7,17,5,29,37,-8,38,11
+Vila Nova FC GO,29,5,19,5,22,19,3,34,12
+Tombense - MG,29,6,14,9,30,22,8,32,13
+Gremio Novorizontino,29,6,8,15,30,30,0,26,14
+Guarani FC,29,3,16,10,21,19,2,25,15
+Clube de Regatas Brasil,29,2,14,13,24,33,-9,20,16
+Brusque - SC,29,1,17,11,12,26,-14,20,17
+Centro Sportivo Alagoano,29,1,14,14,21,32,-11,17,18
+Operario Ferroviario ,29,1,14,14,26,40,-14,17,19
+Clube Nautico,29,1,13,15,24,45,-21,16,20
+Cruzeiro Esporte Clube,30,20,10,0,45,26,19,70,1
+Gremio Porto Alegre,30,18,11,1,31,20,11,65,2
+Esporte Clube Bahia,30,17,11,2,43,25,18,62,3
+Criciuma Esporte Clube,30,16,10,4,28,17,11,58,4
+Vasco da Gama,30,16,10,4,38,30,8,58,5
+Sport Club Recife,30,13,12,5,34,24,10,51,6
+Ituano - SP,30,12,13,5,28,26,2,49,7
+Sampaio Correa FC,30,11,12,7,36,31,5,45,8
+Londrina Esporte Clube,30,9,15,6,32,33,-1,42,9
+Chapecoense,30,8,15,7,33,24,9,39,10
+Ponte Preta,30,7,17,6,29,39,-10,38,11
+Vila Nova FC GO,30,5,19,6,22,21,1,34,12
+Tombense - MG,30,6,14,10,31,24,7,32,13
+Guarani FC,30,4,16,10,24,20,4,28,14
+Gremio Novorizontino,30,6,9,15,33,30,3,27,15
+Clube de Regatas Brasil,30,3,14,13,25,33,-8,23,16
+Brusque - SC,30,1,17,12,12,29,-17,20,17
+Centro Sportivo Alagoano,30,1,15,14,21,33,-12,18,18
+Operario Ferroviario ,30,1,15,14,27,42,-15,18,19
+Clube Nautico,30,1,14,15,24,46,-22,17,20
+Cruzeiro Esporte Clube,31,21,10,0,47,26,21,73,1
+Gremio Porto Alegre,31,19,11,1,33,21,12,68,2
+Esporte Clube Bahia,31,18,11,2,43,26,17,65,3
+Criciuma Esporte Clube,31,16,11,4,31,18,13,59,4
+Vasco da Gama,31,16,11,4,39,30,9,59,5
+Sport Club Recife,31,13,13,5,36,26,10,52,6
+Ituano - SP,31,13,13,5,29,26,3,52,7
+Sampaio Correa FC,31,12,12,7,38,31,7,48,8
+Londrina Esporte Clube,31,9,16,6,33,33,0,43,9
+Chapecoense,31,8,16,7,33,25,8,40,10
+Ponte Preta,31,7,18,6,30,41,-11,39,11
+Vila Nova FC GO,31,5,20,6,25,22,3,35,12
+Tombense - MG,31,6,15,10,31,26,5,33,13
+Guarani FC,31,4,17,10,26,21,5,29,14
+Gremio Novorizontino,31,6,10,15,33,30,3,28,15
+Clube de Regatas Brasil,31,4,14,13,26,34,-8,26,16
+Centro Sportivo Alagoano,31,2,15,14,23,33,-10,21,17
+Brusque - SC,31,1,18,12,13,29,-16,21,18
+Operario Ferroviario ,31,1,16,14,29,44,-15,19,19
+Clube Nautico,31,1,15,15,24,47,-23,18,20
+Cruzeiro Esporte Clube,32,22,10,0,50,26,24,76,1
+Gremio Porto Alegre,32,20,11,1,33,21,12,71,2
+Esporte Clube Bahia,32,18,12,2,44,27,17,66,3
+Criciuma Esporte Clube,32,16,12,4,32,20,12,60,4
+Vasco da Gama,32,16,12,4,40,31,9,60,5
+Ituano - SP,32,14,13,5,31,27,4,55,6
+Sport Club Recife,32,13,14,5,37,26,11,53,7
+Sampaio Correa FC,32,13,12,7,41,31,10,51,8
+Londrina Esporte Clube,32,9,17,6,33,34,-1,44,9
+Chapecoense,32,8,17,7,33,25,8,41,10
+Ponte Preta,32,7,19,6,31,44,-13,40,11
+Vila Nova FC GO,32,5,21,6,25,22,3,36,12
+Tombense - MG,32,6,16,10,34,26,8,34,13
+Gremio Novorizontino,32,7,10,15,35,30,5,31,14
+Guarani FC,32,4,18,10,27,21,6,30,15
+Clube de Regatas Brasil,32,4,15,13,27,34,-7,27,16
+Centro Sportivo Alagoano,32,3,15,14,25,34,-9,24,17
+Brusque - SC,32,1,19,12,13,30,-17,22,18
+Operario Ferroviario ,32,1,17,14,30,44,-14,20,19
+Clube Nautico,32,1,15,16,24,48,-24,18,20
+Cruzeiro Esporte Clube,33,22,11,0,50,26,24,77,1
+Gremio Porto Alegre,33,20,12,1,35,23,12,72,2
+Esporte Clube Bahia,33,18,13,2,44,28,16,67,3
+Criciuma Esporte Clube,33,16,13,4,33,20,13,61,4
+Vasco da Gama,33,16,12,5,40,31,9,60,5
+Ituano - SP,33,15,13,5,32,28,4,58,6
+Sampaio Correa FC,33,14,12,7,41,31,10,54,7
+Sport Club Recife,33,13,14,6,37,28,9,53,8
+Londrina Esporte Clube,33,9,17,7,35,36,-1,44,9
+Chapecoense,33,8,17,8,34,26,8,41,10
+Ponte Preta,33,7,19,7,31,45,-14,40,11
+Vila Nova FC GO,33,5,21,7,27,23,4,36,12
+Gremio Novorizontino,33,8,10,15,37,31,6,34,13
+Tombense - MG,33,6,16,11,34,26,8,34,14
+Guarani FC,33,5,18,10,28,21,7,33,15
+Clube de Regatas Brasil,33,4,16,13,30,37,-7,28,16
+Centro Sportivo Alagoano,33,3,16,14,25,34,-9,25,17
+Brusque - SC,33,1,19,13,13,33,-20,22,18
+Operario Ferroviario ,33,1,17,15,30,47,-17,20,19
+Clube Nautico,33,1,15,17,25,49,-24,18,20
+Cruzeiro Esporte Clube,34,22,12,0,50,27,23,78,1
+Gremio Porto Alegre,34,20,13,1,37,23,14,73,2
+Esporte Clube Bahia,34,18,14,2,47,28,19,68,3
+Criciuma Esporte Clube,34,16,14,4,35,21,14,62,4
+Vasco da Gama,34,16,12,6,41,34,7,60,5
+Ituano - SP,34,15,13,6,34,28,6,58,6
+Sampaio Correa FC,34,15,12,7,42,32,10,57,7
+Sport Club Recife,34,13,14,7,37,29,8,53,8
+Londrina Esporte Clube,34,9,17,8,37,38,-1,44,9
+Chapecoense,34,8,17,9,34,27,7,41,10
+Ponte Preta,34,7,19,8,31,46,-15,40,11
+Guarani FC,34,6,18,10,29,21,8,36,12
+Vila Nova FC GO,34,5,21,8,27,23,4,36,13
+Gremio Novorizontino,34,8,11,15,38,32,6,35,14
+Tombense - MG,34,6,16,12,36,29,7,34,15
+Clube de Regatas Brasil,34,4,17,13,31,37,-6,29,16
+Centro Sportivo Alagoano,34,3,17,14,26,34,-8,26,17
+Brusque - SC,34,1,19,14,13,33,-20,22,18
+Operario Ferroviario ,34,1,17,16,30,49,-19,20,19
+Clube Nautico,34,1,15,18,26,52,-26,18,20
+Cruzeiro Esporte Clube,35,22,13,0,50,27,23,79,1
+Gremio Porto Alegre,35,20,14,1,38,23,15,74,2
+Esporte Clube Bahia,35,18,15,2,47,29,18,69,3
+Criciuma Esporte Clube,35,16,15,4,36,21,15,63,4
+Vasco da Gama,35,16,13,6,41,35,6,61,5
+Ituano - SP,35,15,14,6,35,30,5,59,6
+Sampaio Correa FC,35,15,13,7,42,33,9,58,7
+Sport Club Recife,35,13,15,7,37,29,8,54,8
+Londrina Esporte Clube,35,9,18,8,38,39,-1,45,9
+Chapecoense,35,8,18,9,34,29,5,42,10
+Ponte Preta,35,7,20,8,31,46,-15,41,11
+Guarani FC,35,7,18,10,31,22,9,39,12
+Vila Nova FC GO,35,5,22,8,27,23,4,37,13
+Gremio Novorizontino,35,8,12,15,39,32,7,36,14
+Tombense - MG,35,6,16,13,37,30,7,34,15
+Clube de Regatas Brasil,35,5,17,13,32,38,-6,32,16
+Centro Sportivo Alagoano,35,3,18,14,27,34,-7,27,17
+Brusque - SC,35,1,19,15,13,35,-22,22,18
+Operario Ferroviario ,35,1,17,17,31,52,-21,20,19
+Clube Nautico,35,1,15,19,26,58,-32,18,20
+Cruzeiro Esporte Clube,36,22,14,0,52,27,25,80,1
+Gremio Porto Alegre,36,20,15,1,39,23,16,75,2
+Esporte Clube Bahia,36,18,16,2,48,29,19,70,3
+Criciuma Esporte Clube,36,16,16,4,37,22,15,64,4
+Vasco da Gama,36,16,14,6,43,35,8,62,5
+Ituano - SP,36,15,15,6,35,31,4,60,6
+Sampaio Correa FC,36,15,14,7,45,36,9,59,7
+Sport Club Recife,36,13,16,7,37,29,8,55,8
+Londrina Esporte Clube,36,9,19,8,38,41,-3,46,9
+Chapecoense,36,8,19,9,34,30,4,43,10
+Ponte Preta,36,7,21,8,31,48,-17,42,11
+Guarani FC,36,7,19,10,31,23,8,40,12
+Gremio Novorizontino,36,9,12,15,40,33,7,39,13
+Vila Nova FC GO,36,5,23,8,27,26,1,38,14
+Clube de Regatas Brasil,36,6,17,13,32,39,-7,35,15
+Tombense - MG,36,6,16,14,38,30,8,34,16
+Centro Sportivo Alagoano,36,3,19,14,29,34,-5,28,17
+Brusque - SC,36,1,19,16,13,38,-25,22,18
+Operario Ferroviario ,36,1,17,18,32,53,-21,20,19
+Clube Nautico,36,1,15,20,26,59,-33,18,20
+Cruzeiro Esporte Clube,37,22,15,0,53,28,25,81,1
+Gremio Porto Alegre,37,20,16,1,40,23,17,76,2
+Esporte Clube Bahia,37,18,17,2,48,29,19,71,3
+Criciuma Esporte Clube,37,16,17,4,37,22,15,65,4
+Vasco da Gama,37,16,15,6,44,36,8,63,5
+Ituano - SP,37,15,16,6,35,31,4,61,6
+Sampaio Correa FC,37,15,15,7,45,37,8,60,7
+Sport Club Recife,37,13,17,7,39,31,8,56,8
+Londrina Esporte Clube,37,9,20,8,41,43,-2,47,9
+Chapecoense,37,8,20,9,35,30,5,44,10
+Ponte Preta,37,7,22,8,31,50,-19,43,11
+Gremio Novorizontino,37,10,12,15,41,34,7,42,12
+Guarani FC,37,7,20,10,31,24,7,41,13
+Vila Nova FC GO,37,5,24,8,27,27,0,39,14
+Clube de Regatas Brasil,37,6,18,13,32,41,-9,36,15
+Tombense - MG,37,6,17,14,39,30,9,35,16
+Centro Sportivo Alagoano,37,3,20,14,29,35,-6,29,17
+Brusque - SC,37,1,19,17,14,41,-27,22,18
+Operario Ferroviario ,37,1,17,19,33,55,-22,20,19
+Clube Nautico,37,1,15,21,26,61,-35,18,20
+Cruzeiro Esporte Clube,38,22,16,0,54,29,25,82,1
+Gremio Porto Alegre,38,20,17,1,40,23,17,77,2
+Esporte Clube Bahia,38,18,18,2,48,31,17,72,3
+Criciuma Esporte Clube,38,16,18,4,37,25,12,66,4
+Vasco da Gama,38,16,16,6,45,38,7,64,5
+Ituano - SP,38,15,17,6,36,32,4,62,6
+Sampaio Correa FC,38,15,16,7,45,38,7,61,7
+Sport Club Recife,38,13,18,7,41,31,10,57,8
+Londrina Esporte Clube,38,9,20,9,42,44,-2,47,9
+Gremio Novorizontino,38,11,12,15,43,35,8,45,10
+Chapecoense,38,8,20,10,36,33,3,44,11
+Ponte Preta,38,7,22,9,33,50,-17,43,12
+Guarani FC,38,7,20,11,32,25,7,41,13
+Vila Nova FC GO,38,5,24,9,27,28,-1,39,14
+Clube de Regatas Brasil,38,6,18,14,33,42,-9,36,15
+Tombense - MG,38,6,17,15,41,33,8,35,16
+Centro Sportivo Alagoano,38,3,20,15,30,37,-7,29,17
+Brusque - SC,38,1,19,18,14,43,-29,22,18
+Operario Ferroviario ,38,1,17,20,34,57,-23,20,19
+Clube Nautico,38,1,15,22,26,63,-37,18,20

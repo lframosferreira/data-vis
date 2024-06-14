@@ -1,0 +1,481 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+Esperance Tunis,1,1,0,0,3,0,3,3,1
+ES Metlaoui,1,1,0,0,2,0,2,3,2
+US Ben Guerdane,1,1,0,0,1,1,0,3,3
+Stade Tunisien,1,1,0,0,0,0,0,3,4
+ES Sahel,1,1,0,0,0,0,0,3,5
+US Tataouine,1,1,0,0,0,0,0,3,6
+CA Bizertin,1,1,0,0,0,0,0,3,7
+US Monastir,1,1,0,0,0,0,0,3,8
+Club Africain,1,1,0,0,0,0,0,3,9
+Olympique Beja,1,1,0,0,1,2,-1,3,10
+Club Sportif Sfaxien,1,0,1,0,2,1,1,1,11
+Chebba,1,0,1,0,1,0,1,1,12
+ES Hammam Sousse,1,0,1,0,0,0,0,1,13
+EO Sidi Bouzid,1,0,1,0,0,1,-1,1,14
+Soliman,1,0,1,0,0,2,-2,1,15
+Rejiche,1,0,0,1,1,1,0,0,16
+US Ben Guerdane,2,2,0,0,3,1,2,6,1
+ES Sahel,2,1,1,0,3,0,3,4,2
+Esperance Tunis,2,1,1,0,4,2,2,4,3
+Club Africain,2,1,1,0,1,0,1,4,4
+US Monastir,2,1,1,0,0,0,0,4,5
+Olympique Beja,2,1,1,0,2,3,-1,4,6
+US Tataouine,2,1,1,0,0,2,-2,4,7
+Stade Tunisien,2,1,0,1,1,0,1,3,8
+CA Bizertin,2,1,0,1,1,0,1,3,9
+ES Metlaoui,2,1,0,1,2,2,0,3,10
+Club Sportif Sfaxien,2,0,2,0,3,1,2,2,11
+Chebba,2,0,1,1,1,0,1,1,12
+ES Hammam Sousse,2,0,1,1,0,3,-3,1,13
+EO Sidi Bouzid,2,0,1,1,0,3,-3,1,14
+Soliman,2,0,1,1,0,3,-3,1,15
+Rejiche,2,0,0,2,1,1,0,0,16
+US Ben Guerdane,3,3,0,0,3,2,1,9,1
+Esperance Tunis,3,2,1,0,6,4,2,7,2
+ES Sahel,3,2,1,0,3,1,2,7,3
+US Monastir,3,2,1,0,2,1,1,7,4
+Stade Tunisien,3,2,0,1,2,0,2,6,5
+Club Africain,3,1,2,0,2,1,1,5,6
+Olympique Beja,3,1,2,0,3,4,-1,5,7
+US Tataouine,3,1,2,0,1,4,-3,5,8
+CA Bizertin,3,1,1,1,2,2,0,4,9
+ES Metlaoui,3,1,0,2,4,3,1,3,10
+Club Sportif Sfaxien,3,0,3,0,3,1,2,3,11
+EO Sidi Bouzid,3,0,1,2,2,3,-1,1,12
+Chebba,3,0,1,2,1,2,-1,1,13
+ES Hammam Sousse,3,0,1,2,1,4,-3,1,14
+Soliman,3,0,1,2,0,3,-3,1,15
+Rejiche,3,0,0,3,1,1,0,0,16
+ES Sahel,4,3,1,0,6,2,4,10,1
+US Ben Guerdane,4,3,1,0,3,5,-2,10,2
+US Monastir,4,2,2,0,3,1,2,8,3
+Esperance Tunis,4,2,2,0,6,5,1,8,4
+Stade Tunisien,4,2,1,1,2,0,2,7,5
+Club Africain,4,1,2,1,2,1,1,5,6
+Olympique Beja,4,1,2,1,3,5,-2,5,7
+US Tataouine,4,1,2,1,1,5,-4,5,8
+CA Bizertin,4,1,1,2,2,5,-3,4,9
+ES Metlaoui,4,1,0,3,4,4,0,3,10
+Club Sportif Sfaxien,4,0,3,1,3,5,-2,3,11
+Rejiche,4,0,1,3,1,2,-1,1,12
+Chebba,4,0,1,3,1,4,-3,1,13
+Soliman,4,0,1,3,0,4,-4,1,14
+ES Hammam Sousse,4,0,1,3,1,7,-6,1,15
+EO Sidi Bouzid,4,0,1,3,2,9,-7,1,16
+ES Sahel,5,4,1,0,9,2,7,13,1
+US Ben Guerdane,5,4,1,0,3,5,-2,13,2
+US Monastir,5,3,2,0,5,3,2,11,3
+Esperance Tunis,5,3,2,0,7,7,0,11,4
+Stade Tunisien,5,2,1,2,3,0,3,7,5
+Club Africain,5,1,3,1,3,1,2,6,6
+Olympique Beja,5,1,3,1,4,8,-4,6,7
+US Tataouine,5,1,3,1,1,5,-4,6,8
+CA Bizertin,5,1,2,2,4,5,-1,5,9
+ES Metlaoui,5,1,1,3,4,6,-2,4,10
+Chebba,5,1,1,3,1,4,-3,4,11
+Club Sportif Sfaxien,5,0,4,1,4,6,-2,4,12
+Rejiche,5,0,2,3,1,2,-1,2,13
+Soliman,5,0,2,3,1,4,-3,2,14
+ES Hammam Sousse,5,0,2,3,1,9,-8,2,15
+EO Sidi Bouzid,5,0,2,3,2,11,-9,2,16
+ES Sahel,6,5,1,0,12,4,8,16,1
+US Ben Guerdane,6,5,1,0,6,5,1,16,2
+US Monastir,6,4,2,0,6,3,3,14,3
+Esperance Tunis,6,4,2,0,9,8,1,14,4
+Stade Tunisien,6,3,1,2,5,0,5,10,5
+Club Africain,6,1,4,1,8,2,6,7,6
+US Tataouine,6,1,4,1,3,7,-4,7,7
+Olympique Beja,6,1,4,1,4,9,-5,7,8
+CA Bizertin,6,1,3,2,5,5,0,6,9
+ES Metlaoui,6,1,2,3,7,6,1,5,10
+ES Hammam Sousse,6,1,2,3,5,9,-4,5,11
+Chebba,6,1,2,3,1,6,-5,5,12
+Club Sportif Sfaxien,6,0,5,1,5,6,-1,5,13
+Soliman,6,0,3,3,2,6,-4,3,14
+Rejiche,6,0,2,4,1,2,-1,2,15
+EO Sidi Bouzid,6,0,2,4,2,11,-9,2,16
+ES Sahel,7,6,1,0,14,4,10,19,1
+US Ben Guerdane,7,5,2,0,8,5,3,17,2
+Esperance Tunis,7,5,2,0,9,9,0,17,3
+US Monastir,7,4,3,0,7,4,3,15,4
+Stade Tunisien,7,4,1,2,6,1,5,13,5
+US Tataouine,7,2,4,1,5,7,-2,10,6
+Club Africain,7,1,5,1,10,3,7,8,7
+Olympique Beja,7,1,5,1,4,10,-6,8,8
+CA Bizertin,7,1,4,2,5,9,-4,7,9
+ES Hammam Sousse,7,1,3,3,6,11,-5,6,10
+Chebba,7,1,3,3,1,7,-6,6,11
+Club Sportif Sfaxien,7,0,6,1,6,6,0,6,12
+ES Metlaoui,7,1,2,4,9,10,-1,5,13
+Rejiche,7,0,3,4,2,2,0,3,14
+Soliman,7,0,3,4,2,8,-6,3,15
+EO Sidi Bouzid,7,0,2,5,2,14,-12,2,16
+ES Sahel,8,7,1,0,17,4,13,22,1
+US Ben Guerdane,8,6,2,0,10,5,5,20,2
+Esperance Tunis,8,6,2,0,11,9,2,20,3
+US Monastir,8,5,3,0,9,5,4,18,4
+Stade Tunisien,8,4,2,2,8,2,6,14,5
+Club Africain,8,2,5,1,12,5,7,11,6
+US Tataouine,8,2,5,1,6,8,-2,11,7
+Olympique Beja,8,2,5,1,5,10,-5,11,8
+CA Bizertin,8,1,5,2,6,11,-5,8,9
+ES Hammam Sousse,8,1,4,3,9,13,-4,7,10
+Club Sportif Sfaxien,8,0,7,1,6,7,-1,7,11
+ES Metlaoui,8,1,3,4,11,11,0,6,12
+Chebba,8,1,3,4,1,13,-12,6,13
+Rejiche,8,0,4,4,4,2,2,4,14
+Soliman,8,0,4,4,3,9,-6,4,15
+EO Sidi Bouzid,8,0,3,5,2,15,-13,3,16
+ES Sahel,9,8,1,0,18,4,14,25,1
+US Ben Guerdane,9,7,2,0,11,5,6,23,2
+Esperance Tunis,9,7,2,0,13,9,4,23,3
+US Monastir,9,6,3,0,10,5,5,21,4
+Stade Tunisien,9,5,2,2,8,4,4,17,5
+Club Africain,9,2,6,1,13,7,6,12,6
+US Tataouine,9,2,6,1,8,8,0,12,7
+Olympique Beja,9,2,6,1,7,11,-4,12,8
+CA Bizertin,9,1,6,2,6,12,-6,9,9
+Club Sportif Sfaxien,9,0,8,1,6,7,-1,8,10
+ES Metlaoui,9,1,4,4,12,12,0,7,11
+ES Hammam Sousse,9,1,4,4,9,13,-4,7,12
+Soliman,9,1,4,4,5,9,-4,7,13
+Chebba,9,1,4,4,3,13,-10,7,14
+Rejiche,9,0,4,5,6,3,3,4,15
+EO Sidi Bouzid,9,0,3,6,2,16,-14,3,16
+ES Sahel,10,9,1,0,24,4,20,28,1
+Esperance Tunis,10,8,2,0,16,10,6,26,2
+US Ben Guerdane,10,7,3,0,12,6,6,24,3
+US Monastir,10,6,4,0,10,5,5,22,4
+Stade Tunisien,10,6,2,2,8,4,4,20,5
+Olympique Beja,10,3,6,1,9,11,-2,15,6
+Club Africain,10,2,6,2,13,8,5,12,7
+US Tataouine,10,2,6,2,8,9,-1,12,8
+CA Bizertin,10,1,6,3,7,12,-5,9,9
+Club Sportif Sfaxien,10,0,9,1,7,10,-3,9,10
+Soliman,10,1,5,4,7,10,-3,8,11
+ES Hammam Sousse,10,1,5,4,9,13,-4,8,12
+Chebba,10,1,5,4,3,13,-10,8,13
+ES Metlaoui,10,1,4,5,12,16,-4,7,14
+Rejiche,10,0,4,6,6,3,3,4,15
+EO Sidi Bouzid,10,0,3,7,2,17,-15,3,16
+ES Sahel,11,10,1,0,25,4,21,31,1
+Esperance Tunis,11,9,2,0,16,10,6,29,2
+US Ben Guerdane,11,8,3,0,12,7,5,27,3
+US Monastir,11,7,4,0,12,8,4,25,4
+Stade Tunisien,11,6,3,2,9,5,4,21,5
+Olympique Beja,11,3,7,1,12,11,1,16,6
+US Tataouine,11,3,6,2,9,10,-1,15,7
+Club Africain,11,2,7,2,14,9,5,13,8
+CA Bizertin,11,2,6,3,9,12,-3,12,9
+Club Sportif Sfaxien,11,0,10,1,7,10,-3,10,10
+Soliman,11,1,6,4,8,10,-2,9,11
+ES Hammam Sousse,11,1,6,4,11,15,-4,9,12
+Chebba,11,1,6,4,5,13,-8,9,13
+ES Metlaoui,11,1,4,6,13,17,-4,7,14
+Rejiche,11,0,4,7,6,5,1,4,15
+EO Sidi Bouzid,11,0,3,8,2,18,-16,3,16
+ES Sahel,12,11,1,0,26,4,22,34,1
+Esperance Tunis,12,10,2,0,20,10,10,32,2
+US Ben Guerdane,12,9,3,0,14,7,7,30,3
+US Monastir,12,8,4,0,14,8,6,28,4
+Stade Tunisien,12,6,4,2,11,6,5,22,5
+Olympique Beja,12,4,7,1,13,13,0,19,6
+US Tataouine,12,4,6,2,12,10,2,18,7
+Club Africain,12,2,8,2,15,11,4,14,8
+CA Bizertin,12,2,7,3,10,12,-2,13,9
+ES Hammam Sousse,12,2,6,4,11,15,-4,12,10
+Club Sportif Sfaxien,12,0,11,1,8,11,-3,11,11
+ES Metlaoui,12,2,4,6,14,17,-3,10,12
+Chebba,12,1,7,4,5,14,-9,10,13
+Soliman,12,1,6,5,8,12,-4,9,14
+Rejiche,12,0,4,8,6,8,-2,4,15
+EO Sidi Bouzid,12,0,4,8,2,19,-17,4,16
+ES Sahel,13,12,1,0,29,4,25,37,1
+Esperance Tunis,13,11,2,0,22,10,12,35,2
+US Ben Guerdane,13,9,4,0,16,8,8,31,3
+US Monastir,13,8,5,0,14,8,6,29,4
+Stade Tunisien,13,7,4,2,12,8,4,25,5
+US Tataouine,13,5,6,2,15,10,5,21,6
+Olympique Beja,13,4,8,1,15,15,0,20,7
+Club Africain,13,2,8,3,15,14,1,14,8
+CA Bizertin,13,2,8,3,12,12,0,14,9
+ES Hammam Sousse,13,2,7,4,13,16,-3,13,10
+ES Metlaoui,13,2,5,6,15,17,-2,11,11
+Chebba,13,1,8,4,8,15,-7,11,12
+Club Sportif Sfaxien,13,0,11,2,8,12,-4,11,13
+Soliman,13,1,7,5,10,13,-3,10,14
+Rejiche,13,0,5,8,7,10,-3,5,15
+EO Sidi Bouzid,13,0,5,8,2,19,-17,5,16
+ES Sahel,14,13,1,0,30,4,26,40,1
+Esperance Tunis,14,12,2,0,23,10,13,38,2
+US Ben Guerdane,14,9,5,0,16,9,7,32,3
+US Monastir,14,8,6,0,14,8,6,30,4
+Stade Tunisien,14,7,4,3,14,10,4,25,5
+US Tataouine,14,6,6,2,17,10,7,24,6
+Olympique Beja,14,5,8,1,15,15,0,23,7
+Club Africain,14,2,9,3,15,14,1,15,8
+CA Bizertin,14,2,8,4,15,15,0,14,9
+ES Hammam Sousse,14,2,8,4,14,16,-2,14,10
+Club Sportif Sfaxien,14,1,11,2,10,12,-2,14,11
+ES Metlaoui,14,2,6,6,15,17,-2,12,12
+Chebba,14,1,9,4,8,17,-9,12,13
+Soliman,14,1,8,5,11,14,-3,11,14
+Rejiche,14,0,5,9,7,10,-3,5,15
+EO Sidi Bouzid,14,0,5,9,2,20,-18,5,16
+ES Sahel,15,13,2,0,31,4,27,41,1
+Esperance Tunis,15,13,2,0,23,10,13,41,2
+US Ben Guerdane,15,9,6,0,16,9,7,33,3
+US Monastir,15,9,6,0,14,8,6,33,4
+Stade Tunisien,15,7,5,3,14,10,4,26,5
+Olympique Beja,15,6,8,1,18,16,2,26,6
+US Tataouine,15,6,7,2,18,10,8,25,7
+CA Bizertin,15,3,8,4,17,15,2,17,8
+Club Africain,15,2,9,4,15,15,0,15,9
+ES Hammam Sousse,15,2,9,4,14,17,-3,15,10
+Club Sportif Sfaxien,15,1,12,2,10,12,-2,15,11
+Chebba,15,1,10,4,10,17,-7,13,12
+ES Metlaoui,15,2,6,7,15,17,-2,12,13
+Soliman,15,1,9,5,11,16,-5,12,14
+EO Sidi Bouzid,15,0,6,9,3,21,-18,6,15
+Rejiche,15,0,5,10,7,10,-3,5,16
+ES Sahel,16,14,2,0,35,4,31,44,1
+Esperance Tunis,16,14,2,0,24,10,14,44,2
+US Ben Guerdane,16,9,7,0,16,10,6,34,3
+US Monastir,16,9,7,0,14,9,5,34,4
+Olympique Beja,16,7,8,1,19,19,0,29,5
+Stade Tunisien,16,7,5,4,15,12,3,26,6
+US Tataouine,16,6,8,2,22,10,12,26,7
+CA Bizertin,16,4,8,4,18,16,2,20,8
+Club Africain,16,3,9,4,16,15,1,18,9
+ES Hammam Sousse,16,2,10,4,14,20,-6,16,10
+Club Sportif Sfaxien,16,1,13,2,10,14,-4,16,11
+Soliman,16,2,9,5,13,16,-3,15,12
+ES Metlaoui,16,2,7,7,16,18,-2,13,13
+Chebba,16,1,10,5,12,18,-6,13,14
+EO Sidi Bouzid,16,0,6,10,3,22,-19,6,15
+Rejiche,16,0,5,11,7,12,-5,5,16
+Esperance Tunis,17,15,2,0,29,10,19,47,1
+ES Sahel,17,14,3,0,35,5,30,45,2
+US Monastir,17,10,7,0,14,9,5,37,3
+US Ben Guerdane,17,9,8,0,16,10,6,35,4
+Olympique Beja,17,8,8,1,20,20,0,32,5
+US Tataouine,17,7,8,2,26,12,14,29,6
+Stade Tunisien,17,7,6,4,16,13,3,27,7
+CA Bizertin,17,4,9,4,18,17,1,21,8
+Club Africain,17,3,10,4,18,15,3,19,9
+Club Sportif Sfaxien,17,1,14,2,10,14,-4,17,10
+Soliman,17,2,10,5,14,18,-4,16,11
+ES Hammam Sousse,17,2,10,5,15,22,-7,16,12
+ES Metlaoui,17,2,8,7,17,20,-3,14,13
+Chebba,17,1,11,5,13,19,-6,14,14
+EO Sidi Bouzid,17,0,7,10,5,23,-18,7,15
+Rejiche,17,0,5,12,7,13,-6,5,16
+Esperance Tunis,18,16,2,0,32,11,21,50,1
+ES Sahel,18,15,3,0,35,5,30,48,2
+US Monastir,18,10,8,0,16,9,7,38,3
+US Ben Guerdane,18,9,8,1,16,13,3,35,4
+Olympique Beja,18,9,8,1,20,20,0,35,5
+US Tataouine,18,7,8,3,27,12,15,29,6
+Stade Tunisien,18,7,6,5,18,16,2,27,7
+CA Bizertin,18,5,9,4,18,19,-1,24,8
+Club Africain,18,3,11,4,19,20,-1,20,9
+Club Sportif Sfaxien,18,1,15,2,11,14,-3,18,10
+Soliman,18,2,11,5,15,18,-3,17,11
+ES Hammam Sousse,18,2,11,5,15,23,-8,17,12
+ES Metlaoui,18,2,9,7,17,21,-4,15,13
+Chebba,18,1,11,6,15,21,-6,14,14
+EO Sidi Bouzid,18,0,8,10,6,25,-19,8,15
+Rejiche,18,0,5,13,8,16,-8,5,16
+Esperance Tunis,19,17,2,0,34,11,23,53,1
+ES Sahel,19,16,3,0,41,5,36,51,2
+US Monastir,19,11,8,0,17,9,8,41,3
+Olympique Beja,19,10,8,1,20,21,-1,38,4
+US Ben Guerdane,19,9,9,1,18,13,5,36,5
+US Tataouine,19,7,9,3,27,13,14,30,6
+Stade Tunisien,19,7,7,5,19,16,3,28,7
+CA Bizertin,19,5,10,4,18,19,-1,25,8
+Club Africain,19,3,11,5,20,20,0,20,9
+Club Sportif Sfaxien,19,1,16,2,12,14,-2,19,10
+ES Metlaoui,19,3,9,7,18,21,-3,18,11
+Soliman,19,2,12,5,16,19,-3,18,12
+ES Hammam Sousse,19,2,11,6,15,24,-9,17,13
+Chebba,19,1,12,6,15,22,-7,15,14
+EO Sidi Bouzid,19,0,8,11,6,27,-21,8,15
+Rejiche,19,0,5,14,8,16,-8,5,16
+Esperance Tunis,20,18,2,0,38,11,27,56,1
+ES Sahel,20,17,3,0,41,5,36,54,2
+US Monastir,20,12,8,0,19,9,10,44,3
+Olympique Beja,20,11,8,1,24,21,3,41,4
+US Ben Guerdane,20,9,10,1,20,14,6,37,5
+US Tataouine,20,7,10,3,28,14,14,31,6
+Stade Tunisien,20,7,8,5,21,19,2,29,7
+CA Bizertin,20,5,11,4,23,21,2,26,8
+Club Africain,20,4,11,5,21,21,0,23,9
+Club Sportif Sfaxien,20,1,17,2,13,15,-2,20,10
+ES Metlaoui,20,3,10,7,19,21,-2,19,11
+Soliman,20,2,12,6,16,21,-5,18,12
+ES Hammam Sousse,20,2,12,6,16,29,-13,18,13
+Chebba,20,1,13,6,15,22,-7,16,14
+EO Sidi Bouzid,20,0,9,11,7,27,-20,9,15
+Rejiche,20,0,5,15,8,20,-12,5,16
+Esperance Tunis,21,19,2,0,39,12,27,59,1
+ES Sahel,21,18,3,0,42,5,37,57,2
+US Monastir,21,13,8,0,21,10,11,47,3
+Olympique Beja,21,11,8,2,25,24,1,41,4
+US Ben Guerdane,21,9,11,1,21,15,6,38,5
+US Tataouine,21,7,11,3,29,16,13,32,6
+Stade Tunisien,21,7,9,5,21,21,0,30,7
+CA Bizertin,21,6,11,4,24,22,2,29,8
+Club Africain,21,5,11,5,23,22,1,26,9
+Club Sportif Sfaxien,21,2,17,2,13,16,-3,23,10
+ES Metlaoui,21,3,11,7,24,25,-1,20,11
+Soliman,21,2,13,6,16,21,-5,19,12
+ES Hammam Sousse,21,2,12,7,16,32,-16,18,13
+Chebba,21,1,13,7,16,23,-7,16,14
+EO Sidi Bouzid,21,0,9,12,8,29,-21,9,15
+Rejiche,21,0,5,16,8,22,-14,5,16
+Esperance Tunis,22,20,2,0,40,13,27,62,1
+ES Sahel,22,19,3,0,43,5,38,60,2
+US Monastir,22,14,8,0,24,10,14,50,3
+Olympique Beja,22,11,9,2,28,25,3,42,4
+US Ben Guerdane,22,10,11,1,22,15,7,41,5
+US Tataouine,22,8,11,3,30,16,14,35,6
+Stade Tunisien,22,8,9,5,22,21,1,33,7
+CA Bizertin,22,6,11,5,24,22,2,29,8
+Club Africain,22,5,12,5,25,23,2,27,9
+Club Sportif Sfaxien,22,2,18,2,14,17,-3,24,10
+ES Metlaoui,22,3,12,7,26,25,1,21,11
+Soliman,22,2,13,7,16,22,-6,19,12
+ES Hammam Sousse,22,2,13,7,16,32,-16,19,13
+Chebba,22,1,14,7,17,23,-6,17,14
+EO Sidi Bouzid,22,0,9,13,10,31,-21,9,15
+Rejiche,22,0,6,16,9,22,-13,6,16
+Esperance Tunis,23,21,2,0,40,13,27,65,1
+ES Sahel,23,20,3,0,45,5,40,63,2
+US Monastir,23,15,8,0,24,10,14,53,3
+Olympique Beja,23,11,10,2,28,25,3,43,4
+US Ben Guerdane,23,10,12,1,23,17,6,42,5
+US Tataouine,23,8,12,3,32,16,16,36,6
+Stade Tunisien,23,8,10,5,22,22,0,34,7
+Club Africain,23,6,12,5,27,24,3,30,8
+CA Bizertin,23,6,12,5,24,22,2,30,9
+Club Sportif Sfaxien,23,2,19,2,17,17,0,25,10
+ES Metlaoui,23,3,12,8,26,29,-3,21,11
+Soliman,23,2,14,7,18,23,-5,20,12
+ES Hammam Sousse,23,2,14,7,17,33,-16,20,13
+Chebba,23,1,15,7,18,25,-7,18,14
+EO Sidi Bouzid,23,0,9,14,10,33,-23,9,15
+Rejiche,23,0,6,17,9,24,-15,6,16
+Esperance Tunis,24,22,2,0,44,13,31,68,1
+ES Sahel,24,20,4,0,47,7,40,64,2
+US Monastir,24,16,8,0,30,11,19,56,3
+Olympique Beja,24,12,10,2,29,25,4,46,4
+US Ben Guerdane,24,10,13,1,23,20,3,43,5
+US Tataouine,24,8,12,4,35,17,18,36,6
+Stade Tunisien,24,8,10,6,24,23,1,34,7
+Club Africain,24,7,12,5,29,25,4,33,8
+CA Bizertin,24,6,12,6,27,24,3,30,9
+Club Sportif Sfaxien,24,2,20,2,18,17,1,26,10
+ES Metlaoui,24,3,13,8,27,30,-3,22,11
+Soliman,24,2,14,8,18,23,-5,20,12
+ES Hammam Sousse,24,2,14,8,18,36,-18,20,13
+Chebba,24,1,15,8,18,25,-7,18,14
+EO Sidi Bouzid,24,0,9,15,11,34,-23,9,15
+Rejiche,24,0,6,18,9,26,-17,6,16
+Esperance Tunis,25,23,2,0,45,13,32,71,1
+ES Sahel,25,21,4,0,50,10,40,67,2
+US Monastir,25,17,8,0,32,11,21,59,3
+Olympique Beja,25,12,11,2,31,30,1,47,4
+US Ben Guerdane,25,10,14,1,23,21,2,44,5
+US Tataouine,25,8,13,4,36,17,19,37,6
+Stade Tunisien,25,8,11,6,24,25,-1,35,7
+Club Africain,25,7,13,5,32,28,4,34,8
+CA Bizertin,25,6,13,6,28,25,3,31,9
+Club Sportif Sfaxien,25,2,21,2,20,18,2,27,10
+ES Metlaoui,25,3,13,9,27,32,-5,22,11
+Soliman,25,2,15,8,18,23,-5,21,12
+ES Hammam Sousse,25,2,14,9,19,37,-18,20,13
+Chebba,25,1,15,9,18,27,-9,18,14
+EO Sidi Bouzid,25,0,9,16,13,34,-21,9,15
+Rejiche,25,0,6,19,9,28,-19,6,16
+Esperance Tunis,26,23,3,0,45,13,32,72,1
+ES Sahel,26,22,4,0,50,10,40,70,2
+US Monastir,26,18,8,0,34,11,23,62,3
+Olympique Beja,26,12,12,2,35,35,0,48,4
+US Ben Guerdane,26,10,15,1,23,22,1,45,5
+US Tataouine,26,8,14,4,37,17,20,38,6
+Stade Tunisien,26,8,12,6,24,25,-1,36,7
+Club Africain,26,7,14,5,32,28,4,35,8
+CA Bizertin,26,6,14,6,28,27,1,32,9
+Club Sportif Sfaxien,26,2,21,3,20,19,1,27,10
+ES Metlaoui,26,3,14,9,29,33,-4,23,11
+Soliman,26,2,16,8,18,24,-6,22,12
+ES Hammam Sousse,26,2,15,9,21,38,-17,21,13
+Chebba,26,1,16,9,19,28,-9,19,14
+EO Sidi Bouzid,26,0,9,17,13,35,-22,9,15
+Rejiche,26,0,6,20,9,29,-20,6,16
+Esperance Tunis,27,24,3,0,48,13,35,75,1
+ES Sahel,27,22,4,1,50,11,39,70,2
+US Monastir,27,18,9,0,36,12,24,63,3
+Olympique Beja,27,12,12,3,36,36,0,48,4
+US Ben Guerdane,27,10,15,2,23,23,0,45,5
+US Tataouine,27,8,14,5,37,19,18,38,6
+Club Africain,27,8,14,5,37,29,8,38,7
+Stade Tunisien,27,8,12,7,24,25,-1,36,8
+CA Bizertin,27,6,14,7,28,27,1,32,9
+Club Sportif Sfaxien,27,2,22,3,20,19,1,28,10
+ES Metlaoui,27,3,14,10,29,37,-8,23,11
+Soliman,27,2,16,9,19,25,-6,22,12
+ES Hammam Sousse,27,2,15,10,22,41,-19,21,13
+Chebba,27,1,16,10,19,33,-14,19,14
+EO Sidi Bouzid,27,0,9,18,13,39,-26,9,15
+Rejiche,27,0,6,21,9,31,-22,6,16
+Esperance Tunis,28,25,3,0,49,13,36,78,1
+ES Sahel,28,22,5,1,50,11,39,71,2
+US Monastir,28,19,9,0,36,13,23,66,3
+Olympique Beja,28,12,13,3,36,39,-3,49,4
+US Ben Guerdane,28,10,16,2,23,23,0,46,5
+US Tataouine,28,8,15,5,38,20,18,39,6
+Club Africain,28,8,14,6,37,30,7,38,7
+Stade Tunisien,28,8,13,7,26,25,1,37,8
+CA Bizertin,28,6,15,7,28,28,0,33,9
+Club Sportif Sfaxien,28,2,23,3,20,19,1,29,10
+ES Metlaoui,28,3,15,10,30,39,-9,24,11
+Soliman,28,2,17,9,20,26,-6,23,12
+ES Hammam Sousse,28,2,16,10,22,42,-20,22,13
+Chebba,28,1,17,10,19,34,-15,20,14
+EO Sidi Bouzid,28,0,9,19,14,39,-25,9,15
+Rejiche,28,0,6,22,9,33,-24,6,16
+Esperance Tunis,29,25,4,0,50,15,35,79,1
+ES Sahel,29,22,6,1,50,13,37,72,2
+US Monastir,29,20,9,0,37,13,24,69,3
+Olympique Beja,29,12,13,4,37,45,-8,49,4
+US Ben Guerdane,29,10,17,2,24,23,1,47,5
+US Tataouine,29,8,15,6,39,22,17,39,6
+Club Africain,29,8,15,6,38,30,8,39,7
+Stade Tunisien,29,8,13,8,26,25,1,37,8
+CA Bizertin,29,6,15,8,28,30,-2,33,9
+Club Sportif Sfaxien,29,2,23,4,21,19,2,29,10
+ES Metlaoui,29,3,15,11,30,41,-11,24,11
+Soliman,29,2,17,10,20,26,-6,23,12
+ES Hammam Sousse,29,2,16,11,22,44,-22,22,13
+Chebba,29,1,17,11,19,35,-16,20,14
+EO Sidi Bouzid,29,0,9,20,14,42,-28,9,15
+Rejiche,29,0,6,23,9,33,-24,6,16
+Esperance Tunis,30,26,4,0,51,15,36,82,1
+ES Sahel,30,23,6,1,50,14,36,75,2
+US Monastir,30,20,10,0,38,14,24,70,3
+Olympique Beja,30,12,14,4,40,48,-8,50,4
+US Ben Guerdane,30,10,18,2,24,25,-1,48,5
+US Tataouine,30,8,16,6,40,24,16,40,6
+Club Africain,30,8,16,6,39,31,8,40,7
+Stade Tunisien,30,8,14,8,31,26,5,38,8
+CA Bizertin,30,6,16,8,28,30,-2,34,9
+Club Sportif Sfaxien,30,2,24,4,21,20,1,30,10
+ES Metlaoui,30,3,15,12,31,46,-15,24,11
+Soliman,30,2,17,11,21,28,-7,23,12
+ES Hammam Sousse,30,2,16,12,23,46,-23,22,13
+Chebba,30,1,17,12,20,36,-16,20,14
+EO Sidi Bouzid,30,0,9,21,15,44,-29,9,15
+Rejiche,30,0,6,24,9,34,-25,6,16
