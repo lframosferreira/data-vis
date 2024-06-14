@@ -21,7 +21,7 @@ LEAGUES: dict[str, str] = {
 COLORS = ["#0072B2", "#F0E442", "#4f4e4e", "#D55E00", "#CC79A7"]
 
 
-def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
+def render(df_dict: dict[str, pd.DataFrame]) -> None:
     @callback(
         [
             Output("shots-players-dropdown", "disabled"),
@@ -88,7 +88,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
 
             counter = 0
 
-            for idx, shot in filtered_shots.iterrows():
+            for _, shot in filtered_shots.iterrows():
                 xG = f"{shot['xG'] * 100:.2f}%"
                 color = COLORS[counter]
                 counter += 1
