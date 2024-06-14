@@ -1,11 +1,10 @@
-from dash import Dash, html, dash_table, dcc, callback, Output, Input
-import pandas as pd
-import plotly.express as px
-
+import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
-from dash import Dash, Input, Output, dcc, exceptions, html
-import numpy as np
+from dash import Input
+from dash import Output
+from dash import callback
+from dash import exceptions
 
 teamns: list[str] = [
     "América (MG)",

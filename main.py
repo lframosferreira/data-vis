@@ -1,8 +1,4 @@
-import os
 from app import app
-
-import pandas as pd
-from dash import Dash
 from interface.src.components.layout import create_layout
 
 # TODO extrair isso aq pra um arquivo settings.py

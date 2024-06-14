@@ -53,7 +53,7 @@ CLUBS_DICT: dict[str, str] = {
 
 CLUB_ELO_API: str = "http://api.clubelo.com"
 
-for club in CLUBS_DICT.keys():
+for club in CLUBS_DICT:
     if os.path.exists(f"data/elo/{club}.csv"):
         continue
     url_data = requests.get(f"{CLUB_ELO_API}/{club}").content

@@ -1,5 +1,6 @@
 import pandas as pd
-from dash import Dash, dcc, html
+from dash import dcc
+from dash import html
 
 CLUBS_DICT: dict[str, str] = {
     "barcelona": "Barcelona",
