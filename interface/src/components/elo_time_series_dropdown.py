@@ -22,7 +22,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
             fig.add_trace(
                 go.Scatter(x=club_df["From"], y=club_df["Elo"], mode="lines", name=club)
             )
-        year_range_in_dates = [f"{year_range[0]}-01-01", f"{year_range[1]}-01-01"]
+        year_range_in_dates: list[str] = [f"{year_range[0]}-01-01", f"{year_range[1]}-01-01"]
         fig.update_layout(
             xaxis_title="Ano", yaxis_title="Elo", xaxis={"range": year_range_in_dates}
         )
