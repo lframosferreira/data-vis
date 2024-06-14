@@ -1,13 +1,33 @@
+from dash import dcc
+from dash import html
+from dash import page_container
+from dash import page_registry
+
 from app import app
-from interface.src.components.layout import create_layout
 
-# TODO extrair isso aq pra um arquivo settings.py
-ELO_DATA_DIR: str = "../data/elo/"
-BRASILEIRO_DATA_DIR: str = "../data/brasileirao/"
-SHOTS_DATA_DIR: str = "../data/shots/"
-
-
-app.layout = create_layout()
+app.layout = html.Div(
+    style={
+        "display": "flex",
+        "margin-right": "10%",
+        "margin-left": "10%",
+        "flex-direction": "column",
+    },
+    children=[
+        html.H1("Multi-page app with Dash Pages"),
+        html.Div(
+            [
+                html.Div(
+                    dcc.Link(
+                        f"{page['name']} - {page['path']}",
+                        href=page["relative_path"],
+                    )
+                )
+                for page in page_registry.values()
+            ]
+        ),
+        page_container,
+    ],
+)
 
 
 def main() -> None:

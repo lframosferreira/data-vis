@@ -6,33 +6,10 @@ from dash import Output
 from dash import callback
 from dash import exceptions
 
-teamns: list[str] = [
-    "América (MG)",
-    "Ath Paranaense",
-    "Atlético Mineiro",
-    "Bahia",
-    "Botafogo (RJ)",
-    "Corinthians",
-    "Coritiba",
-    "Cruzeiro",
-    "Cuiabá",
-    "Flamengo",
-    "Fluminense",
-    "Fortaleza",
-    "Goiás",
-    "Grêmio",
-    "Internacional",
-    "Palmeiras",
-    "Red Bull Bragantino",
-    "Santos",
-    "São Paulo",
-    "Vasco da Gama",
-]
-
 
 def make_radar_plot(df_dict: dict[str, pd.DataFrame], player, fig) -> go.Figure:
     df: pd.DataFrame = df_dict["players_standard_statsP90"]
-    jogadorSeries: pd.Series = df[
+    jogador_series: pd.Series = df[
         (df["Jogador"] == f"{player}")
     ]  # & (df["Equipe"] == "Atlético Mineiro")]
     names = ["npxG", "PrgC", "PrgR", "Gols", "xG"]
@@ -47,7 +24,7 @@ def make_radar_plot(df_dict: dict[str, pd.DataFrame], player, fig) -> go.Figure:
         ]
     )
 
-    values: np.array = jogadorSeries[names].to_numpy()[0]
+    values: np.array = jogador_series[names].to_numpy()[0]
 
     fig.add_trace(
         go.Scatterpolar(
@@ -56,9 +33,9 @@ def make_radar_plot(df_dict: dict[str, pd.DataFrame], player, fig) -> go.Figure:
     )
 
     fig.update_layout(
-        polar=dict(
-            radialaxis=dict(visible=True),
-        ),
+        polar={
+            "radialaxis": {"visible": True},
+        },
         showlegend=True,
     )
 
