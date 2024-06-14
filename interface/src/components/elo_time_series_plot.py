@@ -20,7 +20,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                 placeholder="Arsenal, Chelsea",
                 options=list(options),
                 value=[],
-                clearable=False,
+                clearable=True,
             ),
             html.Div(
                 id="elo-slider-container",
