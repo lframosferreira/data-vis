@@ -6,32 +6,10 @@ from dash import callback
 from dash import dcc
 from dash import html
 
-teams: list[str] = [
-    "Todos os times",
-    "América (MG)",
-    "Ath Paranaense",
-    "Atlético Mineiro",
-    "Bahia",
-    "Botafogo (RJ)",
-    "Corinthians",
-    "Coritiba",
-    "Cruzeiro",
-    "Cuiabá",
-    "Flamengo",
-    "Fluminense",
-    "Fortaleza",
-    "Goiás",
-    "Grêmio",
-    "Internacional",
-    "Palmeiras",
-    "Red Bull Bragantino",
-    "Santos",
-    "São Paulo",
-    "Vasco da Gama",
-]
+from settings import TEAMS_BRASILEIRAO
 
 
-def renderPlayersDropdown(df_dict: dict[str, pd.DataFrame]) -> html.Div:
+def render_players_dropdown(df_dict: dict[str, pd.DataFrame]) -> html.Div:
     @callback(
         Output("players-dropdown", "options"),
         Input("teams-dropdown", "value"),
@@ -46,7 +24,7 @@ def renderPlayersDropdown(df_dict: dict[str, pd.DataFrame]) -> html.Div:
             ]["Jogador"]
         )
 
-    return []
+    return html.Div()
 
 
 def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
@@ -59,7 +37,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                         id="teams-dropdown",
                         multi=False,
                         placeholder="Selecione um time:",
-                        options=teams,
+                        options=TEAMS_BRASILEIRAO,
                         value=[],
                         clearable=True,
                         style={"margin-bottom": "10px", "margin-top": "10px"},
@@ -68,7 +46,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                         id="players-dropdown",
                         multi=True,
                         placeholder="Selecione um jogador:",
-                        options=renderPlayersDropdown(df_dict),
+                        options=render_players_dropdown(df_dict),
                         value=[],
                         clearable=True,
                     ),

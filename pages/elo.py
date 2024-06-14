@@ -6,6 +6,7 @@ from dash import html
 
 from interface.src.components import elo_time_series_dropdown
 from interface.src.components import elo_time_series_plot
+from settings import ELO_DATA_DIR
 
 dash.register_page(
     __name__,
@@ -13,9 +14,6 @@ dash.register_page(
     title="Visualizaçao de elos",
     name="Visualizaçao de elos",
 )
-# TODO importar isso de um arquivo de settings
-ELO_DATA_DIR: str = "data/elo/"
-
 
 df_dict: dict[str, pd.DataFrame] = {}
 for filename in os.listdir(ELO_DATA_DIR):

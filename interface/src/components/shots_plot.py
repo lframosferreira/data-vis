@@ -95,5 +95,5 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
         plt.close(fig)
 
         html_plot = f'<img src="data:image/png;base64,{img_base64}" alt="Shot Plot" style="border:none; margin:0; padding:0; display:block;">'
-
+        html.Img()
         return html_plot

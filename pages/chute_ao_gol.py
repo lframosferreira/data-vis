@@ -6,6 +6,7 @@ from dash import html
 
 from interface.src.components import shots_plot
 from interface.src.components import shots_plot_dropdown
+from settings import SHOTS_DATA_DIR
 
 dash.register_page(
     __name__,
@@ -14,8 +15,6 @@ dash.register_page(
     name="Chute ao gol",
 )
 # TODO importar isso de um arquivo de settings
-
-SHOTS_DATA_DIR: str = "data/shots/"
 
 df_dict: dict[str, pd.DataFrame] = {}
 

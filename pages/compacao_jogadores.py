@@ -8,6 +8,7 @@ from interface.src.components import radar_plot_players
 from interface.src.components import radar_plot_players_dropdown
 from interface.src.components import radar_plot_positions
 from interface.src.components import radar_plot_positions_dropdown
+from settings import BRASILEIRO_DATA_DIR
 
 dash.register_page(
     __name__,
@@ -15,9 +16,6 @@ dash.register_page(
     title="Comparacao jogadores title",
     name="Comparacao jogadores name",
 )
-
-# TODO importar isso de um arquivo de settings
-BRASILEIRO_DATA_DIR: str = "data/brasileirao/"
 
 df_dict: dict[str, pd.DataFrame] = {}
 

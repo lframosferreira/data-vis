@@ -3,42 +3,7 @@ import plotly.graph_objects as go
 from dash import dcc
 from dash import html
 
-teamsAndPositions: list[str] = [
-    "América (MG)",
-    "Ath Paranaense",
-    "Atlético Mineiro",
-    "Bahia",
-    "Botafogo (RJ)",
-    "Corinthians",
-    "Coritiba",
-    "Cruzeiro",
-    "Cuiabá",
-    "Flamengo",
-    "Fluminense",
-    "Fortaleza",
-    "Goiás",
-    "Grêmio",
-    "Internacional",
-    "Palmeiras",
-    "Red Bull Bragantino",
-    "Santos",
-    "São Paulo",
-    "Vasco da Gama",
-    "G",
-    "AT",
-    "ZG",
-    "LE",
-    "LD",
-    "CB",
-    "LT",
-    "MC",
-    "ME",
-    "MD",
-    "GM",
-    "PE",
-    "PD",
-    "MA",
-]
+from settings import TIMES_BRASILEIRAO_E_POSICOES
 
 
 def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
@@ -60,7 +25,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                         id="players-positions-mean-dropdown",
                         multi=True,
                         placeholder="Selecione uma posição ou time:",
-                        options=teamsAndPositions,
+                        options=TIMES_BRASILEIRAO_E_POSICOES,
                         value=[],
                         clearable=True,
                     ),
