@@ -9,16 +9,8 @@ from dash import callback
 from dash import dcc
 from dash import html
 from mplsoccer import VerticalPitch
-
-LEAGUES: dict[str, str] = {
-    "england": "Premier League",
-    "spain": "La Liga",
-    "germany": "Bundesliga",
-    "italy": "Serie A",
-    "france": "Ligue 1",
-}
-
-COLORS = ["#0072B2", "#F0E442", "#4f4e4e", "#D55E00", "#CC79A7"]
+from settings import LEAGUES
+import matplotlib.colors as mcolors
 
 
 def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
@@ -83,21 +75,23 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                     )
                 ]
                 .sort_values(by="xG")
-                .head(5)
             )
 
-            counter = 0
+            norm = mcolors.Normalize(vmin=filtered_shots["xG"].min(), vmax=filtered_shots["xG"].max())
+            cmap = plt.cm.viridis
+
 
             for idx, shot in filtered_shots.iterrows():
                 xG = f"{shot['xG'] * 100:.2f}%"
-                color = COLORS[counter]
-                counter += 1
+                color = cmap(norm(shot["xG"]))
 
                 pitch.scatter(
                     shot["start_x"],
                     shot["start_y"],
                     color=color,
                     s=125,
+                    edgecolor='black', 
+                    linewidth=0.5,  
                     ax=ax,
                     zorder=1.2,
                     label=xG,
@@ -115,9 +109,10 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                 )
 
         if player_name is not None and league is not None:
-            ax.legend(
-                title="Probabilidade de gol", labelspacing=1, bbox_to_anchor=(1.25, 0.7)
+            legend = ax.legend(
+                title="Probabilidade de gol", labelspacing=1, bbox_to_anchor=(1.25, 0.9)
             )
+            legend.get_frame().set_facecolor('white')
 
         img = BytesIO()
         fig.savefig(img, format="png", bbox_inches="tight")

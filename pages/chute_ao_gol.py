@@ -6,7 +6,9 @@ from dash import html
 
 from interface.src.components import shots_plot
 from interface.src.components import shots_plot_dropdown
-from settings import SHOTS_DATA_DIR
+from interface.src.components import action_sequence_plot
+from interface.src.components import action_sequence_dropdowns
+from settings import SHOTS_DATA_DIR, SPALD_DATA_DIR
 
 dash.register_page(
     __name__,
@@ -17,11 +19,15 @@ dash.register_page(
 # TODO importar isso de um arquivo de settings
 
 df_dict: dict[str, pd.DataFrame] = {}
-
+spald_df_dict: dict[str, pd.DataFrame] = {}
 
 for filename in os.listdir(SHOTS_DATA_DIR):
     league_name: str = filename[: filename.index("_")]
     df_dict[f"{league_name}_shots"] = pd.read_csv(f"{SHOTS_DATA_DIR}/{filename}")
+
+for filename in os.listdir(SPALD_DATA_DIR):
+    spadl_league: str = filename[: filename.index(".")]
+    spald_df_dict[f"{spadl_league}_spadl"] = pd.read_csv(f"{SPALD_DATA_DIR}/{filename}")
 
 layout = html.Div(
     [
@@ -33,6 +39,8 @@ layout = html.Div(
             children=[
                 shots_plot.render(df_dict=df_dict),
                 shots_plot_dropdown.render(df_dict=df_dict),
+                action_sequence_plot.render(df_dict=spald_df_dict),
+                action_sequence_dropdowns.render(df_dict=df_dict, spadl_dict=spald_df_dict),
             ],
         ),
     ]

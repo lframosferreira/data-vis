@@ -1,6 +1,7 @@
 # Constantes globais utilizadas entre os arquivos
 SHOTS_DATA_DIR: str = "data/shots/"
 BRASILEIRO_DATA_DIR: str = "data/brasileirao/"
+SPALD_DATA_DIR: str = "data/spadl_format/"
 ELO_DATA_DIR: str = "data/elo/"
 CLUBS_DICT: dict[str, str] = {
     "barcelona": "Barcelona",
@@ -146,3 +147,10 @@ TIMES_BRASILEIRAO_E_POSICOES: list[str] = [
     "PD",
     "MA",
 ]
+LEAGUES: dict[str, str] = {
+    "england": "Premier League",
+    "spain": "La Liga",
+    "germany": "Bundesliga",
+    "italy": "Serie A",
+    "france": "Ligue 1",
+}
