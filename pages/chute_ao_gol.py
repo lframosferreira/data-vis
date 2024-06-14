@@ -25,7 +25,7 @@ for filename in os.listdir(SHOTS_DATA_DIR):
 
 layout = html.Div(
     [
-        html.H2("Shots plot", style={"textAlign": "center"}),
+        html.H2("Visualização dos gols e suas probabilidades", style={"textAlign": "center"}),
         html.Div(
             className="shots-plot",
             children=[

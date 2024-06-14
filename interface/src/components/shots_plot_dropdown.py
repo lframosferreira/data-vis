@@ -15,24 +15,34 @@ LEAGUES: dict[str, str] = {
 
 PROBABILITY_THRESHOLD = 0.3
 
+RANGE_SLIDER_MARKS = {
+    0: '0%',
+    5: '5%',
+    10: '10%',
+    15: '15%',
+    20: '20%',
+    25: '25%',
+    30: '30%',
+    35: '35%',
+    40: '40%',
+    45: '45%',
+    50: '50%',
+}
 
 def render(df_dict: dict[str, pd.DataFrame]) -> None:
     @callback(
-        [
             Output("shots-players-dropdown", "options"),
-            Output("shots-players-dropdown", "style"),
-        ],
         Input("league-dropdown", "value"),
     )
     def populate_shots_dropdown(league: str):
         if league is None:
-            return [], {"display": "none"}
+            return []
 
         league_key = next(
             (key for key, value in LEAGUES.items() if value == league), None
         )
         if league_key is None:
-            return [], {"display": "none"}
+            return []
 
         shots = df_dict[f"{league_key}_shots"]
         filtered_shots = shots[
@@ -41,15 +51,11 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
 
         player_names = filtered_shots["player_name"].unique()
         player_options = [{"label": name, "value": name} for name in player_names]
-        return player_options, {"display": "block"}
+        return player_options
 
     return html.Div(
         children=[
-            html.Hr(style={"margin-top": "50px", "margin-bottom": "50px"}),
-            html.H2(
-                "Gols com menos de 30% de chance feitos pelo jogador",
-                style={"textAlign": "center", "margin-bottom": "50px"},
-            ),
+            html.Hr(style={"margin-top": "30px", "margin-bottom": "30px"}),
             dcc.Dropdown(
                 id="league-dropdown",
                 multi=False,
@@ -66,7 +72,26 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                 options=[],
                 clearable=True,
                 disabled=False,
-                style={"display": "none", "margin-bottom": "10px"},  # Initially hidden
+                style={ "margin-bottom": "10px"},
+            ),
+            html.Div(
+                id="shoot-slider-container",
+                children=[
+                    html.P(
+                        "Selecione a faixa de probabilidade de gol:",
+                        style={"margin-right": "10px"},
+                    ),
+                    dcc.RangeSlider(
+                        id='shoot-range-slider',
+                        min=0,
+                        max=50,
+                        value=[0, 30],
+                        step=5,
+                        marks=RANGE_SLIDER_MARKS,
+                        disabled=False,
+                    ),
+                ],
+                style={"margin-top": "15px"},
             ),
             html.Div(
                 style={
@@ -74,14 +99,15 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                     "justify-content": "center",
                     "align-items": "center",
                     "flex-direction": "column",
+                    "margin-top": "20px",
                 },
                 children=[
                     html.Iframe(
                         id="shots-plot",
                         srcDoc=None,
                         style={
-                            "width": "700px",
-                            "height": "500px",
+                            "width": "950px",
+                            "height": "600px",
                             "display": "flex",
                             "borderWidth": "0px",
                         },
