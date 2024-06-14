@@ -20,7 +20,7 @@ LEAGUES: dict[str, str] = {
 COLORS = ["#0072B2", "#F0E442", "#4f4e4e", "#D55E00", "#CC79A7"]
 
 
-def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
+def render(df_dict: dict[str, pd.DataFrame]) -> None:
     @callback(
         [
             Output("shots-players-dropdown", "disabled"),
@@ -86,9 +86,12 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                 .reset_index(drop=True)
             )
 
-            for idx, shot in filtered_shots.iterrows():
-                xG = f"{shot['xG'] * 100:.2f}%"  # noqa: N806
-                color = COLORS[idx]
+            counter = 0
+
+            for _, shot in filtered_shots.iterrows():
+                xG = f"{shot['xG'] * 100:.2f}%"
+                color = COLORS[counter]
+                counter += 1
 
                 pitch.scatter(
                     shot["start_x"],

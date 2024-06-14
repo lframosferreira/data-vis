@@ -4,49 +4,19 @@ from dash import html
 
 from settings import CLUBS_DICT
 
-#
-# CLUBS_DICT: dict[str, str] = {
-#     "barcelona": "Barcelona",
-#     "realmadrid": "Real Madrid",
-#     "girona": "Girona",
-#     "chelsea": "Chelsea",
-#     "arsenal": "Arsenal",
-#     "tottenham": "Tottenham Hotspur",
-#     "everton": "Everton",
-#     "liverpool": "Liverpool",
-#     "mancity": "Manchester City",
-#     "ajax": "AFC Ajax",
-#     "psv": "PSV Eindhoven",
-#     "manunited": "Manchester United",
-#     "rbleipzig": "RB Leipzig",
-#     "bayern": "Bayern Munich",
-#     "dortmund": "Borussia Dortmund",
-#     "newcastle": "Newcastle United",
-#     "westham": "West Ham United",
-#     "leverkusen": "Bayer Leverkusen",
-#     "wolfsburg": "VfL Wolfsburg",
-#     "juventus": "Juventus",
-#     "milan": "AC Milan",
-#     "inter": "Inter Milan",
-#     "lazio": "Lazio",
-#     "roma": "AS Roma",
-#     "atalanta": "Atalanta",
-#     "bologna": "Bologna",
-#     "napoli": "Napoli",
-#     "fiorentina": "Fiorentina",
-#     "benfica": "Benfica",
-#     "porto": "FC Porto",
-#     "braga": "SC Braga",
-#     "sporting": "Sporting CP",
-#     "valencia": "Valencia",
-#     "sevilla": "Sevilla",
-#     "vilarreal": "Villarreal",
-#     "lyon": "Olympique Lyonnais",
-#     "monaco": "AS Monaco",
-#     "parissg": "Paris Saint-Germain",
-#     "stuttgart": "VfB Stuttgart",
-#     "atletico": "Atlético Madrid",
-# }
+RANGE_SLIDER_MARKS: dict[int, str] = {
+    0: "1950",
+    5: "1960",
+    10: "1970",
+    15: "1980",
+    20: "1990",
+    25: "2000",
+    30: "2010",
+    35: "2020",
+    40: "40%",
+    45: "45%",
+    50: "50%",
+}
 
 
 def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
@@ -61,10 +31,28 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
             dcc.Dropdown(
                 id="ticker",
                 multi=True,
-                placeholder="Arsenal",
+                placeholder="Arsenal, Chelsea",
                 options=list(options),
                 value=[],
                 clearable=False,
+            ),
+            html.Div(
+                id="elo-slider-container",
+                children=[
+                    html.P(
+                        "Selecione a faixa de anos desejada:",
+                        style={"margin-right": "10px"},
+                    ),
+                    dcc.RangeSlider(
+                        id="year-slider",
+                        min=1955,
+                        max=2024,
+                        step=1,
+                        value=[1955, 2024],
+                        marks={year: str(year) for year in range(1955, 2025, 5)},
+                    ),
+                ],
+                style={"margin-top": "15px"},
             ),
         ]
     )

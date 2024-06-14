@@ -2,6 +2,7 @@ import os
 
 import dash
 import pandas as pd
+from dash import dcc
 from dash import html
 
 from interface.src.components import elo_time_series_dropdown
@@ -20,10 +21,14 @@ for filename in os.listdir(ELO_DATA_DIR):
     club_name: str = filename[: filename.index(".")]
     df_dict[club_name] = pd.read_csv(f"{ELO_DATA_DIR}/{filename}")
 
+markdown_content: str = ""
+with open("pages_content/elo.md") as f:
+    markdown_content = f.read()
 
 layout = html.Div(
     [
-        html.H2("Futebol", style={"textAlign": "center"}),
+        html.H2("Elo no futebol", style={"textAlign": "center"}),
+        dcc.Markdown(children=markdown_content),
         html.Div(
             className="elo-time-series-plot",
             children=[
