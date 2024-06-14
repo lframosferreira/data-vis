@@ -5,7 +5,6 @@ import plotly.express as px
 import pandas as pd
 import plotly.graph_objects as go
 from dash import Dash, Input, Output, dcc, exceptions, html
-
 import numpy as np
 
 teamns: list[str] = [
@@ -60,8 +59,11 @@ def make_radar_plot(df_dict: dict[str, pd.DataFrame],player,fig) -> go.Figure:
     return fig
 
 
-def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> None:
-    @app.callback(Output("radar-plot", "figure"), Input("players-dropdown", "value"))
+def render(df_dict: dict[str, pd.DataFrame]) -> None:
+    @callback(
+            Output("radar-plot", "figure"), 
+            Input("players-dropdown", "value")
+    )
     def display_time_series(ticker):
         if len(ticker) == 0:
             raise exceptions.PreventUpdate

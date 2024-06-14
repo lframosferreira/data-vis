@@ -3,7 +3,7 @@ from dash import Dash, dcc, html
 import plotly.graph_objects as go
 import numpy as np
 import matplotlib.pyplot as plt
-from dash import Dash, html, dash_table, dcc, callback, Output, Input
+from dash import Dash, html, dash_table, dcc, Output, Input, callback
 
 import os
 
@@ -31,15 +31,15 @@ teams: list[str] = [
     "Vasco da Gama",
 ]
 
-def renderPlayersDropdown(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
-    @app.callback(Output("players-dropdown", "options"), Input("teams-dropdown", "value"),prevent_initial_call=True)
+def renderPlayersDropdown(df_dict: dict[str, pd.DataFrame]) -> html.Div:
+    @callback(Output("players-dropdown", "options"), Input("teams-dropdown", "value"),prevent_initial_call=True)
     def update_players_dropdown(team):
         if team == "Todos os times":
             return list(df_dict["players_standard_statsP90"]["Jogador"])
         return list(df_dict["players_standard_statsP90"][df_dict["players_standard_statsP90"]["Equipe"] == team]["Jogador"])
     return []
 
-def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
+def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
     return html.Div(
         [   
             html.Div(
@@ -58,7 +58,7 @@ def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
                         id="players-dropdown",
                         multi=True,
                         placeholder="Selecione um jogador:",
-                        options= renderPlayersDropdown(app, df_dict),
+                        options= renderPlayersDropdown(df_dict),
                         value=[],
                         clearable=True,
                     ),

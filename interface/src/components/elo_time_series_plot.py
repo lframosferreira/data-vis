@@ -45,7 +45,7 @@ CLUBS_DICT: dict[str, str] = {
 }
 
 
-def render(app: Dash, df_dict: dict[str, pd.DataFrame]) -> html.Div:
+def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
     options: list[str] = list(
         map(lambda x: CLUBS_DICT[x], filter(lambda x: x in CLUBS_DICT, df_dict.keys()))
     )
