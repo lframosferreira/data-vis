@@ -2,6 +2,7 @@
 SHOTS_DATA_DIR: str = "data/shots/"
 BRASILEIRO_DATA_DIR: str = "data/brasileirao/"
 ELO_DATA_DIR: str = "data/elo/"
+RANK_DATA_DIR: str = "data/rank/"
 CLUBS_DICT: dict[str, str] = {
     "barcelona": "Barcelona",
     "realmadrid": "Real Madrid",
