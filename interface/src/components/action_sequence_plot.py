@@ -21,7 +21,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
     def plot_actions_sequence(num_of_actions: int, league: str, goal_event_id: int):
         fig, ax = plt.subplots()
 
-        if num_of_actions is None or league is None or goal_event_id is None:
+        if league is None or goal_event_id is None:
             matplotsoccer.field(color="green", ax=ax)
         else:
             league_key = next(
