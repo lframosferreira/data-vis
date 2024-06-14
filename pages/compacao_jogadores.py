@@ -13,8 +13,8 @@ from settings import BRASILEIRO_DATA_DIR
 dash.register_page(
     __name__,
     path="/comparacao-jogadores",
-    title="Comparacao jogadores title",
-    name="Comparacao jogadores name",
+    title="Comparar jogadores",
+    name="Comparar jogadores",
 )
 
 df_dict: dict[str, pd.DataFrame] = {}

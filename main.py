@@ -1,38 +1,77 @@
-from dash import dcc
+import dash_bootstrap_components as dbc
 from dash import html
 from dash import page_container
 from dash import page_registry
 
 from app import app
 
-app.layout = html.Div(
-    style={
-        "display": "flex",
-        "margin-right": "10%",
-        "margin-left": "10%",
-        "flex-direction": "column",
-    },
-    children=[
-        html.H1("Multi-page app with Dash Pages"),
-        html.Div(
-            [
-                html.Div(
-                    dcc.Link(
-                        f"{page['name']} - {page['path']}",
-                        href=page["relative_path"],
-                    )
+# Define a special style for the home page
+special_style = {
+    # "font-weight": "bold",
+    "color": "white",
+    # "background-color": "darkblue",
+    # "padding": "10px",
+    # "border-radius": "5px"
+}
+
+# Create the navigation items
+paginas = []
+for page in page_registry.values():
+    if page["path"] == "/":
+        paginas.append(
+            dbc.NavItem(dbc.NavLink(page["name"], href=page["relative_path"]))
+        )
+    else:
+        paginas.append(
+            dbc.NavItem(
+                dbc.NavLink(
+                    page["name"], href=page["relative_path"], style=special_style
                 )
-                for page in page_registry.values()
-            ]
+            )
+        )
+
+# Create the navbar
+navbar = dbc.Navbar(
+    dbc.Container(
+        [
+            dbc.NavbarBrand("SoccerAnalytics", href="/"),
+            dbc.NavbarToggler(id="navbar-toggler"),
+            dbc.Collapse(
+                dbc.Nav(
+                    paginas,
+                    className="ms-auto",
+                    navbar=True,
+                ),
+                id="navbar-collapse",
+                navbar=True,
+            ),
+        ],
+        fluid=True,
+    ),
+    color="primary",
+    dark=True,
+    className="mb-5",
+)
+
+# Define the app layout
+app.layout = html.Div(
+    [
+        navbar,
+        dbc.Container(
+            [
+                page_container,
+            ],
+            style={"margin-top": "20px"},
         ),
-        page_container,
-    ],
+    ]
 )
 
 
+# Define the main function to run the app
 def main() -> None:
     app.run(debug=True)
 
 
+# Run the app
 if __name__ == "__main__":
     main()
