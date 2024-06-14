@@ -1,0 +1,421 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+CD Palestino,1,1,0,0,4,0,4,3,1
+CD Huachipato,1,1,0,0,4,0,4,3,2
+Curico Unido,1,1,0,0,3,0,3,3,3
+Coquimbo Unido,1,1,0,0,3,1,2,3,4
+Audax Italiano,1,1,0,0,3,1,2,3,5
+Universidad Catolica,1,1,0,0,2,0,2,3,6
+Deportes Magallanes,1,1,0,0,1,0,1,3,7
+CD Cobresal,1,1,0,0,0,0,0,3,8
+Higgins,1,0,1,0,2,0,2,1,9
+Nublense,1,0,1,0,2,2,0,1,10
+Deportes Copiapo,1,0,1,0,0,0,0,1,11
+Union La Calera,1,0,1,0,0,0,0,1,12
+Universidad de Chile,1,0,1,0,0,1,-1,1,13
+Everton,1,0,1,0,1,3,-2,1,14
+Union Espanola,1,0,0,1,0,1,-1,0,15
+CD Huachipato,2,2,0,0,7,0,7,6,1
+Curico Unido,2,2,0,0,6,0,6,6,2
+Audax Italiano,2,2,0,0,6,1,5,6,3
+CD Palestino,2,2,0,0,5,0,5,6,4
+Coquimbo Unido,2,2,0,0,3,1,2,6,5
+Universidad Catolica,2,2,0,0,2,0,2,6,6
+CD Cobresal,2,2,0,0,0,0,0,6,7
+Nublense,2,1,1,0,5,2,3,4,8
+Union La Calera,2,1,1,0,3,0,3,4,9
+Everton,2,1,1,0,3,3,0,4,10
+Deportes Magallanes,2,1,0,1,1,4,-3,3,11
+Higgins,2,0,2,0,2,0,2,2,12
+Deportes Copiapo,2,0,2,0,0,0,0,2,13
+Universidad de Chile,2,0,2,0,0,1,-1,2,14
+Union Espanola,2,0,1,1,0,2,-2,1,15
+CD Palestino,3,3,0,0,10,0,10,9,1
+Audax Italiano,3,2,1,0,8,2,6,7,2
+Coquimbo Unido,3,2,1,0,3,2,1,7,3
+Universidad Catolica,3,2,1,0,3,2,1,7,4
+Curico Unido,3,2,0,1,9,1,8,6,5
+CD Huachipato,3,2,0,1,7,2,5,6,6
+CD Cobresal,3,2,0,1,0,1,-1,6,7
+Union La Calera,3,1,1,1,5,2,3,4,8
+Everton,3,1,1,1,3,7,-4,4,9
+Nublense,3,1,1,1,6,11,-5,4,10
+Deportes Magallanes,3,1,0,2,1,4,-3,3,11
+Higgins,3,0,3,0,2,0,2,3,12
+Universidad de Chile,3,0,2,1,1,3,-2,2,13
+Deportes Copiapo,3,0,2,1,0,4,-4,2,14
+Union Espanola,3,0,1,2,0,3,-3,1,15
+CD Palestino,4,4,0,0,12,0,12,12,1
+CD Cobresal,4,3,0,1,2,1,1,9,2
+Audax Italiano,4,2,2,0,12,3,9,8,3
+Universidad Catolica,4,2,2,0,4,3,1,8,4
+Coquimbo Unido,4,2,2,0,3,2,1,8,5
+Curico Unido,4,2,1,1,11,1,10,7,6
+CD Huachipato,4,2,1,1,8,3,5,7,7
+Deportes Magallanes,4,1,1,2,4,5,-1,4,8
+Union La Calera,4,1,1,2,5,7,-2,4,9
+Everton,4,1,1,2,4,11,-7,4,10
+Nublense,4,1,1,2,6,14,-8,4,11
+Higgins,4,0,4,0,2,2,0,4,12
+Universidad de Chile,4,0,2,2,3,5,-2,2,13
+Deportes Copiapo,4,0,2,2,0,4,-4,2,14
+Union Espanola,4,0,1,3,0,3,-3,1,15
+CD Palestino,5,5,0,0,13,0,13,15,1
+CD Cobresal,5,4,0,1,2,1,1,12,2
+Audax Italiano,5,3,2,0,14,4,10,11,3
+Universidad Catolica,5,3,2,0,8,5,3,11,4
+Coquimbo Unido,5,3,2,0,5,3,2,11,5
+Curico Unido,5,3,1,1,13,1,12,10,6
+CD Huachipato,5,3,1,1,10,4,6,10,7
+Everton,5,2,1,2,4,13,-9,7,8
+Deportes Magallanes,5,1,2,2,4,5,-1,5,9
+Higgins,5,0,5,0,2,2,0,5,10
+Union La Calera,5,1,1,3,6,9,-3,4,11
+Nublense,5,1,1,3,6,18,-12,4,12
+Universidad de Chile,5,0,3,2,4,6,-2,3,13
+Deportes Copiapo,5,0,2,3,0,4,-4,2,14
+Union Espanola,5,0,1,4,0,5,-5,1,15
+CD Palestino,6,6,0,0,17,0,17,18,1
+Audax Italiano,6,4,2,0,17,4,13,14,2
+Universidad Catolica,6,4,2,0,12,5,7,14,3
+Coquimbo Unido,6,4,2,0,6,3,3,14,4
+Curico Unido,6,4,1,1,13,1,12,13,5
+CD Huachipato,6,4,1,1,11,4,7,13,6
+CD Cobresal,6,4,1,1,2,2,0,13,7
+Everton,6,3,1,2,6,13,-7,10,8
+Union La Calera,6,2,1,3,7,10,-3,7,9
+Higgins,6,0,6,0,4,2,2,6,10
+Deportes Magallanes,6,1,2,3,4,8,-4,5,11
+Nublense,6,1,2,3,6,18,-12,5,12
+Universidad de Chile,6,0,4,2,4,6,-2,4,13
+Deportes Copiapo,6,0,3,3,0,4,-4,3,14
+Union Espanola,6,0,2,4,0,5,-5,2,15
+CD Palestino,7,7,0,0,21,0,21,21,1
+Curico Unido,7,5,1,1,17,2,15,16,2
+CD Cobresal,7,5,1,1,6,3,3,16,3
+Audax Italiano,7,4,3,0,20,5,15,15,4
+Universidad Catolica,7,4,3,0,15,6,9,15,5
+Coquimbo Unido,7,4,2,1,7,5,2,14,6
+CD Huachipato,7,4,1,2,11,8,3,13,7
+Everton,7,3,1,3,6,17,-11,10,8
+Union La Calera,7,2,1,4,8,18,-10,7,9
+Higgins,7,0,7,0,4,3,1,7,10
+Deportes Magallanes,7,1,3,3,5,8,-3,6,11
+Nublense,7,1,2,4,6,31,-25,5,12
+Universidad de Chile,7,0,4,3,4,7,-3,4,13
+Deportes Copiapo,7,0,4,3,1,4,-3,4,14
+Union Espanola,7,0,2,5,0,8,-8,2,15
+CD Palestino,8,8,0,0,22,3,19,24,1
+Curico Unido,8,6,1,1,20,2,18,19,2
+CD Cobresal,8,6,1,1,6,3,3,19,3
+Audax Italiano,8,5,3,0,24,6,18,18,4
+Universidad Catolica,8,5,3,0,18,7,11,18,5
+Coquimbo Unido,8,5,2,1,7,5,2,17,6
+CD Huachipato,8,5,1,2,14,11,3,16,7
+Everton,8,3,1,4,6,19,-13,10,8
+Higgins,8,0,8,0,4,3,1,8,9
+Union La Calera,8,2,1,5,8,19,-11,7,10
+Universidad de Chile,8,1,4,3,5,7,-2,7,11
+Deportes Magallanes,8,1,4,3,7,10,-3,7,12
+Nublense,8,1,2,5,6,32,-26,5,13
+Deportes Copiapo,8,0,4,4,1,4,-3,4,14
+Union Espanola,8,0,3,5,0,8,-8,3,15
+CD Palestino,9,9,0,0,24,4,20,27,1
+Audax Italiano,9,6,3,0,35,8,27,21,2
+Universidad Catolica,9,6,3,0,30,7,23,21,3
+Curico Unido,9,6,2,1,21,3,18,20,4
+Coquimbo Unido,9,6,2,1,14,5,9,20,5
+CD Cobresal,9,6,2,1,6,5,1,20,6
+CD Huachipato,9,6,1,2,24,14,10,19,7
+Everton,9,4,1,4,6,19,-13,13,8
+Higgins,9,1,8,0,5,3,2,11,9
+Universidad de Chile,9,2,4,3,6,7,-1,10,10
+Union La Calera,9,2,2,5,10,22,-12,8,11
+Nublense,9,2,2,5,8,33,-25,8,12
+Deportes Magallanes,9,1,5,3,7,10,-3,8,13
+Deportes Copiapo,9,0,4,5,1,7,-6,4,14
+Union Espanola,9,0,3,6,0,11,-11,3,15
+CD Palestino,10,10,0,0,33,5,28,30,1
+Audax Italiano,10,7,3,0,41,8,33,24,2
+Universidad Catolica,10,7,3,0,36,8,28,24,3
+Curico Unido,10,7,2,1,22,5,17,23,4
+Coquimbo Unido,10,7,2,1,18,5,13,23,5
+CD Cobresal,10,7,2,1,8,7,1,23,6
+CD Huachipato,10,7,1,2,30,16,14,22,7
+Everton,10,4,1,5,6,21,-15,13,8
+Higgins,10,1,9,0,5,3,2,12,9
+Union La Calera,10,3,2,5,17,24,-7,11,10
+Nublense,10,3,2,5,9,34,-25,11,11
+Universidad de Chile,10,2,4,4,7,8,-1,10,12
+Deportes Magallanes,10,1,5,4,8,13,-5,8,13
+Deportes Copiapo,10,0,5,5,2,7,-5,5,14
+Union Espanola,10,0,3,7,0,14,-14,3,15
+CD Palestino,11,11,0,0,35,7,28,33,1
+Curico Unido,11,8,2,1,27,5,22,26,2
+Coquimbo Unido,11,8,2,1,20,5,15,26,3
+CD Cobresal,11,8,2,1,11,7,4,26,4
+Audax Italiano,11,7,4,0,42,10,32,25,5
+Universidad Catolica,11,7,4,0,36,8,28,25,6
+CD Huachipato,11,7,1,3,36,20,16,22,7
+Union La Calera,11,4,2,5,21,24,-3,14,8
+Everton,11,4,2,5,7,22,-15,14,9
+Higgins,11,1,10,0,5,3,2,13,10
+Nublense,11,3,2,6,11,40,-29,11,11
+Universidad de Chile,11,2,5,4,7,10,-3,11,12
+Deportes Magallanes,11,1,5,5,8,15,-7,8,13
+Deportes Copiapo,11,0,5,6,2,7,-5,5,14
+Union Espanola,11,0,3,8,0,14,-14,3,15
+CD Palestino,12,11,1,0,36,7,29,34,1
+Curico Unido,12,9,2,1,28,5,23,29,2
+Coquimbo Unido,12,9,2,1,23,5,18,29,3
+CD Cobresal,12,9,2,1,16,7,9,29,4
+Universidad Catolica,12,8,4,0,42,8,34,28,5
+Audax Italiano,12,7,4,1,44,13,31,25,6
+CD Huachipato,12,7,1,4,41,25,16,22,7
+Everton,12,5,2,5,11,22,-11,17,8
+Union La Calera,12,4,2,6,24,28,-4,14,9
+Universidad de Chile,12,3,5,4,8,10,-2,14,10
+Higgins,12,1,10,1,5,3,2,13,11
+Nublense,12,3,2,7,13,43,-30,11,12
+Deportes Magallanes,12,1,5,6,8,19,-11,8,13
+Deportes Copiapo,12,0,6,6,2,7,-5,6,14
+Union Espanola,12,0,3,9,0,14,-14,3,15
+CD Palestino,13,11,2,0,38,8,30,35,1
+Curico Unido,13,10,2,1,29,5,24,32,2
+Universidad Catolica,13,9,4,0,48,8,40,31,3
+Coquimbo Unido,13,9,3,1,26,7,19,30,4
+CD Cobresal,13,9,3,1,16,7,9,30,5
+CD Huachipato,13,8,1,4,52,25,27,25,6
+Audax Italiano,13,7,4,2,47,17,30,25,7
+Everton,13,6,2,5,13,23,-10,20,8
+Universidad de Chile,13,4,5,4,8,10,-2,17,9
+Union La Calera,13,4,2,7,25,29,-4,14,10
+Higgins,13,1,10,2,5,4,1,13,11
+Nublense,13,3,3,7,15,48,-33,12,12
+Deportes Magallanes,13,1,6,6,8,21,-13,9,13
+Deportes Copiapo,13,0,7,6,2,7,-5,7,14
+Union Espanola,13,0,3,10,0,17,-17,3,15
+CD Palestino,14,12,2,0,40,8,32,38,1
+Curico Unido,14,11,2,1,42,5,37,35,2
+Universidad Catolica,14,10,4,0,49,8,41,34,3
+Coquimbo Unido,14,10,3,1,28,9,19,33,4
+CD Cobresal,14,9,4,1,17,8,9,31,5
+CD Huachipato,14,9,1,4,57,25,32,28,6
+Audax Italiano,14,7,5,2,47,17,30,26,7
+Everton,14,6,2,6,14,25,-11,20,8
+Union La Calera,14,5,2,7,28,30,-2,17,9
+Universidad de Chile,14,4,5,5,8,12,-4,17,10
+Higgins,14,2,10,2,5,4,1,16,11
+Nublense,14,4,3,7,15,48,-33,15,12
+Deportes Magallanes,14,1,6,7,9,24,-15,9,13
+Deportes Copiapo,14,0,7,7,3,8,-5,7,14
+Union Espanola,14,0,4,10,0,17,-17,4,15
+CD Palestino,15,12,3,0,40,8,32,39,1
+Curico Unido,15,12,2,1,50,6,44,38,2
+Universidad Catolica,15,11,4,0,50,8,42,37,3
+Coquimbo Unido,15,11,3,1,28,9,19,36,4
+CD Cobresal,15,9,5,1,18,9,9,32,5
+CD Huachipato,15,10,1,4,59,26,33,31,6
+Audax Italiano,15,8,5,2,52,17,35,29,7
+Union La Calera,15,6,2,7,30,30,0,20,8
+Everton,15,6,2,7,16,29,-13,20,9
+Universidad de Chile,15,5,5,5,9,12,-3,20,10
+Higgins,15,2,11,2,5,4,1,17,11
+Nublense,15,4,3,8,16,55,-39,15,12
+Deportes Magallanes,15,1,7,7,10,24,-14,10,13
+Deportes Copiapo,15,0,7,8,3,9,-6,7,14
+Union Espanola,15,0,4,11,0,20,-20,4,15
+Curico Unido,16,13,2,1,52,7,45,41,1
+Universidad Catolica,16,12,4,0,58,8,50,40,2
+CD Palestino,16,12,4,0,41,10,31,40,3
+Coquimbo Unido,16,12,3,1,31,9,22,39,4
+CD Huachipato,16,11,1,4,60,29,31,34,5
+CD Cobresal,16,9,6,1,20,9,11,33,6
+Audax Italiano,16,9,5,2,57,19,38,32,7
+Universidad de Chile,16,6,5,5,10,12,-2,23,8
+Union La Calera,16,6,2,8,32,40,-8,20,9
+Everton,16,6,2,8,17,31,-14,20,10
+Higgins,16,2,12,2,5,4,1,18,11
+Nublense,16,4,4,8,16,56,-40,16,12
+Deportes Magallanes,16,1,7,8,10,29,-19,10,13
+Deportes Copiapo,16,0,7,9,3,13,-10,7,14
+Union Espanola,16,0,4,12,0,22,-22,4,15
+Universidad Catolica,17,13,4,0,59,8,51,43,1
+Curico Unido,17,13,3,1,53,10,43,42,2
+CD Palestino,17,12,5,0,42,10,32,41,3
+Coquimbo Unido,17,12,4,1,34,10,24,40,4
+CD Huachipato,17,12,1,4,64,30,34,37,5
+Audax Italiano,17,10,5,2,58,20,38,35,6
+CD Cobresal,17,9,7,1,21,13,8,34,7
+Universidad de Chile,17,6,5,6,10,12,-2,23,8
+Union La Calera,17,6,3,8,33,40,-7,21,9
+Everton,17,6,3,8,17,31,-14,21,10
+Higgins,17,2,13,2,5,4,1,19,11
+Nublense,17,4,5,8,19,58,-39,17,12
+Deportes Magallanes,17,1,7,9,10,31,-21,10,13
+Deportes Copiapo,17,0,7,10,3,14,-11,7,14
+Union Espanola,17,0,4,13,0,22,-22,4,15
+Universidad Catolica,18,14,4,0,63,9,54,46,1
+Curico Unido,18,14,3,1,57,10,47,45,2
+CD Palestino,18,13,5,0,46,10,36,44,3
+Coquimbo Unido,18,13,4,1,35,10,25,43,4
+CD Huachipato,18,13,1,4,68,30,38,40,5
+Audax Italiano,18,11,5,2,58,20,38,38,6
+CD Cobresal,18,10,7,1,23,13,10,37,7
+Union La Calera,18,7,3,8,42,45,-3,24,8
+Universidad de Chile,18,6,5,7,11,15,-4,23,9
+Higgins,18,3,13,2,5,4,1,22,10
+Everton,18,6,3,9,18,33,-15,21,11
+Nublense,18,4,5,9,19,65,-46,17,12
+Deportes Magallanes,18,1,7,10,12,31,-19,10,13
+Deportes Copiapo,18,0,8,10,3,16,-13,8,14
+Union Espanola,18,0,4,14,0,24,-24,4,15
+Universidad Catolica,19,15,4,0,67,10,57,49,1
+CD Palestino,19,14,5,0,46,10,36,47,2
+Curico Unido,19,14,4,1,58,10,48,46,3
+Coquimbo Unido,19,14,4,1,44,11,33,46,4
+CD Huachipato,19,14,1,4,74,32,42,43,5
+Audax Italiano,19,12,5,2,62,23,39,41,6
+CD Cobresal,19,11,7,1,26,13,13,40,7
+Union La Calera,19,7,3,9,42,49,-7,24,8
+Universidad de Chile,19,6,5,8,14,18,-4,23,9
+Higgins,19,3,14,2,6,4,2,23,10
+Everton,19,6,4,9,18,34,-16,22,11
+Nublense,19,4,5,10,19,77,-58,17,12
+Deportes Magallanes,19,1,8,10,12,31,-19,11,13
+Deportes Copiapo,19,0,8,11,3,19,-16,8,14
+Union Espanola,19,0,5,14,0,25,-25,5,15
+Universidad Catolica,20,16,4,0,79,11,68,52,1
+Coquimbo Unido,20,15,4,1,47,11,36,49,2
+CD Palestino,20,14,6,0,47,11,36,48,3
+Curico Unido,20,14,5,1,59,13,46,47,4
+CD Huachipato,20,15,1,4,78,32,46,46,5
+Audax Italiano,20,13,5,2,65,23,42,44,6
+CD Cobresal,20,11,7,2,28,14,14,40,7
+Union La Calera,20,7,3,10,43,55,-12,24,8
+Universidad de Chile,20,6,6,8,14,18,-4,24,9
+Higgins,20,3,15,2,8,4,4,24,10
+Everton,20,6,4,10,18,39,-21,22,11
+Nublense,20,4,5,11,22,87,-65,17,12
+Deportes Magallanes,20,1,8,11,13,35,-22,11,13
+Deportes Copiapo,20,0,8,12,3,20,-17,8,14
+Union Espanola,20,0,5,15,0,28,-28,5,15
+Universidad Catolica,21,17,4,0,86,12,74,55,1
+CD Palestino,21,15,6,0,48,12,36,51,2
+Curico Unido,21,15,5,1,61,13,48,50,3
+Coquimbo Unido,21,15,5,1,47,11,36,50,4
+CD Huachipato,21,16,1,4,100,32,68,49,5
+Audax Italiano,21,14,5,2,71,23,48,47,6
+CD Cobresal,21,11,8,2,30,14,16,41,7
+Higgins,21,3,16,2,11,4,7,25,8
+Union La Calera,21,7,3,11,45,61,-16,24,9
+Universidad de Chile,21,6,6,9,15,22,-7,24,10
+Everton,21,6,4,11,18,40,-22,22,11
+Nublense,21,4,5,12,22,88,-66,17,12
+Deportes Magallanes,21,1,8,12,13,36,-23,11,13
+Deportes Copiapo,21,0,8,13,3,20,-17,8,14
+Union Espanola,21,0,5,16,0,29,-29,5,15
+Universidad Catolica,22,18,4,0,87,13,74,58,1
+CD Palestino,22,16,6,0,54,14,40,54,2
+Curico Unido,22,16,5,1,68,14,54,53,3
+Coquimbo Unido,22,16,5,1,51,17,34,53,4
+CD Huachipato,22,17,1,4,111,32,79,52,5
+Audax Italiano,22,15,5,2,71,23,48,50,6
+CD Cobresal,22,12,8,2,33,16,17,44,7
+Higgins,22,4,16,2,11,4,7,28,8
+Union La Calera,22,7,4,11,45,61,-16,25,9
+Universidad de Chile,22,6,7,9,16,22,-6,25,10
+Everton,22,6,5,11,23,42,-19,23,11
+Nublense,22,4,5,13,24,99,-75,17,12
+Deportes Magallanes,22,1,8,13,14,38,-24,11,13
+Deportes Copiapo,22,0,8,14,3,20,-17,8,14
+Union Espanola,22,0,5,17,1,30,-29,5,15
+Universidad Catolica,23,19,4,0,92,18,74,61,1
+CD Palestino,23,17,6,0,58,17,41,57,2
+Curico Unido,23,17,5,1,78,16,62,56,3
+CD Huachipato,23,18,1,4,112,33,79,55,4
+Coquimbo Unido,23,16,6,1,51,17,34,54,5
+Audax Italiano,23,16,5,2,81,23,58,53,6
+CD Cobresal,23,13,8,2,34,17,17,47,7
+Higgins,23,5,16,2,13,4,9,31,8
+Universidad de Chile,23,6,8,9,16,23,-7,26,9
+Union La Calera,23,7,4,12,45,67,-22,25,10
+Everton,23,6,5,12,24,45,-21,23,11
+Nublense,23,4,5,14,29,108,-79,17,12
+Deportes Magallanes,23,1,8,14,16,45,-29,11,13
+Deportes Copiapo,23,0,8,15,3,22,-19,8,14
+Union Espanola,23,0,5,18,1,34,-33,5,15
+Universidad Catolica,24,20,4,0,92,18,74,64,1
+CD Huachipato,24,19,1,4,118,34,84,58,2
+CD Palestino,24,17,7,0,60,20,40,58,3
+Curico Unido,24,17,6,1,79,19,60,57,4
+Audax Italiano,24,17,5,2,90,23,67,56,5
+Coquimbo Unido,24,16,7,1,53,18,35,55,6
+CD Cobresal,24,13,8,3,36,19,17,47,7
+Higgins,24,5,17,2,13,4,9,32,8
+Universidad de Chile,24,6,8,10,16,24,-8,26,9
+Union La Calera,24,7,4,13,45,70,-25,25,10
+Everton,24,6,5,13,24,45,-21,23,11
+Nublense,24,4,5,15,30,117,-87,17,12
+Deportes Magallanes,24,1,8,15,16,47,-31,11,13
+Deportes Copiapo,24,0,8,16,3,25,-22,8,14
+Union Espanola,24,0,5,19,1,37,-36,5,15
+Universidad Catolica,25,21,4,0,95,20,75,67,1
+CD Huachipato,25,20,1,4,119,34,85,61,2
+Audax Italiano,25,18,5,2,91,23,68,59,3
+CD Palestino,25,17,7,1,60,21,39,58,4
+Curico Unido,25,17,6,2,80,23,57,57,5
+Coquimbo Unido,25,16,7,2,54,19,35,55,6
+CD Cobresal,25,13,8,4,36,20,16,47,7
+Higgins,25,5,18,2,14,5,9,33,8
+Universidad de Chile,25,6,8,11,17,28,-11,26,9
+Union La Calera,25,7,4,14,46,77,-31,25,10
+Everton,25,6,5,14,24,53,-29,23,11
+Nublense,25,4,5,16,31,129,-98,17,12
+Deportes Magallanes,25,1,8,16,16,53,-37,11,13
+Deportes Copiapo,25,0,8,17,3,26,-23,8,14
+Union Espanola,25,0,5,20,1,43,-42,5,15
+Universidad Catolica,26,21,4,1,96,26,70,67,1
+CD Huachipato,26,21,1,4,123,37,86,64,2
+Audax Italiano,26,19,5,2,93,26,67,62,3
+CD Palestino,26,17,7,2,61,23,38,58,4
+Curico Unido,26,17,6,3,82,29,53,57,5
+Coquimbo Unido,26,16,7,3,55,20,35,55,6
+CD Cobresal,26,13,8,5,39,21,18,47,7
+Higgins,26,5,19,2,14,6,8,34,8
+Universidad de Chile,26,6,8,12,17,32,-15,26,9
+Union La Calera,26,7,4,15,46,88,-42,25,10
+Everton,26,6,5,15,25,57,-32,23,11
+Nublense,26,4,5,17,31,151,-120,17,12
+Deportes Magallanes,26,1,8,17,16,64,-48,11,13
+Deportes Copiapo,26,0,8,18,3,30,-27,8,14
+Union Espanola,26,0,5,21,1,48,-47,5,15
+Universidad Catolica,27,21,5,1,97,27,70,68,1
+CD Huachipato,27,21,2,4,124,37,87,65,2
+Audax Italiano,27,20,5,2,95,29,66,65,3
+CD Palestino,27,17,8,2,61,23,38,59,4
+Curico Unido,27,17,7,3,82,31,51,58,5
+Coquimbo Unido,27,16,8,3,55,20,35,56,6
+CD Cobresal,27,13,9,5,39,21,18,48,7
+Higgins,27,5,20,2,14,6,8,35,8
+Universidad de Chile,27,6,9,12,17,35,-18,27,9
+Union La Calera,27,7,4,16,46,90,-44,25,10
+Everton,27,6,5,16,25,57,-32,23,11
+Nublense,27,4,5,18,31,151,-120,17,12
+Deportes Magallanes,27,1,8,18,16,64,-48,11,13
+Deportes Copiapo,27,0,9,18,3,31,-28,9,14
+Union Espanola,27,0,6,21,1,48,-47,6,15
+Universidad Catolica,28,21,5,2,100,29,71,68,1
+Audax Italiano,28,21,5,2,96,29,67,68,2
+CD Huachipato,28,21,2,5,127,39,88,65,3
+CD Palestino,28,17,8,3,62,24,38,59,4
+Curico Unido,28,17,7,4,82,37,45,58,5
+Coquimbo Unido,28,16,8,4,55,21,34,56,6
+CD Cobresal,28,13,9,6,39,21,18,48,7
+Higgins,28,5,20,3,14,7,7,35,8
+Universidad de Chile,28,6,9,13,17,35,-18,27,9
+Union La Calera,28,7,4,17,46,99,-53,25,10
+Everton,28,6,5,17,28,61,-33,23,11
+Nublense,28,4,5,19,31,161,-130,17,12
+Deportes Magallanes,28,1,8,19,16,69,-53,11,13
+Deportes Copiapo,28,0,9,19,3,34,-31,9,14
+Union Espanola,28,0,6,22,3,53,-50,6,15

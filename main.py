@@ -34,7 +34,7 @@ for page in page_registry.values():
 navbar = dbc.Navbar(
     dbc.Container(
         [
-            dbc.NavbarBrand("SoccerAnalytics", href="/"),
+            dbc.NavbarBrand("ExtensibleSoccerAnalyticsKit", href="/"),
             dbc.NavbarToggler(id="navbar-toggler"),
             dbc.Collapse(
                 dbc.Nav(

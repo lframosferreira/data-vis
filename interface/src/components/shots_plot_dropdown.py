@@ -51,8 +51,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
         ]
 
         player_names = filtered_shots["player_name"].unique()
-        player_options = [{"label": name, "value": name} for name in player_names]
-        return player_options
+        return [{"label": name, "value": name} for name in player_names]
 
     return html.Div(
         children=[

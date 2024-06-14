@@ -1,0 +1,1405 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+San Antonio Scorpions,1,1,0,0,5,1,4,3,1
+Los Angeles Galaxy II,1,1,0,0,5,2,3,3,2
+El Paso Locomotive,1,1,0,0,4,1,3,3,3
+Sacramento Republic,1,1,0,0,3,0,3,3,4
+Birmingham Legion,1,1,0,0,3,0,3,3,5
+Tampa Bay Rowdies,1,1,0,0,3,1,2,3,6
+Miami FC,1,1,0,0,2,0,2,3,7
+Rio Grande Valley FC,1,1,0,0,2,0,2,3,8
+Phoenix Rising,1,1,0,0,2,0,2,3,9
+New Mexico United,1,1,0,0,2,0,2,3,10
+Detroit City FC,1,1,0,0,2,1,1,3,11
+Memphis 901,1,1,0,0,1,0,1,3,12
+San Diego Loyal,1,1,0,0,1,0,1,3,13
+Orange County SC,1,1,0,0,2,2,0,3,14
+Colorado Springs Switchbacks,1,1,0,0,1,1,0,3,15
+Las Vegas Lights FC,1,1,0,0,1,1,0,3,16
+Pittsburgh Riverhounds,1,1,0,0,1,2,-1,3,17
+Oakland Roots,1,1,0,0,1,2,-1,3,18
+Louisville City FC,1,1,0,0,1,3,-2,3,19
+Hartford Athletic,1,0,1,0,3,1,2,1,20
+Indy Eleven,1,0,1,0,3,1,2,1,21
+Monterey Bay FC,1,0,1,0,2,0,2,1,22
+Loudoun United,1,0,1,0,1,1,0,1,23
+Charleston Battery,1,0,1,0,1,1,0,1,24
+FC Tulsa,1,0,1,0,1,2,-1,1,25
+New York Red Bulls II,1,0,0,1,4,0,4,0,26
+Atlanta United FC II,1,0,0,1,0,2,-2,0,27
+San Antonio Scorpions,2,2,0,0,9,1,8,6,1
+Sacramento Republic,2,2,0,0,6,0,6,6,2
+El Paso Locomotive,2,2,0,0,7,2,5,6,3
+Memphis 901,2,2,0,0,5,2,3,6,4
+Rio Grande Valley FC,2,2,0,0,5,2,3,6,5
+Tampa Bay Rowdies,2,2,0,0,5,2,3,6,6
+New Mexico United,2,2,0,0,4,1,3,6,7
+Miami FC,2,2,0,0,3,1,2,6,8
+Birmingham Legion,2,2,0,0,3,1,2,6,9
+San Diego Loyal,2,2,0,0,2,0,2,6,10
+Detroit City FC,2,2,0,0,2,1,1,6,11
+Phoenix Rising,2,2,0,0,5,5,0,6,12
+Oakland Roots,2,2,0,0,4,4,0,6,13
+Orange County SC,2,2,0,0,6,7,-1,6,14
+Louisville City FC,2,2,0,0,4,5,-1,6,15
+Pittsburgh Riverhounds,2,2,0,0,2,5,-3,6,16
+Colorado Springs Switchbacks,2,2,0,0,1,4,-3,6,17
+Los Angeles Galaxy II,2,1,1,0,8,3,5,4,18
+Las Vegas Lights FC,2,1,1,0,6,2,4,4,19
+Charleston Battery,2,1,1,0,6,3,3,4,20
+Indy Eleven,2,0,2,0,5,1,4,2,21
+Hartford Athletic,2,0,2,0,6,4,2,2,22
+Monterey Bay FC,2,0,2,0,3,1,2,2,23
+FC Tulsa,2,0,2,0,2,3,-1,2,24
+Loudoun United,2,0,1,1,1,2,-1,1,25
+New York Red Bulls II,2,0,0,2,5,4,1,0,26
+Atlanta United FC II,2,0,0,2,4,5,-1,0,27
+Memphis 901,3,3,0,0,10,2,8,9,1
+San Antonio Scorpions,3,2,1,0,11,2,9,7,2
+Tampa Bay Rowdies,3,2,1,0,6,3,3,7,3
+Louisville City FC,3,2,1,0,5,6,-1,7,4
+Rio Grande Valley FC,3,2,0,1,7,3,4,6,5
+El Paso Locomotive,3,2,0,1,7,3,4,6,6
+Miami FC,3,2,0,1,6,2,4,6,7
+Sacramento Republic,3,2,0,1,6,2,4,6,8
+New Mexico United,3,2,0,1,5,1,4,6,9
+Detroit City FC,3,2,0,1,4,4,0,6,10
+San Diego Loyal,3,2,0,1,2,2,0,6,11
+Orange County SC,3,2,0,1,6,8,-2,6,12
+Phoenix Rising,3,2,0,1,5,7,-2,6,13
+Oakland Roots,3,2,0,1,4,6,-2,6,14
+Birmingham Legion,3,2,0,1,4,7,-3,6,15
+Colorado Springs Switchbacks,3,2,0,1,1,7,-6,6,16
+Pittsburgh Riverhounds,3,2,0,1,2,11,-9,6,17
+Las Vegas Lights FC,3,1,1,1,6,3,3,4,18
+Los Angeles Galaxy II,3,1,1,1,9,7,2,4,19
+Charleston Battery,3,1,1,1,8,7,1,4,20
+Monterey Bay FC,3,0,2,1,5,2,3,2,21
+Hartford Athletic,3,0,2,1,7,7,0,2,22
+Indy Eleven,3,0,2,1,6,6,0,2,23
+FC Tulsa,3,0,2,1,3,6,-3,2,24
+Loudoun United,3,0,1,2,1,4,-3,1,25
+New York Red Bulls II,3,0,0,3,5,9,-4,0,26
+Atlanta United FC II,3,0,0,3,4,9,-5,0,27
+Memphis 901,4,4,0,0,15,3,12,12,1
+Miami FC,4,3,0,1,8,3,5,9,2
+San Antonio Scorpions,4,2,2,0,12,2,10,8,3
+Tampa Bay Rowdies,4,2,2,0,8,5,3,8,4
+Louisville City FC,4,2,2,0,6,6,0,8,5
+Rio Grande Valley FC,4,2,1,1,8,4,4,7,6
+El Paso Locomotive,4,2,1,1,7,3,4,7,7
+New Mexico United,4,2,1,1,6,2,4,7,8
+Sacramento Republic,4,2,1,1,6,5,1,7,9
+San Diego Loyal,4,2,1,1,3,2,1,7,10
+Detroit City FC,4,2,1,1,5,5,0,7,11
+Oakland Roots,4,2,1,1,5,6,-1,7,12
+Birmingham Legion,4,2,1,1,6,9,-3,7,13
+Colorado Springs Switchbacks,4,2,1,1,2,9,-7,7,14
+Pittsburgh Riverhounds,4,2,1,1,3,13,-10,7,15
+Phoenix Rising,4,2,0,2,5,8,-3,6,16
+Orange County SC,4,2,0,2,7,11,-4,6,17
+Los Angeles Galaxy II,4,1,1,2,10,8,2,4,18
+Las Vegas Lights FC,4,1,1,2,8,6,2,4,19
+Charleston Battery,4,1,1,2,9,8,1,4,20
+Monterey Bay FC,4,0,2,2,6,4,2,2,21
+Indy Eleven,4,0,2,2,7,7,0,2,22
+Hartford Athletic,4,0,2,2,7,8,-1,2,23
+FC Tulsa,4,0,2,2,3,8,-5,2,24
+Loudoun United,4,0,1,3,4,5,-1,1,25
+New York Red Bulls II,4,0,0,4,6,11,-5,0,26
+Atlanta United FC II,4,0,0,4,5,12,-7,0,27
+Memphis 901,5,5,0,0,16,6,10,15,1
+Miami FC,5,4,0,1,10,4,6,12,2
+Louisville City FC,5,3,2,0,11,7,4,11,3
+San Antonio Scorpions,5,2,3,0,15,2,13,9,4
+Tampa Bay Rowdies,5,2,3,0,8,9,-1,9,5
+Rio Grande Valley FC,5,2,1,2,9,5,4,7,6
+Sacramento Republic,5,2,1,2,8,5,3,7,7
+San Diego Loyal,5,2,1,2,7,4,3,7,8
+New Mexico United,5,2,1,2,6,3,3,7,9
+El Paso Locomotive,5,2,1,2,8,8,0,7,10
+Oakland Roots,5,2,1,2,6,8,-2,7,11
+Detroit City FC,5,2,1,2,5,8,-3,7,12
+Birmingham Legion,5,2,1,2,8,13,-5,7,13
+Colorado Springs Switchbacks,5,2,1,2,3,10,-7,7,14
+Pittsburgh Riverhounds,5,2,1,2,3,13,-10,7,15
+Phoenix Rising,5,2,0,3,6,9,-3,6,16
+Orange County SC,5,2,0,3,8,14,-6,6,17
+Los Angeles Galaxy II,5,1,1,3,11,8,3,4,18
+Las Vegas Lights FC,5,1,1,3,8,7,1,4,19
+Charleston Battery,5,1,1,3,11,11,0,4,20
+Monterey Bay FC,5,0,2,3,6,5,1,2,21
+Hartford Athletic,5,0,2,3,7,9,-2,2,22
+Indy Eleven,5,0,2,3,7,9,-2,2,23
+FC Tulsa,5,0,2,3,7,10,-3,2,24
+Loudoun United,5,0,1,4,5,6,-1,1,25
+Atlanta United FC II,5,0,0,5,6,14,-8,0,26
+New York Red Bulls II,5,0,0,5,6,14,-8,0,27
+Memphis 901,6,5,1,0,17,7,10,16,1
+Louisville City FC,6,4,2,0,13,9,4,14,2
+Miami FC,6,4,1,1,10,5,5,13,3
+Colorado Springs Switchbacks,6,3,1,2,4,11,-7,10,4
+San Antonio Scorpions,6,2,4,0,19,3,16,10,5
+Tampa Bay Rowdies,6,2,4,0,9,11,-2,10,6
+Sacramento Republic,6,2,2,2,10,7,3,8,7
+New Mexico United,6,2,2,2,8,6,2,8,8
+Rio Grande Valley FC,6,2,2,2,12,11,1,8,9
+Oakland Roots,6,2,2,2,7,10,-3,8,10
+Birmingham Legion,6,2,2,2,9,15,-6,8,11
+Detroit City FC,6,2,2,2,5,11,-6,8,12
+San Diego Loyal,6,2,1,3,9,9,0,7,13
+El Paso Locomotive,6,2,1,3,9,11,-2,7,14
+Pittsburgh Riverhounds,6,2,1,3,3,15,-12,7,15
+Phoenix Rising,6,2,0,4,11,12,-1,6,16
+Orange County SC,6,2,0,4,10,17,-7,6,17
+Charleston Battery,6,1,1,4,14,11,3,4,18
+Las Vegas Lights FC,6,1,1,4,10,9,1,4,19
+Los Angeles Galaxy II,6,1,1,4,11,12,-1,4,20
+Monterey Bay FC,6,0,2,4,7,6,1,2,21
+Indy Eleven,6,0,2,4,12,14,-2,2,22
+FC Tulsa,6,0,2,4,9,14,-5,2,23
+Hartford Athletic,6,0,2,4,7,15,-8,2,24
+Loudoun United,6,0,1,5,5,8,-3,1,25
+Atlanta United FC II,6,0,0,6,7,19,-12,0,26
+New York Red Bulls II,6,0,0,6,6,18,-12,0,27
+Memphis 901,7,6,1,0,20,7,13,19,1
+Louisville City FC,7,4,3,0,13,9,4,15,2
+Miami FC,7,4,2,1,10,6,4,14,3
+Colorado Springs Switchbacks,7,4,1,2,9,11,-2,13,4
+Rio Grande Valley FC,7,3,2,2,14,14,0,11,5
+San Antonio Scorpions,7,2,5,0,19,5,14,11,6
+Tampa Bay Rowdies,7,2,5,0,10,12,-2,11,7
+New Mexico United,7,2,3,2,12,9,3,9,8
+Sacramento Republic,7,2,3,2,10,8,2,9,9
+Oakland Roots,7,2,3,2,9,10,-1,9,10
+Birmingham Legion,7,2,3,2,9,16,-7,9,11
+Detroit City FC,7,2,3,2,5,16,-11,9,12
+San Diego Loyal,7,2,2,3,9,9,0,8,13
+Pittsburgh Riverhounds,7,2,2,3,6,18,-12,8,14
+El Paso Locomotive,7,2,1,4,9,12,-3,7,15
+Phoenix Rising,7,2,0,5,12,14,-2,6,16
+Orange County SC,7,2,0,5,11,23,-12,6,17
+Charleston Battery,7,1,1,5,16,14,2,4,18
+Los Angeles Galaxy II,7,1,1,5,12,12,0,4,19
+Las Vegas Lights FC,7,1,1,5,10,10,0,4,20
+Monterey Bay FC,7,0,2,5,8,9,-1,2,21
+Indy Eleven,7,0,2,5,12,16,-4,2,22
+FC Tulsa,7,0,2,5,9,16,-7,2,23
+Hartford Athletic,7,0,2,5,8,16,-8,2,24
+Loudoun United,7,0,1,6,6,13,-7,1,25
+Atlanta United FC II,7,0,0,7,7,20,-13,0,26
+New York Red Bulls II,7,0,0,7,6,20,-14,0,27
+Memphis 901,8,7,1,0,21,9,12,22,1
+Louisville City FC,8,5,3,0,15,11,4,18,2
+Miami FC,8,4,3,1,12,7,5,15,3
+Rio Grande Valley FC,8,4,2,2,16,14,2,14,4
+Colorado Springs Switchbacks,8,4,2,2,12,14,-2,14,5
+San Antonio Scorpions,8,3,5,0,23,5,18,14,6
+Tampa Bay Rowdies,8,2,6,0,12,13,-1,12,7
+New Mexico United,8,2,3,3,12,10,2,9,8
+Sacramento Republic,8,2,3,3,10,9,1,9,9
+Oakland Roots,8,2,3,3,10,13,-3,9,10
+Birmingham Legion,8,2,3,3,10,17,-7,9,11
+Detroit City FC,8,2,3,3,5,16,-11,9,12
+San Diego Loyal,8,2,2,4,11,12,-1,8,13
+Pittsburgh Riverhounds,8,2,2,4,6,21,-15,8,14
+El Paso Locomotive,8,2,1,5,9,14,-5,7,15
+Phoenix Rising,8,2,0,6,12,15,-3,6,16
+Orange County SC,8,2,0,6,12,24,-12,6,17
+Los Angeles Galaxy II,8,1,1,6,14,13,1,4,18
+Charleston Battery,8,1,1,6,16,18,-2,4,19
+Las Vegas Lights FC,8,1,1,6,11,13,-2,4,20
+Monterey Bay FC,8,0,2,6,8,10,-2,2,21
+Indy Eleven,8,0,2,6,12,17,-5,2,22
+Hartford Athletic,8,0,2,6,10,19,-9,2,23
+FC Tulsa,8,0,2,6,9,20,-11,2,24
+Loudoun United,8,0,1,7,6,15,-9,1,25
+New York Red Bulls II,8,0,0,8,6,21,-15,0,26
+Atlanta United FC II,8,0,0,8,7,24,-17,0,27
+Memphis 901,9,7,2,0,22,11,11,23,1
+Louisville City FC,9,6,3,0,16,12,4,21,2
+San Antonio Scorpions,9,4,5,0,26,5,21,17,3
+Miami FC,9,4,4,1,13,8,5,16,4
+Rio Grande Valley FC,9,4,3,2,18,15,3,15,5
+Colorado Springs Switchbacks,9,4,3,2,14,16,-2,15,6
+Tampa Bay Rowdies,9,3,6,0,17,13,4,15,7
+New Mexico United,9,2,4,3,13,10,3,10,8
+Sacramento Republic,9,2,4,3,10,10,0,10,9
+Oakland Roots,9,2,4,3,11,14,-3,10,10
+Birmingham Legion,9,2,4,3,10,18,-8,10,11
+Detroit City FC,9,2,4,3,6,16,-10,10,12
+Phoenix Rising,9,3,0,6,16,15,1,9,13
+San Diego Loyal,9,2,3,4,14,13,1,9,14
+Pittsburgh Riverhounds,9,2,3,4,6,22,-16,9,15
+El Paso Locomotive,9,2,2,5,13,17,-4,8,16
+Orange County SC,9,2,1,6,14,27,-13,7,17
+Las Vegas Lights FC,9,1,2,6,13,13,0,5,18
+Charleston Battery,9,1,1,7,21,21,0,4,19
+Los Angeles Galaxy II,9,1,1,7,14,16,-2,4,20
+Indy Eleven,9,0,2,7,14,19,-5,2,21
+Monterey Bay FC,9,0,2,7,9,16,-7,2,22
+FC Tulsa,9,0,2,7,11,23,-12,2,23
+Hartford Athletic,9,0,2,7,10,23,-13,2,24
+Loudoun United,9,0,1,8,6,18,-12,1,25
+New York Red Bulls II,9,0,0,9,6,22,-16,0,26
+Atlanta United FC II,9,0,0,9,8,26,-18,0,27
+Memphis 901,10,8,2,0,24,11,13,26,1
+Louisville City FC,10,7,3,0,17,13,4,24,2
+San Antonio Scorpions,10,4,6,0,27,5,22,18,3
+Miami FC,10,4,5,1,13,9,4,17,4
+Rio Grande Valley FC,10,4,4,2,18,17,1,16,5
+Colorado Springs Switchbacks,10,4,4,2,14,16,-2,16,6
+Tampa Bay Rowdies,10,3,7,0,17,15,2,16,7
+Sacramento Republic,10,3,4,3,13,10,3,13,8
+Phoenix Rising,10,4,0,6,17,15,2,12,9
+New Mexico United,10,2,5,3,15,12,3,11,10
+Birmingham Legion,10,2,5,3,13,21,-8,11,11
+Detroit City FC,10,2,5,3,8,16,-8,11,12
+Oakland Roots,10,2,4,4,11,16,-5,10,13
+San Diego Loyal,10,2,3,5,15,14,1,9,14
+Pittsburgh Riverhounds,10,2,3,5,7,25,-18,9,15
+El Paso Locomotive,10,2,2,6,15,20,-5,8,16
+Orange County SC,10,2,1,7,15,32,-17,7,17
+Las Vegas Lights FC,10,1,2,7,14,14,0,5,18
+Los Angeles Galaxy II,10,1,1,8,16,18,-2,4,19
+Charleston Battery,10,1,1,8,21,24,-3,4,20
+Indy Eleven,10,0,2,8,15,21,-6,2,21
+Monterey Bay FC,10,0,2,8,11,18,-7,2,22
+FC Tulsa,10,0,2,8,11,24,-13,2,23
+Hartford Athletic,10,0,2,8,10,23,-13,2,24
+Loudoun United,10,0,1,9,6,19,-13,1,25
+New York Red Bulls II,10,0,0,10,6,25,-19,0,26
+Atlanta United FC II,10,0,0,10,8,30,-22,0,27
+Memphis 901,11,9,2,0,26,11,15,29,1
+Louisville City FC,11,7,4,0,17,16,1,25,2
+San Antonio Scorpions,11,5,6,0,27,5,22,21,3
+Miami FC,11,5,5,1,14,9,5,20,4
+Colorado Springs Switchbacks,11,4,5,2,20,19,1,17,5
+Rio Grande Valley FC,11,4,5,2,18,18,0,17,6
+Tampa Bay Rowdies,11,3,8,0,19,17,2,17,7
+Sacramento Republic,11,4,4,3,14,10,4,16,8
+Phoenix Rising,11,4,0,7,18,17,1,12,9
+San Diego Loyal,11,3,3,5,17,14,3,12,10
+New Mexico United,11,2,6,3,16,17,-1,12,11
+Birmingham Legion,11,2,6,3,15,22,-7,12,12
+Detroit City FC,11,2,6,3,9,17,-8,12,13
+Oakland Roots,11,2,5,4,11,16,-5,11,14
+Pittsburgh Riverhounds,11,2,4,5,7,28,-21,10,15
+El Paso Locomotive,11,2,2,7,17,22,-5,8,16
+Orange County SC,11,2,1,8,16,33,-17,7,17
+Las Vegas Lights FC,11,1,2,8,17,16,1,5,18
+Charleston Battery,11,1,1,9,21,25,-4,4,19
+Los Angeles Galaxy II,11,1,1,9,16,20,-4,4,20
+Monterey Bay FC,11,0,2,9,12,20,-8,2,21
+Indy Eleven,11,0,2,9,15,25,-10,2,22
+Hartford Athletic,11,0,2,9,12,25,-13,2,23
+FC Tulsa,11,0,2,9,11,28,-17,2,24
+Loudoun United,11,0,1,10,6,22,-16,1,25
+New York Red Bulls II,11,0,0,11,6,30,-24,0,26
+Atlanta United FC II,11,0,0,11,9,36,-27,0,27
+Memphis 901,12,10,2,0,28,11,17,32,1
+Louisville City FC,12,8,4,0,18,17,1,28,2
+San Antonio Scorpions,12,5,7,0,27,6,21,22,3
+Miami FC,12,5,6,1,17,9,8,21,4
+Rio Grande Valley FC,12,4,6,2,21,20,1,18,5
+Colorado Springs Switchbacks,12,4,6,2,21,23,-2,18,6
+Tampa Bay Rowdies,12,3,9,0,21,21,0,18,7
+Sacramento Republic,12,4,5,3,15,10,5,17,8
+San Diego Loyal,12,4,3,5,23,14,9,15,9
+Birmingham Legion,12,3,6,3,17,23,-6,15,10
+Phoenix Rising,12,4,1,7,18,19,-1,13,11
+New Mexico United,12,2,7,3,16,18,-2,13,12
+Detroit City FC,12,2,7,3,10,18,-8,13,13
+Oakland Roots,12,2,5,5,13,18,-5,11,14
+Pittsburgh Riverhounds,12,2,4,6,10,33,-23,10,15
+El Paso Locomotive,12,2,2,8,18,24,-6,8,16
+Orange County SC,12,2,1,9,17,36,-19,7,17
+Las Vegas Lights FC,12,1,2,9,21,19,2,5,18
+Charleston Battery,12,1,1,10,22,25,-3,4,19
+Los Angeles Galaxy II,12,1,1,10,18,22,-4,4,20
+Monterey Bay FC,12,0,2,10,16,23,-7,2,21
+Indy Eleven,12,0,2,10,18,27,-9,2,22
+Hartford Athletic,12,0,2,10,15,26,-11,2,23
+FC Tulsa,12,0,2,10,11,28,-17,2,24
+Loudoun United,12,0,1,11,6,24,-18,1,25
+Atlanta United FC II,12,0,0,12,12,39,-27,0,26
+New York Red Bulls II,12,0,0,12,6,33,-27,0,27
+Memphis 901,13,11,2,0,34,12,22,35,1
+Louisville City FC,13,9,4,0,18,19,-1,31,2
+San Antonio Scorpions,13,6,7,0,31,7,24,25,3
+Miami FC,13,5,7,1,17,10,7,22,4
+Colorado Springs Switchbacks,13,5,6,2,24,28,-4,21,5
+Rio Grande Valley FC,13,4,7,2,23,20,3,19,6
+Tampa Bay Rowdies,13,3,10,0,23,21,2,19,7
+Sacramento Republic,13,4,6,3,16,11,5,18,8
+Birmingham Legion,13,4,6,3,18,25,-7,18,9
+San Diego Loyal,13,4,4,5,23,14,9,16,10
+New Mexico United,13,3,7,3,17,18,-1,16,11
+Detroit City FC,13,2,8,3,13,18,-5,14,12
+Phoenix Rising,13,4,1,8,18,21,-3,13,13
+Oakland Roots,13,2,6,5,13,20,-7,12,14
+Pittsburgh Riverhounds,13,2,5,6,13,33,-20,11,15
+El Paso Locomotive,13,2,2,9,19,27,-8,8,16
+Orange County SC,13,2,1,10,17,37,-20,7,17
+Las Vegas Lights FC,13,1,2,10,24,21,3,5,18
+Charleston Battery,13,1,1,11,23,27,-4,4,19
+Los Angeles Galaxy II,13,1,1,11,20,24,-4,4,20
+Loudoun United,13,1,1,11,8,24,-16,4,21
+Indy Eleven,13,0,2,11,19,29,-10,2,22
+Monterey Bay FC,13,0,2,11,16,26,-10,2,23
+Hartford Athletic,13,0,2,11,15,27,-12,2,24
+FC Tulsa,13,0,2,11,12,29,-17,2,25
+Atlanta United FC II,13,0,0,13,12,40,-28,0,26
+New York Red Bulls II,13,0,0,13,6,36,-30,0,27
+Memphis 901,14,12,2,0,34,13,21,38,1
+Louisville City FC,14,10,4,0,20,23,-3,34,2
+San Antonio Scorpions,14,7,7,0,32,9,23,28,3
+Miami FC,14,5,8,1,19,12,7,23,4
+Rio Grande Valley FC,14,5,7,2,25,21,4,22,5
+Colorado Springs Switchbacks,14,5,7,2,26,30,-4,22,6
+Tampa Bay Rowdies,14,4,10,0,24,26,-2,22,7
+Sacramento Republic,14,4,7,3,16,13,3,19,8
+New Mexico United,14,4,7,3,18,20,-2,19,9
+Birmingham Legion,14,4,7,3,21,25,-4,19,10
+San Diego Loyal,14,4,5,5,23,17,6,17,11
+Detroit City FC,14,3,8,3,16,18,-2,17,12
+Oakland Roots,14,3,6,5,16,23,-7,15,13
+Phoenix Rising,14,4,2,8,20,23,-3,14,14
+Pittsburgh Riverhounds,14,3,5,6,16,35,-19,14,15
+El Paso Locomotive,14,3,2,9,20,29,-9,11,16
+Orange County SC,14,3,1,10,19,38,-19,10,17
+Las Vegas Lights FC,14,2,2,10,28,21,7,8,18
+Los Angeles Galaxy II,14,2,1,11,24,25,-1,7,19
+Charleston Battery,14,2,1,11,26,31,-5,7,20
+Loudoun United,14,2,1,11,8,28,-20,7,21
+Monterey Bay FC,14,1,2,11,17,28,-11,5,22
+Hartford Athletic,14,1,2,11,17,31,-14,5,23
+FC Tulsa,14,1,2,11,13,29,-16,5,24
+Indy Eleven,14,0,3,11,19,30,-11,3,25
+Atlanta United FC II,14,0,1,13,17,43,-26,1,26
+New York Red Bulls II,14,0,0,14,6,37,-31,0,27
+Memphis 901,15,13,2,0,38,13,25,41,1
+Louisville City FC,15,11,4,0,24,25,-1,37,2
+San Antonio Scorpions,15,8,7,0,33,9,24,31,3
+Colorado Springs Switchbacks,15,6,7,2,31,32,-1,25,4
+Tampa Bay Rowdies,15,5,10,0,26,27,-1,25,5
+Miami FC,15,5,9,1,20,13,7,24,6
+Rio Grande Valley FC,15,5,8,2,26,21,5,23,7
+Sacramento Republic,15,5,7,3,17,13,4,22,8
+New Mexico United,15,4,8,3,21,20,1,20,9
+Detroit City FC,15,4,8,3,17,19,-2,20,10
+Birmingham Legion,15,4,8,3,21,25,-4,20,11
+San Diego Loyal,15,4,6,5,24,21,3,18,12
+Oakland Roots,15,4,6,5,18,24,-6,18,13
+Pittsburgh Riverhounds,15,4,5,6,18,36,-18,17,14
+Phoenix Rising,15,4,3,8,22,24,-2,15,15
+El Paso Locomotive,15,4,2,9,27,29,-2,14,16
+Orange County SC,15,4,1,10,23,39,-16,13,17
+Las Vegas Lights FC,15,3,2,10,28,21,7,11,18
+Los Angeles Galaxy II,15,3,1,11,28,25,3,10,19
+Charleston Battery,15,3,1,11,30,32,-2,10,20
+Monterey Bay FC,15,2,2,11,17,29,-12,8,21
+FC Tulsa,15,2,2,11,15,29,-14,8,22
+Hartford Athletic,15,2,2,11,18,34,-16,8,23
+Loudoun United,15,2,1,12,9,30,-21,7,24
+Indy Eleven,15,1,3,11,19,31,-12,6,25
+Atlanta United FC II,15,0,2,13,18,43,-25,2,26
+New York Red Bulls II,15,0,1,14,8,38,-30,1,27
+Memphis 901,16,14,2,0,43,13,30,44,1
+Louisville City FC,16,12,4,0,25,25,0,40,2
+San Antonio Scorpions,16,9,7,0,34,9,25,34,3
+Miami FC,16,6,9,1,23,14,9,27,4
+Colorado Springs Switchbacks,16,6,8,2,33,33,0,26,5
+Tampa Bay Rowdies,16,5,11,0,28,28,0,26,6
+Rio Grande Valley FC,16,5,9,2,26,21,5,24,7
+Sacramento Republic,16,5,8,3,17,14,3,23,8
+Detroit City FC,16,5,8,3,18,20,-2,23,9
+New Mexico United,16,4,9,3,23,22,1,21,10
+Birmingham Legion,16,4,9,3,23,26,-3,21,11
+San Diego Loyal,16,4,7,5,24,24,0,19,12
+Oakland Roots,16,4,7,5,20,25,-5,19,13
+Pittsburgh Riverhounds,16,4,6,6,20,38,-18,18,14
+El Paso Locomotive,16,4,3,9,27,29,-2,15,15
+Phoenix Rising,16,4,3,9,23,25,-2,15,16
+Orange County SC,16,4,1,11,23,40,-17,13,17
+Las Vegas Lights FC,16,3,2,11,29,21,8,11,18
+Los Angeles Galaxy II,16,3,1,12,32,28,4,10,19
+Charleston Battery,16,3,1,12,30,32,-2,10,20
+Monterey Bay FC,16,2,2,12,17,32,-15,8,21
+Hartford Athletic,16,2,2,12,19,35,-16,8,22
+FC Tulsa,16,2,2,12,16,33,-17,8,23
+Loudoun United,16,2,1,13,11,35,-24,7,24
+Indy Eleven,16,1,3,12,19,32,-13,6,25
+Atlanta United FC II,16,0,2,14,18,47,-29,2,26
+New York Red Bulls II,16,0,2,14,9,40,-31,2,27
+Memphis 901,17,15,2,0,46,15,31,47,1
+Louisville City FC,17,13,4,0,27,26,1,43,2
+San Antonio Scorpions,17,10,7,0,37,11,26,37,3
+Miami FC,17,7,9,1,25,15,10,30,4
+Tampa Bay Rowdies,17,6,11,0,29,28,1,29,5
+Colorado Springs Switchbacks,17,6,9,2,36,35,1,27,6
+Detroit City FC,17,6,8,3,23,20,3,26,7
+Rio Grande Valley FC,17,5,10,2,27,21,6,25,8
+Sacramento Republic,17,5,9,3,17,16,1,24,9
+New Mexico United,17,4,10,3,26,24,2,22,10
+Birmingham Legion,17,4,10,3,25,29,-4,22,11
+San Diego Loyal,17,4,8,5,25,24,1,20,12
+Oakland Roots,17,4,8,5,22,25,-3,20,13
+Pittsburgh Riverhounds,17,4,7,6,22,39,-17,19,14
+Phoenix Rising,17,4,4,9,24,25,-1,16,15
+El Paso Locomotive,17,4,4,9,28,30,-2,16,16
+Orange County SC,17,4,2,11,24,43,-19,14,17
+Los Angeles Galaxy II,17,4,1,12,35,30,5,13,18
+Las Vegas Lights FC,17,3,3,11,32,22,10,12,19
+Charleston Battery,17,3,2,12,31,35,-4,11,20
+Monterey Bay FC,17,2,2,13,17,34,-17,8,21
+Hartford Athletic,17,2,2,13,20,39,-19,8,22
+FC Tulsa,17,2,2,13,18,37,-19,8,23
+Loudoun United,17,2,1,14,13,36,-23,7,24
+Indy Eleven,17,1,3,13,19,35,-16,6,25
+Atlanta United FC II,17,0,2,15,19,48,-29,2,26
+New York Red Bulls II,17,0,2,15,9,42,-33,2,27
+Memphis 901,18,16,2,0,50,16,34,50,1
+Louisville City FC,18,14,4,0,30,26,4,46,2
+San Antonio Scorpions,18,11,7,0,38,12,26,40,3
+Miami FC,18,7,10,1,26,16,10,31,4
+Colorado Springs Switchbacks,18,7,9,2,41,36,5,30,5
+Tampa Bay Rowdies,18,6,12,0,32,28,4,30,6
+Detroit City FC,18,6,9,3,23,20,3,27,7
+Sacramento Republic,18,6,9,3,18,18,0,27,8
+Rio Grande Valley FC,18,5,11,2,30,25,5,26,9
+New Mexico United,18,4,11,3,29,25,4,23,10
+Birmingham Legion,18,4,11,3,25,30,-5,23,11
+Pittsburgh Riverhounds,18,5,7,6,24,39,-15,22,12
+Oakland Roots,18,4,9,5,23,28,-5,21,13
+San Diego Loyal,18,4,8,6,26,25,1,20,14
+Phoenix Rising,18,4,5,9,25,28,-3,17,15
+Los Angeles Galaxy II,18,5,1,12,38,31,7,16,16
+El Paso Locomotive,18,4,4,10,28,31,-3,16,17
+Orange County SC,18,4,2,12,24,43,-19,14,18
+Las Vegas Lights FC,18,3,3,12,36,22,14,12,19
+Charleston Battery,18,3,2,13,34,36,-2,11,20
+Monterey Bay FC,18,2,2,14,21,37,-16,8,21
+FC Tulsa,18,2,2,14,20,38,-18,8,22
+Hartford Athletic,18,2,2,14,23,42,-19,8,23
+Loudoun United,18,2,1,15,14,39,-25,7,24
+Indy Eleven,18,1,3,14,20,36,-16,6,25
+Atlanta United FC II,18,0,2,16,20,49,-29,2,26
+New York Red Bulls II,18,0,2,16,9,43,-34,2,27
+Memphis 901,19,17,2,0,56,16,40,53,1
+Louisville City FC,19,15,4,0,33,26,7,49,2
+San Antonio Scorpions,19,12,7,0,39,12,27,43,3
+Miami FC,19,8,10,1,27,17,10,34,4
+Colorado Springs Switchbacks,19,8,9,2,45,36,9,33,5
+Tampa Bay Rowdies,19,7,12,0,40,29,11,33,6
+Sacramento Republic,19,7,9,3,19,19,0,30,7
+Rio Grande Valley FC,19,6,11,2,31,25,6,29,8
+Detroit City FC,19,6,10,3,26,21,5,28,9
+Pittsburgh Riverhounds,19,6,7,6,30,40,-10,25,10
+New Mexico United,19,4,12,3,31,25,6,24,11
+Birmingham Legion,19,4,12,3,26,30,-4,24,12
+San Diego Loyal,19,5,8,6,28,25,3,23,13
+Oakland Roots,19,4,9,6,25,32,-7,21,14
+Phoenix Rising,19,4,6,9,26,28,-2,18,15
+Los Angeles Galaxy II,19,5,1,13,39,34,5,16,16
+El Paso Locomotive,19,4,4,11,28,33,-5,16,17
+Orange County SC,19,4,2,13,25,48,-23,14,18
+Las Vegas Lights FC,19,3,3,13,37,24,13,12,19
+Charleston Battery,19,3,2,14,35,38,-3,11,20
+Monterey Bay FC,19,2,2,15,21,39,-18,8,21
+FC Tulsa,19,2,2,15,21,40,-19,8,22
+Hartford Athletic,19,2,2,15,24,46,-22,8,23
+Loudoun United,19,2,1,16,15,43,-28,7,24
+Indy Eleven,19,1,3,15,20,40,-20,6,25
+Atlanta United FC II,19,0,2,17,20,53,-33,2,26
+New York Red Bulls II,19,0,2,17,9,45,-36,2,27
+Memphis 901,20,17,3,0,57,17,40,54,1
+Louisville City FC,20,16,4,0,33,27,6,52,2
+San Antonio Scorpions,20,13,7,0,43,12,31,46,3
+Tampa Bay Rowdies,20,8,12,0,45,31,14,36,4
+Miami FC,20,8,11,1,29,18,11,35,5
+Colorado Springs Switchbacks,20,8,10,2,48,36,12,34,6
+Rio Grande Valley FC,20,7,11,2,33,25,8,32,7
+Sacramento Republic,20,7,10,3,22,22,0,31,8
+Detroit City FC,20,6,11,3,27,21,6,29,9
+Birmingham Legion,20,5,12,3,33,33,0,27,10
+Pittsburgh Riverhounds,20,6,8,6,33,44,-11,26,11
+New Mexico United,20,4,13,3,33,26,7,25,12
+San Diego Loyal,20,5,9,6,32,27,5,24,13
+Oakland Roots,20,4,10,6,26,34,-8,22,14
+El Paso Locomotive,20,5,4,11,28,33,-5,19,15
+Phoenix Rising,20,4,7,9,26,29,-3,19,16
+Los Angeles Galaxy II,20,5,2,13,39,36,3,17,17
+Orange County SC,20,4,2,14,27,50,-23,14,18
+Las Vegas Lights FC,20,3,3,14,41,27,14,12,19
+Charleston Battery,20,3,2,15,36,41,-5,11,20
+Monterey Bay FC,20,2,2,16,24,40,-16,8,21
+Hartford Athletic,20,2,2,16,26,48,-22,8,22
+FC Tulsa,20,2,2,16,21,45,-24,8,23
+Loudoun United,20,2,2,16,17,44,-27,8,24
+Indy Eleven,20,1,3,16,22,42,-20,6,25
+Atlanta United FC II,20,0,2,18,22,59,-37,2,26
+New York Red Bulls II,20,0,2,18,9,47,-38,2,27
+Memphis 901,21,18,3,0,58,17,41,57,1
+Louisville City FC,21,17,4,0,33,27,6,55,2
+San Antonio Scorpions,21,14,7,0,44,12,32,49,3
+Colorado Springs Switchbacks,21,9,10,2,52,36,16,37,4
+Tampa Bay Rowdies,21,8,13,0,45,31,14,37,5
+Miami FC,21,8,12,1,31,20,11,36,6
+Rio Grande Valley FC,21,7,12,2,38,25,13,33,7
+Sacramento Republic,21,7,11,3,24,24,0,32,8
+Detroit City FC,21,6,12,3,30,21,9,30,9
+New Mexico United,21,5,13,3,35,27,8,28,10
+Birmingham Legion,21,5,13,3,36,34,2,28,11
+Pittsburgh Riverhounds,21,6,9,6,33,46,-13,27,12
+San Diego Loyal,21,5,10,6,33,29,4,25,13
+Oakland Roots,21,4,11,6,28,35,-7,23,14
+El Paso Locomotive,21,6,4,11,33,33,0,22,15
+Phoenix Rising,21,5,7,9,28,30,-2,22,16
+Los Angeles Galaxy II,21,5,2,14,41,36,5,17,17
+Orange County SC,21,4,3,14,29,54,-25,15,18
+Las Vegas Lights FC,21,3,4,14,44,29,15,13,19
+Charleston Battery,21,3,3,15,37,42,-5,12,20
+FC Tulsa,21,3,2,16,22,47,-25,11,21
+Monterey Bay FC,21,2,3,16,25,42,-17,9,22
+Hartford Athletic,21,2,3,16,26,49,-23,9,23
+Loudoun United,21,2,2,17,18,45,-27,8,24
+Indy Eleven,21,1,3,17,22,43,-21,6,25
+Atlanta United FC II,21,0,2,19,23,62,-39,2,26
+New York Red Bulls II,21,0,2,19,9,49,-40,2,27
+Memphis 901,22,19,3,0,61,18,43,60,1
+Louisville City FC,22,17,5,0,37,27,10,56,2
+San Antonio Scorpions,22,15,7,0,44,12,32,52,3
+Colorado Springs Switchbacks,22,10,10,2,54,36,18,40,4
+Tampa Bay Rowdies,22,9,13,0,46,32,14,40,5
+Miami FC,22,8,13,1,31,20,11,37,6
+Rio Grande Valley FC,22,8,12,2,38,26,12,36,7
+Sacramento Republic,22,8,11,3,28,24,4,35,8
+Detroit City FC,22,6,13,3,31,21,10,31,9
+Birmingham Legion,22,6,13,3,40,37,3,31,10
+New Mexico United,22,5,14,3,35,28,7,29,11
+Pittsburgh Riverhounds,22,6,10,6,35,47,-12,28,12
+San Diego Loyal,22,5,11,6,38,30,8,26,13
+Phoenix Rising,22,6,7,9,29,30,-1,25,14
+Oakland Roots,22,4,12,6,28,35,-7,24,15
+El Paso Locomotive,22,6,5,11,34,34,0,23,16
+Los Angeles Galaxy II,22,5,3,14,41,38,3,18,17
+Las Vegas Lights FC,22,4,4,14,45,30,15,16,18
+Orange County SC,22,4,4,14,30,56,-26,16,19
+FC Tulsa,22,4,2,16,27,48,-21,14,20
+Charleston Battery,22,3,4,15,38,47,-9,13,21
+Monterey Bay FC,22,2,4,16,26,45,-19,10,22
+Hartford Athletic,22,2,4,16,26,50,-24,10,23
+Loudoun United,22,2,2,18,20,47,-27,8,24
+Indy Eleven,22,1,3,18,22,45,-23,6,25
+Atlanta United FC II,22,0,2,20,23,64,-41,2,26
+New York Red Bulls II,22,0,2,20,10,51,-41,2,27
+Memphis 901,23,20,3,0,62,18,44,63,1
+Louisville City FC,23,18,5,0,42,28,14,59,2
+San Antonio Scorpions,23,16,7,0,45,14,31,55,3
+Colorado Springs Switchbacks,23,10,11,2,56,37,19,41,4
+Tampa Bay Rowdies,23,9,14,0,48,32,16,41,5
+Miami FC,23,9,13,1,33,20,13,40,6
+Sacramento Republic,23,9,11,3,31,24,7,38,7
+Rio Grande Valley FC,23,8,13,2,41,29,12,37,8
+Detroit City FC,23,6,14,3,31,22,9,32,9
+Birmingham Legion,23,6,14,3,41,37,4,32,10
+New Mexico United,23,5,15,3,38,30,8,30,11
+San Diego Loyal,23,6,11,6,44,31,13,29,12
+Pittsburgh Riverhounds,23,6,11,6,35,48,-13,29,13
+Phoenix Rising,23,6,8,9,29,31,-2,26,14
+Oakland Roots,23,4,13,6,30,36,-6,25,15
+El Paso Locomotive,23,6,6,11,36,34,2,24,16
+Las Vegas Lights FC,23,5,4,14,47,30,17,19,17
+Los Angeles Galaxy II,23,5,4,14,43,38,5,19,18
+Orange County SC,23,5,4,14,31,56,-25,19,19
+FC Tulsa,23,4,2,17,28,50,-22,14,20
+Charleston Battery,23,3,4,16,43,51,-8,13,21
+Monterey Bay FC,23,2,4,17,27,48,-21,10,22
+Hartford Athletic,23,2,4,17,26,52,-26,10,23
+Loudoun United,23,2,2,19,22,48,-26,8,24
+Indy Eleven,23,1,3,19,22,46,-24,6,25
+Atlanta United FC II,23,0,2,21,23,66,-43,2,26
+New York Red Bulls II,23,0,2,21,10,55,-45,2,27
+Memphis 901,24,21,3,0,63,18,45,66,1
+Louisville City FC,24,19,5,0,44,32,12,62,2
+San Antonio Scorpions,24,17,7,0,48,14,34,58,3
+Colorado Springs Switchbacks,24,11,11,2,59,38,21,44,4
+Tampa Bay Rowdies,24,10,14,0,51,34,17,44,5
+Miami FC,24,10,13,1,36,22,14,43,6
+Sacramento Republic,24,9,12,3,31,26,5,39,7
+Rio Grande Valley FC,24,8,14,2,42,30,12,38,8
+Detroit City FC,24,7,14,3,31,23,8,35,9
+Birmingham Legion,24,7,14,3,44,40,4,35,10
+San Diego Loyal,24,7,11,6,49,31,18,32,11
+New Mexico United,24,5,16,3,38,31,7,31,12
+Pittsburgh Riverhounds,24,6,12,6,35,49,-14,30,13
+Phoenix Rising,24,7,8,9,32,31,1,29,14
+Oakland Roots,24,5,13,6,31,36,-5,28,15
+El Paso Locomotive,24,6,7,11,38,36,2,25,16
+Orange County SC,24,6,4,14,34,59,-25,22,17
+Las Vegas Lights FC,24,5,4,15,48,31,17,19,18
+Los Angeles Galaxy II,24,5,4,15,44,39,5,19,19
+FC Tulsa,24,4,3,17,29,52,-23,15,20
+Charleston Battery,24,3,4,17,45,54,-9,13,21
+Monterey Bay FC,24,2,4,18,29,50,-21,10,22
+Hartford Athletic,24,2,4,18,26,55,-29,10,23
+Loudoun United,24,2,3,19,23,51,-28,9,24
+Indy Eleven,24,1,3,20,22,50,-28,6,25
+New York Red Bulls II,24,0,2,22,11,56,-45,2,26
+Atlanta United FC II,24,0,2,22,23,72,-49,2,27
+Memphis 901,25,22,3,0,65,18,47,69,1
+Louisville City FC,25,20,5,0,45,32,13,65,2
+San Antonio Scorpions,25,17,8,0,49,16,33,59,3
+Colorado Springs Switchbacks,25,12,11,2,63,40,23,47,4
+Tampa Bay Rowdies,25,11,14,0,51,35,16,47,5
+Miami FC,25,11,13,1,39,23,16,46,6
+Sacramento Republic,25,10,12,3,33,28,5,42,7
+Rio Grande Valley FC,25,9,14,2,43,30,13,41,8
+Birmingham Legion,25,8,14,3,47,40,7,38,9
+Detroit City FC,25,7,15,3,33,24,9,36,10
+New Mexico United,25,6,16,3,39,31,8,34,11
+San Diego Loyal,25,7,12,6,50,32,18,33,12
+Oakland Roots,25,6,13,6,33,37,-4,31,13
+Pittsburgh Riverhounds,25,6,13,6,35,50,-15,31,14
+Phoenix Rising,25,7,9,9,33,31,2,30,15
+El Paso Locomotive,25,6,8,11,41,36,5,26,16
+Orange County SC,25,6,4,15,35,59,-24,22,17
+Las Vegas Lights FC,25,5,5,15,50,34,16,20,18
+Los Angeles Galaxy II,25,5,5,15,44,40,4,20,19
+FC Tulsa,25,4,3,18,30,52,-22,15,20
+Charleston Battery,25,3,5,17,48,57,-9,14,21
+Hartford Athletic,25,3,4,18,29,55,-26,13,22
+Monterey Bay FC,25,2,5,18,31,50,-19,11,23
+Loudoun United,25,2,4,19,24,54,-30,10,24
+Indy Eleven,25,1,4,20,22,51,-29,7,25
+Atlanta United FC II,25,0,2,23,25,74,-49,2,26
+New York Red Bulls II,25,0,2,23,11,60,-49,2,27
+Memphis 901,26,23,3,0,68,19,49,72,1
+Louisville City FC,26,21,5,0,48,33,15,68,2
+San Antonio Scorpions,26,18,8,0,51,16,35,62,3
+Colorado Springs Switchbacks,26,13,11,2,65,42,23,50,4
+Tampa Bay Rowdies,26,11,15,0,51,36,15,48,5
+Miami FC,26,11,14,1,39,24,15,47,6
+Sacramento Republic,26,11,12,3,36,29,7,45,7
+Rio Grande Valley FC,26,10,14,2,45,30,15,44,8
+Birmingham Legion,26,8,15,3,48,41,7,39,9
+New Mexico United,26,7,16,3,42,31,11,37,10
+Detroit City FC,26,7,16,3,33,25,8,37,11
+San Diego Loyal,26,8,12,6,52,32,20,36,12
+Pittsburgh Riverhounds,26,7,13,6,38,50,-12,34,13
+Oakland Roots,26,6,14,6,33,38,-5,32,14
+Phoenix Rising,26,7,9,10,33,36,-3,30,15
+El Paso Locomotive,26,6,9,11,42,36,6,27,16
+Orange County SC,26,6,5,15,35,59,-24,23,17
+Los Angeles Galaxy II,26,5,6,15,44,41,3,21,18
+Las Vegas Lights FC,26,5,5,16,54,37,17,20,19
+FC Tulsa,26,4,4,18,30,53,-23,16,20
+Hartford Athletic,26,4,4,18,32,58,-26,16,21
+Charleston Battery,26,3,6,17,48,59,-11,15,22
+Monterey Bay FC,26,2,6,18,33,54,-21,12,23
+Loudoun United,26,2,5,19,24,56,-32,11,24
+Indy Eleven,26,2,4,20,25,52,-27,10,25
+Atlanta United FC II,26,0,2,24,27,75,-48,2,26
+New York Red Bulls II,26,0,2,24,12,62,-50,2,27
+Memphis 901,27,24,3,0,73,20,53,75,1
+Louisville City FC,27,22,5,0,50,34,16,71,2
+San Antonio Scorpions,27,19,8,0,55,16,39,65,3
+Colorado Springs Switchbacks,27,14,11,2,68,44,24,53,4
+Tampa Bay Rowdies,27,12,15,0,52,37,15,51,5
+Miami FC,27,12,14,1,40,24,16,50,6
+Rio Grande Valley FC,27,11,14,2,46,30,16,47,7
+Sacramento Republic,27,11,13,3,38,29,9,46,8
+Birmingham Legion,27,9,15,3,50,43,7,42,9
+New Mexico United,27,7,17,3,42,34,8,38,10
+Detroit City FC,27,7,17,3,33,27,6,38,11
+San Diego Loyal,27,8,13,6,55,32,23,37,12
+Pittsburgh Riverhounds,27,7,14,6,39,51,-12,35,13
+Oakland Roots,27,6,15,6,35,40,-5,33,14
+Phoenix Rising,27,7,10,10,36,40,-4,31,15
+El Paso Locomotive,27,6,9,12,42,38,4,27,16
+Orange County SC,27,6,5,16,36,63,-27,23,17
+Los Angeles Galaxy II,27,5,7,15,47,43,4,22,18
+Las Vegas Lights FC,27,5,6,16,55,38,17,21,19
+FC Tulsa,27,4,5,18,30,53,-23,17,20
+Hartford Athletic,27,4,4,19,33,59,-26,16,21
+Charleston Battery,27,3,7,17,49,60,-11,16,22
+Monterey Bay FC,27,3,6,18,33,56,-23,15,23
+Indy Eleven,27,3,4,20,28,52,-24,13,24
+Loudoun United,27,2,5,20,26,61,-35,11,25
+Atlanta United FC II,27,1,2,24,28,75,-47,5,26
+New York Red Bulls II,27,0,2,25,13,64,-51,2,27
+Memphis 901,28,25,3,0,74,22,52,78,1
+Louisville City FC,28,23,5,0,51,34,17,74,2
+San Antonio Scorpions,28,20,8,0,58,17,41,68,3
+Colorado Springs Switchbacks,28,14,12,2,70,45,25,54,4
+Tampa Bay Rowdies,28,13,15,0,55,37,18,54,5
+Miami FC,28,13,14,1,41,25,16,53,6
+Rio Grande Valley FC,28,12,14,2,52,31,21,50,7
+Sacramento Republic,28,12,13,3,41,31,10,49,8
+Birmingham Legion,28,10,15,3,55,46,9,45,9
+New Mexico United,28,8,17,3,44,36,8,41,10
+Detroit City FC,28,7,18,3,34,27,7,39,11
+San Diego Loyal,28,8,14,6,57,34,23,38,12
+Pittsburgh Riverhounds,28,7,15,6,41,52,-11,36,13
+Phoenix Rising,28,8,10,10,39,42,-3,34,14
+Oakland Roots,28,6,16,6,35,42,-7,34,15
+El Paso Locomotive,28,7,9,12,46,39,7,30,16
+Orange County SC,28,6,6,16,38,67,-29,24,17
+Los Angeles Galaxy II,28,5,8,15,48,44,4,23,18
+Las Vegas Lights FC,28,5,7,16,55,39,16,22,19
+Monterey Bay FC,28,4,6,18,33,58,-25,18,20
+FC Tulsa,28,4,5,19,30,54,-24,17,21
+Hartford Athletic,28,4,5,19,34,60,-26,17,22
+Charleston Battery,28,3,7,18,50,65,-15,16,23
+Indy Eleven,28,3,4,21,28,53,-25,13,24
+Loudoun United,28,2,5,21,26,66,-40,11,25
+Atlanta United FC II,28,1,2,25,28,78,-50,5,26
+New York Red Bulls II,28,0,3,25,15,67,-52,3,27
+Memphis 901,29,25,4,0,75,22,53,79,1
+Louisville City FC,29,24,5,0,53,34,19,77,2
+San Antonio Scorpions,29,21,8,0,59,18,41,71,3
+Colorado Springs Switchbacks,29,15,12,2,76,45,31,57,4
+Tampa Bay Rowdies,29,14,15,0,60,37,23,57,5
+Miami FC,29,14,14,1,43,26,17,56,6
+Sacramento Republic,29,13,13,3,42,31,11,52,7
+Rio Grande Valley FC,29,12,15,2,52,33,19,51,8
+Birmingham Legion,29,10,16,3,59,48,11,46,9
+Detroit City FC,29,8,18,3,36,27,9,42,10
+New Mexico United,29,8,18,3,44,39,5,42,11
+San Diego Loyal,29,9,14,6,59,36,23,41,12
+Pittsburgh Riverhounds,29,7,16,6,42,52,-10,37,13
+Phoenix Rising,29,8,11,10,39,44,-5,35,14
+Oakland Roots,29,6,17,6,36,42,-6,35,15
+El Paso Locomotive,29,7,10,12,47,40,7,31,16
+Orange County SC,29,6,7,16,39,67,-28,25,17
+Los Angeles Galaxy II,29,5,9,15,48,45,3,24,18
+Las Vegas Lights FC,29,5,7,17,57,41,16,22,19
+FC Tulsa,29,4,6,19,34,56,-22,18,20
+Monterey Bay FC,29,4,6,19,34,59,-25,18,21
+Hartford Athletic,29,4,5,20,34,62,-28,17,22
+Charleston Battery,29,3,7,19,51,67,-16,16,23
+Indy Eleven,29,3,5,21,31,53,-22,14,24
+Loudoun United,29,2,5,22,27,68,-41,11,25
+Atlanta United FC II,29,1,2,26,29,82,-53,5,26
+New York Red Bulls II,29,0,3,26,16,68,-52,3,27
+Memphis 901,30,25,5,0,75,22,53,80,1
+Louisville City FC,30,25,5,0,54,34,20,80,2
+San Antonio Scorpions,30,22,8,0,62,19,43,74,3
+Colorado Springs Switchbacks,30,16,12,2,81,50,31,60,4
+Tampa Bay Rowdies,30,15,15,0,63,39,24,60,5
+Miami FC,30,14,14,2,45,28,17,56,6
+Sacramento Republic,30,14,13,3,43,32,11,55,7
+Rio Grande Valley FC,30,13,15,2,53,34,19,54,8
+Birmingham Legion,30,11,16,3,61,49,12,49,9
+Detroit City FC,30,9,18,3,37,27,10,45,10
+San Diego Loyal,30,10,14,6,63,36,27,44,11
+New Mexico United,30,8,19,3,44,41,3,43,12
+Pittsburgh Riverhounds,30,7,17,6,46,55,-9,38,13
+Phoenix Rising,30,8,12,10,42,46,-4,36,14
+Oakland Roots,30,6,18,6,37,45,-8,36,15
+El Paso Locomotive,30,7,11,12,49,41,8,32,16
+Los Angeles Galaxy II,30,6,9,15,50,46,4,27,17
+Orange County SC,30,6,7,17,40,71,-31,25,18
+Las Vegas Lights FC,30,5,8,17,58,43,15,23,19
+FC Tulsa,30,4,7,19,36,58,-22,19,20
+Monterey Bay FC,30,4,7,19,34,59,-25,19,21
+Hartford Athletic,30,4,6,20,36,64,-28,18,22
+Charleston Battery,30,3,7,20,53,69,-16,16,23
+Indy Eleven,30,3,5,22,31,54,-23,14,24
+Loudoun United,30,2,5,23,28,73,-45,11,25
+Atlanta United FC II,30,1,2,27,31,85,-54,5,26
+New York Red Bulls II,30,0,3,27,16,72,-56,3,27
+Memphis 901,31,25,6,0,78,25,53,81,1
+Louisville City FC,31,25,6,0,54,34,20,81,2
+San Antonio Scorpions,31,23,8,0,65,21,44,77,3
+Colorado Springs Switchbacks,31,17,12,2,82,51,31,63,4
+Tampa Bay Rowdies,31,16,15,0,65,39,26,63,5
+Sacramento Republic,31,15,13,3,48,33,15,58,6
+Rio Grande Valley FC,31,14,15,2,55,34,21,57,7
+Miami FC,31,14,15,2,47,30,17,57,8
+Birmingham Legion,31,12,16,3,61,49,12,52,9
+Detroit City FC,31,10,18,3,40,31,9,48,10
+San Diego Loyal,31,11,14,6,65,39,26,47,11
+New Mexico United,31,9,19,3,47,42,5,46,12
+Pittsburgh Riverhounds,31,8,17,6,50,56,-6,41,13
+Phoenix Rising,31,8,13,10,43,47,-4,37,14
+Oakland Roots,31,6,19,6,37,46,-9,37,15
+El Paso Locomotive,31,7,12,12,49,43,6,33,16
+Los Angeles Galaxy II,31,7,9,15,54,47,7,30,17
+Orange County SC,31,6,8,17,42,72,-30,26,18
+Las Vegas Lights FC,31,5,9,17,59,45,14,24,19
+FC Tulsa,31,4,8,19,36,59,-23,20,20
+Monterey Bay FC,31,4,7,20,35,62,-27,19,21
+Hartford Athletic,31,4,7,20,37,65,-28,19,22
+Charleston Battery,31,3,7,21,53,74,-21,16,23
+Indy Eleven,31,3,6,22,33,58,-25,15,24
+Loudoun United,31,2,5,24,29,74,-45,11,25
+Atlanta United FC II,31,1,2,28,36,86,-50,5,26
+New York Red Bulls II,31,0,3,28,17,74,-57,3,27
+Memphis 901,32,25,7,0,79,27,52,82,1
+Louisville City FC,32,25,7,0,55,34,21,82,2
+San Antonio Scorpions,32,24,8,0,66,21,45,80,3
+Tampa Bay Rowdies,32,17,15,0,67,40,27,66,4
+Colorado Springs Switchbacks,32,17,13,2,84,54,30,64,5
+Sacramento Republic,32,16,13,3,50,33,17,61,6
+Rio Grande Valley FC,32,15,15,2,58,35,23,60,7
+Miami FC,32,14,16,2,49,30,19,58,8
+Birmingham Legion,32,13,16,3,64,53,11,55,9
+San Diego Loyal,32,12,14,6,66,40,26,50,10
+Detroit City FC,32,10,19,3,42,33,9,49,11
+New Mexico United,32,10,19,3,48,43,5,49,12
+Pittsburgh Riverhounds,32,9,17,6,53,56,-3,44,13
+Phoenix Rising,32,9,13,10,47,47,0,40,14
+Oakland Roots,32,7,19,6,37,51,-14,40,15
+El Paso Locomotive,32,7,13,12,50,43,7,34,16
+Los Angeles Galaxy II,32,7,10,15,56,48,8,31,17
+Orange County SC,32,6,9,17,42,72,-30,27,18
+Las Vegas Lights FC,32,5,10,17,59,49,10,25,19
+FC Tulsa,32,4,9,19,36,61,-25,21,20
+Monterey Bay FC,32,4,8,20,41,65,-24,20,21
+Hartford Athletic,32,4,7,21,38,67,-29,19,22
+Charleston Battery,32,3,7,22,53,76,-23,16,23
+Indy Eleven,32,3,7,22,33,59,-26,16,24
+Loudoun United,32,2,5,25,32,76,-44,11,25
+Atlanta United FC II,32,1,2,29,38,87,-49,5,26
+New York Red Bulls II,32,0,3,29,18,76,-58,3,27
+Memphis 901,33,25,8,0,79,28,51,83,1
+San Antonio Scorpions,33,25,8,0,67,21,46,83,2
+Louisville City FC,33,25,8,0,56,34,22,83,3
+Tampa Bay Rowdies,33,18,15,0,71,40,31,69,4
+Colorado Springs Switchbacks,33,17,13,3,85,58,27,64,5
+Sacramento Republic,33,17,13,3,50,33,17,64,6
+Rio Grande Valley FC,33,15,15,3,60,36,24,60,7
+Miami FC,33,14,16,3,49,30,19,58,8
+Birmingham Legion,33,14,16,3,67,54,13,58,9
+New Mexico United,33,11,19,3,50,46,4,52,10
+San Diego Loyal,33,12,15,6,66,40,26,51,11
+Detroit City FC,33,10,20,3,43,35,8,50,12
+Pittsburgh Riverhounds,33,9,18,6,53,57,-4,45,13
+Phoenix Rising,33,10,13,10,49,49,0,43,14
+Oakland Roots,33,7,20,6,38,52,-14,41,15
+El Paso Locomotive,33,8,13,12,56,44,12,37,16
+Los Angeles Galaxy II,33,7,11,15,57,50,7,32,17
+Orange County SC,33,6,10,17,42,74,-32,28,18
+Las Vegas Lights FC,33,5,11,17,59,49,10,26,19
+FC Tulsa,33,4,10,19,39,62,-23,22,20
+Monterey Bay FC,33,4,9,20,44,66,-22,21,21
+Hartford Athletic,33,4,8,21,45,68,-23,20,22
+Indy Eleven,33,3,7,23,34,59,-25,16,23
+Charleston Battery,33,3,7,23,53,79,-26,16,24
+Loudoun United,33,2,5,26,32,80,-48,11,25
+Atlanta United FC II,33,1,2,30,38,88,-50,5,26
+New York Red Bulls II,33,0,3,30,18,83,-65,3,27
+Memphis 901,34,26,8,0,81,29,52,86,1
+San Antonio Scorpions,34,26,8,0,68,22,46,86,2
+Louisville City FC,34,26,8,0,58,34,24,86,3
+Tampa Bay Rowdies,34,19,15,0,71,41,30,72,4
+Sacramento Republic,34,18,13,3,52,34,18,67,5
+Colorado Springs Switchbacks,34,17,14,3,87,60,27,65,6
+Rio Grande Valley FC,34,15,16,3,61,38,23,61,7
+Birmingham Legion,34,15,16,3,69,56,13,61,8
+Miami FC,34,14,17,3,51,30,21,59,9
+New Mexico United,34,12,19,3,51,46,5,55,10
+San Diego Loyal,34,13,15,6,68,42,26,54,11
+Detroit City FC,34,10,21,3,43,35,8,51,12
+Pittsburgh Riverhounds,34,10,18,6,54,58,-4,48,13
+Phoenix Rising,34,11,13,10,55,50,5,46,14
+Oakland Roots,34,7,21,6,40,55,-15,42,15
+El Paso Locomotive,34,9,13,12,56,45,11,40,16
+Los Angeles Galaxy II,34,7,11,16,57,51,6,32,17
+Orange County SC,34,6,11,17,43,74,-31,29,18
+Las Vegas Lights FC,34,5,12,17,60,49,11,27,19
+FC Tulsa,34,5,10,19,41,64,-23,25,20
+Monterey Bay FC,34,4,9,21,46,68,-22,21,21
+Hartford Athletic,34,4,9,21,46,71,-25,21,22
+Indy Eleven,34,3,8,23,34,61,-27,17,23
+Charleston Battery,34,3,7,24,53,80,-27,16,24
+Loudoun United,34,2,5,27,32,84,-52,11,25
+Atlanta United FC II,34,1,2,31,38,92,-54,5,26
+New York Red Bulls II,34,0,3,31,18,85,-67,3,27
+Memphis 901,35,26,9,0,81,30,51,87,1
+San Antonio Scorpions,35,26,9,0,70,22,48,87,2
+Louisville City FC,35,26,9,0,60,34,26,87,3
+Tampa Bay Rowdies,35,20,15,0,72,41,31,75,4
+Sacramento Republic,35,19,13,3,54,36,18,70,5
+Colorado Springs Switchbacks,35,17,14,4,87,61,26,65,6
+Birmingham Legion,35,16,16,3,70,59,11,64,7
+Rio Grande Valley FC,35,15,17,3,62,38,24,62,8
+Miami FC,35,14,18,3,52,31,21,60,9
+San Diego Loyal,35,14,15,6,72,42,30,57,10
+New Mexico United,35,12,20,3,53,46,7,56,11
+Detroit City FC,35,11,21,3,47,36,11,54,12
+Pittsburgh Riverhounds,35,10,19,6,54,61,-7,49,13
+Phoenix Rising,35,11,13,11,57,51,6,46,14
+Oakland Roots,35,7,22,6,41,55,-14,43,15
+El Paso Locomotive,35,9,14,12,56,45,11,41,16
+Los Angeles Galaxy II,35,7,12,16,58,52,6,33,17
+Las Vegas Lights FC,35,6,12,17,64,50,14,30,18
+Orange County SC,35,6,12,17,43,76,-33,30,19
+FC Tulsa,35,6,10,19,43,65,-22,28,20
+Monterey Bay FC,35,4,10,21,47,72,-25,22,21
+Hartford Athletic,35,4,10,21,46,72,-26,22,22
+Indy Eleven,35,3,8,24,36,61,-25,17,23
+Charleston Battery,35,3,7,25,53,81,-28,16,24
+Loudoun United,35,2,5,28,32,87,-55,11,25
+Atlanta United FC II,35,1,2,32,39,94,-55,5,26
+New York Red Bulls II,35,0,3,32,18,85,-67,3,27
+San Antonio Scorpions,36,27,9,0,71,23,48,90,1
+Memphis 901,36,26,10,0,81,30,51,88,2
+Louisville City FC,36,26,10,0,64,35,29,88,3
+Tampa Bay Rowdies,36,21,15,0,73,43,30,78,4
+Sacramento Republic,36,19,14,3,56,40,16,71,5
+Birmingham Legion,36,17,16,3,72,62,10,67,6
+Colorado Springs Switchbacks,36,17,15,4,90,61,29,66,7
+Rio Grande Valley FC,36,15,18,3,62,39,23,63,8
+Miami FC,36,14,19,3,55,31,24,61,9
+San Diego Loyal,36,15,15,6,74,43,31,60,10
+New Mexico United,36,13,20,3,54,46,8,59,11
+Detroit City FC,36,12,21,3,47,37,10,57,12
+Pittsburgh Riverhounds,36,11,19,6,55,61,-6,52,13
+Phoenix Rising,36,11,13,12,57,53,4,46,14
+El Paso Locomotive,36,10,14,12,58,47,11,44,15
+Oakland Roots,36,7,23,6,43,55,-12,44,16
+Los Angeles Galaxy II,36,8,12,16,62,54,8,36,17
+Las Vegas Lights FC,36,7,12,17,65,51,14,33,18
+Orange County SC,36,7,12,17,47,80,-33,33,19
+FC Tulsa,36,6,11,19,44,66,-22,29,20
+Monterey Bay FC,36,4,11,21,50,74,-24,23,21
+Hartford Athletic,36,4,11,21,47,76,-29,23,22
+Indy Eleven,36,3,9,24,37,64,-27,18,23
+Charleston Battery,36,3,7,26,53,87,-34,16,24
+Loudoun United,36,2,5,29,32,89,-57,11,25
+Atlanta United FC II,36,1,2,33,42,97,-55,5,26
+New York Red Bulls II,36,0,3,33,19,89,-70,3,27
+San Antonio Scorpions,37,27,10,0,71,24,47,91,1
+Memphis 901,37,26,11,0,81,33,48,89,2
+Louisville City FC,37,26,11,0,65,37,28,89,3
+Tampa Bay Rowdies,37,22,15,0,75,43,32,81,4
+Sacramento Republic,37,19,15,3,57,43,14,72,5
+Birmingham Legion,37,18,16,3,75,66,9,70,6
+Colorado Springs Switchbacks,37,17,16,4,93,63,30,67,7
+Rio Grande Valley FC,37,15,19,3,63,39,24,64,8
+Miami FC,37,14,20,3,55,31,24,62,9
+New Mexico United,37,14,20,3,56,47,9,62,10
+San Diego Loyal,37,15,15,7,77,47,30,60,11
+Detroit City FC,37,13,21,3,48,37,11,60,12
+Pittsburgh Riverhounds,37,12,19,6,56,63,-7,55,13
+Oakland Roots,37,8,23,6,45,56,-11,47,14
+Phoenix Rising,37,11,13,13,60,60,0,46,15
+El Paso Locomotive,37,10,15,12,60,48,12,45,16
+Los Angeles Galaxy II,37,8,13,16,63,57,6,37,17
+Orange County SC,37,8,12,17,48,81,-33,36,18
+Las Vegas Lights FC,37,7,13,17,66,51,15,34,19
+FC Tulsa,37,6,12,19,46,69,-23,30,20
+Monterey Bay FC,37,4,12,21,54,76,-22,24,21
+Hartford Athletic,37,4,12,21,47,77,-30,24,22
+Indy Eleven,37,3,9,25,37,66,-29,18,23
+Charleston Battery,37,3,7,27,55,88,-33,16,24
+Loudoun United,37,2,5,30,33,91,-58,11,25
+Atlanta United FC II,37,1,2,34,46,99,-53,5,26
+New York Red Bulls II,37,0,3,34,20,91,-71,3,27
+San Antonio Scorpions,38,27,11,0,72,26,46,92,1
+Memphis 901,38,26,12,0,81,36,45,90,2
+Louisville City FC,38,26,12,0,67,40,27,90,3
+Tampa Bay Rowdies,38,23,15,0,77,44,33,84,4
+Sacramento Republic,38,19,16,3,58,43,15,73,5
+Birmingham Legion,38,18,17,3,76,66,10,71,6
+Colorado Springs Switchbacks,38,17,17,4,94,66,28,68,7
+Rio Grande Valley FC,38,15,20,3,63,41,22,65,8
+New Mexico United,38,15,20,3,59,47,12,65,9
+Miami FC,38,14,21,3,57,33,24,63,10
+San Diego Loyal,38,15,16,7,79,50,29,61,11
+Detroit City FC,38,13,22,3,49,39,10,61,12
+Pittsburgh Riverhounds,38,13,19,6,56,67,-11,58,13
+Oakland Roots,38,9,23,6,49,56,-7,50,14
+Phoenix Rising,38,11,13,14,61,62,-1,46,15
+El Paso Locomotive,38,10,15,13,61,50,11,45,16
+Los Angeles Galaxy II,38,8,14,16,66,58,8,38,17
+Orange County SC,38,8,13,17,52,82,-30,37,18
+Las Vegas Lights FC,38,7,14,17,67,51,16,35,19
+FC Tulsa,38,6,13,19,46,72,-26,31,20
+Hartford Athletic,38,5,12,21,51,79,-28,27,21
+Monterey Bay FC,38,4,13,21,55,78,-23,25,22
+Indy Eleven,38,3,10,25,37,69,-32,19,23
+Charleston Battery,38,3,7,28,57,89,-32,16,24
+Loudoun United,38,2,5,31,33,92,-59,11,25
+Atlanta United FC II,38,1,3,34,47,99,-52,6,26
+New York Red Bulls II,38,0,3,35,23,92,-69,3,27
+San Antonio Scorpions,39,28,11,0,75,27,48,95,1
+Memphis 901,39,27,12,0,85,36,49,93,2
+Louisville City FC,39,27,12,0,68,41,27,93,3
+Tampa Bay Rowdies,39,24,15,0,79,45,34,87,4
+Sacramento Republic,39,20,16,3,60,43,17,76,5
+Birmingham Legion,39,19,17,3,78,68,10,74,6
+Colorado Springs Switchbacks,39,18,17,4,98,66,32,71,7
+Rio Grande Valley FC,39,16,20,3,69,43,26,68,8
+New Mexico United,39,16,20,3,60,49,11,68,9
+Miami FC,39,15,21,3,58,34,24,66,10
+San Diego Loyal,39,16,16,7,85,50,35,64,11
+Detroit City FC,39,14,22,3,50,40,10,64,12
+Pittsburgh Riverhounds,39,14,19,6,56,67,-11,61,13
+Oakland Roots,39,9,24,6,49,58,-9,51,14
+Phoenix Rising,39,12,13,14,63,62,1,49,15
+El Paso Locomotive,39,11,15,13,66,50,16,48,16
+Orange County SC,39,9,13,17,53,84,-31,40,17
+Los Angeles Galaxy II,39,8,15,16,66,60,6,39,18
+Las Vegas Lights FC,39,7,15,17,69,52,17,36,19
+FC Tulsa,39,6,13,20,46,73,-27,31,20
+Hartford Athletic,39,6,12,21,55,82,-27,30,21
+Monterey Bay FC,39,4,14,21,55,79,-24,26,22
+Indy Eleven,39,4,10,25,37,71,-34,22,23
+Charleston Battery,39,3,8,28,57,90,-33,17,24
+Loudoun United,39,2,6,31,36,97,-61,12,25
+Atlanta United FC II,39,1,3,35,49,100,-51,6,26
+New York Red Bulls II,39,0,3,36,24,92,-68,3,27
+San Antonio Scorpions,40,29,11,0,77,28,49,98,1
+Memphis 901,40,28,12,0,87,36,51,96,2
+Louisville City FC,40,28,12,0,70,41,29,96,3
+Tampa Bay Rowdies,40,25,15,0,84,46,38,90,4
+Sacramento Republic,40,21,16,3,61,44,17,79,5
+Birmingham Legion,40,20,17,3,80,69,11,77,6
+Colorado Springs Switchbacks,40,19,17,4,100,66,34,74,7
+Rio Grande Valley FC,40,17,20,3,71,43,28,71,8
+New Mexico United,40,17,20,3,62,50,12,71,9
+Miami FC,40,16,21,3,59,34,25,69,10
+San Diego Loyal,40,17,16,7,89,50,39,67,11
+Detroit City FC,40,15,22,3,51,40,11,67,12
+Pittsburgh Riverhounds,40,14,20,6,59,68,-9,62,13
+Oakland Roots,40,10,24,6,55,58,-3,54,14
+Phoenix Rising,40,13,13,14,67,62,5,52,15
+El Paso Locomotive,40,12,15,13,69,54,15,51,16
+Los Angeles Galaxy II,40,9,15,16,70,61,9,42,17
+Orange County SC,40,9,14,17,55,86,-31,41,18
+Las Vegas Lights FC,40,7,15,18,69,53,16,36,19
+FC Tulsa,40,6,14,20,48,74,-26,32,20
+Hartford Athletic,40,6,13,21,55,83,-28,31,21
+Monterey Bay FC,40,5,14,21,59,82,-23,29,22
+Indy Eleven,40,5,10,25,38,71,-33,25,23
+Charleston Battery,40,3,9,28,59,91,-32,18,24
+Loudoun United,40,2,7,31,37,99,-62,13,25
+Atlanta United FC II,40,1,4,35,52,102,-50,7,26
+New York Red Bulls II,40,0,3,37,25,92,-67,3,27
+San Antonio Scorpions,41,29,12,0,78,28,50,99,1
+Memphis 901,41,28,13,0,87,36,51,97,2
+Louisville City FC,41,28,13,0,70,42,28,97,3
+Tampa Bay Rowdies,41,26,15,0,88,48,40,93,4
+Sacramento Republic,41,21,17,3,62,46,16,80,5
+Birmingham Legion,41,20,18,3,82,69,13,78,6
+Colorado Springs Switchbacks,41,19,18,4,100,69,31,75,7
+Rio Grande Valley FC,41,17,21,3,71,44,27,72,8
+New Mexico United,41,17,21,3,62,51,11,72,9
+Miami FC,41,16,22,3,60,37,23,70,10
+Detroit City FC,41,16,22,3,54,40,14,70,11
+San Diego Loyal,41,17,17,7,90,50,40,68,12
+Pittsburgh Riverhounds,41,15,20,6,62,71,-9,65,13
+Oakland Roots,41,10,25,6,57,61,-4,55,14
+El Paso Locomotive,41,13,15,13,71,56,15,54,15
+Phoenix Rising,41,13,13,15,68,62,6,52,16
+Los Angeles Galaxy II,41,10,15,16,73,61,12,45,17
+Orange County SC,41,9,14,18,55,90,-35,41,18
+Las Vegas Lights FC,41,7,16,18,69,54,15,37,19
+FC Tulsa,41,6,15,20,50,77,-27,33,20
+Monterey Bay FC,41,6,14,21,60,83,-23,32,21
+Hartford Athletic,41,6,14,21,56,85,-29,32,22
+Indy Eleven,41,5,11,25,38,73,-35,26,23
+Charleston Battery,41,3,9,29,59,96,-37,18,24
+Loudoun United,41,2,7,32,38,100,-62,13,25
+Atlanta United FC II,41,1,4,36,52,104,-52,7,26
+New York Red Bulls II,41,0,3,38,25,93,-68,3,27
+San Antonio Scorpions,42,30,12,0,79,29,50,102,1
+Memphis 901,42,29,13,0,90,37,53,100,2
+Louisville City FC,42,29,13,0,70,44,26,100,3
+Tampa Bay Rowdies,42,27,15,0,92,49,43,96,4
+Sacramento Republic,42,21,18,3,63,46,17,81,5
+Birmingham Legion,42,20,19,3,83,70,13,79,6
+Colorado Springs Switchbacks,42,19,19,4,102,69,33,76,7
+Rio Grande Valley FC,42,17,22,3,71,46,25,73,8
+New Mexico United,42,17,22,3,63,51,12,73,9
+Miami FC,42,16,23,3,62,37,25,71,10
+Detroit City FC,42,16,23,3,55,42,13,71,11
+San Diego Loyal,42,17,18,7,92,53,39,69,12
+Pittsburgh Riverhounds,42,16,20,6,63,72,-9,68,13
+Oakland Roots,42,10,26,6,57,65,-8,56,14
+El Paso Locomotive,42,13,16,13,73,57,16,55,15
+Phoenix Rising,42,13,14,15,69,62,7,53,16
+Los Angeles Galaxy II,42,11,15,16,75,61,14,48,17
+Orange County SC,42,9,15,18,55,90,-35,42,18
+Las Vegas Lights FC,42,7,17,18,70,54,16,38,19
+FC Tulsa,42,6,16,20,54,79,-25,34,20
+Monterey Bay FC,42,6,15,21,60,83,-23,33,21
+Hartford Athletic,42,6,15,21,59,86,-27,33,22
+Indy Eleven,42,5,12,25,40,74,-34,27,23
+Charleston Battery,42,3,9,30,60,99,-39,18,24
+Loudoun United,42,2,7,33,40,103,-63,13,25
+Atlanta United FC II,42,1,4,37,53,106,-53,7,26
+New York Red Bulls II,42,0,3,39,26,97,-71,3,27
+San Antonio Scorpions,43,30,13,0,80,29,51,103,1
+Memphis 901,43,29,14,0,94,40,54,101,2
+Louisville City FC,43,29,14,0,71,46,25,101,3
+Tampa Bay Rowdies,43,28,15,0,96,49,47,99,4
+Sacramento Republic,43,21,19,3,64,47,17,82,5
+Birmingham Legion,43,20,20,3,83,71,12,80,6
+Colorado Springs Switchbacks,43,19,20,4,103,69,34,77,7
+Rio Grande Valley FC,43,17,23,3,72,46,26,74,8
+New Mexico United,43,17,23,3,66,55,11,74,9
+Miami FC,43,16,24,3,64,37,27,72,10
+Detroit City FC,43,16,24,3,56,42,14,72,11
+Pittsburgh Riverhounds,43,17,20,6,66,76,-10,71,12
+San Diego Loyal,43,17,19,7,93,55,38,70,13
+El Paso Locomotive,43,14,16,13,75,59,16,58,14
+Oakland Roots,43,10,27,6,59,65,-6,57,15
+Phoenix Rising,43,13,14,16,69,65,4,53,16
+Los Angeles Galaxy II,43,11,15,17,76,62,14,48,17
+Orange County SC,43,10,15,18,56,95,-39,45,18
+Las Vegas Lights FC,43,7,18,18,72,55,17,39,19
+FC Tulsa,43,6,17,20,55,81,-26,35,20
+Monterey Bay FC,43,6,16,21,62,84,-22,34,21
+Hartford Athletic,43,6,15,22,59,91,-32,33,22
+Indy Eleven,43,5,13,25,40,75,-35,28,23
+Charleston Battery,43,3,9,31,61,105,-44,18,24
+Loudoun United,43,2,7,34,40,105,-65,13,25
+Atlanta United FC II,43,1,4,38,54,110,-56,7,26
+New York Red Bulls II,43,0,3,40,26,100,-74,3,27
+San Antonio Scorpions,44,30,14,0,81,29,52,104,1
+Memphis 901,44,29,15,0,94,40,54,102,2
+Tampa Bay Rowdies,44,29,15,0,98,49,49,102,3
+Louisville City FC,44,29,15,0,71,48,23,102,4
+Sacramento Republic,44,21,19,4,64,50,14,82,5
+Birmingham Legion,44,20,20,4,85,74,11,80,6
+Colorado Springs Switchbacks,44,19,20,5,105,72,33,77,7
+Rio Grande Valley FC,44,17,23,4,73,46,27,74,8
+New Mexico United,44,17,23,4,66,57,9,74,9
+Miami FC,44,16,24,4,65,38,27,72,10
+Detroit City FC,44,16,24,4,57,42,15,72,11
+Pittsburgh Riverhounds,44,17,20,7,68,77,-9,71,12
+San Diego Loyal,44,17,19,8,93,60,33,70,13
+El Paso Locomotive,44,15,16,13,77,61,16,61,14
+Oakland Roots,44,11,27,6,60,67,-7,60,15
+Phoenix Rising,44,13,14,17,70,66,4,53,16
+Los Angeles Galaxy II,44,11,15,18,76,63,13,48,17
+Orange County SC,44,10,16,18,56,96,-40,46,18
+Las Vegas Lights FC,44,7,19,18,72,55,17,40,19
+FC Tulsa,44,6,18,20,56,81,-25,36,20
+Monterey Bay FC,44,6,17,21,66,86,-20,35,21
+Hartford Athletic,44,6,16,22,61,91,-30,34,22
+Indy Eleven,44,5,13,26,40,75,-35,28,23
+Charleston Battery,44,3,9,32,63,110,-47,18,24
+Loudoun United,44,2,7,35,41,113,-72,13,25
+Atlanta United FC II,44,1,4,39,55,112,-57,7,26
+New York Red Bulls II,44,0,3,41,26,104,-78,3,27
+San Antonio Scorpions,45,31,14,0,83,29,54,107,1
+Tampa Bay Rowdies,45,30,15,0,100,50,50,105,2
+Memphis 901,45,29,16,0,95,41,54,103,3
+Louisville City FC,45,29,16,0,73,50,23,103,4
+Sacramento Republic,45,21,20,4,65,51,14,83,5
+Birmingham Legion,45,20,21,4,87,74,13,81,6
+Colorado Springs Switchbacks,45,19,21,5,105,75,30,78,7
+Rio Grande Valley FC,45,17,24,4,73,47,26,75,8
+New Mexico United,45,17,24,4,66,58,8,75,9
+Miami FC,45,16,25,4,65,40,25,73,10
+Detroit City FC,45,16,25,4,57,42,15,73,11
+Pittsburgh Riverhounds,45,17,21,7,69,79,-10,72,12
+San Diego Loyal,45,17,20,8,94,62,32,71,13
+El Paso Locomotive,45,16,16,13,78,64,14,64,14
+Oakland Roots,45,12,27,6,61,68,-7,63,15
+Phoenix Rising,45,13,14,18,71,70,1,53,16
+Los Angeles Galaxy II,45,11,15,19,78,65,13,48,17
+Orange County SC,45,10,17,18,57,98,-41,47,18
+Las Vegas Lights FC,45,7,20,18,73,55,18,41,19
+FC Tulsa,45,7,18,20,57,81,-24,39,20
+Monterey Bay FC,45,6,17,22,66,88,-22,35,21
+Hartford Athletic,45,6,17,22,65,93,-28,35,22
+Indy Eleven,45,5,14,26,40,76,-36,29,23
+Charleston Battery,45,3,9,33,63,115,-52,18,24
+Loudoun United,45,2,7,36,41,113,-72,13,25
+Atlanta United FC II,45,1,4,40,56,118,-62,7,26
+New York Red Bulls II,45,0,3,42,27,104,-77,3,27
+San Antonio Scorpions,46,32,14,0,84,29,55,110,1
+Tampa Bay Rowdies,46,31,15,0,101,50,51,108,2
+Memphis 901,46,30,16,0,97,42,55,106,3
+Louisville City FC,46,30,16,0,73,51,22,106,4
+Sacramento Republic,46,21,21,4,67,53,14,84,5
+Birmingham Legion,46,20,22,4,89,74,15,82,6
+Colorado Springs Switchbacks,46,19,22,5,106,75,31,79,7
+Rio Grande Valley FC,46,17,25,4,73,47,26,76,8
+New Mexico United,46,17,25,4,67,61,6,76,9
+Miami FC,46,16,26,4,67,41,26,74,10
+Detroit City FC,46,16,26,4,58,43,15,74,11
+Pittsburgh Riverhounds,46,17,22,7,72,79,-7,73,12
+San Diego Loyal,46,17,21,8,95,62,33,72,13
+Oakland Roots,46,13,27,6,64,70,-6,66,14
+El Paso Locomotive,46,16,17,13,79,66,13,65,15
+Phoenix Rising,46,13,15,18,73,74,-1,54,16
+Orange County SC,46,11,17,18,59,98,-39,50,17
+Los Angeles Galaxy II,46,11,16,19,81,67,14,49,18
+Las Vegas Lights FC,46,8,20,18,75,55,20,44,19
+FC Tulsa,46,7,19,20,59,82,-23,40,20
+Monterey Bay FC,46,6,18,22,67,88,-21,36,21
+Hartford Athletic,46,6,18,22,67,94,-27,36,22
+Indy Eleven,46,5,15,26,41,77,-36,30,23
+Charleston Battery,46,3,9,34,64,120,-56,18,24
+Loudoun United,46,2,7,37,43,114,-71,13,25
+Atlanta United FC II,46,1,4,41,58,120,-62,7,26
+New York Red Bulls II,46,0,3,43,28,106,-78,3,27
+San Antonio Scorpions,47,33,14,0,86,31,55,113,1
+Tampa Bay Rowdies,47,32,15,0,102,50,52,111,2
+Memphis 901,47,31,16,0,98,43,55,109,3
+Louisville City FC,47,31,16,0,76,55,21,109,4
+Sacramento Republic,47,21,22,4,69,54,15,85,5
+Birmingham Legion,47,20,23,4,89,74,15,83,6
+Colorado Springs Switchbacks,47,19,23,5,107,76,31,80,7
+Rio Grande Valley FC,47,17,26,4,74,47,27,77,8
+New Mexico United,47,17,26,4,67,62,5,77,9
+Miami FC,47,16,27,4,70,43,27,75,10
+Detroit City FC,47,16,27,4,58,44,14,75,11
+Pittsburgh Riverhounds,47,17,23,7,73,81,-8,74,12
+San Diego Loyal,47,17,22,8,99,62,37,73,13
+Oakland Roots,47,14,27,6,67,70,-3,69,14
+El Paso Locomotive,47,16,18,13,80,66,14,66,15
+Phoenix Rising,47,13,16,18,75,75,0,55,16
+Orange County SC,47,12,17,18,60,98,-38,53,17
+Los Angeles Galaxy II,47,11,17,19,81,68,13,50,18
+Las Vegas Lights FC,47,8,21,18,78,56,22,45,19
+FC Tulsa,47,7,20,20,59,83,-24,41,20
+Monterey Bay FC,47,6,19,22,67,90,-23,37,21
+Hartford Athletic,47,6,19,22,68,95,-27,37,22
+Indy Eleven,47,5,16,26,42,77,-35,31,23
+Charleston Battery,47,3,9,35,64,122,-58,18,24
+Loudoun United,47,2,7,38,44,115,-71,13,25
+Atlanta United FC II,47,1,4,42,59,124,-65,7,26
+New York Red Bulls II,47,0,3,44,29,107,-78,3,27
+San Antonio Scorpions,48,34,14,0,90,32,58,116,1
+Tampa Bay Rowdies,48,33,15,0,106,50,56,114,2
+Memphis 901,48,32,16,0,98,44,54,112,3
+Louisville City FC,48,32,16,0,80,56,24,112,4
+Sacramento Republic,48,21,23,4,69,54,15,86,5
+Birmingham Legion,48,20,24,4,89,75,14,84,6
+Colorado Springs Switchbacks,48,19,24,5,111,78,33,81,7
+Rio Grande Valley FC,48,17,27,4,74,48,26,78,8
+New Mexico United,48,17,27,4,69,62,7,78,9
+Miami FC,48,16,28,4,70,43,27,76,10
+Detroit City FC,48,16,28,4,59,48,11,76,11
+Pittsburgh Riverhounds,48,17,24,7,75,83,-8,75,12
+San Diego Loyal,48,17,23,8,101,62,39,74,13
+Oakland Roots,48,15,27,6,71,70,1,72,14
+El Paso Locomotive,48,16,19,13,80,66,14,67,15
+Phoenix Rising,48,13,17,18,76,77,-1,56,16
+Orange County SC,48,13,17,18,63,99,-36,56,17
+Los Angeles Galaxy II,48,11,17,20,83,69,14,50,18
+Las Vegas Lights FC,48,8,22,18,79,56,23,46,19
+FC Tulsa,48,7,20,21,64,84,-20,41,20
+Monterey Bay FC,48,6,20,22,68,92,-24,38,21
+Hartford Athletic,48,6,20,22,68,96,-28,38,22
+Indy Eleven,48,5,17,26,43,78,-35,32,23
+Charleston Battery,48,3,9,36,67,125,-58,18,24
+Loudoun United,48,2,7,39,44,116,-72,13,25
+Atlanta United FC II,48,1,4,43,63,128,-65,7,26
+New York Red Bulls II,48,0,3,45,30,108,-78,3,27
+San Antonio Scorpions,49,34,15,0,91,32,59,117,1
+Tampa Bay Rowdies,49,33,16,0,110,50,60,115,2
+Memphis 901,49,32,17,0,99,44,55,113,3
+Louisville City FC,49,32,17,0,82,56,26,113,4
+Sacramento Republic,49,21,24,4,70,55,15,87,5
+Birmingham Legion,49,20,25,4,89,76,13,85,6
+Colorado Springs Switchbacks,49,19,25,5,111,79,32,82,7
+Rio Grande Valley FC,49,17,28,4,77,49,28,79,8
+New Mexico United,49,17,28,4,69,64,5,79,9
+Miami FC,49,16,29,4,72,45,27,77,10
+Detroit City FC,49,16,29,4,61,48,13,77,11
+Pittsburgh Riverhounds,49,17,25,7,78,85,-7,76,12
+San Diego Loyal,49,17,24,8,104,64,40,75,13
+Oakland Roots,49,16,27,6,73,72,1,75,14
+El Paso Locomotive,49,16,20,13,80,68,12,68,15
+Phoenix Rising,49,13,17,19,81,77,4,56,16
+Orange County SC,49,13,17,19,65,102,-37,56,17
+Los Angeles Galaxy II,49,11,17,21,83,75,8,50,18
+Las Vegas Lights FC,49,8,22,19,80,57,23,46,19
+FC Tulsa,49,7,20,22,66,85,-19,41,20
+Monterey Bay FC,49,6,21,22,70,92,-22,39,21
+Hartford Athletic,49,6,21,22,69,96,-27,39,22
+Indy Eleven,49,5,18,26,44,80,-36,33,23
+Charleston Battery,49,3,9,37,68,127,-59,18,24
+Loudoun United,49,2,7,40,44,117,-73,13,25
+Atlanta United FC II,49,1,4,44,64,130,-66,7,26
+New York Red Bulls II,49,0,3,46,30,112,-82,3,27
+San Antonio Scorpions,50,35,15,0,93,33,60,120,1
+Tampa Bay Rowdies,50,34,16,0,115,50,65,118,2
+Memphis 901,50,33,17,0,100,45,55,116,3
+Louisville City FC,50,33,17,0,84,56,28,116,4
+Sacramento Republic,50,21,25,4,73,56,17,88,5
+Birmingham Legion,50,20,26,4,93,77,16,86,6
+Colorado Springs Switchbacks,50,19,26,5,113,81,32,83,7
+Rio Grande Valley FC,50,17,29,4,78,50,28,80,8
+New Mexico United,50,17,29,4,70,64,6,80,9
+Miami FC,50,16,30,4,73,46,27,78,10
+Detroit City FC,50,16,30,4,62,48,14,78,11
+Pittsburgh Riverhounds,50,17,26,7,79,88,-9,77,12
+San Diego Loyal,50,17,25,8,105,64,41,76,13
+Oakland Roots,50,16,28,6,74,72,2,76,14
+El Paso Locomotive,50,16,21,13,80,70,10,69,15
+Phoenix Rising,50,13,18,19,82,84,-2,57,16
+Orange County SC,50,13,18,19,66,103,-37,57,17
+Los Angeles Galaxy II,50,11,18,21,85,76,9,51,18
+Las Vegas Lights FC,50,8,23,19,81,59,22,47,19
+FC Tulsa,50,7,21,22,68,89,-21,42,20
+Monterey Bay FC,50,6,22,22,70,93,-23,40,21
+Hartford Athletic,50,6,22,22,69,98,-29,40,22
+Indy Eleven,50,5,19,26,45,81,-36,34,23
+Charleston Battery,50,3,9,38,71,130,-59,18,24
+Loudoun United,50,2,7,41,44,120,-76,13,25
+Atlanta United FC II,50,1,4,45,66,134,-68,7,26
+New York Red Bulls II,50,0,3,47,33,116,-83,3,27
+San Antonio Scorpions,51,36,15,0,93,34,59,123,1
+Tampa Bay Rowdies,51,35,16,0,115,50,65,121,2
+Memphis 901,51,34,17,0,101,45,56,119,3
+Louisville City FC,51,34,17,0,85,56,29,119,4
+Sacramento Republic,51,22,25,4,73,58,15,91,5
+Birmingham Legion,51,21,26,4,95,77,18,89,6
+Colorado Springs Switchbacks,51,19,27,5,117,83,34,84,7
+Rio Grande Valley FC,51,17,30,4,79,50,29,81,8
+New Mexico United,51,17,30,4,73,64,9,81,9
+Miami FC,51,16,31,4,73,49,24,79,10
+Detroit City FC,51,16,31,4,64,48,16,79,11
+Pittsburgh Riverhounds,51,17,27,7,80,88,-8,78,12
+San Diego Loyal,51,17,26,8,108,65,43,77,13
+Oakland Roots,51,16,29,6,76,73,3,77,14
+El Paso Locomotive,51,16,22,13,81,70,11,70,15
+Phoenix Rising,51,13,19,19,84,84,0,58,16
+Orange County SC,51,13,19,19,67,104,-37,58,17
+Los Angeles Galaxy II,51,11,19,21,86,78,8,52,18
+Las Vegas Lights FC,51,8,24,19,81,60,21,48,19
+FC Tulsa,51,7,22,22,69,90,-21,43,20
+Monterey Bay FC,51,6,23,22,70,96,-26,41,21
+Hartford Athletic,51,6,23,22,70,99,-29,41,22
+Indy Eleven,51,5,20,26,49,83,-34,35,23
+Charleston Battery,51,3,9,39,71,133,-62,18,24
+Loudoun United,51,2,7,42,45,123,-78,13,25
+Atlanta United FC II,51,1,4,46,68,134,-66,7,26
+New York Red Bulls II,51,0,3,48,33,117,-84,3,27
+San Antonio Scorpions,52,37,15,0,95,36,59,126,1
+Tampa Bay Rowdies,52,36,16,0,117,50,67,124,2
+Memphis 901,52,35,17,0,102,46,56,122,3
+Louisville City FC,52,35,17,0,88,57,31,122,4
+Sacramento Republic,52,22,26,4,75,61,14,92,5
+Birmingham Legion,52,21,27,4,97,78,19,90,6
+Colorado Springs Switchbacks,52,19,28,5,120,89,31,85,7
+Rio Grande Valley FC,52,17,31,4,80,53,27,82,8
+New Mexico United,52,17,31,4,74,64,10,82,9
+Miami FC,52,16,32,4,73,49,24,80,10
+Detroit City FC,52,16,32,4,64,48,16,80,11
+Pittsburgh Riverhounds,52,17,28,7,82,92,-10,79,12
+San Diego Loyal,52,17,27,8,110,69,41,78,13
+Oakland Roots,52,16,30,6,77,73,4,78,14
+El Paso Locomotive,52,16,23,13,81,71,10,71,15
+Phoenix Rising,52,13,20,19,88,85,3,59,16
+Orange County SC,52,13,20,19,67,106,-39,59,17
+Los Angeles Galaxy II,52,11,20,21,87,80,7,53,18
+Las Vegas Lights FC,52,8,25,19,83,61,22,49,19
+FC Tulsa,52,7,23,22,71,90,-19,44,20
+Monterey Bay FC,52,6,24,22,71,96,-25,42,21
+Hartford Athletic,52,6,24,22,73,99,-26,42,22
+Indy Eleven,52,5,21,26,49,84,-35,36,23
+Charleston Battery,52,3,9,40,73,133,-60,18,24
+Loudoun United,52,2,7,43,47,123,-76,13,25
+Atlanta United FC II,52,1,4,47,71,138,-67,7,26
+New York Red Bulls II,52,0,3,49,34,118,-84,3,27

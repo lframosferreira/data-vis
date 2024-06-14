@@ -1,0 +1,481 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+Mamelodi Sundowns,1,1,0,0,0,0,0,3,1
+Cape Town City FC,1,1,0,0,0,1,-1,3,2
+Bloemfontein Celtic,1,0,1,0,3,0,3,1,3
+SuperSport United,1,0,1,0,2,1,1,1,4
+AmaZulu,1,0,1,0,1,0,1,1,5
+Stellenbosch,1,0,1,0,2,2,0,1,6
+Tim Sukazi Galaxy,1,0,1,0,1,1,0,1,7
+Richards Bay FC,1,0,1,0,1,1,0,1,8
+Tshakhuma Tsha Madzivhandila,1,0,1,0,1,2,-1,1,9
+Chippa United,1,0,1,0,1,2,-1,1,10
+Sekhukhune United,1,0,1,0,0,1,-1,1,11
+Orlando Pirates,1,0,1,0,0,2,-2,1,12
+Moroka Swallows,1,0,1,0,0,3,-3,1,13
+Kaizer Chiefs,1,0,1,0,0,3,-3,1,14
+Golden Arrows,1,0,0,1,1,0,1,0,15
+Maritzburg United,1,0,0,1,0,2,-2,0,16
+Mamelodi Sundowns,2,2,0,0,1,0,1,6,1
+SuperSport United,2,1,1,0,4,3,1,4,2
+Cape Town City FC,2,1,1,0,2,2,0,4,3
+Stellenbosch,2,0,2,0,6,2,4,2,4
+Bloemfontein Celtic,2,0,2,0,4,2,2,2,5
+AmaZulu,2,0,2,0,3,1,2,2,6
+Moroka Swallows,2,0,2,0,4,4,0,2,7
+Chippa United,2,0,2,0,4,4,0,2,8
+Tshakhuma Tsha Madzivhandila,2,0,2,0,2,3,-1,2,9
+Tim Sukazi Galaxy,2,0,2,0,1,2,-1,2,10
+Sekhukhune United,2,0,2,0,0,1,-1,2,11
+Orlando Pirates,2,0,2,0,1,3,-2,2,12
+Richards Bay FC,2,0,2,0,1,4,-3,2,13
+Kaizer Chiefs,2,0,2,0,1,5,-4,2,14
+Golden Arrows,2,0,1,1,3,0,3,1,15
+Maritzburg United,2,0,0,2,0,5,-5,0,16
+Mamelodi Sundowns,3,3,0,0,3,1,2,9,1
+Cape Town City FC,3,1,2,0,4,2,2,5,2
+SuperSport United,3,1,2,0,5,4,1,5,3
+Stellenbosch,3,0,3,0,7,5,2,3,4
+Bloemfontein Celtic,3,0,3,0,4,2,2,3,5
+AmaZulu,3,0,3,0,4,2,2,3,6
+Moroka Swallows,3,0,3,0,5,4,1,3,7
+Tim Sukazi Galaxy,3,0,3,0,2,2,0,3,8
+Chippa United,3,0,3,0,4,5,-1,3,9
+Sekhukhune United,3,0,3,0,0,1,-1,3,10
+Orlando Pirates,3,0,3,0,1,3,-2,3,11
+Tshakhuma Tsha Madzivhandila,3,0,3,0,3,6,-3,3,12
+Kaizer Chiefs,3,0,3,0,2,5,-3,3,13
+Richards Bay FC,3,0,3,0,1,4,-3,3,14
+Golden Arrows,3,0,2,1,4,1,3,2,15
+Maritzburg United,3,0,1,2,0,6,-6,1,16
+Mamelodi Sundowns,4,4,0,0,3,1,2,12,1
+SuperSport United,4,1,3,0,5,5,0,6,2
+Cape Town City FC,4,1,3,0,4,5,-1,6,3
+Orlando Pirates,4,1,3,0,1,4,-3,6,4
+AmaZulu,4,0,4,0,4,2,2,4,5
+Tshakhuma Tsha Madzivhandila,4,0,4,0,6,6,0,4,6
+Tim Sukazi Galaxy,4,0,4,0,2,2,0,4,7
+Sekhukhune United,4,0,4,0,0,2,-2,4,8
+Kaizer Chiefs,4,0,4,0,2,5,-3,4,9
+Richards Bay FC,4,0,4,0,1,4,-3,4,10
+Golden Arrows,4,0,3,1,5,2,3,3,11
+Moroka Swallows,4,0,3,1,6,4,2,3,12
+Stellenbosch,4,0,3,1,7,6,1,3,13
+Bloemfontein Celtic,4,0,3,1,4,3,1,3,14
+Chippa United,4,0,3,1,4,7,-3,3,15
+Maritzburg United,4,0,1,3,1,8,-7,1,16
+Mamelodi Sundowns,5,5,0,0,6,2,4,15,1
+Cape Town City FC,5,2,3,0,6,5,1,9,2
+Orlando Pirates,5,2,3,0,3,4,-1,9,3
+SuperSport United,5,1,4,0,6,5,1,7,4
+AmaZulu,5,0,5,0,5,3,2,5,5
+Tshakhuma Tsha Madzivhandila,5,0,5,0,6,6,0,5,6
+Richards Bay FC,5,0,5,0,4,4,0,5,7
+Tim Sukazi Galaxy,5,0,5,0,3,4,-1,5,8
+Sekhukhune United,5,0,5,0,0,2,-2,5,9
+Kaizer Chiefs,5,0,5,0,2,5,-3,5,10
+Bloemfontein Celtic,5,0,4,1,8,3,5,4,11
+Stellenbosch,5,0,4,1,10,6,4,4,12
+Golden Arrows,5,0,4,1,7,3,4,4,13
+Chippa United,5,0,4,1,8,9,-1,4,14
+Moroka Swallows,5,0,4,1,6,7,-1,4,15
+Maritzburg United,5,0,1,4,1,9,-8,1,16
+Mamelodi Sundowns,6,6,0,0,9,2,7,18,1
+Orlando Pirates,6,3,3,0,3,4,-1,12,2
+Cape Town City FC,6,2,4,0,7,6,1,10,3
+SuperSport United,6,2,4,0,7,7,0,10,4
+Golden Arrows,6,1,4,1,10,3,7,7,5
+Bloemfontein Celtic,6,1,4,1,10,3,7,7,6
+AmaZulu,6,0,6,0,5,4,1,6,7
+Tshakhuma Tsha Madzivhandila,6,0,6,0,6,6,0,6,8
+Richards Bay FC,6,0,6,0,4,4,0,6,9
+Tim Sukazi Galaxy,6,0,6,0,3,4,-1,6,10
+Sekhukhune United,6,0,6,0,0,2,-2,6,11
+Kaizer Chiefs,6,0,6,0,3,6,-3,6,12
+Stellenbosch,6,0,5,1,12,6,6,5,13
+Moroka Swallows,6,0,5,1,7,7,0,5,14
+Chippa United,6,0,5,1,8,11,-3,5,15
+Maritzburg United,6,0,2,4,2,10,-8,2,16
+Mamelodi Sundowns,7,7,0,0,10,2,8,21,1
+Orlando Pirates,7,4,3,0,4,4,0,15,2
+Cape Town City FC,7,2,5,0,8,8,0,11,3
+SuperSport United,7,2,5,0,7,8,-1,11,4
+Golden Arrows,7,1,5,1,11,3,8,8,5
+Bloemfontein Celtic,7,1,5,1,11,4,7,8,6
+Tshakhuma Tsha Madzivhandila,7,0,7,0,7,6,1,7,7
+AmaZulu,7,0,7,0,5,4,1,7,8
+Tim Sukazi Galaxy,7,0,7,0,5,5,0,7,9
+Richards Bay FC,7,0,7,0,4,4,0,7,10
+Sekhukhune United,7,0,7,0,0,2,-2,7,11
+Kaizer Chiefs,7,0,7,0,3,6,-3,7,12
+Stellenbosch,7,0,6,1,13,7,6,6,13
+Moroka Swallows,7,0,6,1,8,7,1,6,14
+Chippa United,7,0,6,1,8,11,-3,6,15
+Maritzburg United,7,0,3,4,3,11,-8,3,16
+Mamelodi Sundowns,8,8,0,0,11,2,9,24,1
+Orlando Pirates,8,5,3,0,6,5,1,18,2
+SuperSport United,8,3,5,0,7,8,-1,14,3
+Cape Town City FC,8,2,6,0,9,9,0,12,4
+Tim Sukazi Galaxy,8,1,7,0,5,5,0,10,5
+Bloemfontein Celtic,8,1,6,1,11,4,7,9,6
+Golden Arrows,8,1,5,2,13,5,8,8,7
+Richards Bay FC,8,0,8,0,6,4,2,8,8
+Tshakhuma Tsha Madzivhandila,8,0,8,0,7,7,0,8,9
+AmaZulu,8,0,7,1,6,8,-2,7,10
+Sekhukhune United,8,0,7,1,0,2,-2,7,11
+Kaizer Chiefs,8,0,7,1,3,8,-5,7,12
+Stellenbosch,8,0,6,2,14,9,5,6,13
+Moroka Swallows,8,0,6,2,8,8,0,6,14
+Chippa United,8,0,6,2,8,14,-6,6,15
+Maritzburg United,8,0,4,4,3,11,-8,4,16
+Mamelodi Sundowns,9,8,1,0,11,3,8,25,1
+Orlando Pirates,9,5,4,0,6,5,1,19,2
+SuperSport United,9,4,5,0,12,8,4,17,3
+Cape Town City FC,9,2,7,0,12,9,3,13,4
+Bloemfontein Celtic,9,2,6,1,12,4,8,12,5
+Tim Sukazi Galaxy,9,1,8,0,6,5,1,11,6
+Richards Bay FC,9,1,8,0,6,5,1,11,7
+Golden Arrows,9,1,6,2,16,5,11,9,8
+Tshakhuma Tsha Madzivhandila,9,0,9,0,8,8,0,9,9
+Sekhukhune United,9,0,8,1,0,2,-2,8,10
+AmaZulu,9,0,8,1,6,9,-3,8,11
+Kaizer Chiefs,9,0,8,1,4,9,-5,8,12
+Stellenbosch,9,0,6,3,14,11,3,6,13
+Moroka Swallows,9,0,6,3,8,8,0,6,14
+Chippa United,9,0,6,3,9,18,-9,6,15
+Maritzburg United,9,0,5,4,3,14,-11,5,16
+Mamelodi Sundowns,10,9,1,0,12,3,9,28,1
+SuperSport United,10,5,5,0,13,8,5,20,2
+Orlando Pirates,10,5,5,0,7,5,2,20,3
+Cape Town City FC,10,2,8,0,15,9,6,14,4
+Richards Bay FC,10,2,8,0,7,5,2,14,5
+Bloemfontein Celtic,10,2,7,1,14,5,9,13,6
+Tim Sukazi Galaxy,10,1,9,0,6,6,0,12,7
+Golden Arrows,10,1,7,2,17,9,8,10,8
+Tshakhuma Tsha Madzivhandila,10,0,10,0,8,8,0,10,9
+AmaZulu,10,0,9,1,8,9,-1,9,10
+Sekhukhune United,10,0,9,1,1,2,-1,9,11
+Kaizer Chiefs,10,0,9,1,5,11,-6,9,12
+Stellenbosch,10,0,7,3,17,12,5,7,13
+Moroka Swallows,10,0,7,3,8,8,0,7,14
+Chippa United,10,0,7,3,12,21,-9,7,15
+Maritzburg United,10,0,6,4,3,14,-11,6,16
+Mamelodi Sundowns,11,10,1,0,15,3,12,31,1
+SuperSport United,11,5,6,0,14,10,4,21,2
+Orlando Pirates,11,5,6,0,7,5,2,21,3
+Richards Bay FC,11,3,8,0,7,7,0,17,4
+Cape Town City FC,11,2,9,0,15,10,5,15,5
+Tim Sukazi Galaxy,11,2,9,0,9,7,2,15,6
+Bloemfontein Celtic,11,2,8,1,14,6,8,14,7
+Golden Arrows,11,1,8,2,19,10,9,11,8
+Tshakhuma Tsha Madzivhandila,11,0,11,0,8,9,-1,11,9
+Moroka Swallows,11,1,7,3,9,8,1,10,10
+AmaZulu,11,0,10,1,9,9,0,10,11
+Sekhukhune United,11,0,10,1,2,4,-2,10,12
+Kaizer Chiefs,11,0,10,1,6,12,-6,10,13
+Chippa United,11,0,8,3,13,21,-8,8,14
+Stellenbosch,11,0,7,4,17,14,3,7,15
+Maritzburg United,11,0,7,4,3,14,-11,7,16
+Mamelodi Sundowns,12,11,1,0,15,3,12,34,1
+SuperSport United,12,6,6,0,15,11,4,24,2
+Orlando Pirates,12,6,6,0,7,6,1,24,3
+Tim Sukazi Galaxy,12,3,9,0,10,8,2,18,4
+Richards Bay FC,12,3,9,0,7,7,0,18,5
+Cape Town City FC,12,2,10,0,17,11,6,16,6
+Bloemfontein Celtic,12,2,9,1,14,9,5,15,7
+Kaizer Chiefs,12,1,10,1,7,14,-7,13,8
+Golden Arrows,12,1,9,2,20,12,8,12,9
+Tshakhuma Tsha Madzivhandila,12,0,12,0,8,10,-2,12,10
+Moroka Swallows,12,1,8,3,9,9,0,11,11
+AmaZulu,12,0,11,1,11,9,2,11,12
+Sekhukhune United,12,0,11,1,3,4,-1,11,13
+Chippa United,12,0,8,4,14,22,-8,8,14
+Stellenbosch,12,0,7,5,18,15,3,7,15
+Maritzburg United,12,0,7,5,5,15,-10,7,16
+Mamelodi Sundowns,13,12,1,0,16,3,13,37,1
+SuperSport United,13,7,6,0,16,11,5,27,2
+Orlando Pirates,13,6,7,0,7,6,1,25,3
+Richards Bay FC,13,4,9,0,9,7,2,21,4
+Tim Sukazi Galaxy,13,3,10,0,11,8,3,19,5
+Bloemfontein Celtic,13,2,10,1,17,9,8,16,6
+Cape Town City FC,13,2,10,1,17,11,6,16,7
+Kaizer Chiefs,13,2,10,1,9,14,-5,16,8
+AmaZulu,13,1,11,1,12,10,2,14,9
+Golden Arrows,13,1,10,2,22,15,7,13,10
+Tshakhuma Tsha Madzivhandila,13,0,13,0,9,11,-2,13,11
+Moroka Swallows,13,1,9,3,9,9,0,12,12
+Sekhukhune United,13,0,12,1,3,4,-1,12,13
+Chippa United,13,0,9,4,17,23,-6,9,14
+Maritzburg United,13,0,8,5,5,15,-10,8,15
+Stellenbosch,13,0,7,6,20,18,2,7,16
+Mamelodi Sundowns,14,13,1,0,17,5,12,40,1
+SuperSport United,14,7,7,0,16,13,3,28,2
+Orlando Pirates,14,6,8,0,7,6,1,26,3
+Richards Bay FC,14,5,9,0,9,7,2,24,4
+Tim Sukazi Galaxy,14,3,11,0,11,8,3,20,5
+Bloemfontein Celtic,14,2,11,1,17,9,8,17,6
+Cape Town City FC,14,2,11,1,18,11,7,17,7
+AmaZulu,14,2,11,1,13,11,2,17,8
+Kaizer Chiefs,14,2,11,1,12,15,-3,17,9
+Tshakhuma Tsha Madzivhandila,14,0,14,0,10,11,-1,14,10
+Golden Arrows,14,1,10,3,22,16,6,13,11
+Moroka Swallows,14,1,10,3,11,11,0,13,12
+Chippa United,14,1,9,4,19,24,-5,12,13
+Sekhukhune United,14,0,12,2,3,13,-10,12,14
+Maritzburg United,14,0,9,5,5,16,-11,9,15
+Stellenbosch,14,0,7,7,21,23,-2,7,16
+Mamelodi Sundowns,15,14,1,0,19,5,14,43,1
+Orlando Pirates,15,7,8,0,9,6,3,29,2
+SuperSport United,15,7,8,0,16,15,1,29,3
+Richards Bay FC,15,5,10,0,9,8,1,25,4
+Tim Sukazi Galaxy,15,3,12,0,11,9,2,21,5
+Kaizer Chiefs,15,3,11,1,15,15,0,20,6
+Bloemfontein Celtic,15,2,12,1,18,10,8,18,7
+Cape Town City FC,15,2,12,1,20,13,7,18,8
+AmaZulu,15,2,12,1,13,12,1,18,9
+Moroka Swallows,15,2,10,3,11,12,-1,16,10
+Chippa United,15,2,9,4,20,27,-7,15,11
+Golden Arrows,15,1,11,3,22,16,6,14,12
+Tshakhuma Tsha Madzivhandila,15,0,14,1,11,13,-2,14,13
+Sekhukhune United,15,0,13,2,4,14,-10,13,14
+Maritzburg United,15,0,10,5,6,17,-11,10,15
+Stellenbosch,15,0,8,7,21,24,-3,8,16
+Mamelodi Sundowns,16,15,1,0,23,5,18,46,1
+SuperSport United,16,8,8,0,17,15,2,32,2
+Orlando Pirates,16,7,8,1,9,6,3,29,3
+Richards Bay FC,16,5,11,0,9,8,1,26,4
+Kaizer Chiefs,16,4,11,1,16,17,-1,23,5
+Tim Sukazi Galaxy,16,3,13,0,11,9,2,22,6
+AmaZulu,16,3,12,1,15,13,2,21,7
+Bloemfontein Celtic,16,2,13,1,20,14,6,19,8
+Cape Town City FC,16,2,13,1,20,15,5,19,9
+Moroka Swallows,16,2,11,3,11,12,-1,17,10
+Chippa United,16,2,10,4,23,27,-4,16,11
+Sekhukhune United,16,1,13,2,5,14,-9,16,12
+Golden Arrows,16,1,12,3,22,20,2,15,13
+Tshakhuma Tsha Madzivhandila,16,0,15,1,11,13,-2,15,14
+Maritzburg United,16,0,11,5,7,17,-10,11,15
+Stellenbosch,16,0,9,7,28,24,4,9,16
+Mamelodi Sundowns,17,16,1,0,28,5,23,49,1
+SuperSport United,17,9,8,0,19,15,4,35,2
+Orlando Pirates,17,7,9,1,10,6,4,30,3
+Richards Bay FC,17,6,11,0,9,8,1,29,4
+AmaZulu,17,4,12,1,15,13,2,24,5
+Kaizer Chiefs,17,4,12,1,17,19,-2,24,6
+Tim Sukazi Galaxy,17,3,14,0,11,9,2,23,7
+Cape Town City FC,17,2,14,1,23,16,7,20,8
+Chippa United,17,3,10,4,25,27,-2,19,9
+Bloemfontein Celtic,17,2,13,2,21,17,4,19,10
+Moroka Swallows,17,2,12,3,11,12,-1,18,11
+Sekhukhune United,17,1,14,2,5,14,-9,17,12
+Golden Arrows,17,1,13,3,22,23,-1,16,13
+Tshakhuma Tsha Madzivhandila,17,0,16,1,14,14,0,16,14
+Stellenbosch,17,1,9,7,30,25,5,12,15
+Maritzburg United,17,0,12,5,9,17,-8,12,16
+Mamelodi Sundowns,18,17,1,0,31,5,26,52,1
+SuperSport United,18,10,8,0,23,16,7,38,2
+Orlando Pirates,18,8,9,1,11,6,5,33,3
+Richards Bay FC,18,6,12,0,10,9,1,30,4
+AmaZulu,18,4,13,1,18,13,5,25,5
+Kaizer Chiefs,18,4,13,1,19,19,0,25,6
+Tim Sukazi Galaxy,18,3,15,0,11,9,2,24,7
+Chippa United,18,4,10,4,26,28,-2,22,8
+Cape Town City FC,18,2,14,2,24,16,8,20,9
+Bloemfontein Celtic,18,2,14,2,21,17,4,20,10
+Moroka Swallows,18,2,13,3,11,12,-1,19,11
+Sekhukhune United,18,1,15,2,5,14,-9,18,12
+Golden Arrows,18,1,13,4,22,25,-3,16,13
+Tshakhuma Tsha Madzivhandila,18,0,16,2,14,14,0,16,14
+Stellenbosch,18,2,9,7,31,25,6,15,15
+Maritzburg United,18,0,12,6,9,20,-11,12,16
+Mamelodi Sundowns,19,18,1,0,35,5,30,55,1
+SuperSport United,19,11,8,0,26,16,10,41,2
+Orlando Pirates,19,8,10,1,11,6,5,34,3
+Richards Bay FC,19,6,13,0,11,9,2,31,4
+AmaZulu,19,4,14,1,18,13,5,26,5
+Kaizer Chiefs,19,4,14,1,19,20,-1,26,6
+Tim Sukazi Galaxy,19,3,15,1,11,10,1,24,7
+Chippa United,19,4,11,4,26,28,-2,23,8
+Cape Town City FC,19,2,15,2,24,20,4,21,9
+Bloemfontein Celtic,19,2,15,2,21,20,1,21,10
+Moroka Swallows,19,2,14,3,13,13,0,20,11
+Sekhukhune United,19,1,16,2,5,14,-9,19,12
+Tshakhuma Tsha Madzivhandila,19,0,17,2,15,15,0,17,13
+Stellenbosch,19,2,10,7,33,25,8,16,14
+Golden Arrows,19,1,13,5,22,27,-5,16,15
+Maritzburg United,19,0,13,6,9,20,-11,13,16
+Mamelodi Sundowns,20,19,1,0,36,6,30,58,1
+SuperSport United,20,11,8,1,26,17,9,41,2
+Orlando Pirates,20,8,11,1,14,6,8,35,3
+Richards Bay FC,20,7,13,0,15,10,5,34,4
+Kaizer Chiefs,20,5,14,1,21,20,1,29,5
+AmaZulu,20,4,15,1,18,13,5,27,6
+Tim Sukazi Galaxy,20,3,16,1,11,10,1,25,7
+Chippa United,20,4,12,4,27,30,-3,24,8
+Cape Town City FC,20,2,16,2,25,21,4,22,9
+Bloemfontein Celtic,20,2,16,2,21,20,1,22,10
+Sekhukhune United,20,2,16,2,7,14,-7,22,11
+Moroka Swallows,20,2,15,3,13,15,-2,21,12
+Stellenbosch,20,3,10,7,36,25,11,19,13
+Tshakhuma Tsha Madzivhandila,20,0,18,2,15,15,0,18,14
+Golden Arrows,20,1,14,5,23,28,-5,17,15
+Maritzburg United,20,0,14,6,9,22,-13,14,16
+Mamelodi Sundowns,21,20,1,0,40,6,34,61,1
+SuperSport United,21,12,8,1,26,17,9,44,2
+Orlando Pirates,21,8,12,1,15,6,9,36,3
+Richards Bay FC,21,7,14,0,16,10,6,35,4
+AmaZulu,21,5,15,1,18,13,5,30,5
+Kaizer Chiefs,21,5,15,1,21,21,0,30,6
+Tim Sukazi Galaxy,21,3,17,1,12,11,1,26,7
+Chippa United,21,4,13,4,28,30,-2,25,8
+Cape Town City FC,21,2,17,2,26,23,3,23,9
+Sekhukhune United,21,2,17,2,8,14,-6,23,10
+Stellenbosch,21,4,10,7,36,25,11,22,11
+Bloemfontein Celtic,21,2,16,3,22,23,-1,22,12
+Moroka Swallows,21,2,16,3,16,18,-2,22,13
+Tshakhuma Tsha Madzivhandila,21,0,19,2,15,16,-1,19,14
+Golden Arrows,21,1,14,6,23,28,-5,17,15
+Maritzburg United,21,0,14,7,10,23,-13,14,16
+Mamelodi Sundowns,22,21,1,0,42,7,35,64,1
+SuperSport United,22,13,8,1,28,18,10,47,2
+Orlando Pirates,22,8,13,1,17,7,10,37,3
+Richards Bay FC,22,7,15,0,16,10,6,36,4
+AmaZulu,22,5,16,1,18,14,4,31,5
+Kaizer Chiefs,22,5,16,1,21,22,-1,31,6
+Chippa United,22,5,13,4,29,31,-2,28,7
+Tim Sukazi Galaxy,22,3,18,1,14,11,3,27,8
+Sekhukhune United,22,2,18,2,9,15,-6,24,9
+Stellenbosch,22,4,11,7,36,25,11,23,10
+Cape Town City FC,22,2,17,3,26,23,3,23,11
+Bloemfontein Celtic,22,2,16,4,23,24,-1,22,12
+Moroka Swallows,22,2,16,4,16,19,-3,22,13
+Tshakhuma Tsha Madzivhandila,22,0,19,3,15,17,-2,19,14
+Golden Arrows,22,1,14,7,23,33,-10,17,15
+Maritzburg United,22,0,14,8,10,24,-14,14,16
+Mamelodi Sundowns,23,22,1,0,46,8,38,67,1
+SuperSport United,23,13,9,1,28,18,10,48,2
+Richards Bay FC,23,8,15,0,18,10,8,39,3
+Orlando Pirates,23,8,14,1,17,7,10,38,4
+AmaZulu,23,6,16,1,19,15,4,34,5
+Kaizer Chiefs,23,5,16,2,21,25,-4,31,6
+Chippa United,23,5,14,4,30,31,-1,29,7
+Tim Sukazi Galaxy,23,3,19,1,15,11,4,28,8
+Sekhukhune United,23,2,19,2,10,15,-5,25,9
+Stellenbosch,23,4,12,7,36,26,10,24,10
+Cape Town City FC,23,2,17,4,27,23,4,23,11
+Moroka Swallows,23,2,17,4,16,20,-4,23,12
+Bloemfontein Celtic,23,2,16,5,23,26,-3,22,13
+Tshakhuma Tsha Madzivhandila,23,0,19,4,17,17,0,19,14
+Golden Arrows,23,1,14,8,23,34,-11,17,15
+Maritzburg United,23,0,14,9,10,24,-14,14,16
+Mamelodi Sundowns,24,23,1,0,48,8,40,70,1
+SuperSport United,24,13,10,1,28,18,10,49,2
+Richards Bay FC,24,8,16,0,18,10,8,40,3
+Orlando Pirates,24,8,15,1,17,7,10,39,4
+AmaZulu,24,6,16,2,19,15,4,34,5
+Kaizer Chiefs,24,5,17,2,23,26,-3,32,6
+Chippa United,24,5,15,4,30,31,-1,30,7
+Tim Sukazi Galaxy,24,3,20,1,15,11,4,29,8
+Sekhukhune United,24,2,20,2,12,16,-4,26,9
+Stellenbosch,24,4,13,7,37,26,11,25,10
+Cape Town City FC,24,2,18,4,27,23,4,24,11
+Moroka Swallows,24,2,18,4,17,23,-6,24,12
+Bloemfontein Celtic,24,2,17,5,25,28,-3,23,13
+Tshakhuma Tsha Madzivhandila,24,0,20,4,18,17,1,20,14
+Golden Arrows,24,1,14,9,23,35,-12,17,15
+Maritzburg United,24,0,14,10,11,24,-13,14,16
+Mamelodi Sundowns,25,24,1,0,53,8,45,73,1
+SuperSport United,25,13,11,1,28,20,8,50,2
+Richards Bay FC,25,8,17,0,19,10,9,41,3
+Orlando Pirates,25,8,16,1,18,10,8,40,4
+AmaZulu,25,6,17,2,19,16,3,35,5
+Kaizer Chiefs,25,6,17,2,25,26,-1,35,6
+Chippa United,25,5,15,5,30,32,-2,30,7
+Tim Sukazi Galaxy,25,3,21,1,17,12,5,30,8
+Sekhukhune United,25,2,21,2,12,17,-5,27,9
+Stellenbosch,25,4,14,7,37,26,11,26,10
+Cape Town City FC,25,2,19,4,28,24,4,25,11
+Moroka Swallows,25,2,18,5,17,25,-8,24,12
+Bloemfontein Celtic,25,2,17,6,25,31,-6,23,13
+Tshakhuma Tsha Madzivhandila,25,0,20,5,18,19,-1,20,14
+Golden Arrows,25,1,14,10,25,36,-11,17,15
+Maritzburg United,25,0,14,11,13,25,-12,14,16
+Mamelodi Sundowns,26,25,1,0,55,8,47,76,1
+SuperSport United,26,13,12,1,28,20,8,51,2
+Richards Bay FC,26,8,18,0,19,10,9,42,3
+Orlando Pirates,26,8,17,1,19,10,9,41,4
+AmaZulu,26,7,17,2,20,17,3,38,5
+Kaizer Chiefs,26,6,18,2,26,26,0,36,6
+Chippa United,26,5,16,5,30,32,-2,31,7
+Tim Sukazi Galaxy,26,3,22,1,17,15,2,31,8
+Sekhukhune United,26,2,22,2,13,18,-5,28,9
+Stellenbosch,26,4,15,7,37,28,9,27,10
+Cape Town City FC,26,2,20,4,28,26,2,26,11
+Moroka Swallows,26,2,18,6,17,25,-8,24,12
+Bloemfontein Celtic,26,2,17,7,26,33,-7,23,13
+Tshakhuma Tsha Madzivhandila,26,0,20,6,19,20,-1,20,14
+Golden Arrows,26,1,14,11,26,37,-11,17,15
+Maritzburg United,26,0,14,12,13,25,-12,14,16
+Mamelodi Sundowns,27,26,1,0,64,8,56,79,1
+SuperSport United,27,13,13,1,30,21,9,52,2
+Richards Bay FC,27,8,19,0,19,11,8,43,3
+Orlando Pirates,27,8,18,1,19,13,6,42,4
+AmaZulu,27,7,18,2,20,17,3,39,5
+Kaizer Chiefs,27,6,19,2,26,27,-1,37,6
+Chippa United,27,6,16,5,33,34,-1,34,7
+Tim Sukazi Galaxy,27,3,23,1,17,15,2,32,8
+Sekhukhune United,27,2,23,2,15,18,-3,29,9
+Stellenbosch,27,4,16,7,39,28,11,28,10
+Cape Town City FC,27,2,21,4,29,29,0,27,11
+Moroka Swallows,27,2,18,7,18,26,-8,24,12
+Bloemfontein Celtic,27,2,17,8,26,35,-9,23,13
+Tshakhuma Tsha Madzivhandila,27,0,20,7,22,21,1,20,14
+Golden Arrows,27,1,14,12,27,39,-12,17,15
+Maritzburg United,27,0,14,13,14,26,-12,14,16
+Mamelodi Sundowns,28,27,1,0,69,9,60,82,1
+SuperSport United,28,13,13,2,30,25,5,52,2
+Richards Bay FC,28,8,19,1,20,13,7,43,3
+Orlando Pirates,28,8,18,2,19,18,1,42,4
+AmaZulu,28,7,18,3,20,22,-2,39,5
+Kaizer Chiefs,28,6,19,3,26,29,-3,37,6
+Chippa United,28,6,16,6,33,36,-3,34,7
+Tim Sukazi Galaxy,28,3,23,2,18,16,2,32,8
+Stellenbosch,28,4,17,7,39,30,9,29,9
+Sekhukhune United,28,2,23,3,15,19,-4,29,10
+Cape Town City FC,28,2,21,5,31,30,1,27,11
+Moroka Swallows,28,2,18,8,19,30,-11,24,12
+Bloemfontein Celtic,28,2,17,9,26,38,-12,23,13
+Tshakhuma Tsha Madzivhandila,28,0,20,8,22,25,-3,20,14
+Golden Arrows,28,1,14,13,27,41,-14,17,15
+Maritzburg United,28,0,14,14,14,30,-16,14,16
+Mamelodi Sundowns,29,28,1,0,70,9,61,85,1
+SuperSport United,29,13,14,2,31,26,5,53,2
+Richards Bay FC,29,8,20,1,20,14,6,44,3
+Orlando Pirates,29,8,19,2,19,18,1,43,4
+AmaZulu,29,7,19,3,21,23,-2,40,5
+Kaizer Chiefs,29,6,20,3,27,29,-2,38,6
+Chippa United,29,6,17,6,33,38,-5,35,7
+Tim Sukazi Galaxy,29,3,24,2,18,17,1,33,8
+Sekhukhune United,29,2,24,3,16,19,-3,30,9
+Stellenbosch,29,4,17,8,39,30,9,29,10
+Cape Town City FC,29,2,22,5,32,31,1,28,11
+Moroka Swallows,29,2,19,8,20,32,-12,25,12
+Bloemfontein Celtic,29,2,18,9,26,38,-12,24,13
+Tshakhuma Tsha Madzivhandila,29,0,21,8,22,25,-3,21,14
+Golden Arrows,29,1,14,14,27,42,-15,17,15
+Maritzburg United,29,0,14,15,14,32,-18,14,16
+Mamelodi Sundowns,30,29,1,0,70,9,61,88,1
+SuperSport United,30,13,15,2,32,26,6,54,2
+Richards Bay FC,30,8,21,1,20,15,5,45,3
+Orlando Pirates,30,8,20,2,19,20,-1,44,4
+AmaZulu,30,7,20,3,21,25,-4,41,5
+Kaizer Chiefs,30,6,21,3,29,29,0,39,6
+Chippa United,30,6,18,6,35,38,-3,36,7
+Tim Sukazi Galaxy,30,3,25,2,18,17,1,34,8
+Sekhukhune United,30,2,25,3,18,20,-2,31,9
+Stellenbosch,30,4,18,8,40,32,8,30,10
+Cape Town City FC,30,2,23,5,32,38,-6,29,11
+Moroka Swallows,30,2,20,8,20,32,-12,26,12
+Bloemfontein Celtic,30,2,18,10,26,41,-15,24,13
+Tshakhuma Tsha Madzivhandila,30,0,21,9,22,26,-4,21,14
+Golden Arrows,30,1,14,15,28,44,-16,17,15
+Maritzburg United,30,0,14,16,14,32,-18,14,16

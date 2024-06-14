@@ -1,0 +1,481 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+LDU Quito,1,1,0,0,1,0,1,3,1
+Universidad Catolica,1,0,1,0,2,0,2,1,2
+FC Barcelona,1,0,1,0,1,2,-1,1,3
+Octubre,1,0,1,0,2,4,-2,1,4
+CS Emelec,1,0,1,0,1,3,-2,1,5
+Tecnico Universitario,1,0,1,0,0,2,-2,1,6
+Independiente del Valle,1,0,1,0,0,2,-2,1,7
+SD Aucas,1,0,1,0,1,4,-3,1,8
+Orense,1,0,0,1,4,1,3,0,9
+River Ecuador,1,0,0,1,3,0,3,0,10
+Manta FC,1,0,0,1,1,0,1,0,11
+Deportivo Cuenca,1,0,0,1,2,2,0,0,12
+Macara,1,0,0,1,1,1,0,0,13
+Delfin SC,1,0,0,1,1,2,-1,0,14
+Mushuc Runa,1,0,0,1,0,1,-1,0,15
+CD Olmedo,1,0,0,1,0,5,-5,0,16
+LDU Quito,2,2,0,0,1,3,-2,6,1
+Independiente del Valle,2,1,1,0,2,2,0,4,2
+CS Emelec,2,1,1,0,3,4,-1,4,3
+Universidad Catolica,2,0,2,0,2,1,1,2,4
+FC Barcelona,2,0,2,0,2,3,-1,2,5
+Octubre,2,0,2,0,4,6,-2,2,6
+Tecnico Universitario,2,0,2,0,0,2,-2,2,7
+SD Aucas,2,0,2,0,1,8,-7,2,8
+Deportivo Cuenca,2,0,1,1,2,4,-2,1,9
+Delfin SC,2,0,1,1,2,6,-4,1,10
+Mushuc Runa,2,0,1,1,0,4,-4,1,11
+Orense,2,0,0,2,5,3,2,0,12
+River Ecuador,2,0,0,2,3,3,0,0,13
+Manta FC,2,0,0,2,1,1,0,0,14
+Macara,2,0,0,2,2,5,-3,0,15
+CD Olmedo,2,0,0,2,2,6,-4,0,16
+LDU Quito,3,3,0,0,1,4,-3,9,1
+Independiente del Valle,3,2,1,0,4,2,2,7,2
+CS Emelec,3,2,1,0,4,5,-1,7,3
+Universidad Catolica,3,1,2,0,7,2,5,5,4
+FC Barcelona,3,1,2,0,6,3,3,5,5
+Octubre,3,1,2,0,4,10,-6,5,6
+SD Aucas,3,1,2,0,2,8,-6,5,7
+Mushuc Runa,3,1,1,1,3,4,-1,4,8
+Tecnico Universitario,3,0,3,0,1,3,-2,3,9
+Deportivo Cuenca,3,0,2,1,4,5,-1,2,10
+Delfin SC,3,0,2,1,2,8,-6,2,11
+Orense,3,0,1,2,5,5,0,1,12
+Manta FC,3,0,1,2,2,2,0,1,13
+Macara,3,0,1,2,2,5,-3,1,14
+River Ecuador,3,0,0,3,3,5,-2,0,15
+CD Olmedo,3,0,0,3,2,11,-9,0,16
+LDU Quito,4,4,0,0,2,8,-6,12,1
+Independiente del Valle,4,3,1,0,6,2,4,10,2
+CS Emelec,4,3,1,0,7,6,1,10,3
+Universidad Catolica,4,2,2,0,7,2,5,8,4
+FC Barcelona,4,2,2,0,6,4,2,8,5
+Mushuc Runa,4,2,1,1,4,4,0,7,6
+SD Aucas,4,1,3,0,4,9,-5,6,7
+Octubre,4,1,3,0,4,12,-8,6,8
+Tecnico Universitario,4,0,4,0,2,3,-1,4,9
+Deportivo Cuenca,4,0,3,1,6,8,-2,3,10
+Delfin SC,4,0,3,1,3,8,-5,3,11
+Orense,4,0,2,2,5,6,-1,2,12
+Macara,4,0,2,2,5,7,-2,2,13
+Manta FC,4,0,2,2,2,4,-2,2,14
+River Ecuador,4,0,1,3,4,7,-3,1,15
+CD Olmedo,4,0,0,4,3,11,-8,0,16
+CS Emelec,5,4,1,0,11,6,5,13,1
+Independiente del Valle,5,4,1,0,8,4,4,13,2
+LDU Quito,5,4,1,0,4,8,-4,13,3
+Universidad Catolica,5,3,2,0,8,2,6,11,4
+Mushuc Runa,5,3,1,1,6,5,1,10,5
+FC Barcelona,5,2,3,0,6,5,1,9,6
+SD Aucas,5,1,4,0,5,10,-5,7,7
+Octubre,5,1,4,0,5,14,-9,7,8
+Tecnico Universitario,5,0,5,0,5,3,2,5,9
+Deportivo Cuenca,5,0,4,1,6,9,-3,4,10
+Delfin SC,5,0,4,1,3,8,-5,4,11
+Orense,5,0,3,2,8,8,0,3,12
+Macara,5,0,3,2,5,8,-3,3,13
+Manta FC,5,0,3,2,3,7,-4,3,14
+River Ecuador,5,0,2,3,5,8,-3,2,15
+CD Olmedo,5,0,0,5,3,13,-10,0,16
+CS Emelec,6,4,2,0,14,7,7,14,1
+Independiente del Valle,6,4,2,0,8,4,4,14,2
+LDU Quito,6,4,2,0,7,9,-2,14,3
+Universidad Catolica,6,3,3,0,9,2,7,12,4
+Mushuc Runa,6,3,2,1,6,5,1,11,5
+FC Barcelona,6,2,4,0,6,6,0,10,6
+SD Aucas,6,1,5,0,6,12,-6,8,7
+Octubre,6,1,5,0,6,15,-9,8,8
+Tecnico Universitario,6,0,6,0,6,6,0,6,9
+Deportivo Cuenca,6,0,5,1,7,9,-2,5,10
+Delfin SC,6,0,5,1,3,9,-6,5,11
+Orense,6,0,4,2,11,9,2,4,12
+Manta FC,6,0,4,2,6,8,-2,4,13
+Macara,6,0,4,2,6,8,-2,4,14
+River Ecuador,6,0,3,3,7,8,-1,3,15
+CD Olmedo,6,0,0,6,3,13,-10,0,16
+CS Emelec,7,5,2,0,19,10,9,17,1
+LDU Quito,7,5,2,0,9,11,-2,17,2
+Independiente del Valle,7,4,3,0,9,6,3,15,3
+Universidad Catolica,7,3,3,1,10,3,7,12,4
+Mushuc Runa,7,3,2,2,7,7,0,11,5
+FC Barcelona,7,2,4,1,9,9,0,10,6
+SD Aucas,7,1,5,1,7,16,-9,8,7
+Octubre,7,1,5,1,7,16,-9,8,8
+Tecnico Universitario,7,0,7,0,9,6,3,7,9
+Orense,7,0,5,2,11,10,1,5,10
+Manta FC,7,0,5,2,7,8,-1,5,11
+Deportivo Cuenca,7,0,5,2,9,11,-2,5,12
+Delfin SC,7,0,5,2,3,11,-8,5,13
+River Ecuador,7,0,4,3,8,9,-1,4,14
+Macara,7,0,4,3,7,8,-1,4,15
+CD Olmedo,7,0,0,7,3,16,-13,0,16
+CS Emelec,8,6,2,0,23,12,11,20,1
+Independiente del Valle,8,5,3,0,9,6,3,18,2
+LDU Quito,8,5,3,0,9,13,-4,18,3
+Universidad Catolica,8,3,4,1,12,4,8,13,4
+Mushuc Runa,8,3,3,2,9,7,2,12,5
+FC Barcelona,8,2,5,1,9,11,-2,11,6
+Tecnico Universitario,8,1,7,0,11,7,4,10,7
+Octubre,8,1,6,1,9,18,-9,9,8
+SD Aucas,8,1,6,1,7,17,-10,9,9
+Orense,8,0,6,2,12,13,-1,6,10
+Deportivo Cuenca,8,0,6,2,10,12,-2,6,11
+Manta FC,8,0,6,2,7,9,-2,6,12
+Delfin SC,8,0,6,2,3,11,-8,6,13
+Macara,8,0,4,4,9,9,0,4,14
+River Ecuador,8,0,4,4,9,10,-1,4,15
+CD Olmedo,8,0,0,8,3,18,-15,0,16
+CS Emelec,9,7,2,0,23,12,11,23,1
+LDU Quito,9,6,3,0,10,14,-4,21,2
+Independiente del Valle,9,5,4,0,10,11,-1,19,3
+Universidad Catolica,9,4,4,1,14,5,9,16,4
+Mushuc Runa,9,3,4,2,10,7,3,13,5
+FC Barcelona,9,2,5,2,10,11,-1,11,6
+Tecnico Universitario,9,1,8,0,11,8,3,11,7
+SD Aucas,9,1,6,2,10,20,-10,9,8
+Octubre,9,1,6,2,9,24,-15,9,9
+Deportivo Cuenca,9,0,7,2,10,12,-2,7,10
+Orense,9,0,7,2,12,16,-4,7,11
+Manta FC,9,0,6,3,8,12,-4,6,12
+Delfin SC,9,0,6,3,3,12,-9,6,13
+River Ecuador,9,0,5,4,10,12,-2,5,14
+Macara,9,0,4,5,10,10,0,4,15
+CD Olmedo,9,0,0,9,3,23,-20,0,16
+CS Emelec,10,8,2,0,26,13,13,26,1
+Independiente del Valle,10,6,4,0,12,11,1,22,2
+LDU Quito,10,6,4,0,14,15,-1,22,3
+Universidad Catolica,10,5,4,1,15,5,10,19,4
+Mushuc Runa,10,4,4,2,14,8,6,16,5
+FC Barcelona,10,2,6,2,11,12,-1,12,6
+Tecnico Universitario,10,1,9,0,12,8,4,12,7
+Deportivo Cuenca,10,1,7,2,12,12,0,10,8
+SD Aucas,10,1,7,2,11,20,-9,10,9
+Octubre,10,1,7,2,9,27,-18,10,10
+Manta FC,10,0,7,3,11,14,-3,7,11
+Orense,10,0,7,3,12,20,-8,7,12
+Delfin SC,10,0,7,3,5,13,-8,7,13
+Macara,10,0,5,5,12,12,0,5,14
+River Ecuador,10,0,5,5,11,17,-6,5,15
+CD Olmedo,10,0,0,10,3,26,-23,0,16
+CS Emelec,11,9,2,0,27,13,14,29,1
+Independiente del Valle,11,6,5,0,13,11,2,23,2
+LDU Quito,11,6,5,0,18,17,1,23,3
+Universidad Catolica,11,6,4,1,19,5,14,22,4
+Mushuc Runa,11,4,5,2,18,8,10,17,5
+FC Barcelona,11,2,7,2,15,14,1,13,6
+Deportivo Cuenca,11,2,7,2,14,13,1,13,7
+Tecnico Universitario,11,1,10,0,13,11,2,13,8
+SD Aucas,11,1,8,2,13,21,-8,11,9
+Octubre,11,1,8,2,9,28,-19,11,10
+Orense,11,0,8,3,13,20,-7,8,11
+Manta FC,11,0,7,4,11,14,-3,7,12
+Delfin SC,11,0,7,4,7,18,-11,7,13
+Macara,11,0,6,5,14,14,0,6,14
+River Ecuador,11,0,6,5,11,17,-6,6,15
+CD Olmedo,11,0,0,11,4,30,-26,0,16
+CS Emelec,12,10,2,0,29,14,15,32,1
+LDU Quito,12,7,5,0,23,17,6,26,2
+Universidad Catolica,12,7,4,1,19,5,14,25,3
+Independiente del Valle,12,6,6,0,14,14,0,24,4
+Mushuc Runa,12,4,6,2,20,10,10,18,5
+Deportivo Cuenca,12,2,8,2,15,15,0,14,6
+FC Barcelona,12,2,8,2,17,18,-1,14,7
+SD Aucas,12,2,8,2,14,21,-7,14,8
+Tecnico Universitario,12,1,11,0,13,12,1,14,9
+Octubre,12,1,9,2,14,29,-15,12,10
+Macara,12,1,6,5,14,16,-2,9,11
+Manta FC,12,0,8,4,13,17,-4,8,12
+Orense,12,0,8,4,13,21,-8,8,13
+Delfin SC,12,0,7,5,8,19,-11,7,14
+River Ecuador,12,0,6,6,11,18,-7,6,15
+CD Olmedo,12,0,0,12,4,32,-28,0,16
+CS Emelec,13,11,2,0,31,16,15,35,1
+Universidad Catolica,13,8,4,1,23,7,16,28,2
+LDU Quito,13,7,6,0,25,18,7,27,3
+Independiente del Valle,13,7,6,0,17,16,1,27,4
+Mushuc Runa,13,5,6,2,21,12,9,21,5
+FC Barcelona,13,3,8,2,19,18,1,17,6
+SD Aucas,13,3,8,2,17,22,-5,17,7
+Deportivo Cuenca,13,2,9,2,15,15,0,15,8
+Octubre,13,2,9,2,17,31,-14,15,9
+Tecnico Universitario,13,1,12,0,13,13,0,15,10
+Macara,13,2,6,5,14,16,-2,12,11
+Delfin SC,13,1,7,5,11,20,-9,10,12
+Manta FC,13,0,9,4,14,19,-5,9,13
+Orense,13,0,9,4,14,21,-7,9,14
+River Ecuador,13,0,6,7,15,18,-3,6,15
+CD Olmedo,13,0,0,13,5,36,-31,0,16
+CS Emelec,14,12,2,0,32,17,15,38,1
+Universidad Catolica,14,9,4,1,23,7,16,31,2
+LDU Quito,14,8,6,0,27,19,8,30,3
+Independiente del Valle,14,7,7,0,18,16,2,28,4
+Mushuc Runa,14,5,7,2,22,13,9,22,5
+FC Barcelona,14,4,8,2,21,20,1,20,6
+SD Aucas,14,4,8,2,19,26,-7,20,7
+Octubre,14,3,9,2,18,31,-13,18,8
+Tecnico Universitario,14,1,13,0,13,14,-1,16,9
+Deportivo Cuenca,14,2,9,3,16,17,-1,15,10
+Macara,14,2,7,5,17,17,0,13,11
+Delfin SC,14,1,7,6,12,20,-8,10,12
+Manta FC,14,0,10,4,16,19,-3,10,13
+Orense,14,0,10,4,15,22,-7,10,14
+River Ecuador,14,1,6,7,20,18,2,9,15
+CD Olmedo,14,0,0,14,5,40,-35,0,16
+CS Emelec,15,13,2,0,32,18,14,41,1
+Universidad Catolica,15,9,5,1,24,9,15,32,2
+LDU Quito,15,8,7,0,29,19,10,31,3
+Independiente del Valle,15,8,7,0,20,16,4,31,4
+Mushuc Runa,15,5,8,2,26,14,12,23,5
+FC Barcelona,15,5,8,2,21,22,-1,23,6
+SD Aucas,15,5,8,2,19,27,-8,23,7
+Octubre,15,4,9,2,20,33,-13,21,8
+Tecnico Universitario,15,1,14,0,15,15,0,17,9
+Deportivo Cuenca,15,2,10,3,17,19,-2,16,10
+Macara,15,2,8,5,17,20,-3,14,11
+Manta FC,15,1,10,4,16,20,-4,13,12
+Delfin SC,15,1,8,6,12,24,-12,11,13
+Orense,15,0,11,4,17,23,-6,11,14
+River Ecuador,15,1,6,8,20,22,-2,9,15
+CD Olmedo,15,0,1,14,6,41,-35,1,16
+CS Emelec,16,14,2,0,36,19,17,44,1
+Universidad Catolica,16,10,5,1,27,12,15,35,2
+Independiente del Valle,16,9,7,0,23,16,7,34,3
+LDU Quito,16,8,8,0,32,19,13,32,4
+FC Barcelona,16,6,8,2,21,22,-1,26,5
+SD Aucas,16,5,9,2,20,28,-8,24,6
+Octubre,16,5,9,2,22,34,-12,24,7
+Mushuc Runa,16,5,8,3,26,16,10,23,8
+Deportivo Cuenca,16,3,10,3,18,21,-3,19,9
+Tecnico Universitario,16,1,15,0,16,16,0,18,10
+Macara,16,2,8,6,18,21,-3,14,11
+Orense,16,1,11,4,19,23,-4,14,12
+Manta FC,16,1,10,5,17,20,-3,13,13
+Delfin SC,16,1,9,6,16,25,-9,12,14
+River Ecuador,16,1,7,8,22,22,0,10,15
+CD Olmedo,16,0,1,15,8,44,-36,1,16
+CS Emelec,17,15,2,0,37,20,17,47,1
+Universidad Catolica,17,11,5,1,28,13,15,38,2
+Independiente del Valle,17,10,7,0,25,18,7,37,3
+LDU Quito,17,9,8,0,34,19,15,35,4
+FC Barcelona,17,7,8,2,22,22,0,29,5
+Octubre,17,5,10,2,24,35,-11,25,6
+SD Aucas,17,5,10,2,20,31,-11,25,7
+Mushuc Runa,17,5,9,3,28,17,11,24,8
+Tecnico Universitario,17,2,15,0,16,16,0,21,9
+Deportivo Cuenca,17,3,11,3,19,21,-2,20,10
+Macara,17,2,9,6,21,23,-2,15,11
+Delfin SC,17,2,9,6,17,28,-11,15,12
+Orense,17,1,12,4,20,23,-3,15,13
+Manta FC,17,1,11,5,17,21,-4,14,14
+River Ecuador,17,1,7,9,22,24,-2,10,15
+CD Olmedo,17,0,1,16,9,46,-37,1,16
+CS Emelec,18,16,2,0,40,20,20,50,1
+Universidad Catolica,18,12,5,1,31,16,15,41,2
+Independiente del Valle,18,11,7,0,28,18,10,40,3
+LDU Quito,18,9,9,0,36,19,17,36,4
+FC Barcelona,18,8,8,2,23,22,1,32,5
+SD Aucas,18,6,10,2,23,33,-10,28,6
+Octubre,18,5,11,2,25,35,-10,26,7
+Mushuc Runa,18,5,10,3,31,18,13,25,8
+Tecnico Universitario,18,2,16,0,17,16,1,22,9
+Deportivo Cuenca,18,3,12,3,21,23,-2,21,10
+Delfin SC,18,3,9,6,18,29,-11,18,11
+Orense,18,1,13,4,20,23,-3,16,12
+Macara,18,2,9,7,23,23,0,15,13
+Manta FC,18,1,11,6,17,23,-6,14,14
+River Ecuador,18,1,8,9,23,27,-4,11,15
+CD Olmedo,18,0,1,17,10,49,-39,1,16
+CS Emelec,19,17,2,0,43,23,20,53,1
+Universidad Catolica,19,13,5,1,37,16,21,44,2
+Independiente del Valle,19,12,7,0,32,19,13,43,3
+LDU Quito,19,9,10,0,38,22,16,37,4
+FC Barcelona,19,9,8,2,23,23,0,35,5
+Octubre,19,6,11,2,30,36,-6,29,6
+SD Aucas,19,6,11,2,26,33,-7,29,7
+Mushuc Runa,19,5,11,3,32,21,11,26,8
+Deportivo Cuenca,19,4,12,3,23,23,0,24,9
+Tecnico Universitario,19,2,17,0,18,16,2,23,10
+Delfin SC,19,4,9,6,18,29,-11,21,11
+Macara,19,2,10,7,23,24,-1,16,12
+Orense,19,1,13,5,22,25,-3,16,13
+Manta FC,19,1,12,6,20,24,-4,15,14
+River Ecuador,19,1,9,9,24,27,-3,12,15
+CD Olmedo,19,0,1,18,10,51,-41,1,16
+CS Emelec,20,18,2,0,45,23,22,56,1
+Universidad Catolica,20,14,5,1,42,16,26,47,2
+Independiente del Valle,20,13,7,0,35,19,16,46,3
+LDU Quito,20,9,11,0,41,23,18,38,4
+FC Barcelona,20,9,9,2,23,23,0,36,5
+SD Aucas,20,7,11,2,27,35,-8,32,6
+Octubre,20,6,12,2,33,37,-4,30,7
+Mushuc Runa,20,5,12,3,32,24,8,27,8
+Deportivo Cuenca,20,4,13,3,25,23,2,25,9
+Tecnico Universitario,20,2,18,0,18,16,2,24,10
+Delfin SC,20,4,10,6,18,31,-13,22,11
+Macara,20,2,11,7,26,24,2,17,12
+Orense,20,1,14,5,22,26,-4,17,13
+Manta FC,20,1,13,6,21,24,-3,16,14
+River Ecuador,20,1,9,10,25,29,-4,12,15
+CD Olmedo,20,0,1,19,11,53,-42,1,16
+CS Emelec,21,18,3,0,47,24,23,57,1
+Universidad Catolica,21,15,5,1,42,17,25,50,2
+Independiente del Valle,21,14,7,0,37,19,18,49,3
+FC Barcelona,21,10,9,2,26,24,2,39,4
+LDU Quito,21,9,11,1,44,28,16,38,5
+Octubre,21,7,12,2,35,39,-4,33,6
+SD Aucas,21,7,12,2,28,35,-7,33,7
+Mushuc Runa,21,5,12,4,34,28,6,27,8
+Deportivo Cuenca,21,4,14,3,25,23,2,26,9
+Tecnico Universitario,21,2,18,1,19,18,1,24,10
+Delfin SC,21,4,10,7,18,31,-13,22,11
+Macara,21,3,11,7,29,24,5,20,12
+Orense,21,1,14,6,22,27,-5,17,13
+Manta FC,21,1,13,7,22,27,-5,16,14
+River Ecuador,21,1,9,11,25,29,-4,12,15
+CD Olmedo,21,0,1,20,12,54,-42,1,16
+CS Emelec,22,19,3,0,49,25,24,60,1
+Universidad Catolica,22,16,5,1,43,17,26,53,2
+Independiente del Valle,22,14,8,0,38,20,18,50,3
+FC Barcelona,22,10,10,2,31,25,6,40,4
+LDU Quito,22,9,12,1,45,29,16,39,5
+SD Aucas,22,8,12,2,32,36,-4,36,6
+Octubre,22,7,13,2,36,42,-6,34,7
+Mushuc Runa,22,5,13,4,34,28,6,28,8
+Deportivo Cuenca,22,4,14,4,25,23,2,26,9
+Tecnico Universitario,22,2,19,1,19,18,1,25,10
+Delfin SC,22,4,11,7,19,33,-14,23,11
+Macara,22,3,12,7,30,25,5,21,12
+Orense,22,1,15,6,24,28,-4,18,13
+Manta FC,22,1,13,8,23,29,-6,16,14
+River Ecuador,22,1,9,12,25,31,-6,12,15
+CD Olmedo,22,0,1,21,12,55,-43,1,16
+CS Emelec,23,19,4,0,51,26,25,61,1
+Universidad Catolica,23,16,6,1,48,18,30,54,2
+Independiente del Valle,23,15,8,0,40,25,15,53,3
+FC Barcelona,23,11,10,2,31,26,5,43,4
+LDU Quito,23,9,12,2,46,31,15,39,5
+Octubre,23,8,13,2,38,42,-4,37,6
+SD Aucas,23,8,13,2,34,40,-6,37,7
+Mushuc Runa,23,5,13,5,34,29,5,28,8
+Deportivo Cuenca,23,4,14,5,28,26,2,26,9
+Tecnico Universitario,23,2,19,2,19,18,1,25,10
+Delfin SC,23,4,12,7,21,33,-12,24,11
+Macara,23,3,13,7,31,27,4,22,12
+Orense,23,1,15,7,26,32,-6,18,13
+Manta FC,23,1,13,9,23,29,-6,16,14
+River Ecuador,23,1,9,13,25,35,-10,12,15
+CD Olmedo,23,0,1,22,13,57,-44,1,16
+CS Emelec,24,20,4,0,52,27,25,64,1
+Universidad Catolica,24,17,6,1,48,20,28,57,2
+Independiente del Valle,24,16,8,0,41,27,14,56,3
+FC Barcelona,24,12,10,2,35,26,9,46,4
+LDU Quito,24,9,13,2,48,33,15,40,5
+SD Aucas,24,9,13,2,39,42,-3,40,6
+Octubre,24,8,14,2,42,44,-2,38,7
+Mushuc Runa,24,5,14,5,36,31,5,29,8
+Delfin SC,24,5,12,7,23,34,-11,27,9
+Deportivo Cuenca,24,4,15,5,30,29,1,27,10
+Tecnico Universitario,24,2,20,2,22,18,4,26,11
+Macara,24,3,13,8,31,29,2,22,12
+Orense,24,1,16,7,27,35,-8,19,13
+Manta FC,24,1,13,10,23,29,-6,16,14
+River Ecuador,24,1,9,14,27,35,-8,12,15
+CD Olmedo,24,0,1,23,13,58,-45,1,16
+CS Emelec,25,20,5,0,55,27,28,65,1
+Independiente del Valle,25,17,8,0,43,27,16,59,2
+Universidad Catolica,25,17,7,1,48,23,25,58,3
+FC Barcelona,25,13,10,2,37,27,10,49,4
+LDU Quito,25,9,14,2,49,35,14,41,5
+Octubre,25,9,14,2,43,45,-2,41,6
+SD Aucas,25,9,14,2,39,43,-4,41,7
+Mushuc Runa,25,5,14,6,36,32,4,29,8
+Delfin SC,25,5,13,7,25,36,-11,28,9
+Deportivo Cuenca,25,4,15,6,32,32,0,27,10
+Tecnico Universitario,25,2,21,2,23,19,4,27,11
+Macara,25,3,13,9,33,30,3,22,12
+Orense,25,1,16,8,28,35,-7,19,13
+Manta FC,25,1,13,11,27,31,-4,16,14
+River Ecuador,25,1,9,15,28,38,-10,12,15
+CD Olmedo,25,0,1,24,13,60,-47,1,16
+CS Emelec,26,20,6,0,55,28,27,66,1
+Independiente del Valle,26,18,8,0,46,28,18,62,2
+Universidad Catolica,26,17,8,1,49,26,23,59,3
+FC Barcelona,26,14,10,2,41,28,13,52,4
+LDU Quito,26,9,15,2,50,40,10,42,5
+Octubre,26,9,15,2,46,46,0,42,6
+SD Aucas,26,9,15,2,42,44,-2,42,7
+Mushuc Runa,26,5,14,7,38,35,3,29,8
+Delfin SC,26,5,14,7,26,36,-10,29,9
+Tecnico Universitario,26,2,22,2,24,21,3,28,10
+Deportivo Cuenca,26,4,15,7,33,37,-4,27,11
+Macara,26,3,13,10,35,32,3,22,12
+Orense,26,1,16,9,29,37,-8,19,13
+Manta FC,26,1,13,12,29,33,-4,16,14
+River Ecuador,26,1,9,16,28,39,-11,12,15
+CD Olmedo,26,0,1,25,14,63,-49,1,16
+CS Emelec,27,21,6,0,57,28,29,69,1
+Independiente del Valle,27,19,8,0,48,29,19,65,2
+Universidad Catolica,27,18,8,1,50,27,23,62,3
+FC Barcelona,27,15,10,2,41,29,12,55,4
+LDU Quito,27,10,15,2,54,41,13,45,5
+Octubre,27,10,15,2,47,46,1,45,6
+SD Aucas,27,10,15,2,44,45,-1,45,7
+Mushuc Runa,27,6,14,7,42,35,7,32,8
+Delfin SC,27,6,14,7,30,36,-6,32,9
+Tecnico Universitario,27,3,22,2,27,22,5,31,10
+Deportivo Cuenca,27,5,15,7,35,38,-3,30,11
+Macara,27,4,13,10,36,32,4,25,12
+Orense,27,2,16,9,31,38,-7,22,13
+Manta FC,27,2,13,12,32,35,-3,19,14
+River Ecuador,27,1,10,16,29,40,-11,13,15
+CD Olmedo,27,0,1,26,16,66,-50,1,16
+CS Emelec,28,21,7,0,57,28,29,70,1
+Independiente del Valle,28,20,8,0,50,30,20,68,2
+Universidad Catolica,28,18,9,1,51,32,19,63,3
+FC Barcelona,28,15,11,2,41,30,11,56,4
+LDU Quito,28,10,15,3,56,43,13,45,5
+Octubre,28,10,15,3,48,48,0,45,6
+SD Aucas,28,10,15,3,44,49,-5,45,7
+Delfin SC,28,6,15,7,30,37,-7,33,8
+Mushuc Runa,28,6,14,8,44,35,9,32,9
+Tecnico Universitario,28,3,22,3,28,22,6,31,10
+Deportivo Cuenca,28,5,15,8,36,41,-5,30,11
+Macara,28,4,13,11,37,32,5,25,12
+Orense,28,2,16,10,31,39,-8,22,13
+Manta FC,28,2,13,13,32,36,-4,19,14
+River Ecuador,28,1,10,17,29,40,-11,13,15
+CD Olmedo,28,0,1,27,17,70,-53,1,16
+CS Emelec,29,22,7,0,57,28,29,73,1
+Independiente del Valle,29,21,8,0,52,31,21,71,2
+Universidad Catolica,29,18,10,1,51,34,17,64,3
+FC Barcelona,29,15,12,2,42,30,12,57,4
+LDU Quito,29,10,16,3,60,43,17,46,5
+Octubre,29,10,16,3,48,49,-1,46,6
+SD Aucas,29,10,16,3,46,51,-5,46,7
+Mushuc Runa,29,6,15,8,45,39,6,33,8
+Delfin SC,29,6,15,8,30,39,-9,33,9
+Tecnico Universitario,29,3,23,3,30,22,8,32,10
+Deportivo Cuenca,29,5,16,8,38,42,-4,31,11
+Macara,29,4,13,12,38,34,4,25,12
+Orense,29,2,16,11,31,39,-8,22,13
+Manta FC,29,2,13,14,33,37,-4,19,14
+River Ecuador,29,1,10,18,32,41,-9,13,15
+CD Olmedo,29,0,1,28,17,74,-57,1,16
+CS Emelec,30,22,8,0,58,29,29,74,1
+Independiente del Valle,30,22,8,0,54,32,22,74,2
+Universidad Catolica,30,18,10,2,53,35,18,64,3
+FC Barcelona,30,15,12,3,43,32,11,57,4
+LDU Quito,30,10,16,4,60,46,14,46,5
+Octubre,30,10,16,4,49,51,-2,46,6
+SD Aucas,30,10,16,4,47,54,-7,46,7
+Mushuc Runa,30,6,15,9,47,41,6,33,8
+Delfin SC,30,6,15,9,31,41,-10,33,9
+Tecnico Universitario,30,3,23,4,30,24,6,32,10
+Deportivo Cuenca,30,5,16,9,43,44,-1,31,11
+Macara,30,4,13,13,38,36,2,25,12
+Orense,30,2,16,12,31,42,-11,22,13
+Manta FC,30,2,13,15,34,41,-7,19,14
+River Ecuador,30,1,10,19,32,44,-12,13,15
+CD Olmedo,30,0,1,29,18,76,-58,1,16

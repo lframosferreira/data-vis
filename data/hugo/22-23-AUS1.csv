@@ -1,0 +1,265 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+Melbourne City FC,1,1,0,0,1,0,1,3,1
+Newcastle United Jets,1,0,0,1,1,1,0,0,2
+Western United,1,0,0,1,1,1,0,0,3
+Central Coast Mariners,1,0,0,1,2,3,-1,0,4
+Sydney FC,1,0,0,1,1,2,-1,0,5
+Brisbane Roar,1,0,0,1,0,1,-1,0,6
+Western Sydney Wanderers,1,0,0,1,0,1,-1,0,7
+Melbourne Victory,1,0,0,1,1,3,-2,0,8
+Macarthur FC,1,0,0,1,1,4,-3,0,9
+Wellington Phoenix,1,0,0,1,0,3,-3,0,10
+Adelaide United,1,0,0,1,0,3,-3,0,11
+Perth Glory,1,0,0,1,0,6,-6,0,12
+Melbourne City FC,2,2,0,0,3,1,2,6,1
+Newcastle United Jets,2,0,1,1,4,2,2,1,2
+Central Coast Mariners,2,0,1,1,6,5,1,1,3
+Macarthur FC,2,0,1,1,5,4,1,1,4
+Western United,2,0,1,1,1,1,0,1,5
+Wellington Phoenix,2,0,1,1,1,3,-2,1,6
+Western Sydney Wanderers,2,0,1,1,1,3,-2,1,7
+Melbourne Victory,2,0,1,1,1,3,-2,1,8
+Adelaide United,2,0,1,1,0,4,-4,1,9
+Sydney FC,2,0,1,1,1,6,-5,1,10
+Perth Glory,2,0,1,1,0,6,-6,1,11
+Brisbane Roar,2,0,0,2,1,1,0,0,12
+Melbourne City FC,3,3,0,0,6,1,5,9,1
+Western Sydney Wanderers,3,0,2,1,5,3,2,2,2
+Central Coast Mariners,3,0,2,1,10,9,1,2,3
+Wellington Phoenix,3,0,2,1,2,7,-5,2,4
+Adelaide United,3,0,2,1,1,6,-5,2,5
+Brisbane Roar,3,0,1,2,5,1,4,1,6
+Newcastle United Jets,3,0,1,2,5,3,2,1,7
+Melbourne Victory,3,0,1,2,5,4,1,1,8
+Macarthur FC,3,0,1,2,7,8,-1,1,9
+Western United,3,0,1,2,3,4,-1,1,10
+Perth Glory,3,0,1,2,1,7,-6,1,11
+Sydney FC,3,0,1,2,1,10,-9,1,12
+Melbourne City FC,4,4,0,0,7,1,6,12,1
+Sydney FC,4,1,1,2,2,11,-9,4,2
+Western Sydney Wanderers,4,0,3,1,7,3,4,3,3
+Central Coast Mariners,4,0,3,1,12,12,0,3,4
+Brisbane Roar,4,0,2,2,5,2,3,2,5
+Wellington Phoenix,4,0,2,2,3,7,-4,2,6
+Adelaide United,4,0,2,2,1,7,-6,2,7
+Newcastle United Jets,4,0,1,3,5,4,1,1,8
+Melbourne Victory,4,0,1,3,7,7,0,1,9
+Macarthur FC,4,0,1,3,9,11,-2,1,10
+Western United,4,0,1,3,3,7,-4,1,11
+Perth Glory,4,0,1,3,3,11,-8,1,12
+Melbourne City FC,5,5,0,0,8,2,6,15,1
+Wellington Phoenix,5,1,2,2,7,7,0,5,2
+Sydney FC,5,1,2,2,6,12,-6,5,3
+Western Sydney Wanderers,5,0,4,1,8,5,3,4,4
+Central Coast Mariners,5,0,4,1,16,14,2,4,5
+Brisbane Roar,5,0,3,2,7,3,4,3,6
+Adelaide United,5,0,2,3,2,9,-7,2,7
+Melbourne Victory,5,0,1,4,8,7,1,1,8
+Newcastle United Jets,5,0,1,4,5,5,0,1,9
+Macarthur FC,5,0,1,4,9,13,-4,1,10
+Western United,5,0,1,4,3,7,-4,1,11
+Perth Glory,5,0,1,4,5,11,-6,1,12
+Melbourne City FC,6,6,0,0,11,3,8,18,1
+Wellington Phoenix,6,2,2,2,11,10,1,8,2
+Western Sydney Wanderers,6,1,4,1,10,5,5,7,3
+Sydney FC,6,1,3,2,6,16,-10,6,4
+Central Coast Mariners,6,0,5,1,17,15,2,5,5
+Brisbane Roar,6,0,4,2,8,6,2,4,6
+Adelaide United,6,0,3,3,2,9,-7,3,7
+Melbourne Victory,6,0,2,4,9,8,1,2,8
+Macarthur FC,6,0,2,4,10,14,-4,2,9
+Perth Glory,6,0,2,4,7,13,-6,2,10
+Newcastle United Jets,6,0,1,5,8,9,-1,1,11
+Western United,6,0,1,5,3,7,-4,1,12
+Melbourne City FC,7,7,0,0,15,4,11,21,1
+Western Sydney Wanderers,7,2,4,1,10,6,4,10,2
+Wellington Phoenix,7,2,3,2,11,12,-1,9,3
+Sydney FC,7,2,3,2,7,17,-10,9,4
+Central Coast Mariners,7,0,6,1,19,16,3,6,5
+Brisbane Roar,7,0,5,2,8,6,2,5,6
+Adelaide United,7,0,4,3,4,10,-6,4,7
+Perth Glory,7,0,3,4,8,16,-8,3,8
+Melbourne Victory,7,0,2,5,11,10,1,2,9
+Newcastle United Jets,7,0,2,5,8,9,-1,2,10
+Macarthur FC,7,0,2,5,10,19,-9,2,11
+Western United,7,0,1,6,5,7,-2,1,12
+Melbourne City FC,8,8,0,0,16,5,11,24,1
+Western Sydney Wanderers,8,3,4,1,13,6,7,13,2
+Wellington Phoenix,8,3,3,2,12,12,0,12,3
+Sydney FC,8,3,3,2,8,21,-13,12,4
+Central Coast Mariners,8,0,7,1,21,16,5,7,5
+Brisbane Roar,8,0,6,2,8,10,-2,6,6
+Adelaide United,8,0,5,3,4,10,-6,5,7
+Perth Glory,8,0,4,4,8,18,-10,4,8
+Melbourne Victory,8,0,3,5,11,11,0,3,9
+Newcastle United Jets,8,0,3,5,10,11,-1,3,10
+Macarthur FC,8,0,2,6,11,20,-9,2,11
+Western United,8,0,1,7,7,9,-2,1,12
+Melbourne City FC,9,9,0,0,19,7,12,27,1
+Western Sydney Wanderers,9,4,4,1,14,6,8,16,2
+Wellington Phoenix,9,4,3,2,15,14,1,15,3
+Sydney FC,9,4,3,2,12,23,-11,15,4
+Central Coast Mariners,9,1,7,1,24,19,5,10,5
+Brisbane Roar,9,0,7,2,8,10,-2,7,6
+Adelaide United,9,0,6,3,5,11,-6,6,7
+Perth Glory,9,0,5,4,8,20,-12,5,8
+Melbourne Victory,9,0,4,5,13,12,1,4,9
+Newcastle United Jets,9,0,4,5,10,11,-1,4,10
+Macarthur FC,9,0,3,6,12,20,-8,3,11
+Western United,9,0,1,8,7,11,-4,1,12
+Melbourne City FC,10,10,0,0,22,7,15,30,1
+Western Sydney Wanderers,10,5,4,1,14,7,7,19,2
+Wellington Phoenix,10,5,3,2,18,16,2,18,3
+Sydney FC,10,5,3,2,15,25,-10,18,4
+Central Coast Mariners,10,1,7,2,26,20,6,10,5
+Brisbane Roar,10,0,8,2,10,14,-4,8,6
+Adelaide United,10,0,6,4,5,16,-11,6,7
+Melbourne Victory,10,0,5,5,14,14,0,5,8
+Newcastle United Jets,10,0,5,5,12,12,0,5,9
+Perth Glory,10,0,5,5,8,21,-13,5,10
+Macarthur FC,10,0,4,6,14,23,-9,4,11
+Western United,10,0,2,8,8,12,-4,2,12
+Melbourne City FC,11,11,0,0,28,7,21,33,1
+Western Sydney Wanderers,11,6,4,1,16,7,9,22,2
+Wellington Phoenix,11,6,3,2,21,16,5,21,3
+Sydney FC,11,5,4,2,19,29,-10,19,4
+Central Coast Mariners,11,2,7,2,30,21,9,13,5
+Brisbane Roar,11,0,9,2,11,14,-3,9,6
+Newcastle United Jets,11,0,6,5,13,13,0,6,7
+Melbourne Victory,11,0,6,5,14,15,-1,6,8
+Adelaide United,11,0,6,5,7,17,-10,6,9
+Macarthur FC,11,0,5,6,15,25,-10,5,10
+Perth Glory,11,0,5,6,8,24,-16,5,11
+Western United,11,0,3,8,12,14,-2,3,12
+Melbourne City FC,12,12,0,0,28,8,20,36,1
+Western Sydney Wanderers,12,7,4,1,16,7,9,25,2
+Wellington Phoenix,12,6,4,2,24,18,6,22,3
+Sydney FC,12,5,5,2,21,30,-9,20,4
+Central Coast Mariners,12,3,7,2,31,23,8,16,5
+Brisbane Roar,12,0,10,2,11,14,-3,10,6
+Adelaide United,12,1,6,5,8,18,-10,9,7
+Melbourne Victory,12,0,7,5,16,16,0,7,8
+Newcastle United Jets,12,0,7,5,14,14,0,7,9
+Macarthur FC,12,0,6,6,15,25,-10,6,10
+Perth Glory,12,0,5,7,9,29,-20,5,11
+Western United,12,0,4,8,13,15,-2,4,12
+Melbourne City FC,13,13,0,0,32,8,24,39,1
+Western Sydney Wanderers,13,7,5,1,18,11,7,26,2
+Wellington Phoenix,13,7,4,2,25,18,7,25,3
+Sydney FC,13,6,5,2,22,31,-9,23,4
+Central Coast Mariners,13,4,7,2,36,23,13,19,5
+Adelaide United,13,2,6,5,11,19,-8,12,6
+Melbourne Victory,13,1,7,5,21,16,5,10,7
+Newcastle United Jets,13,1,7,5,14,14,0,10,8
+Brisbane Roar,13,0,10,3,12,15,-3,10,9
+Macarthur FC,13,0,7,6,17,27,-10,7,10
+Perth Glory,13,0,6,7,10,30,-20,6,11
+Western United,13,0,5,8,16,16,0,5,12
+Melbourne City FC,14,14,0,0,32,9,23,42,1
+Western Sydney Wanderers,14,8,5,1,20,12,8,29,2
+Wellington Phoenix,14,8,4,2,29,20,9,28,3
+Sydney FC,14,6,5,3,25,35,-10,23,4
+Central Coast Mariners,14,4,8,2,36,24,12,20,5
+Adelaide United,14,3,6,5,13,20,-7,15,6
+Melbourne Victory,14,2,7,5,21,18,3,13,7
+Newcastle United Jets,14,1,8,5,15,15,0,11,8
+Brisbane Roar,14,0,10,4,12,19,-7,10,9
+Macarthur FC,14,0,8,6,19,27,-8,8,10
+Perth Glory,14,0,7,7,11,32,-21,7,11
+Western United,14,0,6,8,17,17,0,6,12
+Melbourne City FC,15,14,1,0,34,10,24,43,1
+Western Sydney Wanderers,15,9,5,1,20,14,6,32,2
+Wellington Phoenix,15,8,4,3,29,23,6,28,3
+Sydney FC,15,6,5,4,26,35,-9,23,4
+Central Coast Mariners,15,5,8,2,38,24,14,23,5
+Adelaide United,15,3,7,5,14,21,-7,16,6
+Melbourne Victory,15,2,8,5,22,20,2,14,7
+Newcastle United Jets,15,1,9,5,15,15,0,12,8
+Macarthur FC,15,1,8,6,21,29,-8,11,9
+Brisbane Roar,15,0,10,5,12,21,-9,10,10
+Perth Glory,15,0,8,7,11,34,-23,8,11
+Western United,15,0,7,8,19,18,1,7,12
+Melbourne City FC,16,15,1,0,38,13,25,46,1
+Western Sydney Wanderers,16,9,6,1,21,16,5,33,2
+Wellington Phoenix,16,8,5,3,29,23,6,29,3
+Central Coast Mariners,16,6,8,2,39,27,12,26,4
+Sydney FC,16,6,6,4,28,37,-9,24,5
+Adelaide United,16,4,7,5,15,21,-6,19,6
+Melbourne Victory,16,2,9,5,23,22,1,15,7
+Newcastle United Jets,16,1,10,5,17,17,0,13,8
+Macarthur FC,16,1,9,6,21,31,-10,12,9
+Brisbane Roar,16,0,11,5,12,21,-9,11,10
+Perth Glory,16,0,9,7,11,34,-23,9,11
+Western United,16,0,8,8,20,18,2,8,12
+Melbourne City FC,17,16,1,0,40,15,25,49,1
+Western Sydney Wanderers,17,9,7,1,22,16,6,34,2
+Wellington Phoenix,17,8,6,3,31,24,7,30,3
+Central Coast Mariners,17,7,8,2,43,27,16,29,4
+Sydney FC,17,6,7,4,29,39,-10,25,5
+Adelaide United,17,5,7,5,20,23,-3,22,6
+Melbourne Victory,17,2,10,5,26,23,3,16,7
+Newcastle United Jets,17,1,11,5,18,19,-1,14,8
+Macarthur FC,17,1,10,6,21,31,-10,13,9
+Perth Glory,17,1,9,7,13,34,-21,12,10
+Brisbane Roar,17,0,12,5,13,21,-8,12,11
+Western United,17,0,8,9,23,21,2,8,12
+Melbourne City FC,18,17,1,0,41,16,25,52,1
+Western Sydney Wanderers,18,9,8,1,22,16,6,35,2
+Central Coast Mariners,18,8,8,2,48,28,20,32,3
+Wellington Phoenix,18,8,7,3,33,25,8,31,4
+Sydney FC,18,6,8,4,32,41,-9,26,5
+Adelaide United,18,6,7,5,21,24,-3,25,6
+Melbourne Victory,18,2,11,5,26,25,1,17,7
+Newcastle United Jets,18,1,12,5,20,21,-1,15,8
+Macarthur FC,18,1,11,6,23,31,-8,14,9
+Perth Glory,18,1,10,7,15,35,-20,13,10
+Brisbane Roar,18,0,13,5,13,22,-9,13,11
+Western United,18,0,9,9,24,22,2,9,12
+Melbourne City FC,19,18,1,0,43,16,27,55,1
+Western Sydney Wanderers,19,9,9,1,23,19,4,36,2
+Central Coast Mariners,19,9,8,2,53,28,25,35,3
+Wellington Phoenix,19,8,8,3,34,26,8,32,4
+Adelaide United,19,7,7,5,23,26,-3,28,5
+Sydney FC,19,6,9,4,34,45,-11,27,6
+Melbourne Victory,19,2,12,5,27,27,0,18,7
+Perth Glory,19,2,10,7,18,36,-18,16,8
+Newcastle United Jets,19,1,13,5,21,22,-1,16,9
+Macarthur FC,19,1,12,6,23,32,-9,15,10
+Brisbane Roar,19,0,14,5,14,23,-9,14,11
+Western United,19,0,10,9,26,22,4,10,12
+Melbourne City FC,20,19,1,0,44,18,26,58,1
+Central Coast Mariners,20,10,8,2,54,28,26,38,2
+Western Sydney Wanderers,20,9,10,1,24,19,5,37,3
+Wellington Phoenix,20,8,8,4,34,31,3,32,4
+Adelaide United,20,7,8,5,24,28,-4,29,5
+Sydney FC,20,6,9,5,36,46,-10,27,6
+Perth Glory,20,3,10,7,20,36,-16,19,7
+Melbourne Victory,20,2,12,6,30,28,2,18,8
+Newcastle United Jets,20,1,13,6,21,24,-3,16,9
+Macarthur FC,20,1,12,7,23,36,-13,15,10
+Brisbane Roar,20,0,14,6,15,27,-12,14,11
+Western United,20,0,10,10,27,27,0,10,12
+Melbourne City FC,21,20,1,0,45,20,25,61,1
+Central Coast Mariners,21,10,9,2,56,29,27,39,2
+Western Sydney Wanderers,21,9,11,1,25,20,5,38,3
+Wellington Phoenix,21,8,8,5,35,33,2,32,4
+Adelaide United,21,8,8,5,27,28,-1,32,5
+Sydney FC,21,6,9,6,37,49,-12,27,6
+Perth Glory,21,3,11,7,22,38,-16,20,7
+Melbourne Victory,21,2,12,7,32,33,-1,18,8
+Newcastle United Jets,21,1,13,7,21,25,-4,16,9
+Macarthur FC,21,1,12,8,24,37,-13,15,10
+Brisbane Roar,21,0,14,7,16,28,-12,14,11
+Western United,21,0,10,11,29,29,0,10,12
+Melbourne City FC,22,21,1,0,50,21,29,64,1
+Central Coast Mariners,22,10,10,2,58,31,27,40,2
+Western Sydney Wanderers,22,9,12,1,25,20,5,39,3
+Wellington Phoenix,22,8,9,5,37,33,4,33,4
+Adelaide United,22,8,9,5,28,28,0,33,5
+Sydney FC,22,6,10,6,39,50,-11,28,6
+Perth Glory,22,3,12,7,22,39,-17,21,7
+Melbourne Victory,22,2,13,7,33,35,-2,19,8
+Newcastle United Jets,22,1,13,8,21,27,-6,16,9
+Macarthur FC,22,1,12,9,25,40,-15,15,10
+Brisbane Roar,22,0,15,7,17,29,-12,15,11
+Western United,22,0,10,12,29,31,-2,10,12

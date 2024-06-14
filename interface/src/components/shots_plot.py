@@ -6,7 +6,6 @@ import pandas as pd
 from dash import Input
 from dash import Output
 from dash import callback
-from dash import dcc
 from dash import html
 from mplsoccer import VerticalPitch
 
@@ -84,6 +83,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                 ]
                 .sort_values(by="xG")
                 .head(5)
+                .reset_index(drop=True)
             )
 
             counter = 0
@@ -128,16 +128,3 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
         plt.close(fig)
 
         return f"data:image/png;base64,{img_base64}"
-
-    layout = html.Div(
-        [
-            dcc.Dropdown(
-                id="league-dropdown",
-                options=[
-                    {"label": league, "value": league} for league in LEAGUES.values()
-                ],
-            ),
-            dcc.Dropdown(id="shots-players-dropdown"),
-            html.Img(id="shots-plot"),
-        ]
-    )
