@@ -11,27 +11,37 @@ LEAGUES: list[str, str] = {
     "france": "Ligue 1",
 }
 
+
 def render(df_dict: dict[str, pd.DataFrame]) -> None:
-    @callback(Output("shots-players-dropdown", "options"), Input("league-dropdown", "value"))
+    @callback(
+        Output("shots-players-dropdown", "options"), Input("league-dropdown", "value")
+    )
     def populate_shots_dropdown(league: str):
         if league is None:
             raise exceptions.PreventUpdate
-        
-        league_key = next((key for key, value in LEAGUES.items() if value == league), None)
+
+        league_key = next(
+            (key for key, value in LEAGUES.items() if value == league), None
+        )
         if league_key is None:
             raise exceptions.PreventUpdate
-        
-        shots = df_dict[f"{league_key}_shots"]
-        filtered_shots = shots[(shots["xG"] < 0.3) & (shots["result_name"] == "success")]
 
-        player_names = filtered_shots['player_name'].unique()
+        shots = df_dict[f"{league_key}_shots"]
+        filtered_shots = shots[
+            (shots["xG"] < 0.3) & (shots["result_name"] == "success")
+        ]
+
+        player_names = filtered_shots["player_name"].unique()
         player_options = [{"label": name, "value": name} for name in player_names]
         return player_options
 
     return html.Div(
-        children=[   
+        children=[
             html.Hr(style={"margin-top": "50px", "margin-bottom": "50px"}),
-            html.H2("Gols com menos de 30% de chance feitos pelo jogador", style={"textAlign": "center", "margin-bottom": "50px"}),
+            html.H2(
+                "Gols com menos de 30% de chance feitos pelo jogador",
+                style={"textAlign": "center", "margin-bottom": "50px"},
+            ),
             dcc.Dropdown(
                 id="league-dropdown",
                 multi=False,
@@ -51,11 +61,23 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                 style={"margin-bottom": "10px"},
             ),
             html.Div(
-                style={"display": "flex", "justify-content": "center", "align-items": "center", "flex-direction": "column"},
-                children=[html.Iframe(
-                    id="shots-plot",
-                    srcDoc=None, 
-                    style={"width": "700px", "height": "500px", "display": "flex", "borderWidth": "0px"},),
+                style={
+                    "display": "flex",
+                    "justify-content": "center",
+                    "align-items": "center",
+                    "flex-direction": "column",
+                },
+                children=[
+                    html.Iframe(
+                        id="shots-plot",
+                        srcDoc=None,
+                        style={
+                            "width": "700px",
+                            "height": "500px",
+                            "display": "flex",
+                            "borderWidth": "0px",
+                        },
+                    ),
                 ],
             ),
         ]

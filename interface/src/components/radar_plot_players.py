@@ -31,17 +31,28 @@ teams: list[str] = [
     "Vasco da Gama",
 ]
 
+
 def renderPlayersDropdown(df_dict: dict[str, pd.DataFrame]) -> html.Div:
-    @callback(Output("players-dropdown", "options"), Input("teams-dropdown", "value"),prevent_initial_call=True)
+    @callback(
+        Output("players-dropdown", "options"),
+        Input("teams-dropdown", "value"),
+        prevent_initial_call=True,
+    )
     def update_players_dropdown(team):
         if team == "Todos os times":
             return list(df_dict["players_standard_statsP90"]["Jogador"])
-        return list(df_dict["players_standard_statsP90"][df_dict["players_standard_statsP90"]["Equipe"] == team]["Jogador"])
+        return list(
+            df_dict["players_standard_statsP90"][
+                df_dict["players_standard_statsP90"]["Equipe"] == team
+            ]["Jogador"]
+        )
+
     return []
+
 
 def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
     return html.Div(
-        [   
+        [
             html.Div(
                 className="dropdowns-container",
                 children=[
@@ -58,7 +69,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                         id="players-dropdown",
                         multi=True,
                         placeholder="Selecione um jogador:",
-                        options= renderPlayersDropdown(df_dict),
+                        options=renderPlayersDropdown(df_dict),
                         value=[],
                         clearable=True,
                     ),
@@ -66,12 +77,20 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
             ),
             dcc.Graph(
                 id="radar-plot",
-                figure=go.Figure(data=go.Scatterpolar(
-                    r=[0, 0, 0, 0, 0],
-                    theta=["Non Penalty Expected Goals", "Progressive Carries", "Progressive Passes Received", "Goals Per 90 Minutes", "Expected Goals Per 90 Minutes"],
-                    fill='toself',
-                    name="Jogador"
-                )),
-            )
+                figure=go.Figure(
+                    data=go.Scatterpolar(
+                        r=[0, 0, 0, 0, 0],
+                        theta=[
+                            "Non Penalty Expected Goals",
+                            "Progressive Carries",
+                            "Progressive Passes Received",
+                            "Goals Per 90 Minutes",
+                            "Expected Goals Per 90 Minutes",
+                        ],
+                        fill="toself",
+                        name="Jogador",
+                    )
+                ),
+            ),
         ]
     )
