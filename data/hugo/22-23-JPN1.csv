@@ -1,0 +1,613 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+Yokohama Marinos,1,0,1,0,3,2,1,1,1
+Kawasaki Frontale,1,0,1,0,2,3,-1,1,2
+Red Diamonds,1,0,0,1,2,0,2,0,3
+Sagan Tosu,1,0,0,1,2,0,2,0,4
+Hokkaido Sapporo,1,0,0,1,2,1,1,0,5
+FC Tokyo,1,0,0,1,2,1,1,0,6
+Avispa,1,0,0,1,1,0,1,0,7
+Shonan Bellmare,1,0,0,1,1,0,1,0,8
+Cerezo Osaka,1,0,0,1,1,1,0,0,9
+Kyoto Sanga,1,0,0,1,0,0,0,0,10
+Kashima Antlers,1,0,0,1,1,2,-1,0,11
+Kashiwa Reysol,1,0,0,1,0,1,-1,0,12
+Vissel Kobe,1,0,0,1,2,4,-2,0,13
+Gamba Osaka,1,0,0,1,1,3,-2,0,14
+Sanfrecce,1,0,0,1,1,3,-2,0,15
+Jubilo Iwata,1,0,0,1,0,2,-2,0,16
+Shimizu Pulse,1,0,0,1,0,3,-3,0,17
+Nagoya Grampus,1,0,0,1,0,3,-3,0,18
+Kawasaki Frontale,2,1,1,0,5,3,2,4,1
+Yokohama Marinos,2,1,1,0,5,3,2,4,2
+Hokkaido Sapporo,2,0,0,2,5,2,3,0,3
+Red Diamonds,2,0,0,2,4,1,3,0,4
+Sagan Tosu,2,0,0,2,3,2,1,0,5
+Avispa,2,0,0,2,1,0,1,0,6
+Shonan Bellmare,2,0,0,2,1,0,1,0,7
+Cerezo Osaka,2,0,0,2,2,2,0,0,8
+Shimizu Pulse,2,0,0,2,2,3,-1,0,9
+Kyoto Sanga,2,0,0,2,1,2,-1,0,10
+Vissel Kobe,2,0,0,2,4,6,-2,0,11
+Sanfrecce,2,0,0,2,3,5,-2,0,12
+FC Tokyo,2,0,0,2,3,5,-2,0,13
+Kashima Antlers,2,0,0,2,2,4,-2,0,14
+Kashiwa Reysol,2,0,0,2,1,5,-4,0,15
+Jubilo Iwata,2,0,0,2,0,4,-4,0,16
+Gamba Osaka,2,0,0,2,2,7,-5,0,17
+Nagoya Grampus,2,0,0,2,2,9,-7,0,18
+Kawasaki Frontale,3,2,1,0,5,3,2,7,1
+Yokohama Marinos,3,2,1,0,5,5,0,7,2
+Sagan Tosu,3,0,1,2,7,2,5,1,3
+Red Diamonds,3,0,1,2,5,1,4,1,4
+Hokkaido Sapporo,3,0,1,2,6,5,1,1,5
+Shonan Bellmare,3,0,1,2,2,2,0,1,6
+Cerezo Osaka,3,0,1,2,2,2,0,1,7
+Vissel Kobe,3,0,1,2,5,6,-1,1,8
+FC Tokyo,3,0,1,2,4,5,-1,1,9
+Kyoto Sanga,3,0,1,2,2,3,-1,1,10
+Avispa,3,0,1,2,2,3,-1,1,11
+Kashiwa Reysol,3,0,1,2,4,7,-3,1,12
+Sanfrecce,3,0,1,2,4,8,-4,1,13
+Kashima Antlers,3,0,1,2,3,7,-4,1,14
+Nagoya Grampus,3,0,1,2,4,9,-5,1,15
+Gamba Osaka,3,0,1,2,2,9,-7,1,16
+Shimizu Pulse,3,0,0,3,2,4,-2,0,17
+Jubilo Iwata,3,0,0,3,1,4,-3,0,18
+Kawasaki Frontale,4,3,1,0,8,4,4,10,1
+Yokohama Marinos,4,3,1,0,7,6,1,10,2
+Red Diamonds,4,0,2,2,10,1,9,2,3
+Sagan Tosu,4,0,2,2,9,3,6,2,4
+Shonan Bellmare,4,0,2,2,4,2,2,2,5
+Hokkaido Sapporo,4,0,2,2,6,6,0,2,6
+Vissel Kobe,4,0,2,2,6,6,0,2,7
+Cerezo Osaka,4,0,2,2,3,3,0,2,8
+FC Tokyo,4,0,2,2,6,7,-1,2,9
+Avispa,4,0,2,2,2,3,-1,2,10
+Kashiwa Reysol,4,0,2,2,6,8,-2,2,11
+Kashima Antlers,4,0,2,2,3,7,-4,2,12
+Nagoya Grampus,4,0,2,2,4,9,-5,2,13
+Sanfrecce,4,0,2,2,4,10,-6,2,14
+Gamba Osaka,4,0,2,2,3,10,-7,2,15
+Kyoto Sanga,4,0,1,3,3,6,-3,1,16
+Jubilo Iwata,4,0,0,4,2,4,-2,0,17
+Shimizu Pulse,4,0,0,4,3,11,-8,0,18
+Kawasaki Frontale,5,4,1,0,11,5,6,13,1
+Yokohama Marinos,5,4,1,0,11,7,4,13,2
+Red Diamonds,5,0,3,2,12,4,8,3,3
+Sagan Tosu,5,0,3,2,12,5,7,3,4
+Shonan Bellmare,5,0,3,2,4,3,1,3,5
+Vissel Kobe,5,0,3,2,7,7,0,3,6
+Cerezo Osaka,5,0,3,2,4,4,0,3,7
+Avispa,5,0,3,2,3,3,0,3,8
+Kashiwa Reysol,5,0,3,2,9,10,-1,3,9
+Hokkaido Sapporo,5,0,3,2,6,8,-2,3,10
+FC Tokyo,5,0,3,2,6,9,-3,3,11
+Kashima Antlers,5,0,3,2,4,7,-3,3,12
+Sanfrecce,5,0,3,2,6,12,-6,3,13
+Nagoya Grampus,5,0,3,2,5,11,-6,3,14
+Gamba Osaka,5,0,2,3,4,12,-8,2,15
+Kyoto Sanga,5,0,1,4,3,6,-3,1,16
+Shimizu Pulse,5,0,1,4,4,12,-8,1,17
+Jubilo Iwata,5,0,0,5,2,5,-3,0,18
+Kawasaki Frontale,6,5,1,0,11,6,5,16,1
+Yokohama Marinos,6,5,1,0,13,9,4,16,2
+Red Diamonds,6,0,4,2,13,6,7,4,3
+Kashima Antlers,6,0,4,2,7,9,-2,4,4
+Cerezo Osaka,6,0,4,2,4,6,-2,4,5
+Sanfrecce,6,0,4,2,6,14,-8,4,6
+Sagan Tosu,6,0,3,3,14,7,7,3,7
+Vissel Kobe,6,0,3,3,8,8,0,3,8
+Avispa,6,0,3,3,4,4,0,3,9
+Kashiwa Reysol,6,0,3,3,10,11,-1,3,10
+Shonan Bellmare,6,0,3,3,4,6,-2,3,11
+FC Tokyo,6,0,3,3,8,12,-4,3,12
+Nagoya Grampus,6,0,3,3,7,11,-4,3,13
+Hokkaido Sapporo,6,0,3,3,7,12,-5,3,14
+Shimizu Pulse,6,0,2,4,6,12,-6,2,15
+Kyoto Sanga,6,0,2,4,4,10,-6,2,16
+Gamba Osaka,6,0,2,4,4,15,-11,2,17
+Jubilo Iwata,6,0,0,6,2,6,-4,0,18
+Yokohama Marinos,7,6,1,0,13,9,4,19,1
+Kawasaki Frontale,7,6,1,0,11,7,4,19,2
+Red Diamonds,7,0,5,2,13,7,6,5,3
+Kashima Antlers,7,0,5,2,8,9,-1,5,4
+Cerezo Osaka,7,0,5,2,5,6,-1,5,5
+Sanfrecce,7,0,5,2,7,17,-10,5,6
+Sagan Tosu,7,0,4,3,14,9,5,4,7
+Vissel Kobe,7,0,4,3,8,8,0,4,8
+Kashiwa Reysol,7,0,4,3,10,11,-1,4,9
+Nagoya Grampus,7,0,4,3,9,11,-2,4,10
+Shonan Bellmare,7,0,4,3,4,8,-4,4,11
+Hokkaido Sapporo,7,0,4,3,8,13,-5,4,12
+FC Tokyo,7,0,4,3,8,13,-5,4,13
+Avispa,7,0,3,4,5,5,0,3,14
+Shimizu Pulse,7,0,3,4,9,13,-4,3,15
+Kyoto Sanga,7,0,3,4,5,11,-6,3,16
+Gamba Osaka,7,0,3,4,5,16,-11,3,17
+Jubilo Iwata,7,0,1,6,3,6,-3,1,18
+Kawasaki Frontale,8,7,1,0,14,7,7,22,1
+Yokohama Marinos,8,7,1,0,13,9,4,22,2
+Sanfrecce,8,1,5,2,9,18,-9,8,3
+Red Diamonds,8,0,6,2,14,8,6,6,4
+Cerezo Osaka,8,0,6,2,6,8,-2,6,5
+Kashima Antlers,8,0,6,2,9,12,-3,6,6
+Sagan Tosu,8,0,5,3,14,12,2,5,7
+Kashiwa Reysol,8,0,5,3,12,12,0,5,8
+Hokkaido Sapporo,8,0,5,3,11,13,-2,5,9
+Nagoya Grampus,8,0,5,3,9,11,-2,5,10
+Vissel Kobe,8,0,5,3,8,10,-2,5,11
+FC Tokyo,8,0,5,3,8,13,-5,5,12
+Shimizu Pulse,8,0,4,4,12,14,-2,4,13
+Kyoto Sanga,8,0,4,4,7,11,-4,4,14
+Shonan Bellmare,8,0,4,4,6,11,-5,4,15
+Gamba Osaka,8,0,4,4,7,16,-9,4,16
+Avispa,8,0,3,5,6,10,-4,3,17
+Jubilo Iwata,8,0,1,7,3,8,-5,1,18
+Yokohama Marinos,9,8,1,0,19,11,8,25,1
+Kawasaki Frontale,9,8,1,0,14,9,5,25,2
+Sanfrecce,9,2,5,2,10,19,-9,11,3
+Red Diamonds,9,0,7,2,17,8,9,7,4
+Cerezo Osaka,9,0,7,2,8,8,0,7,5
+Kashima Antlers,9,0,7,2,10,13,-3,7,6
+Kashiwa Reysol,9,0,6,3,15,12,3,6,7
+Sagan Tosu,9,0,6,3,14,14,0,6,8
+Nagoya Grampus,9,0,6,3,12,13,-1,6,9
+Vissel Kobe,9,0,6,3,9,10,-1,6,10
+Hokkaido Sapporo,9,0,6,3,11,15,-4,6,11
+FC Tokyo,9,0,6,3,9,13,-4,6,12
+Shimizu Pulse,9,0,5,4,14,15,-1,5,13
+Kyoto Sanga,9,0,5,4,7,11,-4,5,14
+Gamba Osaka,9,0,5,4,9,18,-9,5,15
+Avispa,9,0,4,5,6,11,-5,4,16
+Shonan Bellmare,9,0,4,5,7,13,-6,4,17
+Jubilo Iwata,9,0,1,8,3,8,-5,1,18
+Yokohama Marinos,10,9,1,0,20,13,7,28,1
+Kawasaki Frontale,10,9,1,0,16,9,7,28,2
+Sanfrecce,10,3,5,2,11,19,-8,14,3
+Red Diamonds,10,0,8,2,18,9,9,8,4
+Cerezo Osaka,10,0,8,2,8,10,-2,8,5
+Kashima Antlers,10,0,8,2,10,14,-4,8,6
+Sagan Tosu,10,0,7,3,16,14,2,7,7
+FC Tokyo,10,0,7,3,11,13,-2,7,8
+Kashiwa Reysol,10,0,6,4,16,14,2,6,9
+Vissel Kobe,10,0,6,4,9,10,-1,6,10
+Nagoya Grampus,10,0,6,4,12,14,-2,6,11
+Shimizu Pulse,10,0,6,4,14,17,-3,6,12
+Kyoto Sanga,10,0,6,4,7,13,-6,6,13
+Hokkaido Sapporo,10,0,6,4,12,19,-7,6,14
+Gamba Osaka,10,0,6,4,9,19,-10,6,15
+Avispa,10,0,5,5,6,11,-5,5,16
+Shonan Bellmare,10,0,5,5,8,14,-6,5,17
+Jubilo Iwata,10,0,1,9,3,10,-7,1,18
+Yokohama Marinos,11,10,1,0,22,13,9,31,1
+Kawasaki Frontale,11,10,1,0,17,10,7,31,2
+Sanfrecce,11,4,5,2,12,20,-8,17,3
+Kashima Antlers,11,1,8,2,12,14,-2,11,4
+Cerezo Osaka,11,1,8,2,10,12,-2,11,5
+FC Tokyo,11,1,7,3,13,15,-2,10,6
+Red Diamonds,11,0,9,2,22,13,9,9,7
+Sagan Tosu,11,0,8,3,19,14,5,8,8
+Kashiwa Reysol,11,0,7,4,19,15,4,7,9
+Nagoya Grampus,11,0,7,4,14,15,-1,7,10
+Vissel Kobe,11,0,7,4,11,12,-1,7,11
+Shimizu Pulse,11,0,7,4,14,18,-4,7,12
+Kyoto Sanga,11,0,7,4,7,13,-6,7,13
+Hokkaido Sapporo,11,0,7,4,12,19,-7,7,14
+Gamba Osaka,11,0,7,4,10,19,-9,7,15
+Avispa,11,0,6,5,7,12,-5,6,16
+Shonan Bellmare,11,0,6,5,9,17,-8,6,17
+Jubilo Iwata,11,0,1,10,8,10,-2,1,18
+Yokohama Marinos,12,11,1,0,23,14,9,34,1
+Kawasaki Frontale,12,11,1,0,18,12,6,34,2
+Sanfrecce,12,5,5,2,15,20,-5,20,3
+Red Diamonds,12,1,9,2,23,13,10,12,4
+Cerezo Osaka,12,1,9,2,13,14,-1,12,5
+Kashima Antlers,12,1,9,2,13,17,-4,12,6
+FC Tokyo,12,1,8,3,13,18,-5,11,7
+Shimizu Pulse,12,1,7,4,14,19,-5,10,8
+Sagan Tosu,12,0,9,3,19,16,3,9,9
+Kashiwa Reysol,12,0,8,4,21,18,3,8,10
+Nagoya Grampus,12,0,8,4,17,16,1,8,11
+Gamba Osaka,12,0,8,4,12,20,-8,8,12
+Kyoto Sanga,12,0,8,4,7,18,-11,8,13
+Vissel Kobe,12,0,7,5,12,12,0,7,14
+Avispa,12,0,7,5,7,12,-5,7,15
+Hokkaido Sapporo,12,0,7,5,14,22,-8,7,16
+Shonan Bellmare,12,0,7,5,10,19,-9,7,17
+Jubilo Iwata,12,0,1,11,9,13,-4,1,18
+Yokohama Marinos,13,12,1,0,24,17,7,37,1
+Kawasaki Frontale,13,12,1,0,20,13,7,37,2
+Sanfrecce,13,6,5,2,15,22,-7,23,3
+Red Diamonds,13,2,9,2,23,14,9,15,4
+Cerezo Osaka,13,1,10,2,13,17,-4,13,5
+Kashima Antlers,13,1,10,2,14,19,-5,13,6
+FC Tokyo,13,1,9,3,14,18,-4,12,7
+Shimizu Pulse,13,1,8,4,14,19,-5,11,8
+Kyoto Sanga,13,1,8,4,7,19,-12,11,9
+Sagan Tosu,13,0,10,3,23,18,5,10,10
+Kashiwa Reysol,13,0,9,4,23,19,4,9,11
+Nagoya Grampus,13,0,9,4,17,16,1,9,12
+Gamba Osaka,13,0,9,4,15,22,-7,9,13
+Vissel Kobe,13,0,8,5,12,12,0,8,14
+Avispa,13,0,8,5,9,12,-3,8,15
+Shonan Bellmare,13,0,8,5,11,19,-8,8,16
+Hokkaido Sapporo,13,0,7,6,16,25,-9,7,17
+Jubilo Iwata,13,0,2,11,11,17,-6,2,18
+Yokohama Marinos,14,13,1,0,26,18,8,40,1
+Kawasaki Frontale,14,13,1,0,20,15,5,40,2
+Sanfrecce,14,6,6,2,17,23,-6,24,3
+Red Diamonds,14,3,9,2,25,14,11,18,4
+Cerezo Osaka,14,2,10,2,16,17,-1,16,5
+Kashima Antlers,14,1,11,2,15,21,-6,14,6
+FC Tokyo,14,1,10,3,14,19,-5,13,7
+Shimizu Pulse,14,1,9,4,17,20,-3,12,8
+Gamba Osaka,14,1,9,4,16,22,-6,12,9
+Kyoto Sanga,14,1,9,4,8,20,-12,12,10
+Sagan Tosu,14,0,11,3,25,20,5,11,11
+Kashiwa Reysol,14,0,10,4,24,19,5,10,12
+Nagoya Grampus,14,0,10,4,18,17,1,10,13
+Avispa,14,0,9,5,9,14,-5,9,14
+Shonan Bellmare,14,0,9,5,11,19,-8,9,15
+Vissel Kobe,14,0,8,6,14,14,0,8,16
+Hokkaido Sapporo,14,0,7,7,16,25,-9,7,17
+Jubilo Iwata,14,0,3,11,11,19,-8,3,18
+Yokohama Marinos,15,14,1,0,28,19,9,43,1
+Kawasaki Frontale,15,14,1,0,24,17,7,43,2
+Sanfrecce,15,7,6,2,18,23,-5,27,3
+Red Diamonds,15,3,10,2,25,15,10,19,4
+Cerezo Osaka,15,3,10,2,18,18,0,19,5
+FC Tokyo,15,1,11,3,14,19,-5,14,6
+Kashima Antlers,15,1,11,3,16,27,-11,14,7
+Shimizu Pulse,15,1,10,4,20,21,-1,13,8
+Gamba Osaka,15,1,10,4,17,23,-6,13,9
+Kyoto Sanga,15,1,10,4,9,20,-11,13,10
+Sagan Tosu,15,0,12,3,25,20,5,12,11
+Kashiwa Reysol,15,0,11,4,26,22,4,11,12
+Nagoya Grampus,15,0,11,4,20,18,2,11,13
+Avispa,15,0,10,5,10,14,-4,10,14
+Shonan Bellmare,15,0,10,5,11,19,-8,10,15
+Vissel Kobe,15,0,9,6,14,15,-1,9,16
+Hokkaido Sapporo,15,0,8,7,18,27,-9,8,17
+Jubilo Iwata,15,0,4,11,14,20,-6,4,18
+Yokohama Marinos,16,15,1,0,30,21,9,46,1
+Kawasaki Frontale,16,15,1,0,25,17,8,46,2
+Sanfrecce,16,7,7,2,20,23,-3,28,3
+Red Diamonds,16,4,10,2,28,15,13,22,4
+Cerezo Osaka,16,4,10,2,19,18,1,22,5
+Kashima Antlers,16,2,11,3,16,27,-11,17,6
+FC Tokyo,16,1,12,3,14,21,-7,15,7
+Gamba Osaka,16,1,11,4,19,23,-4,14,8
+Shimizu Pulse,16,1,11,4,20,25,-5,14,9
+Kyoto Sanga,16,1,11,4,9,20,-11,14,10
+Kashiwa Reysol,16,0,12,4,26,23,3,12,11
+Sagan Tosu,16,0,12,4,25,22,3,12,12
+Nagoya Grampus,16,0,12,4,22,20,2,12,13
+Avispa,16,0,11,5,10,15,-5,11,14
+Shonan Bellmare,16,0,11,5,12,20,-8,11,15
+Vissel Kobe,16,0,10,6,16,15,1,10,16
+Hokkaido Sapporo,16,0,9,7,18,29,-11,9,17
+Jubilo Iwata,16,0,4,12,14,23,-9,4,18
+Yokohama Marinos,17,16,1,0,34,22,12,49,1
+Kawasaki Frontale,17,16,1,0,26,19,7,49,2
+Sanfrecce,17,8,7,2,24,24,0,31,3
+Red Diamonds,17,5,10,2,30,15,15,25,4
+Cerezo Osaka,17,4,11,2,19,18,1,23,5
+Kashima Antlers,17,3,11,3,18,27,-9,20,6
+FC Tokyo,17,1,13,3,15,22,-7,16,7
+Sagan Tosu,17,1,12,4,27,23,4,15,8
+Gamba Osaka,17,1,12,4,19,24,-5,15,9
+Shimizu Pulse,17,1,12,4,20,26,-6,15,10
+Kyoto Sanga,17,1,12,4,10,22,-12,15,11
+Shonan Bellmare,17,1,11,5,14,20,-6,14,12
+Kashiwa Reysol,17,0,13,4,28,26,2,13,13
+Nagoya Grampus,17,0,13,4,22,23,-1,13,14
+Avispa,17,0,12,5,10,16,-6,12,15
+Vissel Kobe,17,0,10,7,17,18,-1,10,16
+Hokkaido Sapporo,17,0,10,7,20,31,-11,10,17
+Jubilo Iwata,17,0,5,12,15,26,-11,5,18
+Yokohama Marinos,18,17,1,0,38,23,15,52,1
+Kawasaki Frontale,18,16,1,1,27,21,6,49,2
+Sanfrecce,18,8,8,2,26,27,-1,32,3
+Red Diamonds,18,6,10,2,31,17,14,28,4
+Cerezo Osaka,18,5,11,2,21,20,1,26,5
+Kashima Antlers,18,4,11,3,21,28,-7,23,6
+FC Tokyo,18,1,14,3,16,26,-10,17,7
+Sagan Tosu,18,1,13,4,28,23,5,16,8
+Nagoya Grampus,18,1,13,4,22,23,-1,16,9
+Gamba Osaka,18,1,13,4,21,27,-6,16,10
+Shimizu Pulse,18,1,13,4,22,29,-7,16,11
+Kyoto Sanga,18,1,13,4,10,23,-13,16,12
+Shonan Bellmare,18,1,12,5,16,21,-5,15,13
+Kashiwa Reysol,18,0,13,5,28,27,1,13,14
+Avispa,18,0,13,5,11,17,-6,13,15
+Vissel Kobe,18,0,11,7,18,19,-1,11,16
+Hokkaido Sapporo,18,0,11,7,20,33,-13,11,17
+Jubilo Iwata,18,0,6,12,15,26,-11,6,18
+Yokohama Marinos,19,18,1,0,45,24,21,55,1
+Kawasaki Frontale,19,17,1,1,28,21,7,52,2
+Sanfrecce,19,9,8,2,28,29,-1,35,3
+Red Diamonds,19,7,10,2,33,17,16,31,4
+Cerezo Osaka,19,6,11,2,23,20,3,29,5
+Kashima Antlers,19,4,12,3,23,28,-5,24,6
+Sagan Tosu,19,2,13,4,30,24,6,19,7
+Nagoya Grampus,19,1,14,4,22,25,-3,17,8
+FC Tokyo,19,1,14,4,23,28,-5,17,9
+Gamba Osaka,19,1,14,4,22,28,-6,17,10
+Shimizu Pulse,19,1,14,4,22,30,-8,17,11
+Kyoto Sanga,19,1,14,4,11,25,-14,17,12
+Kashiwa Reysol,19,1,13,5,31,28,3,16,13
+Shonan Bellmare,19,1,13,5,16,24,-8,16,14
+Avispa,19,0,14,5,11,18,-7,14,15
+Vissel Kobe,19,0,12,7,19,22,-3,12,16
+Hokkaido Sapporo,19,0,12,7,21,33,-12,12,17
+Jubilo Iwata,19,0,7,12,15,28,-13,7,18
+Yokohama Marinos,20,19,1,0,45,24,21,58,1
+Kawasaki Frontale,20,18,1,1,31,22,9,55,2
+Sanfrecce,20,10,8,2,29,30,-1,38,3
+Red Diamonds,20,7,11,2,35,17,18,32,4
+Cerezo Osaka,20,6,12,2,24,22,2,30,5
+Kashima Antlers,20,5,12,3,23,29,-6,27,6
+Sagan Tosu,20,2,14,4,34,24,10,20,7
+FC Tokyo,20,2,14,4,24,29,-5,20,8
+Nagoya Grampus,20,1,15,4,24,25,-1,18,9
+Shimizu Pulse,20,1,15,4,26,31,-5,18,10
+Gamba Osaka,20,1,15,4,24,31,-7,18,11
+Kyoto Sanga,20,1,15,4,13,27,-14,18,12
+Kashiwa Reysol,20,1,14,5,31,28,3,17,13
+Shonan Bellmare,20,1,14,5,19,25,-6,17,14
+Avispa,20,0,15,5,13,18,-5,15,15
+Vissel Kobe,20,0,13,7,20,23,-3,13,16
+Hokkaido Sapporo,20,0,13,7,24,33,-9,13,17
+Jubilo Iwata,20,0,7,13,18,30,-12,7,18
+Yokohama Marinos,21,20,1,0,48,24,24,61,1
+Kawasaki Frontale,21,19,1,1,33,23,10,58,2
+Sanfrecce,21,11,8,2,30,31,-1,41,3
+Red Diamonds,21,8,11,2,39,18,21,35,4
+Cerezo Osaka,21,6,13,2,25,24,1,31,5
+Kashima Antlers,21,6,12,3,24,30,-6,30,6
+FC Tokyo,21,3,14,4,25,30,-5,23,7
+Sagan Tosu,21,2,15,4,37,25,12,21,8
+Kashiwa Reysol,21,2,14,5,32,30,2,20,9
+Nagoya Grampus,21,1,16,4,25,26,-1,19,10
+Shimizu Pulse,21,1,16,4,27,32,-5,19,11
+Gamba Osaka,21,1,16,4,26,31,-5,19,12
+Kyoto Sanga,21,1,16,4,13,29,-16,19,13
+Shonan Bellmare,21,1,15,5,22,25,-3,18,14
+Avispa,21,0,16,5,13,18,-5,16,15
+Vissel Kobe,21,0,14,7,22,25,-3,14,16
+Hokkaido Sapporo,21,0,14,7,28,33,-5,14,17
+Jubilo Iwata,21,0,7,14,20,32,-12,7,18
+Yokohama Marinos,22,20,2,0,51,25,26,62,1
+Kawasaki Frontale,22,19,2,1,35,23,12,59,2
+Sanfrecce,22,12,8,2,33,33,0,44,3
+Red Diamonds,22,8,12,2,40,18,22,36,4
+Cerezo Osaka,22,7,13,2,27,26,1,34,5
+Kashima Antlers,22,6,13,3,24,31,-7,31,6
+FC Tokyo,22,4,14,4,27,30,-3,26,7
+Sagan Tosu,22,2,16,4,37,25,12,22,8
+Kashiwa Reysol,22,2,15,5,35,31,4,21,9
+Nagoya Grampus,22,1,17,4,27,26,1,20,10
+Shonan Bellmare,22,1,16,5,24,25,-1,19,11
+Shimizu Pulse,22,1,16,5,28,34,-6,19,12
+Gamba Osaka,22,1,16,5,26,32,-6,19,13
+Kyoto Sanga,22,1,16,5,14,30,-16,19,14
+Avispa,22,0,17,5,13,18,-5,17,15
+Hokkaido Sapporo,22,0,15,7,32,35,-3,15,16
+Vissel Kobe,22,0,15,7,23,26,-3,15,17
+Jubilo Iwata,22,0,8,14,20,32,-12,8,18
+Yokohama Marinos,23,21,2,0,56,26,30,65,1
+Kawasaki Frontale,23,20,2,1,36,24,12,62,2
+Sanfrecce,23,12,9,2,33,33,0,45,3
+Red Diamonds,23,8,13,2,40,20,20,37,4
+Cerezo Osaka,23,8,13,2,30,28,2,37,5
+Kashima Antlers,23,6,14,3,24,31,-7,32,6
+FC Tokyo,23,4,15,4,27,31,-4,27,7
+Sagan Tosu,23,2,17,4,38,25,13,23,8
+Kashiwa Reysol,23,2,16,5,37,31,6,22,9
+Nagoya Grampus,23,1,18,4,27,27,0,21,10
+Shonan Bellmare,23,1,17,5,25,27,-2,20,11
+Shimizu Pulse,23,1,17,5,29,34,-5,20,12
+Gamba Osaka,23,1,17,5,27,33,-6,20,13
+Kyoto Sanga,23,1,17,5,14,30,-16,20,14
+Hokkaido Sapporo,23,1,15,7,33,36,-3,18,15
+Avispa,23,0,18,5,14,18,-4,18,16
+Vissel Kobe,23,0,16,7,23,26,-3,16,17
+Jubilo Iwata,23,0,8,15,20,34,-14,8,18
+Yokohama Marinos,24,22,2,0,58,27,31,68,1
+Kawasaki Frontale,24,21,2,1,39,26,13,65,2
+Sanfrecce,24,12,10,2,33,34,-1,46,3
+Red Diamonds,24,9,13,2,40,20,20,40,4
+Cerezo Osaka,24,8,14,2,33,29,4,38,5
+Kashima Antlers,24,7,14,3,27,32,-5,35,6
+FC Tokyo,24,5,15,4,28,31,-3,30,7
+Sagan Tosu,24,2,18,4,39,25,14,24,8
+Kashiwa Reysol,24,2,17,5,37,33,4,23,9
+Nagoya Grampus,24,1,19,4,27,30,-3,22,10
+Shonan Bellmare,24,1,18,5,25,27,-2,21,11
+Shimizu Pulse,24,1,18,5,30,35,-5,21,12
+Gamba Osaka,24,1,18,5,29,34,-5,21,13
+Kyoto Sanga,24,1,18,5,17,31,-14,21,14
+Hokkaido Sapporo,24,1,16,7,35,37,-2,19,15
+Avispa,24,0,19,5,14,18,-4,19,16
+Vissel Kobe,24,0,17,7,24,27,-3,17,17
+Jubilo Iwata,24,0,9,15,20,37,-17,9,18
+Yokohama Marinos,25,23,2,0,59,27,32,71,1
+Kawasaki Frontale,25,21,3,1,41,29,12,66,2
+Sanfrecce,25,12,11,2,34,35,-1,47,3
+Red Diamonds,25,10,13,2,42,21,21,43,4
+Cerezo Osaka,25,8,15,2,35,29,6,39,5
+Kashima Antlers,25,7,15,3,29,32,-3,36,6
+FC Tokyo,25,6,15,4,29,33,-4,33,7
+Sagan Tosu,25,3,18,4,39,26,13,27,8
+Kashiwa Reysol,25,2,18,5,38,34,4,24,9
+Nagoya Grampus,25,1,20,4,27,31,-4,23,10
+Shonan Bellmare,25,1,19,5,27,29,-2,22,11
+Gamba Osaka,25,1,19,5,29,34,-5,22,12
+Shimizu Pulse,25,1,19,5,31,37,-6,22,13
+Kyoto Sanga,25,1,19,5,18,34,-16,22,14
+Hokkaido Sapporo,25,1,17,7,37,38,-1,20,15
+Avispa,25,0,20,5,15,20,-5,20,16
+Vissel Kobe,25,0,18,7,25,28,-3,18,17
+Jubilo Iwata,25,0,10,15,22,39,-17,10,18
+Yokohama Marinos,26,23,3,0,63,31,32,72,1
+Kawasaki Frontale,26,21,4,1,42,30,12,67,2
+Sanfrecce,26,12,12,2,35,35,0,48,3
+Red Diamonds,26,10,14,2,42,23,19,44,4
+Cerezo Osaka,26,9,15,2,35,30,5,42,5
+Kashima Antlers,26,8,15,3,32,33,-1,39,6
+FC Tokyo,26,6,16,4,30,33,-3,34,7
+Sagan Tosu,26,3,19,4,39,27,12,28,8
+Kashiwa Reysol,26,2,19,5,39,35,4,25,9
+Nagoya Grampus,26,1,20,5,29,32,-3,23,10
+Shonan Bellmare,26,1,19,6,27,31,-4,22,11
+Shimizu Pulse,26,1,19,6,31,38,-7,22,12
+Gamba Osaka,26,1,19,6,29,36,-7,22,13
+Kyoto Sanga,26,1,19,6,19,34,-15,22,14
+Vissel Kobe,26,1,18,7,28,28,0,21,15
+Hokkaido Sapporo,26,1,18,7,39,42,-3,21,16
+Avispa,26,0,20,6,15,23,-8,20,17
+Jubilo Iwata,26,0,11,15,23,42,-19,11,18
+Yokohama Marinos,27,24,3,0,66,32,34,75,1
+Kawasaki Frontale,27,22,4,1,42,35,7,70,2
+Sanfrecce,27,13,12,2,38,35,3,51,3
+Red Diamonds,27,11,14,2,44,26,18,47,4
+Cerezo Osaka,27,9,16,2,38,32,6,43,5
+Kashima Antlers,27,8,16,3,34,35,-1,40,6
+FC Tokyo,27,6,17,4,31,34,-3,35,7
+Sagan Tosu,27,4,19,4,40,29,11,31,8
+Kashiwa Reysol,27,3,19,5,42,36,6,28,9
+Nagoya Grampus,27,1,21,5,31,32,-1,24,10
+Shonan Bellmare,27,1,20,6,27,31,-4,23,11
+Shimizu Pulse,27,1,20,6,35,40,-5,23,12
+Gamba Osaka,27,1,20,6,30,39,-9,23,13
+Kyoto Sanga,27,1,20,6,21,34,-13,23,14
+Vissel Kobe,27,1,19,7,29,29,0,22,15
+Hokkaido Sapporo,27,1,19,7,39,42,-3,22,16
+Avispa,27,0,21,6,18,24,-6,21,17
+Jubilo Iwata,27,0,11,16,25,44,-19,11,18
+Yokohama Marinos,28,24,4,0,69,32,37,76,1
+Kawasaki Frontale,28,22,5,1,44,38,6,71,2
+Sanfrecce,28,13,13,2,38,35,3,52,3
+Red Diamonds,28,11,15,2,46,27,19,48,4
+Cerezo Osaka,28,9,17,2,41,32,9,44,5
+Kashima Antlers,28,9,16,3,36,37,-1,43,6
+FC Tokyo,28,7,17,4,34,36,-2,38,7
+Sagan Tosu,28,4,20,4,40,30,10,32,8
+Kashiwa Reysol,28,3,20,5,44,37,7,29,9
+Nagoya Grampus,28,1,22,5,33,33,0,25,10
+Vissel Kobe,28,1,20,7,30,30,0,23,11
+Hokkaido Sapporo,28,1,20,7,40,44,-4,23,12
+Shonan Bellmare,28,1,20,7,27,33,-6,23,13
+Shimizu Pulse,28,1,20,7,35,43,-8,23,14
+Gamba Osaka,28,1,20,7,30,40,-10,23,15
+Kyoto Sanga,28,1,20,7,22,36,-14,23,16
+Avispa,28,0,21,7,20,26,-6,21,17
+Jubilo Iwata,28,0,11,17,27,46,-19,11,18
+Yokohama Marinos,29,25,4,0,69,32,37,79,1
+Kawasaki Frontale,29,23,5,1,47,40,7,74,2
+Sanfrecce,29,13,14,2,40,35,5,53,3
+Red Diamonds,29,11,16,2,48,31,17,49,4
+Cerezo Osaka,29,9,18,2,42,34,8,45,5
+Kashima Antlers,29,9,17,3,36,38,-2,44,6
+FC Tokyo,29,7,18,4,34,40,-6,39,7
+Sagan Tosu,29,4,21,4,41,30,11,33,8
+Kashiwa Reysol,29,4,20,5,45,37,8,32,9
+Nagoya Grampus,29,1,23,5,33,37,-4,26,10
+Vissel Kobe,29,1,21,7,32,33,-1,24,11
+Hokkaido Sapporo,29,1,21,7,40,45,-5,24,12
+Shimizu Pulse,29,1,21,7,37,45,-8,24,13
+Shonan Bellmare,29,1,21,7,27,36,-9,24,14
+Gamba Osaka,29,1,21,7,32,42,-10,24,15
+Kyoto Sanga,29,1,21,7,24,36,-12,24,16
+Avispa,29,0,22,7,20,27,-7,22,17
+Jubilo Iwata,29,0,11,18,28,47,-19,11,18
+Yokohama Marinos,30,26,4,0,75,33,42,82,1
+Kawasaki Frontale,30,23,6,1,49,41,8,75,2
+Sanfrecce,30,13,15,2,40,37,3,54,3
+Red Diamonds,30,11,17,2,48,31,17,50,4
+Cerezo Osaka,30,9,19,2,42,36,6,46,5
+Kashima Antlers,30,9,18,3,37,38,-1,45,6
+FC Tokyo,30,8,18,4,36,42,-6,42,7
+Sagan Tosu,30,4,22,4,44,32,12,34,8
+Kashiwa Reysol,30,4,21,5,47,37,10,33,9
+Nagoya Grampus,30,1,24,5,34,37,-3,27,10
+Vissel Kobe,30,1,22,7,34,35,-1,25,11
+Hokkaido Sapporo,30,1,21,8,41,48,-7,24,12
+Shimizu Pulse,30,1,21,8,37,45,-8,24,13
+Shonan Bellmare,30,1,21,8,28,37,-9,24,14
+Gamba Osaka,30,1,21,8,33,45,-12,24,15
+Kyoto Sanga,30,1,21,8,24,38,-14,24,16
+Avispa,30,0,22,8,21,27,-6,22,17
+Jubilo Iwata,30,0,11,19,29,50,-21,11,18
+Yokohama Marinos,31,27,4,0,77,33,44,85,1
+Kawasaki Frontale,31,23,7,1,49,41,8,76,2
+Sanfrecce,31,13,16,2,40,41,-1,55,3
+Red Diamonds,31,11,18,2,48,32,16,51,4
+Cerezo Osaka,31,9,20,2,43,36,7,47,5
+Kashima Antlers,31,9,19,3,38,38,0,46,6
+FC Tokyo,31,8,19,4,38,44,-6,43,7
+Sagan Tosu,31,4,23,4,44,32,12,35,8
+Kashiwa Reysol,31,4,22,5,48,38,10,34,9
+Nagoya Grampus,31,1,25,5,34,38,-4,28,10
+Vissel Kobe,31,1,23,7,35,35,0,26,11
+Shonan Bellmare,31,1,22,8,28,37,-9,25,12
+Kyoto Sanga,31,1,22,8,24,39,-15,25,13
+Hokkaido Sapporo,31,1,21,9,43,49,-6,24,14
+Shimizu Pulse,31,1,21,9,38,47,-9,24,15
+Gamba Osaka,31,1,21,9,34,47,-13,24,16
+Avispa,31,0,23,8,22,30,-8,23,17
+Jubilo Iwata,31,0,11,20,30,50,-20,11,18
+Yokohama Marinos,32,28,4,0,80,34,46,88,1
+Kawasaki Frontale,32,23,8,1,49,43,6,77,2
+Sanfrecce,32,13,17,2,42,43,-1,56,3
+Red Diamonds,32,11,19,2,49,33,16,52,4
+Cerezo Osaka,32,9,21,2,44,37,7,48,5
+Kashima Antlers,32,9,20,3,41,40,1,47,6
+FC Tokyo,32,8,20,4,39,45,-6,44,7
+Sagan Tosu,32,4,24,4,46,34,12,36,8
+Kashiwa Reysol,32,4,23,5,48,39,9,35,9
+Nagoya Grampus,32,1,26,5,35,39,-4,29,10
+Vissel Kobe,32,1,24,7,37,35,2,27,11
+Shonan Bellmare,32,1,23,8,28,37,-9,26,12
+Kyoto Sanga,32,1,23,8,27,40,-13,26,13
+Hokkaido Sapporo,32,1,22,9,44,50,-6,25,14
+Shimizu Pulse,32,1,22,9,39,48,-9,25,15
+Gamba Osaka,32,1,22,9,35,48,-13,25,16
+Avispa,32,0,24,8,23,31,-8,24,17
+Jubilo Iwata,32,0,11,21,30,53,-23,11,18
+Yokohama Marinos,33,29,4,0,81,34,47,91,1
+Kawasaki Frontale,33,23,9,1,52,45,7,78,2
+Sanfrecce,33,13,18,2,43,46,-3,57,3
+Red Diamonds,33,11,20,2,50,34,16,53,4
+Cerezo Osaka,33,9,22,2,45,39,6,49,5
+Kashima Antlers,33,9,21,3,41,42,-1,48,6
+FC Tokyo,33,8,21,4,41,46,-5,45,7
+Sagan Tosu,33,4,25,4,47,35,12,37,8
+Kashiwa Reysol,33,4,24,5,49,40,9,36,9
+Nagoya Grampus,33,1,27,5,36,40,-4,30,10
+Vissel Kobe,33,1,25,7,38,35,3,28,11
+Shonan Bellmare,33,1,24,8,30,37,-7,27,12
+Kyoto Sanga,33,1,24,8,27,40,-13,27,13
+Hokkaido Sapporo,33,1,22,10,44,51,-7,25,14
+Shimizu Pulse,33,1,22,10,40,51,-11,25,15
+Gamba Osaka,33,1,22,10,37,49,-12,25,16
+Avispa,33,0,25,8,23,33,-10,25,17
+Jubilo Iwata,33,0,11,22,31,56,-25,11,18
+Yokohama Marinos,34,30,4,0,83,41,42,94,1
+Kawasaki Frontale,34,23,10,1,56,46,10,79,2
+Sanfrecce,34,13,19,2,44,46,-2,58,3
+Red Diamonds,34,11,21,2,51,35,16,54,4
+Cerezo Osaka,34,9,23,2,49,39,10,50,5
+Kashima Antlers,34,9,22,3,43,44,-1,49,6
+FC Tokyo,34,8,22,4,42,47,-5,46,7
+Sagan Tosu,34,4,26,4,48,36,12,38,8
+Kashiwa Reysol,34,4,25,5,50,41,9,37,9
+Nagoya Grampus,34,1,28,5,36,41,-5,31,10
+Vissel Kobe,34,1,26,7,39,37,2,29,11
+Shonan Bellmare,34,1,24,9,32,38,-6,27,12
+Kyoto Sanga,34,1,24,9,28,41,-13,27,13
+Hokkaido Sapporo,34,1,22,11,46,53,-7,25,14
+Shimizu Pulse,34,1,22,11,41,52,-11,25,15
+Gamba Osaka,34,1,22,11,37,51,-14,25,16
+Avispa,34,0,25,9,23,34,-11,25,17
+Jubilo Iwata,34,0,11,23,33,59,-26,11,18

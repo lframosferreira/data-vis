@@ -1,0 +1,481 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+FC Orenburg,1,1,0,0,5,1,4,3,1
+FK Krasnodar,1,1,0,0,4,1,3,3,2
+Zenit St Petersburg,1,1,0,0,2,0,2,3,3
+Dinamo Moscow,1,1,0,0,1,0,1,3,4
+Spartak Moscow,1,1,0,0,1,0,1,3,5
+CSKA Moscow,1,1,0,0,1,1,0,3,6
+Terek Grozny,1,1,0,0,3,4,-1,3,7
+FK Rostov,1,1,0,0,2,3,-1,3,8
+Sochi,1,0,1,0,4,2,2,1,9
+Nizhny Novgorod,1,0,1,0,2,0,2,1,10
+Fakel Voronezh,1,0,1,0,1,0,1,1,11
+Krylia Sovetov,1,0,1,0,1,0,1,1,12
+FK Ural,1,0,1,0,1,1,0,1,13
+Lokomotiv Moscow,1,0,1,0,0,1,-1,1,14
+FK Khimki,1,0,0,1,1,1,0,0,15
+Torpedo Moscow,1,0,0,1,0,0,0,0,16
+CSKA Moscow,2,2,0,0,4,1,3,6,1
+Zenit St Petersburg,2,2,0,0,3,0,3,6,2
+Spartak Moscow,2,1,1,0,1,2,-1,4,3
+FC Orenburg,2,1,0,1,7,2,5,3,4
+FK Krasnodar,2,1,0,1,5,4,1,3,5
+Dinamo Moscow,2,1,0,1,2,2,0,3,6
+Terek Grozny,2,1,0,1,3,5,-2,3,7
+FK Rostov,2,1,0,1,3,6,-3,3,8
+Sochi,2,0,1,1,6,4,2,1,9
+FK Ural,2,0,1,1,3,3,0,1,10
+Krylia Sovetov,2,0,1,1,3,3,0,1,11
+Nizhny Novgorod,2,0,1,1,3,4,-1,1,12
+Fakel Voronezh,2,0,1,1,2,4,-2,1,13
+Lokomotiv Moscow,2,0,1,1,1,5,-4,1,14
+Torpedo Moscow,2,0,0,2,0,3,-3,0,15
+FK Khimki,2,0,0,2,2,6,-4,0,16
+Zenit St Petersburg,3,3,0,0,4,0,4,9,1
+CSKA Moscow,3,3,0,0,5,3,2,9,2
+Spartak Moscow,3,2,1,0,4,2,2,7,3
+FC Orenburg,3,2,0,1,10,2,8,6,4
+Terek Grozny,3,1,1,1,7,6,1,4,5
+FK Krasnodar,3,1,1,1,7,6,1,4,6
+Dinamo Moscow,3,1,1,1,3,4,-1,4,7
+FK Rostov,3,1,1,1,6,8,-2,4,8
+Sochi,3,0,1,2,7,7,0,1,9
+FK Ural,3,0,1,2,6,7,-1,1,10
+Fakel Voronezh,3,0,1,2,4,6,-2,1,11
+Krylia Sovetov,3,0,1,2,4,6,-2,1,12
+Nizhny Novgorod,3,0,1,2,5,11,-6,1,13
+Lokomotiv Moscow,3,0,1,2,2,10,-8,1,14
+FK Khimki,3,0,0,3,6,9,-3,0,15
+Torpedo Moscow,3,0,0,3,0,7,-7,0,16
+Zenit St Petersburg,4,4,0,0,7,0,7,12,1
+CSKA Moscow,4,4,0,0,6,3,3,12,2
+Spartak Moscow,4,3,1,0,7,6,1,10,3
+Terek Grozny,4,2,1,1,7,6,1,7,4
+FC Orenburg,4,2,0,2,12,2,10,6,5
+Dinamo Moscow,4,1,2,1,7,7,0,5,6
+FK Rostov,4,1,2,1,8,12,-4,5,7
+FK Krasnodar,4,1,1,2,8,7,1,4,8
+FK Khimki,4,1,0,3,6,9,-3,3,9
+Fakel Voronezh,4,0,1,3,7,6,1,1,10
+Sochi,4,0,1,3,8,8,0,1,11
+Krylia Sovetov,4,0,1,3,4,6,-2,1,12
+FK Ural,4,0,1,3,7,11,-4,1,13
+Nizhny Novgorod,4,0,1,3,5,11,-6,1,14
+Lokomotiv Moscow,4,0,1,3,3,11,-8,1,15
+Torpedo Moscow,4,0,0,4,0,10,-10,0,16
+Zenit St Petersburg,5,5,0,0,10,1,9,15,1
+CSKA Moscow,5,5,0,0,9,3,6,15,2
+Spartak Moscow,5,4,1,0,8,7,1,13,3
+Dinamo Moscow,5,2,2,1,8,7,1,8,4
+Terek Grozny,5,2,2,1,8,8,0,8,5
+FK Rostov,5,2,2,1,9,12,-3,8,6
+FC Orenburg,5,2,1,2,13,6,7,7,7
+FK Krasnodar,5,2,1,2,9,8,1,7,8
+Sochi,5,1,1,3,10,8,2,4,9
+Krylia Sovetov,5,1,1,3,6,6,0,4,10
+FK Khimki,5,1,1,3,7,9,-2,4,11
+Nizhny Novgorod,5,1,1,3,6,12,-6,4,12
+Fakel Voronezh,5,0,2,3,11,6,5,2,13
+FK Ural,5,0,2,3,8,13,-5,2,14
+Lokomotiv Moscow,5,0,2,3,5,11,-6,2,15
+Torpedo Moscow,5,0,1,4,0,10,-10,1,16
+Zenit St Petersburg,6,6,0,0,12,2,10,18,1
+CSKA Moscow,6,6,0,0,13,4,9,18,2
+Spartak Moscow,6,5,1,0,11,7,4,16,3
+Terek Grozny,6,3,2,1,12,8,4,11,4
+FK Rostov,6,3,2,1,14,12,2,11,5
+Dinamo Moscow,6,3,2,1,10,8,2,11,6
+FC Orenburg,6,3,1,2,17,6,11,10,7
+FK Krasnodar,6,2,2,2,11,11,0,8,8
+Sochi,6,1,2,3,10,10,0,5,9
+Krylia Sovetov,6,1,2,3,6,9,-3,5,10
+Lokomotiv Moscow,6,1,2,3,8,12,-4,5,11
+Nizhny Novgorod,6,1,2,3,8,12,-4,5,12
+FK Khimki,6,1,1,4,7,10,-3,4,13
+Fakel Voronezh,6,0,3,3,12,11,1,3,14
+FK Ural,6,0,3,3,9,18,-9,3,15
+Torpedo Moscow,6,0,1,5,1,14,-13,1,16
+Zenit St Petersburg,7,7,0,0,14,2,12,21,1
+CSKA Moscow,7,7,0,0,15,5,10,21,2
+Spartak Moscow,7,5,2,0,11,7,4,17,3
+Terek Grozny,7,4,2,1,15,8,7,14,4
+Dinamo Moscow,7,4,2,1,16,11,5,14,5
+FC Orenburg,7,4,1,2,22,7,15,13,6
+FK Rostov,7,3,2,2,15,12,3,11,7
+FK Krasnodar,7,2,2,3,11,13,-2,8,8
+Sochi,7,1,2,4,11,14,-3,5,9
+Lokomotiv Moscow,7,1,2,4,9,12,-3,5,10
+Krylia Sovetov,7,1,2,4,6,12,-6,5,11
+Nizhny Novgorod,7,1,2,4,9,18,-9,5,12
+FK Khimki,7,1,1,5,8,14,-6,4,13
+Fakel Voronezh,7,0,3,4,14,13,1,3,14
+FK Ural,7,0,3,4,9,23,-14,3,15
+Torpedo Moscow,7,0,1,6,3,15,-12,1,16
+Zenit St Petersburg,8,8,0,0,16,2,14,24,1
+CSKA Moscow,8,8,0,0,18,6,12,24,2
+Spartak Moscow,8,6,2,0,15,9,6,20,3
+Terek Grozny,8,5,2,1,16,9,7,17,4
+Dinamo Moscow,8,4,3,1,17,11,6,15,5
+FC Orenburg,8,4,2,2,24,8,16,14,6
+FK Rostov,8,3,3,2,16,14,2,12,7
+FK Krasnodar,8,3,2,3,14,15,-1,11,8
+Lokomotiv Moscow,8,1,3,4,11,17,-6,6,9
+Sochi,8,1,2,5,11,16,-5,5,10
+Krylia Sovetov,8,1,2,5,6,15,-9,5,11
+Nizhny Novgorod,8,1,2,5,9,21,-12,5,12
+FK Khimki,8,1,1,6,8,16,-8,4,13
+Fakel Voronezh,8,0,3,5,14,15,-1,3,14
+FK Ural,8,0,3,5,11,25,-14,3,15
+Torpedo Moscow,8,0,1,7,3,16,-13,1,16
+Zenit St Petersburg,9,9,0,0,19,2,17,27,1
+CSKA Moscow,9,8,0,1,18,7,11,24,2
+Spartak Moscow,9,6,2,1,15,11,4,20,3
+Dinamo Moscow,9,5,3,1,21,12,9,18,4
+Terek Grozny,9,5,3,1,19,13,6,18,5
+FC Orenburg,9,4,3,2,26,10,16,15,6
+FK Rostov,9,3,3,3,16,17,-1,12,7
+FK Krasnodar,9,3,3,3,14,18,-4,12,8
+Lokomotiv Moscow,9,1,4,4,13,18,-5,7,9
+FK Khimki,9,1,2,6,9,17,-8,5,10
+Krylia Sovetov,9,1,2,6,6,16,-10,5,11
+Sochi,9,1,2,6,11,25,-14,5,12
+Nizhny Novgorod,9,1,2,6,9,25,-16,5,13
+Fakel Voronezh,9,0,3,6,15,22,-7,3,14
+FK Ural,9,0,3,6,11,31,-20,3,15
+Torpedo Moscow,9,0,2,7,3,18,-15,2,16
+Zenit St Petersburg,10,10,0,0,19,3,16,30,1
+CSKA Moscow,10,9,0,1,20,9,11,27,2
+Spartak Moscow,10,7,2,1,16,15,1,23,3
+Dinamo Moscow,10,6,3,1,22,15,7,21,4
+Terek Grozny,10,6,3,1,20,14,6,21,5
+FC Orenburg,10,4,3,3,26,11,15,15,6
+FK Krasnodar,10,4,3,3,16,19,-3,15,7
+FK Rostov,10,3,4,3,18,17,1,13,8
+Lokomotiv Moscow,10,2,4,4,13,19,-6,10,9
+Krylia Sovetov,10,1,3,6,10,17,-7,6,10
+FK Khimki,10,1,3,6,9,18,-9,6,11
+Sochi,10,1,3,6,13,25,-12,6,12
+FK Ural,10,1,3,6,14,31,-17,6,13
+Nizhny Novgorod,10,1,3,6,9,28,-19,6,14
+Fakel Voronezh,10,0,3,7,17,24,-7,3,15
+Torpedo Moscow,10,0,2,8,3,19,-16,2,16
+Zenit St Petersburg,11,11,0,0,22,4,18,33,1
+CSKA Moscow,11,10,0,1,24,10,14,30,2
+Spartak Moscow,11,8,2,1,16,16,0,26,3
+Dinamo Moscow,11,7,3,1,24,16,8,24,4
+Terek Grozny,11,6,3,2,20,17,3,21,5
+FC Orenburg,11,5,3,3,30,14,16,18,6
+FK Krasnodar,11,5,3,3,17,22,-5,18,7
+FK Rostov,11,4,4,3,18,20,-2,16,8
+Lokomotiv Moscow,11,2,4,5,14,21,-7,10,9
+Krylia Sovetov,11,1,4,6,10,19,-9,7,10
+Sochi,11,1,4,6,15,25,-10,7,11
+FK Khimki,11,1,4,6,11,22,-11,7,12
+Nizhny Novgorod,11,1,4,6,12,28,-16,7,13
+Fakel Voronezh,11,1,3,7,18,26,-8,6,14
+FK Ural,11,1,3,7,16,31,-15,6,15
+Torpedo Moscow,11,0,2,9,4,20,-16,2,16
+Zenit St Petersburg,12,12,0,0,25,4,21,36,1
+CSKA Moscow,12,11,0,1,26,12,14,33,2
+Spartak Moscow,12,9,2,1,18,19,-1,29,3
+Dinamo Moscow,12,8,3,1,26,16,10,27,4
+Terek Grozny,12,7,3,2,24,18,6,24,5
+FC Orenburg,12,6,3,3,32,16,16,21,6
+FK Krasnodar,12,6,3,3,19,23,-4,21,7
+FK Rostov,12,4,5,3,20,22,-2,17,8
+Lokomotiv Moscow,12,2,5,5,17,23,-6,11,9
+Sochi,12,2,4,6,20,25,-5,10,10
+FK Khimki,12,1,5,6,11,24,-13,8,11
+Krylia Sovetov,12,1,4,7,11,21,-10,7,12
+FK Ural,12,1,4,7,20,32,-12,7,13
+Nizhny Novgorod,12,1,4,7,13,33,-20,7,14
+Fakel Voronezh,12,1,3,8,20,27,-7,6,15
+Torpedo Moscow,12,0,2,10,5,23,-18,2,16
+Zenit St Petersburg,13,13,0,0,27,4,23,39,1
+CSKA Moscow,13,12,0,1,30,13,17,36,2
+Spartak Moscow,13,10,2,1,20,19,1,32,3
+Dinamo Moscow,13,9,3,1,28,16,12,30,4
+Terek Grozny,13,8,3,2,24,21,3,27,5
+FC Orenburg,13,7,3,3,35,17,18,24,6
+FK Krasnodar,13,7,3,3,20,23,-3,24,7
+FK Rostov,13,4,6,3,21,23,-2,18,8
+Sochi,13,2,5,6,20,25,-5,11,9
+Lokomotiv Moscow,13,2,5,6,18,25,-7,11,10
+Nizhny Novgorod,13,2,4,7,17,33,-16,10,11
+FK Khimki,13,1,6,6,11,25,-14,9,12
+Krylia Sovetov,13,1,5,7,14,24,-10,8,13
+FK Ural,13,1,5,7,21,33,-12,8,14
+Fakel Voronezh,13,1,4,8,23,30,-7,7,15
+Torpedo Moscow,13,0,3,10,7,24,-17,3,16
+Zenit St Petersburg,14,14,0,0,36,5,31,42,1
+CSKA Moscow,14,13,0,1,33,15,18,39,2
+Spartak Moscow,14,11,2,1,21,20,1,35,3
+Dinamo Moscow,14,9,3,2,28,18,10,30,4
+Terek Grozny,14,9,3,2,25,22,3,30,5
+FC Orenburg,14,8,3,3,42,19,23,27,6
+FK Krasnodar,14,7,4,3,20,25,-5,25,7
+FK Rostov,14,4,7,3,22,26,-4,19,8
+Sochi,14,3,5,6,26,26,0,14,9
+Lokomotiv Moscow,14,2,6,6,23,26,-3,12,10
+Krylia Sovetov,14,2,5,7,15,24,-9,11,11
+FK Ural,14,2,5,7,23,33,-10,11,12
+Nizhny Novgorod,14,2,4,8,18,34,-16,10,13
+FK Khimki,14,1,6,7,11,26,-15,9,14
+Fakel Voronezh,14,1,5,8,23,30,-7,8,15
+Torpedo Moscow,14,0,4,10,7,28,-21,4,16
+Zenit St Petersburg,15,15,0,0,39,5,34,45,1
+CSKA Moscow,15,13,1,1,35,15,20,40,2
+Spartak Moscow,15,12,2,1,24,20,4,38,3
+Dinamo Moscow,15,10,3,2,33,18,15,33,4
+Terek Grozny,15,10,3,2,25,22,3,33,5
+FC Orenburg,15,9,3,3,45,20,25,30,6
+FK Krasnodar,15,7,4,4,20,27,-7,25,7
+FK Rostov,15,4,7,4,22,28,-6,19,8
+Sochi,15,3,6,6,30,28,2,15,9
+FK Ural,15,3,5,7,24,36,-12,14,10
+Lokomotiv Moscow,15,2,7,6,28,27,1,13,11
+Krylia Sovetov,15,2,6,7,16,25,-9,12,12
+Fakel Voronezh,15,2,5,8,23,30,-7,11,13
+Nizhny Novgorod,15,2,5,8,19,34,-15,11,14
+FK Khimki,15,1,6,8,14,28,-14,9,15
+Torpedo Moscow,15,0,4,11,7,30,-23,4,16
+Zenit St Petersburg,16,16,0,0,42,5,37,48,1
+CSKA Moscow,16,14,1,1,38,16,22,43,2
+Spartak Moscow,16,13,2,1,26,21,5,41,3
+Dinamo Moscow,16,11,3,2,35,20,15,36,4
+Terek Grozny,16,11,3,2,25,22,3,36,5
+FC Orenburg,16,9,3,4,45,23,22,30,6
+FK Krasnodar,16,8,4,4,22,29,-7,28,7
+FK Rostov,16,5,7,4,27,30,-3,22,8
+Sochi,16,4,6,6,31,28,3,18,9
+Fakel Voronezh,16,3,5,8,24,32,-8,14,10
+FK Ural,16,3,5,8,25,40,-15,14,11
+Lokomotiv Moscow,16,2,8,6,30,27,3,14,12
+Krylia Sovetov,16,2,7,7,17,25,-8,13,13
+Nizhny Novgorod,16,2,6,8,22,34,-12,12,14
+FK Khimki,16,1,6,9,14,31,-17,9,15
+Torpedo Moscow,16,0,4,12,8,31,-23,4,16
+Zenit St Petersburg,17,17,0,0,48,5,43,51,1
+CSKA Moscow,17,15,1,1,38,18,20,46,2
+Spartak Moscow,17,14,2,1,31,21,10,44,3
+Dinamo Moscow,17,12,3,2,39,21,18,39,4
+Terek Grozny,17,11,3,3,29,25,4,36,5
+FC Orenburg,17,9,4,4,47,26,21,31,6
+FK Krasnodar,17,9,4,4,24,29,-5,31,7
+FK Rostov,17,5,8,4,32,30,2,23,8
+Sochi,17,5,6,6,32,30,2,21,9
+Nizhny Novgorod,17,3,6,8,23,34,-11,15,10
+FK Ural,17,3,6,8,26,40,-14,15,11
+Lokomotiv Moscow,17,2,9,6,30,29,1,15,12
+Fakel Voronezh,17,3,5,9,25,33,-8,14,13
+Krylia Sovetov,17,2,8,7,17,27,-10,14,14
+FK Khimki,17,1,6,10,14,34,-20,9,15
+Torpedo Moscow,17,0,4,13,8,33,-25,4,16
+Zenit St Petersburg,18,18,0,0,55,6,49,54,1
+CSKA Moscow,18,15,2,1,40,19,21,47,2
+Spartak Moscow,18,15,2,1,34,21,13,47,3
+Dinamo Moscow,18,13,3,2,45,22,23,42,4
+Terek Grozny,18,11,4,3,33,27,6,37,5
+FK Krasnodar,18,10,4,4,26,29,-3,34,6
+FC Orenburg,18,9,4,5,47,30,17,31,7
+FK Rostov,18,6,8,4,35,30,5,26,8
+Sochi,18,5,7,6,33,33,0,22,9
+Nizhny Novgorod,18,4,6,8,23,34,-11,18,10
+Krylia Sovetov,18,3,8,7,17,27,-10,17,11
+Lokomotiv Moscow,18,2,10,6,33,29,4,16,12
+Fakel Voronezh,18,3,6,9,26,34,-8,15,13
+FK Ural,18,3,6,9,26,46,-20,15,14
+FK Khimki,18,1,6,11,14,34,-20,9,15
+Torpedo Moscow,18,0,4,14,9,34,-25,4,16
+Zenit St Petersburg,19,19,0,0,64,6,58,57,1
+CSKA Moscow,19,16,2,1,44,20,24,50,2
+Spartak Moscow,19,16,2,1,37,21,16,50,3
+Dinamo Moscow,19,14,3,2,48,22,26,45,4
+Terek Grozny,19,12,4,3,34,27,7,40,5
+FK Krasnodar,19,11,4,4,29,29,0,37,6
+FC Orenburg,19,10,4,5,48,32,16,34,7
+FK Rostov,19,7,8,4,38,30,8,29,8
+Sochi,19,5,8,6,35,34,1,23,9
+Krylia Sovetov,19,4,8,7,18,27,-9,20,10
+Nizhny Novgorod,19,4,6,9,24,34,-10,18,11
+FK Ural,19,4,6,9,28,48,-20,18,12
+Lokomotiv Moscow,19,2,10,7,33,32,1,16,13
+Fakel Voronezh,19,3,6,10,26,36,-10,15,14
+FK Khimki,19,1,7,11,14,34,-20,10,15
+Torpedo Moscow,19,0,4,15,9,35,-26,4,16
+Zenit St Petersburg,20,20,0,0,68,6,62,60,1
+CSKA Moscow,20,17,2,1,44,21,23,53,2
+Spartak Moscow,20,17,2,1,41,23,18,53,3
+Dinamo Moscow,20,14,4,2,48,22,26,46,4
+Terek Grozny,20,12,5,3,35,29,6,41,5
+FK Krasnodar,20,12,4,4,32,29,3,40,6
+FC Orenburg,20,10,5,5,53,34,19,35,7
+FK Rostov,20,8,8,4,42,30,12,32,8
+Sochi,20,5,8,7,36,35,1,23,9
+Krylia Sovetov,20,4,9,7,18,28,-10,21,10
+Nizhny Novgorod,20,4,7,9,27,36,-9,19,11
+FK Ural,20,4,7,9,28,50,-22,19,12
+Fakel Voronezh,20,3,7,10,27,36,-9,16,13
+Lokomotiv Moscow,20,2,10,8,33,37,-4,16,14
+FK Khimki,20,1,7,12,15,37,-22,10,15
+Torpedo Moscow,20,0,4,16,10,35,-25,4,16
+Zenit St Petersburg,21,21,0,0,69,6,63,63,1
+Spartak Moscow,21,18,2,1,43,26,17,56,2
+CSKA Moscow,21,17,3,1,44,22,22,54,3
+Dinamo Moscow,21,15,4,2,48,23,25,49,4
+Terek Grozny,21,12,5,4,38,30,8,41,5
+FK Krasnodar,21,12,4,5,34,33,1,40,6
+FC Orenburg,21,10,5,6,54,38,16,35,7
+FK Rostov,21,9,8,4,44,32,12,35,8
+Sochi,21,6,8,7,36,35,1,26,9
+Krylia Sovetov,21,4,10,7,18,30,-12,22,10
+FK Ural,21,4,8,9,31,50,-19,20,11
+Nizhny Novgorod,21,4,7,10,29,41,-12,19,12
+Fakel Voronezh,21,3,8,10,27,38,-11,17,13
+Lokomotiv Moscow,21,2,10,9,33,39,-6,16,14
+FK Khimki,21,1,7,13,18,43,-25,10,15
+Torpedo Moscow,21,0,4,17,11,37,-26,4,16
+Zenit St Petersburg,22,22,0,0,71,6,65,66,1
+Spartak Moscow,22,19,2,1,47,30,17,59,2
+CSKA Moscow,22,17,4,1,47,22,25,55,3
+Dinamo Moscow,22,15,5,2,50,23,27,50,4
+Terek Grozny,22,12,5,5,41,31,10,41,5
+FK Krasnodar,22,12,5,5,36,34,2,41,6
+FK Rostov,22,9,9,4,45,32,13,36,7
+FC Orenburg,22,10,5,7,55,40,15,35,8
+Sochi,22,7,8,7,38,35,3,29,9
+Nizhny Novgorod,22,5,7,10,30,42,-12,22,10
+Krylia Sovetov,22,4,10,8,18,31,-13,22,11
+FK Ural,22,4,9,9,32,54,-22,21,12
+Fakel Voronezh,22,3,9,10,27,41,-14,18,13
+Lokomotiv Moscow,22,2,10,10,33,40,-7,16,14
+FK Khimki,22,1,7,14,20,46,-26,10,15
+Torpedo Moscow,22,0,4,18,12,39,-27,4,16
+Zenit St Petersburg,23,23,0,0,74,6,68,69,1
+Spartak Moscow,23,19,2,2,47,31,16,59,2
+CSKA Moscow,23,17,4,2,48,22,26,55,3
+Dinamo Moscow,23,15,5,3,50,26,24,50,4
+Terek Grozny,23,12,5,6,41,34,7,41,5
+FK Krasnodar,23,12,5,6,36,37,-1,41,6
+FK Rostov,23,10,9,4,47,33,14,39,7
+FC Orenburg,23,10,5,8,56,43,13,35,8
+Sochi,23,8,8,7,43,36,7,32,9
+Nizhny Novgorod,23,6,7,10,30,45,-15,25,10
+Krylia Sovetov,23,5,10,8,20,33,-13,25,11
+FK Ural,23,4,9,10,36,55,-19,21,12
+Fakel Voronezh,23,3,10,10,29,41,-12,19,13
+Lokomotiv Moscow,23,2,10,11,34,49,-15,16,14
+FK Khimki,23,1,7,15,20,49,-29,10,15
+Torpedo Moscow,23,0,4,19,12,41,-29,4,16
+Zenit St Petersburg,24,24,0,0,80,6,74,72,1
+Spartak Moscow,24,20,2,2,48,33,15,62,2
+CSKA Moscow,24,18,4,2,48,24,24,58,3
+Dinamo Moscow,24,16,5,3,54,27,27,53,4
+Terek Grozny,24,12,6,6,42,35,7,42,5
+FK Krasnodar,24,12,6,6,36,38,-2,42,6
+FK Rostov,24,10,9,5,48,34,14,39,7
+FC Orenburg,24,10,6,8,57,47,10,36,8
+Sochi,24,9,8,7,45,37,8,35,9
+Krylia Sovetov,24,6,10,8,21,33,-12,28,10
+Nizhny Novgorod,24,6,8,10,34,47,-13,26,11
+FK Ural,24,4,10,10,36,57,-21,22,12
+Fakel Voronezh,24,3,10,11,30,41,-11,19,13
+Lokomotiv Moscow,24,2,10,12,37,50,-13,16,14
+FK Khimki,24,1,7,16,20,52,-32,10,15
+Torpedo Moscow,24,0,4,20,12,43,-31,4,16
+Zenit St Petersburg,25,25,0,0,82,6,76,75,1
+Spartak Moscow,25,21,2,2,52,33,19,65,2
+CSKA Moscow,25,19,4,2,49,26,23,61,3
+Dinamo Moscow,25,17,5,3,55,28,27,56,4
+Terek Grozny,25,12,7,6,42,35,7,43,5
+FK Krasnodar,25,12,7,6,37,39,-2,43,6
+FK Rostov,25,11,9,5,48,34,14,42,7
+FC Orenburg,25,10,7,8,60,50,10,37,8
+Sochi,25,9,8,8,48,39,9,35,9
+Krylia Sovetov,25,6,11,8,23,33,-10,29,10
+Nizhny Novgorod,25,6,9,10,37,50,-13,27,11
+FK Ural,25,4,11,10,36,58,-22,23,12
+Fakel Voronezh,25,3,10,12,33,41,-8,19,13
+Lokomotiv Moscow,25,2,10,13,39,51,-12,16,14
+FK Khimki,25,1,7,17,22,53,-31,10,15
+Torpedo Moscow,25,0,4,21,12,43,-31,4,16
+Zenit St Petersburg,26,26,0,0,83,7,76,78,1
+Spartak Moscow,26,22,2,2,56,33,23,68,2
+CSKA Moscow,26,19,5,2,49,26,23,62,3
+Dinamo Moscow,26,17,6,3,58,29,29,57,4
+FK Rostov,26,12,9,5,53,35,18,45,5
+Terek Grozny,26,12,8,6,44,39,5,44,6
+FK Krasnodar,26,12,8,6,38,41,-3,44,7
+FC Orenburg,26,10,7,9,61,56,5,37,8
+Sochi,26,9,9,8,50,41,9,36,9
+Krylia Sovetov,26,7,11,8,24,33,-9,32,10
+Nizhny Novgorod,26,6,9,11,37,52,-15,27,11
+FK Ural,26,4,11,11,36,58,-22,23,12
+Fakel Voronezh,26,3,10,13,33,43,-10,19,13
+Lokomotiv Moscow,26,2,10,14,41,52,-11,16,14
+FK Khimki,26,1,7,18,22,58,-36,10,15
+Torpedo Moscow,26,0,4,22,12,44,-32,4,16
+Zenit St Petersburg,27,27,0,0,88,9,79,81,1
+Spartak Moscow,27,23,2,2,59,34,25,71,2
+CSKA Moscow,27,20,5,2,50,27,23,65,3
+Dinamo Moscow,27,18,6,3,58,30,28,60,4
+FK Rostov,27,13,9,5,56,36,20,48,5
+Terek Grozny,27,12,9,6,44,42,2,45,6
+FK Krasnodar,27,12,9,6,40,44,-4,45,7
+FC Orenburg,27,10,8,9,61,57,4,38,8
+Sochi,27,9,10,8,52,45,7,37,9
+Krylia Sovetov,27,7,11,9,25,34,-9,32,10
+Nizhny Novgorod,27,6,10,11,38,53,-15,28,11
+FK Ural,27,4,11,12,37,59,-22,23,12
+Fakel Voronezh,27,3,10,14,36,43,-7,19,13
+Lokomotiv Moscow,27,2,10,15,41,52,-11,16,14
+FK Khimki,27,1,7,19,22,62,-40,10,15
+Torpedo Moscow,27,0,4,23,12,45,-33,4,16
+Zenit St Petersburg,28,28,0,0,89,9,80,84,1
+Spartak Moscow,28,24,2,2,61,34,27,74,2
+CSKA Moscow,28,20,6,2,51,28,23,66,3
+Dinamo Moscow,28,18,7,3,59,30,29,61,4
+FK Rostov,28,14,9,5,57,37,20,51,5
+Terek Grozny,28,12,10,6,46,42,4,46,6
+FK Krasnodar,28,12,10,6,42,44,-2,46,7
+FC Orenburg,28,10,9,9,61,58,3,39,8
+Sochi,28,9,11,8,52,47,5,38,9
+Krylia Sovetov,28,7,12,9,28,35,-7,33,10
+Nizhny Novgorod,28,6,10,12,38,54,-16,28,11
+FK Ural,28,4,11,13,39,61,-22,23,12
+Fakel Voronezh,28,3,10,15,36,44,-8,19,13
+Lokomotiv Moscow,28,2,10,16,41,53,-12,16,14
+FK Khimki,28,1,7,20,22,63,-41,10,15
+Torpedo Moscow,28,0,4,24,12,45,-33,4,16
+Zenit St Petersburg,29,29,0,0,90,9,81,87,1
+Spartak Moscow,29,25,2,2,63,34,29,77,2
+CSKA Moscow,29,20,6,3,52,30,22,66,3
+Dinamo Moscow,29,18,7,4,62,32,30,61,4
+FK Rostov,29,15,9,5,58,38,20,54,5
+Terek Grozny,29,12,10,7,46,45,1,46,6
+FK Krasnodar,29,12,10,7,46,48,-2,46,7
+FC Orenburg,29,10,9,10,61,63,-2,39,8
+Sochi,29,9,11,9,52,51,1,38,9
+Krylia Sovetov,29,7,12,10,28,37,-9,33,10
+Nizhny Novgorod,29,6,10,13,39,57,-18,28,11
+FK Ural,29,4,11,14,41,62,-21,23,12
+Fakel Voronezh,29,3,10,16,36,48,-12,19,13
+Lokomotiv Moscow,29,2,10,17,43,57,-14,16,14
+FK Khimki,29,1,7,21,22,66,-44,10,15
+Torpedo Moscow,29,0,4,25,12,48,-36,4,16
+Zenit St Petersburg,30,30,0,0,91,10,81,90,1
+Spartak Moscow,30,25,3,2,65,34,31,78,2
+CSKA Moscow,30,20,7,3,52,35,17,67,3
+Dinamo Moscow,30,18,8,4,62,33,29,62,4
+FK Rostov,30,15,10,5,58,40,18,55,5
+Terek Grozny,30,12,10,8,46,48,-2,46,6
+FK Krasnodar,30,12,10,8,47,50,-3,46,7
+FC Orenburg,30,10,9,11,61,66,-5,39,8
+Sochi,30,9,11,10,53,54,-1,38,9
+Krylia Sovetov,30,7,12,11,29,38,-9,33,10
+Nizhny Novgorod,30,6,10,14,40,58,-18,28,11
+FK Ural,30,4,11,15,41,62,-21,23,12
+Fakel Voronezh,30,3,10,17,37,53,-16,19,13
+Lokomotiv Moscow,30,2,10,18,45,59,-14,16,14
+FK Khimki,30,1,7,22,24,71,-47,10,15
+Torpedo Moscow,30,0,4,26,12,52,-40,4,16
