@@ -23,6 +23,8 @@ for filename in os.listdir(ELO_DATA_DIR):
 
 layout = html.Div(
     [
+        html.H2("Elo no futebol", style={"textAlign": "center"}),
+        html.P("oi"),
         html.Div(
             className="elo-time-series-plot",
             children=[
