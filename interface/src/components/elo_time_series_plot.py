@@ -50,7 +50,9 @@ from settings import CLUBS_DICT
 
 
 def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
-    options: list[str] = [CLUBS_DICT[x] for x in filter(lambda x: x in CLUBS_DICT, df_dict.keys())]
+    options: list[str] = [
+        CLUBS_DICT[x] for x in filter(lambda x: x in CLUBS_DICT, df_dict.keys())
+    ]
     return html.Div(
         [
             html.H4("Evolução do Elo ao longo dos anos"),

@@ -6,10 +6,11 @@ import pandas as pd
 from dash import Input
 from dash import Output
 from dash import callback
+from dash import dcc
 from dash import html
 from mplsoccer import VerticalPitch
 
-LEAGUES: list[str, str] = {
+LEAGUES: dict[str, str] = {
     "england": "Premier League",
     "spain": "La Liga",
     "germany": "Bundesliga",
@@ -30,7 +31,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
         return (league is None), None
 
     @callback(
-        Output("shots-plot", "srcDoc"),
+        Output("shots-plot", "src"),
         [Input("shots-players-dropdown", "value"), Input("league-dropdown", "value")],
     )
     def plot_shots(player_name: str, league: str):
@@ -52,7 +53,6 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
             (key for key, value in LEAGUES.items() if value == league), None
         )
         if league_key is not None:
-            # raise exceptions.PreventUpdate
             shots = df_dict[f"{league_key}_shots"]
             filtered_shots = (
                 shots[
@@ -94,6 +94,17 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
         img.close()
         plt.close(fig)
 
-        html_plot = f'<img src="data:image/png;base64,{img_base64}" alt="Shot Plot" style="border:none; margin:0; padding:0; display:block;">'
-        html.Img()
-        return html_plot
+        return f"data:image/png;base64,{img_base64}"
+
+    layout = html.Div(
+        [
+            dcc.Dropdown(
+                id="league-dropdown",
+                options=[
+                    {"label": league, "value": league} for league in LEAGUES.values()
+                ],
+            ),
+            dcc.Dropdown(id="shots-players-dropdown"),
+            html.Img(id="shots-plot"),
+        ]
+    )

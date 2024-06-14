@@ -24,7 +24,7 @@ def render_players_dropdown(df_dict: dict[str, pd.DataFrame]) -> html.Div:
             ]["Jogador"]
         )
 
-    return html.Div()
+    return []
 
 
 def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:

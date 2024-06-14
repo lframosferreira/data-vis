@@ -3,10 +3,9 @@ from dash import Input
 from dash import Output
 from dash import callback
 from dash import dcc
-from dash import exceptions
 from dash import html
 
-LEAGUES: list[str, str] = {
+LEAGUES: dict[str, str] = {
     "england": "Premier League",
     "spain": "La Liga",
     "germany": "Bundesliga",
@@ -14,29 +13,35 @@ LEAGUES: list[str, str] = {
     "france": "Ligue 1",
 }
 
+PROBABILITY_THRESHOLD = 0.3
+
 
 def render(df_dict: dict[str, pd.DataFrame]) -> None:
     @callback(
-        Output("shots-players-dropdown", "options"), Input("league-dropdown", "value")
+        [
+            Output("shots-players-dropdown", "options"),
+            Output("shots-players-dropdown", "style"),
+        ],
+        Input("league-dropdown", "value"),
     )
     def populate_shots_dropdown(league: str):
         if league is None:
-            raise exceptions.PreventUpdate
+            return [], {"display": "none"}
 
         league_key = next(
             (key for key, value in LEAGUES.items() if value == league), None
         )
         if league_key is None:
-            raise exceptions.PreventUpdate
+            return [], {"display": "none"}
 
         shots = df_dict[f"{league_key}_shots"]
         filtered_shots = shots[
-            (shots["xG"] < 0.3) & (shots["result_name"] == "success")
+            (shots["xG"] < PROBABILITY_THRESHOLD) & (shots["result_name"] == "success")
         ]
 
         player_names = filtered_shots["player_name"].unique()
         player_options = [{"label": name, "value": name} for name in player_names]
-        return player_options
+        return player_options, {"display": "block"}
 
     return html.Div(
         children=[
@@ -61,7 +66,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                 options=[],
                 clearable=True,
                 disabled=False,
-                style={"margin-bottom": "10px"},
+                style={"display": "none", "margin-bottom": "10px"},  # Initially hidden
             ),
             html.Div(
                 style={
