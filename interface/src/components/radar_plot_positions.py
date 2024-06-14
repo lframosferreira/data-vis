@@ -40,14 +40,13 @@ teamsAndPositions: list[str] = [
     "GM",
     "PE",
     "PD",
-    "MA", 
+    "MA",
 ]
-
 
 
 def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
     return html.Div(
-        [   
+        [
             html.Div(
                 className="dropdowns-positions-container",
                 children=[
@@ -64,7 +63,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                         id="players-positions-mean-dropdown",
                         multi=True,
                         placeholder="Selecione uma posição ou time:",
-                        options= teamsAndPositions,
+                        options=teamsAndPositions,
                         value=[],
                         clearable=True,
                     ),
@@ -72,12 +71,20 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
             ),
             dcc.Graph(
                 id="radar-positions-plot",
-                figure=go.Figure(data=go.Scatterpolar(
-                    r=[0, 0, 0, 0, 0],
-                    theta=["Non Penalty Expected Goals", "Progressive Carries", "Progressive Passes Received", "Goals Per 90 Minutes", "Expected Goals Per 90 Minutes"],
-                    fill='toself',
-                    name="Jogador"
-                )),
-            )
+                figure=go.Figure(
+                    data=go.Scatterpolar(
+                        r=[0, 0, 0, 0, 0],
+                        theta=[
+                            "Non Penalty Expected Goals",
+                            "Progressive Carries",
+                            "Progressive Passes Received",
+                            "Goals Per 90 Minutes",
+                            "Expected Goals Per 90 Minutes",
+                        ],
+                        fill="toself",
+                        name="Jogador",
+                    )
+                ),
+            ),
         ]
     )

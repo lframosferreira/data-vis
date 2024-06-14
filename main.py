@@ -13,6 +13,7 @@ SHOTS_DATA_DIR: str = "../data/shots/"
 
 app.layout = create_layout()
 
+
 def main() -> None:
     app.run(debug=True)
 

@@ -34,7 +34,7 @@ def load_matches(path):
 
 def load_players(path):
     players = pd.read_json(path_or_buf=path)
-    players["player_name"] = players["firstName"] + ' ' + players["lastName"]
+    players["player_name"] = players["firstName"] + " " + players["lastName"]
     players = players[["wyId", "player_name"]].rename(columns={"wyId": "player_id"})
 
     return players
@@ -46,14 +46,16 @@ def load_players(path):
 def load_events(path):
     events = pd.read_json(path_or_buf=path)
     # pré processamento em colunas da tabela de eventos para facilitar a conversão p/ SPADL
-    events = events.rename(columns={
-        "id": "event_id",
-        "eventId": "type_id",
-        "subEventId": "subtype_id",
-        "teamId": "team_id",
-        "playerId": "player_id",
-        "matchId": "game_id"
-    })
+    events = events.rename(
+        columns={
+            "id": "event_id",
+            "eventId": "type_id",
+            "subEventId": "subtype_id",
+            "teamId": "team_id",
+            "playerId": "player_id",
+            "matchId": "game_id",
+        }
+    )
     events["milliseconds"] = events["eventSec"] * 1000
     events["period_id"] = events["matchPeriod"].replace({"1H": 1, "2H": 2})
 
@@ -65,12 +67,14 @@ def load_events(path):
 
 def load_minutes_played_per_game(path):
     minutes = pd.read_json(path_or_buf=path)
-    minutes = minutes.rename(columns={
-        "playerId": "player_id",
-        "matchId": "game_id",
-        "teamId": "team_id",
-        "minutesPlayed": "minutes_played"
-    })
+    minutes = minutes.rename(
+        columns={
+            "playerId": "player_id",
+            "matchId": "game_id",
+            "teamId": "team_id",
+            "minutesPlayed": "minutes_played",
+        }
+    )
     minutes = minutes.drop(["shortName", "teamName", "red_card"], axis=1)
 
     return minutes
@@ -110,9 +114,15 @@ def spadl_transform(events, matches):
     game_ids = events.game_id.unique().tolist()
     for g in tqdm(game_ids):
         match_events = events.loc[events.game_id == g]
-        match_home_id = matches.loc[(matches.matchId == g) & (matches.side == "home"), "teamId"].values[0]
-        match_actions = spd.wyscout.convert_to_actions(events=match_events, home_team_id=match_home_id)
-        match_actions = spd.play_left_to_right(actions=match_actions, home_team_id=match_home_id)
+        match_home_id = matches.loc[
+            (matches.matchId == g) & (matches.side == "home"), "teamId"
+        ].values[0]
+        match_actions = spd.wyscout.convert_to_actions(
+            events=match_events, home_team_id=match_home_id
+        )
+        match_actions = spd.play_left_to_right(
+            actions=match_actions, home_team_id=match_home_id
+        )
         match_actions = spd.add_names(match_actions)
         spadl.append(match_actions)
     spadl = pd.concat(spadl).reset_index(drop=True)
@@ -132,6 +142,4 @@ players = players[["wyId", "player_name"]].rename(columns={"wyId": "player_id"})
 for league in leagues:
     df = spadl_transform(events=events[league], matches=matches[league])
     df = df.merge(players, on="player_id", how="left")
-    df.to_csv(f"data/spadl_format/{league}.csv") 
-    
-
+    df.to_csv(f"data/spadl_format/{league}.csv")

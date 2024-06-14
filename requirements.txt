@@ -18,3 +18,5 @@ wrapt
 plotly
 dash
 mplsoccer
+statsmodels
+mplsoccer
