@@ -16,22 +16,23 @@ LEAGUES: dict[str, str] = {
 PROBABILITY_THRESHOLD = 0.3
 
 RANGE_SLIDER_MARKS = {
-    0: '0%',
-    5: '5%',
-    10: '10%',
-    15: '15%',
-    20: '20%',
-    25: '25%',
-    30: '30%',
-    35: '35%',
-    40: '40%',
-    45: '45%',
-    50: '50%',
+    0: "0%",
+    5: "5%",
+    10: "10%",
+    15: "15%",
+    20: "20%",
+    25: "25%",
+    30: "30%",
+    35: "35%",
+    40: "40%",
+    45: "45%",
+    50: "50%",
 }
+
 
 def render(df_dict: dict[str, pd.DataFrame]) -> None:
     @callback(
-            Output("shots-players-dropdown", "options"),
+        Output("shots-players-dropdown", "options"),
         Input("league-dropdown", "value"),
     )
     def populate_shots_dropdown(league: str):
@@ -72,7 +73,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                 options=[],
                 clearable=True,
                 disabled=False,
-                style={ "margin-bottom": "10px"},
+                style={"margin-bottom": "10px"},
             ),
             html.Div(
                 id="shoot-slider-container",
@@ -82,7 +83,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                         style={"margin-right": "10px"},
                     ),
                     dcc.RangeSlider(
-                        id='shoot-range-slider',
+                        id="shoot-range-slider",
                         min=0,
                         max=50,
                         value=[0, 30],
