@@ -15,7 +15,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
             raise exceptions.PreventUpdate
         fig = go.Figure()
         for club in ticker:
-            df = df_dict[REVERSED_CLUBS_DICT[club]]
+            df = df_dict[REVERSED_CLUBS_DICT[club]]  # noqa: PD901
             fig.add_trace(
                 go.Scatter(x=df["From"], y=df["Elo"], mode="lines", name=club)
             )
