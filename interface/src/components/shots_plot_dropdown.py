@@ -1,7 +1,10 @@
 import pandas as pd
-import plotly.graph_objects as go
-from dash import Dash, Input, Output, dcc, exceptions, html, callback
-
+from dash import Input
+from dash import Output
+from dash import callback
+from dash import dcc
+from dash import exceptions
+from dash import html
 
 LEAGUES: list[str, str] = {
     "england": "Premier League",

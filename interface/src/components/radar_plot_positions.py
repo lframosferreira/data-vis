@@ -1,10 +1,7 @@
 import pandas as pd
-from dash import Dash, dcc, html
 import plotly.graph_objects as go
-import numpy as np
-import matplotlib.pyplot as plt
-from dash import Dash, html, dash_table, dcc, Output, Input
-import os
+from dash import dcc
+from dash import html
 
 teamsAndPositions: list[str] = [
     "América (MG)",

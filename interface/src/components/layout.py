@@ -1,6 +1,6 @@
-import pandas as pd
 import dash
-from dash import html, dcc
+from dash import dcc
+from dash import html
 
 
 # TODO deixar tudo no main

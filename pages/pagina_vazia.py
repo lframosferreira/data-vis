@@ -1,7 +1,16 @@
 import dash
-from dash import html, dcc, callback, Input, Output
+from dash import Input
+from dash import Output
+from dash import callback
+from dash import dcc
+from dash import html
 
-dash.register_page(__name__)
+dash.register_page(
+    __name__,
+    path="/vazia",
+    title="Vazia",
+    name="Vazia",
+)
 
 layout = html.Div(
     [

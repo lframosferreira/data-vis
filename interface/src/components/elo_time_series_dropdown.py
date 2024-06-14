@@ -1,6 +1,9 @@
 import pandas as pd
 import plotly.graph_objects as go
-from dash import Dash, Input, Output, exceptions, callback
+from dash import Input
+from dash import Output
+from dash import callback
+from dash import exceptions
 
 REVERSED_CLUBS_DICT = {
     "Barcelona": "barcelona",

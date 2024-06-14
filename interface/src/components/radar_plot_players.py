@@ -1,11 +1,10 @@
 import pandas as pd
-from dash import Dash, dcc, html
 import plotly.graph_objects as go
-import numpy as np
-import matplotlib.pyplot as plt
-from dash import Dash, html, dash_table, dcc, Output, Input, callback
-
-import os
+from dash import Input
+from dash import Output
+from dash import callback
+from dash import dcc
+from dash import html
 
 teams: list[str] = [
     "Todos os times",

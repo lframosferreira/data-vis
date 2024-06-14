@@ -1,11 +1,13 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-from mplsoccer import VerticalPitch
-from dash import Dash, html, Input, Output, exceptions, callback
-from io import BytesIO
 import base64
-import matplotlib.colors as mcolors
+from io import BytesIO
 
+import matplotlib.pyplot as plt
+import pandas as pd
+from dash import Input
+from dash import Output
+from dash import callback
+from dash import html
+from mplsoccer import VerticalPitch
 
 LEAGUES: list[str, str] = {
     "england": "Premier League",
@@ -49,7 +51,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
         league_key = next(
             (key for key, value in LEAGUES.items() if value == league), None
         )
-        if not (league_key is None):
+        if league_key is not None:
             # raise exceptions.PreventUpdate
             shots = df_dict[f"{league_key}_shots"]
             filtered_shots = (

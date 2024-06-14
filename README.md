@@ -1,7 +1,6 @@
 # Projeto final de Visualização de Dados
 
 - Caio Teles Cunha
-- Deborah Santos Andrade Guimarães
 - Diogo Oliveira Neiss
 - Igor Lacerda Faria da Silva
 - Ivan Vilaça de Assis
@@ -25,5 +24,5 @@ Para realizar o _download_ dos dados de Elo, basta executar o comando `python3 s
 
 ## Execução 
 
-Execute no diretório `interface` o comando `python main.py`
+Execute no diretório raiz o comando `python main.py`
 
