@@ -1,0 +1,481 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+Guangzhou Evergrande,1,1,0,0,4,1,3,3,1
+Guangzhou Rich and Force,1,1,0,0,0,0,0,3,2
+Shanghai SIPG,1,0,1,0,3,2,1,1,3
+Beijing Guoan,1,0,1,0,1,1,0,1,4
+Shanghai Greenland,1,0,1,0,0,1,-1,1,5
+Jiangsu Suning,1,0,1,0,0,2,-2,1,6
+Hangzhou Greentown,1,0,0,1,2,0,2,0,7
+Shijiazhuang Ever Bright,1,0,0,1,2,1,1,0,8
+Hebei China Fortune FC,1,0,0,1,4,4,0,0,9
+Henan Jianye,1,0,0,1,0,0,0,0,10
+Chongqing Lifan,1,0,0,1,1,2,-1,0,11
+Changchun Yatai,1,0,0,1,1,2,-1,0,12
+Shandong Luneng,1,0,0,1,0,1,-1,0,13
+Yanbian FC,1,0,0,1,0,1,-1,0,14
+Liaoning,1,0,0,1,0,1,-1,0,15
+Tianjin Teda,1,0,0,1,1,5,-4,0,16
+Guangzhou Evergrande,2,2,0,0,6,1,5,6,1
+Shanghai SIPG,2,1,1,0,4,2,2,4,2
+Guangzhou Rich and Force,2,1,1,0,1,0,1,4,3
+Shanghai Greenland,2,1,1,0,2,2,0,4,4
+Jiangsu Suning,2,1,1,0,1,2,-1,4,5
+Beijing Guoan,2,0,2,0,1,2,-1,2,6
+Yanbian FC,2,0,1,1,3,1,2,1,7
+Hebei China Fortune FC,2,0,1,1,5,4,1,1,8
+Shijiazhuang Ever Bright,2,0,1,1,3,2,1,1,9
+Hangzhou Greentown,2,0,1,1,3,2,1,1,10
+Changchun Yatai,2,0,1,1,2,2,0,1,11
+Henan Jianye,2,0,1,1,1,1,0,1,12
+Shandong Luneng,2,0,1,1,2,3,-1,1,13
+Liaoning,2,0,1,1,1,3,-2,1,14
+Chongqing Lifan,2,0,1,1,1,4,-3,1,15
+Tianjin Teda,2,0,1,1,1,5,-4,1,16
+Guangzhou Evergrande,3,2,1,0,7,1,6,7,1
+Shanghai Greenland,3,2,1,0,7,4,3,7,2
+Shanghai SIPG,3,1,2,0,5,2,3,5,3
+Guangzhou Rich and Force,3,1,2,0,3,0,3,5,4
+Jiangsu Suning,3,1,2,0,3,3,0,5,5
+Beijing Guoan,3,0,3,0,1,6,-5,3,6
+Yanbian FC,3,0,1,2,5,1,4,1,7
+Shijiazhuang Ever Bright,3,0,1,2,4,4,0,1,8
+Hangzhou Greentown,3,0,1,2,5,6,-1,1,9
+Hebei China Fortune FC,3,0,1,2,5,6,-1,1,10
+Henan Jianye,3,0,1,2,2,3,-1,1,11
+Shandong Luneng,3,0,1,2,2,3,-1,1,12
+Liaoning,3,0,1,2,3,5,-2,1,13
+Chongqing Lifan,3,0,1,2,5,8,-3,1,14
+Changchun Yatai,3,0,1,2,2,5,-3,1,15
+Tianjin Teda,3,0,1,2,2,8,-6,1,16
+Shanghai Greenland,4,3,1,0,7,4,3,10,1
+Guangzhou Evergrande,4,2,2,0,9,1,8,8,2
+Jiangsu Suning,4,2,2,0,8,4,4,8,3
+Guangzhou Rich and Force,4,2,2,0,4,2,2,8,4
+Shanghai SIPG,4,1,3,0,6,3,3,6,5
+Beijing Guoan,4,0,3,1,1,6,-5,3,6
+Yanbian FC,4,0,1,3,5,5,0,1,7
+Shandong Luneng,4,0,1,3,3,4,-1,1,8
+Hangzhou Greentown,4,0,1,3,5,7,-2,1,9
+Hebei China Fortune FC,4,0,1,3,5,7,-2,1,10
+Henan Jianye,4,0,1,3,2,4,-2,1,11
+Changchun Yatai,4,0,1,3,6,9,-3,1,12
+Chongqing Lifan,4,0,1,3,5,9,-4,1,13
+Shijiazhuang Ever Bright,4,0,1,3,5,10,-5,1,14
+Liaoning,4,0,1,3,3,8,-5,1,15
+Tianjin Teda,4,0,1,3,3,9,-6,1,16
+Guangzhou Evergrande,5,3,2,0,9,1,8,11,1
+Jiangsu Suning,5,3,2,0,11,4,7,11,2
+Guangzhou Rich and Force,5,3,2,0,6,3,3,11,3
+Shanghai Greenland,5,3,2,0,8,6,2,11,4
+Shanghai SIPG,5,2,3,0,6,7,-1,9,5
+Beijing Guoan,5,0,4,1,2,8,-6,4,6
+Yanbian FC,5,0,2,3,7,6,1,2,7
+Hebei China Fortune FC,5,0,2,3,6,7,-1,2,8
+Henan Jianye,5,0,2,3,3,5,-2,2,9
+Changchun Yatai,5,0,2,3,6,9,-3,2,10
+Hangzhou Greentown,5,0,2,3,5,8,-3,2,11
+Chongqing Lifan,5,0,2,3,6,10,-4,2,12
+Shandong Luneng,5,0,2,3,3,7,-4,2,13
+Shijiazhuang Ever Bright,5,0,2,3,7,13,-6,2,14
+Liaoning,5,0,2,3,4,11,-7,2,15
+Tianjin Teda,5,0,2,3,4,12,-8,2,16
+Guangzhou Evergrande,6,4,2,0,10,3,7,14,1
+Jiangsu Suning,6,4,2,0,12,7,5,14,2
+Shanghai Greenland,6,4,2,0,10,7,3,14,3
+Guangzhou Rich and Force,6,4,2,0,6,5,1,14,4
+Shanghai SIPG,6,3,3,0,6,8,-2,12,5
+Chongqing Lifan,6,1,2,3,12,11,1,5,6
+Beijing Guoan,6,0,5,1,5,9,-4,5,7
+Henan Jianye,6,0,3,3,5,5,0,3,8
+Yanbian FC,6,0,3,3,8,9,-1,3,9
+Hebei China Fortune FC,6,0,3,3,7,9,-2,3,10
+Shijiazhuang Ever Bright,6,0,3,3,8,14,-6,3,11
+Hangzhou Greentown,6,0,2,4,6,9,-3,2,12
+Changchun Yatai,6,0,2,4,6,10,-4,2,13
+Shandong Luneng,6,0,2,4,4,9,-5,2,14
+Liaoning,6,0,2,4,7,14,-7,2,15
+Tianjin Teda,6,0,2,4,4,12,-8,2,16
+Jiangsu Suning,7,5,2,0,18,8,10,17,1
+Guangzhou Evergrande,7,5,2,0,11,5,6,17,2
+Shanghai Greenland,7,5,2,0,14,11,3,17,3
+Guangzhou Rich and Force,7,5,2,0,7,5,2,17,4
+Shanghai SIPG,7,3,4,0,8,11,-3,13,5
+Chongqing Lifan,7,2,2,3,13,12,1,8,6
+Beijing Guoan,7,0,6,1,9,11,-2,6,7
+Yanbian FC,7,0,4,3,12,9,3,4,8
+Henan Jianye,7,0,4,3,7,6,1,4,9
+Hebei China Fortune FC,7,0,4,3,7,10,-3,4,10
+Hangzhou Greentown,7,0,3,4,10,11,-1,3,11
+Shandong Luneng,7,0,3,4,5,9,-4,3,12
+Changchun Yatai,7,0,3,4,6,12,-6,3,13
+Shijiazhuang Ever Bright,7,0,3,4,9,16,-7,3,14
+Tianjin Teda,7,0,3,4,5,12,-7,3,15
+Liaoning,7,0,3,4,10,18,-8,3,16
+Jiangsu Suning,8,6,2,0,19,8,11,20,1
+Guangzhou Evergrande,8,6,2,0,11,5,6,20,2
+Shanghai Greenland,8,6,2,0,18,13,5,20,3
+Guangzhou Rich and Force,8,5,3,0,9,8,1,18,4
+Shanghai SIPG,8,3,5,0,9,12,-3,14,5
+Chongqing Lifan,8,2,3,3,13,13,0,9,6
+Beijing Guoan,8,0,7,1,13,12,1,7,7
+Hangzhou Greentown,8,1,3,4,11,11,0,6,8
+Yanbian FC,8,0,5,3,13,10,3,5,9
+Henan Jianye,8,0,5,3,9,8,1,5,10
+Hebei China Fortune FC,8,0,5,3,10,10,0,5,11
+Shandong Luneng,8,0,4,4,7,9,-2,4,12
+Changchun Yatai,8,0,3,5,8,12,-4,3,13
+Shijiazhuang Ever Bright,8,0,3,5,11,17,-6,3,14
+Tianjin Teda,8,0,3,5,8,15,-7,3,15
+Liaoning,8,0,3,5,11,19,-8,3,16
+Jiangsu Suning,9,7,2,0,20,8,12,23,1
+Shanghai Greenland,9,7,2,0,18,13,5,23,2
+Guangzhou Evergrande,9,6,3,0,12,8,4,21,3
+Guangzhou Rich and Force,9,5,3,1,10,12,-2,18,4
+Shanghai SIPG,9,4,5,0,10,12,-2,17,5
+Chongqing Lifan,9,2,4,3,15,15,0,10,6
+Shandong Luneng,9,1,4,4,10,10,0,7,7
+Hangzhou Greentown,9,1,4,4,11,12,-1,7,8
+Beijing Guoan,9,0,7,2,13,12,1,7,9
+Henan Jianye,9,0,5,4,9,9,0,5,10
+Yanbian FC,9,0,5,4,13,15,-2,5,11
+Hebei China Fortune FC,9,0,5,4,10,13,-3,5,12
+Shijiazhuang Ever Bright,9,0,4,5,12,18,-6,4,13
+Changchun Yatai,9,0,3,6,11,16,-5,3,14
+Tianjin Teda,9,0,3,6,11,18,-7,3,15
+Liaoning,9,0,3,6,12,22,-10,3,16
+Jiangsu Suning,10,8,2,0,21,9,12,26,1
+Guangzhou Evergrande,10,7,3,0,18,10,8,24,2
+Shanghai Greenland,10,7,3,0,18,14,4,24,3
+Guangzhou Rich and Force,10,6,3,1,15,13,2,21,4
+Shanghai SIPG,10,5,5,0,13,12,1,20,5
+Chongqing Lifan,10,3,4,3,17,17,0,13,6
+Hangzhou Greentown,10,1,5,4,13,14,-1,8,7
+Shandong Luneng,10,1,5,4,12,14,-2,8,8
+Beijing Guoan,10,0,7,3,13,14,-1,7,9
+Henan Jianye,10,0,5,5,9,11,-2,5,10
+Yanbian FC,10,0,5,5,14,19,-5,5,11
+Shijiazhuang Ever Bright,10,0,5,5,13,18,-5,5,12
+Hebei China Fortune FC,10,0,5,5,10,15,-5,5,13
+Changchun Yatai,10,0,3,7,13,16,-3,3,14
+Tianjin Teda,10,0,3,7,11,21,-10,3,15
+Liaoning,10,0,3,7,12,28,-16,3,16
+Jiangsu Suning,11,8,3,0,22,10,12,27,1
+Guangzhou Evergrande,11,8,3,0,20,11,9,27,2
+Shanghai Greenland,11,7,4,0,18,15,3,25,3
+Guangzhou Rich and Force,11,7,3,1,16,13,3,24,4
+Shanghai SIPG,11,6,5,0,14,12,2,23,5
+Chongqing Lifan,11,4,4,3,18,18,0,16,6
+Hangzhou Greentown,11,2,5,4,13,14,-1,11,7
+Shandong Luneng,11,1,6,4,12,16,-4,9,8
+Beijing Guoan,11,0,8,3,14,16,-2,8,9
+Shijiazhuang Ever Bright,11,0,6,5,16,18,-2,6,10
+Henan Jianye,11,0,6,5,9,11,-2,6,11
+Yanbian FC,11,0,6,5,16,22,-6,6,12
+Hebei China Fortune FC,11,0,6,5,12,18,-6,6,13
+Tianjin Teda,11,0,4,7,11,23,-12,4,14
+Liaoning,11,0,4,7,15,29,-14,4,15
+Changchun Yatai,11,0,3,8,15,20,-5,3,16
+Guangzhou Evergrande,12,9,3,0,23,11,12,30,1
+Jiangsu Suning,12,8,4,0,22,12,10,28,2
+Shanghai Greenland,12,8,4,0,21,16,5,28,3
+Guangzhou Rich and Force,12,8,3,1,17,13,4,27,4
+Shanghai SIPG,12,7,5,0,15,13,2,26,5
+Chongqing Lifan,12,5,4,3,20,19,1,19,6
+Hangzhou Greentown,12,2,6,4,16,14,2,12,7
+Shandong Luneng,12,2,6,4,13,17,-4,12,8
+Yanbian FC,12,1,6,5,17,24,-7,9,9
+Beijing Guoan,12,0,9,3,14,17,-3,9,10
+Tianjin Teda,12,1,4,7,14,23,-9,7,11
+Henan Jianye,12,0,7,5,9,14,-5,7,12
+Hebei China Fortune FC,12,0,7,5,12,19,-7,7,13
+Shijiazhuang Ever Bright,12,0,6,6,20,18,2,6,14
+Liaoning,12,0,4,8,15,29,-14,4,15
+Changchun Yatai,12,0,3,9,16,22,-6,3,16
+Guangzhou Evergrande,13,10,3,0,23,11,12,33,1
+Jiangsu Suning,13,9,4,0,23,13,10,31,2
+Shanghai Greenland,13,9,4,0,21,18,3,31,3
+Guangzhou Rich and Force,13,9,3,1,21,17,4,30,4
+Shanghai SIPG,13,8,5,0,18,13,5,29,5
+Chongqing Lifan,13,5,4,4,21,19,2,19,6
+Shandong Luneng,13,3,6,4,15,18,-3,15,7
+Hangzhou Greentown,13,2,7,4,16,15,1,13,8
+Yanbian FC,13,2,6,5,20,24,-4,12,9
+Beijing Guoan,13,0,10,3,15,19,-4,10,10
+Tianjin Teda,13,1,5,7,14,24,-10,8,11
+Henan Jianye,13,0,8,5,11,15,-4,8,12
+Hebei China Fortune FC,13,0,8,5,13,21,-8,8,13
+Shijiazhuang Ever Bright,13,0,6,7,20,18,2,6,14
+Liaoning,13,0,5,8,15,30,-15,5,15
+Changchun Yatai,13,0,3,10,18,24,-6,3,16
+Guangzhou Evergrande,14,11,3,0,27,13,14,36,1
+Jiangsu Suning,14,10,4,0,27,13,14,34,2
+Shanghai Greenland,14,10,4,0,23,20,3,34,3
+Guangzhou Rich and Force,14,10,3,1,23,18,5,33,4
+Shanghai SIPG,14,9,5,0,20,16,4,32,5
+Chongqing Lifan,14,5,4,5,23,20,3,19,6
+Shandong Luneng,14,4,6,4,17,19,-2,18,7
+Hangzhou Greentown,14,2,8,4,19,17,2,14,8
+Yanbian FC,14,2,7,5,20,26,-6,13,9
+Beijing Guoan,14,0,11,3,16,19,-3,11,10
+Henan Jianye,14,0,9,5,11,16,-5,9,11
+Hebei China Fortune FC,14,0,9,5,14,22,-8,9,12
+Tianjin Teda,14,1,5,8,15,25,-10,8,13
+Liaoning,14,1,5,8,15,30,-15,8,14
+Shijiazhuang Ever Bright,14,0,7,7,23,19,4,7,15
+Changchun Yatai,14,0,3,11,18,24,-6,3,16
+Guangzhou Evergrande,15,12,3,0,28,14,14,39,1
+Jiangsu Suning,15,11,4,0,30,13,17,37,2
+Shanghai Greenland,15,11,4,0,25,20,5,37,3
+Shanghai SIPG,15,10,5,0,20,17,3,35,4
+Guangzhou Rich and Force,15,10,4,1,24,19,5,34,5
+Chongqing Lifan,15,6,4,5,23,20,3,22,6
+Shandong Luneng,15,4,7,4,18,20,-2,19,7
+Hangzhou Greentown,15,2,8,5,21,18,3,14,8
+Yanbian FC,15,2,8,5,21,28,-7,14,9
+Hebei China Fortune FC,15,1,9,5,14,23,-9,12,10
+Beijing Guoan,15,0,12,3,18,20,-2,12,11
+Tianjin Teda,15,2,5,8,16,26,-10,11,12
+Henan Jianye,15,0,10,5,11,17,-6,10,13
+Liaoning,15,1,6,8,17,33,-16,9,14
+Shijiazhuang Ever Bright,15,0,8,7,24,21,3,8,15
+Changchun Yatai,15,0,4,11,19,27,-8,4,16
+Guangzhou Evergrande,16,13,3,0,31,14,17,42,1
+Jiangsu Suning,16,12,4,0,31,13,18,40,2
+Shanghai Greenland,16,12,4,0,28,20,8,40,3
+Shanghai SIPG,16,11,5,0,20,18,2,38,4
+Guangzhou Rich and Force,16,10,5,1,25,20,5,35,5
+Chongqing Lifan,16,6,5,5,26,21,5,23,6
+Shandong Luneng,16,4,7,5,18,20,-2,19,7
+Yanbian FC,16,3,8,5,22,28,-6,17,8
+Hangzhou Greentown,16,2,9,5,21,19,2,15,9
+Beijing Guoan,16,1,12,3,21,20,1,15,10
+Hebei China Fortune FC,16,1,10,5,15,24,-9,13,11
+Tianjin Teda,16,2,6,8,18,28,-10,12,12
+Henan Jianye,16,0,11,5,12,17,-5,11,13
+Liaoning,16,1,7,8,17,34,-17,10,14
+Shijiazhuang Ever Bright,16,0,9,7,27,22,5,9,15
+Changchun Yatai,16,0,5,11,19,30,-11,5,16
+Guangzhou Evergrande,17,14,3,0,35,14,21,45,1
+Jiangsu Suning,17,13,4,0,35,17,18,43,2
+Shanghai Greenland,17,12,5,0,32,20,12,41,3
+Shanghai SIPG,17,11,6,0,23,19,4,39,4
+Guangzhou Rich and Force,17,10,5,2,27,25,2,35,5
+Chongqing Lifan,17,7,5,5,29,24,5,26,6
+Shandong Luneng,17,5,7,5,21,23,-2,22,7
+Yanbian FC,17,4,8,5,25,29,-4,20,8
+Beijing Guoan,17,2,12,3,21,20,1,18,9
+Hangzhou Greentown,17,2,10,5,21,23,-2,16,10
+Hebei China Fortune FC,17,1,11,5,16,25,-9,14,11
+Tianjin Teda,17,2,7,8,18,28,-10,13,12
+Liaoning,17,2,7,8,20,35,-15,13,13
+Henan Jianye,17,0,11,6,12,17,-5,11,14
+Shijiazhuang Ever Bright,17,0,10,7,27,23,4,10,15
+Changchun Yatai,17,0,6,11,19,31,-12,6,16
+Guangzhou Evergrande,18,15,3,0,36,14,22,48,1
+Jiangsu Suning,18,14,4,0,35,17,18,46,2
+Shanghai SIPG,18,12,6,0,26,22,4,42,3
+Shanghai Greenland,18,12,5,1,35,21,14,41,4
+Guangzhou Rich and Force,18,10,5,3,28,30,-2,35,5
+Chongqing Lifan,18,7,6,5,31,25,6,27,6
+Shandong Luneng,18,5,8,5,22,24,-2,23,7
+Yanbian FC,18,5,8,5,25,29,-4,23,8
+Beijing Guoan,18,2,13,3,22,21,1,19,9
+Hangzhou Greentown,18,2,11,5,25,26,-1,17,10
+Hebei China Fortune FC,18,2,11,5,19,25,-6,17,11
+Liaoning,18,2,8,8,23,36,-13,14,12
+Tianjin Teda,18,2,8,8,18,32,-14,14,13
+Shijiazhuang Ever Bright,18,0,11,7,27,23,4,11,14
+Henan Jianye,18,0,11,7,12,20,-8,11,15
+Changchun Yatai,18,0,6,12,20,32,-12,6,16
+Guangzhou Evergrande,19,16,3,0,39,14,25,51,1
+Jiangsu Suning,19,15,4,0,36,19,17,49,2
+Shanghai SIPG,19,13,6,0,31,22,9,45,3
+Shanghai Greenland,19,13,5,1,37,22,15,44,4
+Guangzhou Rich and Force,19,10,6,3,31,32,-1,36,5
+Chongqing Lifan,19,8,6,5,32,25,7,30,6
+Shandong Luneng,19,6,8,5,23,25,-2,26,7
+Yanbian FC,19,6,8,5,26,30,-4,26,8
+Hebei China Fortune FC,19,3,11,5,23,25,-2,20,9
+Beijing Guoan,19,2,14,3,23,22,1,20,10
+Hangzhou Greentown,19,2,12,5,26,26,0,18,11
+Liaoning,19,2,9,8,24,37,-13,15,12
+Tianjin Teda,19,2,8,9,19,35,-16,14,13
+Shijiazhuang Ever Bright,19,0,12,7,29,24,5,12,14
+Henan Jianye,19,0,12,7,13,21,-8,12,15
+Changchun Yatai,19,1,6,12,21,37,-16,9,16
+Guangzhou Evergrande,20,17,3,0,43,15,28,54,1
+Jiangsu Suning,20,15,5,0,38,21,17,50,2
+Shanghai SIPG,20,14,6,0,34,23,11,48,3
+Shanghai Greenland,20,13,6,1,38,22,16,45,4
+Guangzhou Rich and Force,20,10,6,4,32,38,-6,36,5
+Chongqing Lifan,20,8,7,5,33,28,5,31,6
+Yanbian FC,20,6,9,5,27,32,-5,27,7
+Shandong Luneng,20,6,9,5,23,28,-5,27,8
+Beijing Guoan,20,3,14,3,27,22,5,23,9
+Hebei China Fortune FC,20,3,12,5,23,26,-3,21,10
+Hangzhou Greentown,20,2,13,5,28,26,2,19,11
+Liaoning,20,2,10,8,26,39,-13,16,12
+Tianjin Teda,20,2,8,10,19,37,-18,14,13
+Shijiazhuang Ever Bright,20,0,12,8,31,26,5,12,14
+Henan Jianye,20,0,12,8,14,22,-8,12,15
+Changchun Yatai,20,1,7,12,24,38,-14,10,16
+Guangzhou Evergrande,21,18,3,0,49,15,34,57,1
+Jiangsu Suning,21,15,6,0,40,23,17,51,2
+Shanghai SIPG,21,15,6,0,37,23,14,51,3
+Shanghai Greenland,21,13,7,1,39,22,17,46,4
+Guangzhou Rich and Force,21,10,7,4,34,42,-8,37,5
+Chongqing Lifan,21,8,8,5,33,31,2,32,6
+Shandong Luneng,21,7,9,5,23,30,-7,30,7
+Yanbian FC,21,6,9,6,27,33,-6,27,8
+Beijing Guoan,21,4,14,3,28,26,2,26,9
+Hebei China Fortune FC,21,3,13,5,25,27,-2,22,10
+Hangzhou Greentown,21,2,14,5,30,30,0,20,11
+Liaoning,21,2,10,9,27,42,-15,16,12
+Tianjin Teda,21,2,9,10,22,39,-17,15,13
+Shijiazhuang Ever Bright,21,0,12,9,31,26,5,12,14
+Henan Jianye,21,0,12,9,14,23,-9,12,15
+Changchun Yatai,21,1,8,12,25,41,-16,11,16
+Guangzhou Evergrande,22,19,3,0,51,15,36,60,1
+Shanghai SIPG,22,16,6,0,41,26,15,54,2
+Jiangsu Suning,22,15,7,0,42,23,19,52,3
+Shanghai Greenland,22,13,8,1,43,24,19,47,4
+Guangzhou Rich and Force,22,10,8,4,34,44,-10,38,5
+Chongqing Lifan,22,8,8,6,34,33,1,32,6
+Shandong Luneng,22,7,10,5,24,34,-10,31,7
+Yanbian FC,22,7,9,6,28,33,-5,30,8
+Beijing Guoan,22,5,14,3,31,27,4,29,9
+Hebei China Fortune FC,22,3,14,5,29,28,1,23,10
+Hangzhou Greentown,22,2,14,6,31,32,-1,20,11
+Liaoning,22,2,10,10,28,44,-16,16,12
+Tianjin Teda,22,2,10,10,23,42,-19,16,13
+Changchun Yatai,22,1,9,12,28,44,-16,12,14
+Shijiazhuang Ever Bright,22,0,12,10,32,27,5,12,15
+Henan Jianye,22,0,12,10,15,26,-11,12,16
+Guangzhou Evergrande,23,20,3,0,51,17,34,63,1
+Shanghai SIPG,23,17,6,0,41,26,15,57,2
+Jiangsu Suning,23,15,7,1,43,24,19,52,3
+Shanghai Greenland,23,13,8,2,43,25,18,47,4
+Guangzhou Rich and Force,23,10,8,5,34,45,-11,38,5
+Yanbian FC,23,8,9,6,28,33,-5,33,6
+Chongqing Lifan,23,8,8,7,37,35,2,32,7
+Beijing Guoan,23,6,14,3,32,28,4,32,8
+Shandong Luneng,23,7,10,6,25,34,-9,31,9
+Hebei China Fortune FC,23,3,14,6,29,28,1,23,10
+Hangzhou Greentown,23,2,14,7,32,32,0,20,11
+Liaoning,23,3,10,10,29,48,-19,19,12
+Tianjin Teda,23,2,11,10,26,44,-18,17,13
+Changchun Yatai,23,1,9,13,29,47,-18,12,14
+Shijiazhuang Ever Bright,23,0,12,11,32,30,2,12,15
+Henan Jianye,23,0,12,11,15,29,-14,12,16
+Guangzhou Evergrande,24,21,3,0,53,17,36,66,1
+Shanghai SIPG,24,17,6,1,41,27,14,57,2
+Jiangsu Suning,24,15,7,2,43,24,19,52,3
+Shanghai Greenland,24,13,8,3,43,28,15,47,4
+Guangzhou Rich and Force,24,10,8,6,36,51,-15,38,5
+Yanbian FC,24,8,10,6,29,33,-4,34,6
+Beijing Guoan,24,6,15,3,33,30,3,33,7
+Chongqing Lifan,24,8,8,8,38,36,2,32,8
+Shandong Luneng,24,7,10,7,25,38,-13,31,9
+Hebei China Fortune FC,24,4,14,6,30,29,1,26,10
+Tianjin Teda,24,3,11,10,30,46,-16,20,11
+Liaoning,24,3,11,10,30,49,-19,20,12
+Hangzhou Greentown,24,2,14,8,32,35,-3,20,13
+Changchun Yatai,24,1,9,14,29,47,-18,12,14
+Shijiazhuang Ever Bright,24,0,12,12,34,34,0,12,15
+Henan Jianye,24,0,12,12,16,31,-15,12,16
+Guangzhou Evergrande,25,22,3,0,55,17,38,69,1
+Shanghai SIPG,25,18,6,1,44,28,16,60,2
+Jiangsu Suning,25,16,7,2,44,25,19,55,3
+Shanghai Greenland,25,13,9,3,44,28,16,48,4
+Guangzhou Rich and Force,25,10,9,6,38,51,-13,39,5
+Yanbian FC,25,9,10,6,31,34,-3,37,6
+Beijing Guoan,25,6,16,3,35,30,5,34,7
+Chongqing Lifan,25,8,9,8,40,38,2,33,8
+Shandong Luneng,25,7,11,7,29,38,-9,32,9
+Hebei China Fortune FC,25,4,15,6,34,29,5,27,10
+Tianjin Teda,25,3,12,10,32,47,-15,21,11
+Liaoning,25,3,12,10,32,50,-18,21,12
+Hangzhou Greentown,25,2,15,8,32,35,-3,21,13
+Changchun Yatai,25,1,10,14,30,48,-18,13,14
+Shijiazhuang Ever Bright,25,0,12,13,35,35,0,12,15
+Henan Jianye,25,0,12,13,16,34,-18,12,16
+Guangzhou Evergrande,26,23,3,0,56,17,39,72,1
+Shanghai SIPG,26,18,7,1,46,29,17,61,2
+Jiangsu Suning,26,16,8,2,46,26,20,56,3
+Shanghai Greenland,26,13,10,3,46,28,18,49,4
+Guangzhou Rich and Force,26,10,9,7,40,52,-12,39,5
+Yanbian FC,26,9,11,6,32,34,-2,38,6
+Beijing Guoan,26,7,16,3,38,30,8,37,7
+Chongqing Lifan,26,8,9,9,41,41,0,33,8
+Shandong Luneng,26,7,11,8,30,39,-9,32,9
+Hebei China Fortune FC,26,5,15,6,37,30,7,30,10
+Liaoning,26,4,12,10,34,52,-18,24,11
+Tianjin Teda,26,3,12,11,32,48,-16,21,12
+Hangzhou Greentown,26,2,15,9,32,35,-3,21,13
+Changchun Yatai,26,1,11,14,30,49,-19,14,14
+Shijiazhuang Ever Bright,26,0,12,14,35,36,-1,12,15
+Henan Jianye,26,0,12,14,16,37,-21,12,16
+Guangzhou Evergrande,27,24,3,0,58,18,40,75,1
+Shanghai SIPG,27,19,7,1,49,30,19,64,2
+Jiangsu Suning,27,16,9,2,47,26,21,57,3
+Shanghai Greenland,27,13,11,3,49,30,19,50,4
+Guangzhou Rich and Force,27,10,10,7,41,52,-11,40,5
+Beijing Guoan,27,8,16,3,39,30,9,40,6
+Yanbian FC,27,9,12,6,33,35,-2,39,7
+Chongqing Lifan,27,8,10,9,42,44,-2,34,8
+Shandong Luneng,27,7,12,8,32,41,-9,33,9
+Hebei China Fortune FC,27,6,15,6,37,30,7,33,10
+Liaoning,27,4,13,10,36,53,-17,25,11
+Hangzhou Greentown,27,2,16,9,33,36,-3,22,12
+Tianjin Teda,27,3,12,12,36,49,-13,21,13
+Changchun Yatai,27,1,12,14,33,49,-16,15,14
+Shijiazhuang Ever Bright,27,0,12,15,36,39,-3,12,15
+Henan Jianye,27,0,12,15,16,37,-21,12,16
+Guangzhou Evergrande,28,25,3,0,58,18,40,78,1
+Shanghai SIPG,28,19,8,1,50,34,16,65,2
+Jiangsu Suning,28,16,10,2,48,27,21,58,3
+Shanghai Greenland,28,13,12,3,50,31,19,51,4
+Beijing Guoan,28,9,16,3,39,34,5,43,5
+Guangzhou Rich and Force,28,10,11,7,42,53,-11,41,6
+Yanbian FC,28,9,13,6,33,39,-6,40,7
+Chongqing Lifan,28,8,10,10,42,48,-6,34,8
+Shandong Luneng,28,7,13,8,33,43,-10,34,9
+Hebei China Fortune FC,28,6,16,6,37,31,6,34,10
+Liaoning,28,4,13,11,37,56,-19,25,11
+Hangzhou Greentown,28,2,17,9,34,36,-2,23,12
+Tianjin Teda,28,3,12,13,37,50,-13,21,13
+Changchun Yatai,28,1,13,14,35,50,-15,16,14
+Shijiazhuang Ever Bright,28,0,12,16,36,42,-6,12,15
+Henan Jianye,28,0,12,16,17,37,-20,12,16
+Guangzhou Evergrande,29,26,3,0,58,18,40,81,1
+Shanghai SIPG,29,20,8,1,53,35,18,68,2
+Jiangsu Suning,29,17,10,2,49,28,21,61,3
+Shanghai Greenland,29,13,13,3,51,31,20,52,4
+Beijing Guoan,29,10,16,3,41,34,7,46,5
+Guangzhou Rich and Force,29,10,12,7,45,54,-9,42,6
+Yanbian FC,29,9,14,6,34,39,-5,41,7
+Chongqing Lifan,29,8,11,10,43,51,-8,35,8
+Shandong Luneng,29,7,14,8,36,46,-10,35,9
+Hebei China Fortune FC,29,6,17,6,38,33,5,35,10
+Liaoning,29,4,14,11,37,59,-22,26,11
+Hangzhou Greentown,29,2,18,9,37,37,0,24,12
+Tianjin Teda,29,3,13,13,38,51,-13,22,13
+Changchun Yatai,29,1,14,14,36,52,-16,17,14
+Henan Jianye,29,0,13,16,20,37,-17,13,15
+Shijiazhuang Ever Bright,29,0,12,17,41,43,-2,12,16
+Guangzhou Evergrande,30,26,4,0,58,20,38,82,1
+Shanghai SIPG,30,20,9,1,55,36,19,69,2
+Jiangsu Suning,30,17,11,2,50,29,21,62,3
+Shanghai Greenland,30,13,14,3,52,32,20,53,4
+Beijing Guoan,30,11,16,3,42,35,7,49,5
+Guangzhou Rich and Force,30,10,12,8,45,57,-12,42,6
+Yanbian FC,30,9,14,7,34,40,-6,41,7
+Chongqing Lifan,30,8,11,11,47,52,-5,35,8
+Shandong Luneng,30,7,14,9,37,47,-10,35,9
+Hebei China Fortune FC,30,6,17,7,38,35,3,35,10
+Liaoning,30,4,14,12,41,59,-18,26,11
+Hangzhou Greentown,30,2,18,10,38,40,-2,24,12
+Tianjin Teda,30,3,13,14,38,54,-16,22,13
+Changchun Yatai,30,1,14,15,37,53,-16,17,14
+Henan Jianye,30,0,13,17,20,37,-17,13,15
+Shijiazhuang Ever Bright,30,0,12,18,41,47,-6,12,16

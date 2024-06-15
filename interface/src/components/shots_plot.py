@@ -6,14 +6,12 @@ import pandas as pd
 from dash import Input
 from dash import Output
 from dash import callback
-from dash import dcc
-from dash import html
 from mplsoccer import VerticalPitch
 from settings import LEAGUES
 import matplotlib.colors as mcolors
 
 
-def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
+def render(df_dict: dict[str, pd.DataFrame]) -> None:
     @callback(
         [
             Output("shots-players-dropdown", "disabled"),
@@ -83,6 +81,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
             for idx, shot in filtered_shots.iterrows():
                 xG = f"{shot['xG'] * 100:.2f}%"
                 color = cmap(norm(shot["xG"]))
+
 
                 pitch.scatter(
                     shot["start_x"],

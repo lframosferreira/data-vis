@@ -1,0 +1,761 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+Fluminense Rio de Janeiro,1,1,0,0,1,2,-1,3,1
+Sociedade Esportiva Palmeiras,1,0,1,0,2,0,2,1,2
+Internacional,1,0,1,0,1,0,1,1,3
+Atletico Clube Goianiense,1,0,0,1,2,1,1,0,4
+Botafogo Rio de Janeiro,1,0,0,1,2,1,1,0,5
+Avai FC,1,0,0,1,1,0,1,0,6
+America MG,1,0,0,1,1,1,0,0,7
+Santos FC,1,0,0,1,1,1,0,0,8
+Corinthians Paulista,1,0,0,1,1,2,-1,0,9
+Fortaleza,1,0,0,1,0,1,-1,0,10
+Flamengo Rio de Janeiro,1,0,0,1,0,1,-1,0,11
+Atletico Mineiro,1,0,0,1,1,3,-2,0,12
+Cuiaba Esporte Clube,1,0,0,1,1,3,-2,0,13
+Atletico Paranaense,1,0,0,1,1,3,-2,0,14
+Bragantino,1,0,0,1,1,3,-2,0,15
+Coritiba FC,1,0,0,1,0,2,-2,0,16
+Sao Paulo FC,1,0,0,1,0,2,-2,0,17
+Esporte Clube Juventude,1,0,0,1,0,2,-2,0,18
+Goias Esporte Clube,1,0,0,1,0,2,-2,0,19
+Ceara SC,1,0,0,1,0,3,-3,0,20
+Internacional,2,1,1,0,4,0,4,4,1
+Sociedade Esportiva Palmeiras,2,1,1,0,5,2,3,4,2
+Fluminense Rio de Janeiro,2,1,1,0,1,4,-3,4,3
+Flamengo Rio de Janeiro,2,1,0,1,5,3,2,3,4
+America MG,2,0,1,1,4,2,2,1,5
+Santos FC,2,0,1,1,4,2,2,1,6
+Sao Paulo FC,2,0,1,1,3,2,1,1,7
+Atletico Mineiro,2,0,1,1,3,3,0,1,8
+Botafogo Rio de Janeiro,2,0,1,1,2,2,0,1,9
+Fortaleza,2,0,1,1,1,1,0,1,10
+Corinthians Paulista,2,0,1,1,1,2,-1,1,11
+Atletico Paranaense,2,0,1,1,3,5,-2,1,12
+Cuiaba Esporte Clube,2,0,1,1,2,4,-2,1,13
+Bragantino,2,0,1,1,2,4,-2,1,14
+Goias Esporte Clube,2,0,1,1,0,2,-2,1,15
+Ceara SC,2,0,1,1,1,6,-5,1,16
+Avai FC,2,0,0,2,1,0,1,0,17
+Esporte Clube Juventude,2,0,0,2,2,2,0,0,18
+Atletico Clube Goianiense,2,0,0,2,2,5,-3,0,19
+Coritiba FC,2,0,0,2,0,3,-3,0,20
+Sociedade Esportiva Palmeiras,3,2,1,0,7,2,5,7,1
+Fluminense Rio de Janeiro,3,2,1,0,3,4,-1,7,2
+Internacional,3,1,1,1,6,2,4,4,3
+Flamengo Rio de Janeiro,3,1,0,2,6,5,1,3,4
+Santos FC,3,0,1,2,7,5,2,1,5
+America MG,3,0,1,2,4,3,1,1,6
+Atletico Mineiro,3,0,1,2,4,4,0,1,7
+Botafogo Rio de Janeiro,3,0,1,2,2,3,-1,1,8
+Fortaleza,3,0,1,2,2,3,-1,1,9
+Atletico Paranaense,3,0,1,2,5,7,-2,1,10
+Sao Paulo FC,3,0,1,2,3,5,-2,1,11
+Corinthians Paulista,3,0,1,2,2,4,-2,1,12
+Goias Esporte Clube,3,0,1,2,0,4,-4,1,13
+Cuiaba Esporte Clube,3,0,1,2,2,7,-5,1,14
+Bragantino,3,0,1,2,2,9,-7,1,15
+Ceara SC,3,0,1,2,1,9,-8,1,16
+Avai FC,3,0,0,3,2,0,2,0,17
+Esporte Clube Juventude,3,0,0,3,2,4,-2,0,18
+Coritiba FC,3,0,0,3,1,3,-2,0,19
+Atletico Clube Goianiense,3,0,0,3,4,8,-4,0,20
+Sociedade Esportiva Palmeiras,4,3,1,0,11,2,9,10,1
+Fluminense Rio de Janeiro,4,3,1,0,6,5,1,10,2
+Internacional,4,2,1,1,9,2,7,7,3
+Flamengo Rio de Janeiro,4,2,0,2,6,6,0,6,4
+Atletico Clube Goianiense,4,1,0,3,5,8,-3,3,5
+America MG,4,0,2,2,7,5,2,2,6
+Santos FC,4,0,2,2,7,6,1,2,7
+Sao Paulo FC,4,0,2,2,6,6,0,2,8
+Atletico Mineiro,4,0,2,2,4,5,-1,2,9
+Fortaleza,4,0,2,2,3,4,-1,2,10
+Corinthians Paulista,4,0,2,2,4,6,-2,2,11
+Atletico Paranaense,4,0,2,2,5,8,-3,2,12
+Botafogo Rio de Janeiro,4,0,2,2,2,5,-3,2,13
+Goias Esporte Clube,4,0,2,2,2,5,-3,2,14
+Cuiaba Esporte Clube,4,0,2,2,3,8,-5,2,15
+Bragantino,4,0,2,2,5,13,-8,2,16
+Ceara SC,4,0,2,2,2,11,-9,2,17
+Avai FC,4,0,0,4,3,0,3,0,18
+Coritiba FC,4,0,0,4,2,4,-2,0,19
+Esporte Clube Juventude,4,0,0,4,2,6,-4,0,20
+Sociedade Esportiva Palmeiras,5,4,1,0,11,3,8,13,1
+Fluminense Rio de Janeiro,5,4,1,0,7,7,0,13,2
+Internacional,5,2,2,1,12,3,9,8,3
+Flamengo Rio de Janeiro,5,2,1,2,8,7,1,7,4
+Atletico Clube Goianiense,5,1,1,3,5,10,-5,4,5
+Santos FC,5,0,3,2,7,7,0,3,6
+Fortaleza,5,0,3,2,4,4,0,3,7
+Sao Paulo FC,5,0,3,2,6,7,-1,3,8
+Atletico Mineiro,5,0,3,2,5,6,-1,3,9
+Corinthians Paulista,5,0,3,2,5,6,-1,3,10
+America MG,5,0,2,3,9,6,3,2,11
+Botafogo Rio de Janeiro,5,0,2,3,2,5,-3,2,12
+Atletico Paranaense,5,0,2,3,6,10,-4,2,13
+Cuiaba Esporte Clube,5,0,2,3,5,9,-4,2,14
+Goias Esporte Clube,5,0,2,3,3,8,-5,2,15
+Ceara SC,5,0,2,3,3,11,-8,2,16
+Bragantino,5,0,2,3,5,14,-9,2,17
+Coritiba FC,5,0,1,4,3,5,-2,1,18
+Avai FC,5,0,0,5,4,3,1,0,19
+Esporte Clube Juventude,5,0,0,5,2,6,-4,0,20
+Sociedade Esportiva Palmeiras,6,5,1,0,12,4,8,16,1
+Fluminense Rio de Janeiro,6,5,1,0,8,7,1,16,2
+Internacional,6,2,3,1,12,3,9,9,3
+Flamengo Rio de Janeiro,6,2,2,2,11,10,1,8,4
+Atletico Mineiro,6,1,3,2,9,7,2,6,5
+Atletico Clube Goianiense,6,1,2,3,6,10,-4,5,6
+Santos FC,6,0,4,2,7,8,-1,4,7
+Sao Paulo FC,6,0,4,2,6,8,-2,4,8
+Corinthians Paulista,6,0,4,2,5,7,-2,4,9
+Fortaleza,6,0,4,2,4,8,-4,4,10
+America MG,6,0,3,3,10,7,3,3,11
+Atletico Paranaense,6,0,3,3,8,12,-4,3,12
+Botafogo Rio de Janeiro,6,0,3,3,2,8,-6,3,13
+Ceara SC,6,0,3,3,4,11,-7,3,14
+Cuiaba Esporte Clube,6,0,2,4,5,11,-6,2,15
+Goias Esporte Clube,6,0,2,4,3,9,-6,2,16
+Bragantino,6,0,2,4,6,14,-8,2,17
+Coritiba FC,6,0,1,5,4,6,-2,1,18
+Avai FC,6,0,0,6,5,5,0,0,19
+Esporte Clube Juventude,6,0,0,6,2,7,-5,0,20
+Sociedade Esportiva Palmeiras,7,6,1,0,13,4,9,19,1
+Fluminense Rio de Janeiro,7,6,1,0,8,8,0,19,2
+Internacional,7,2,4,1,12,4,8,10,3
+Flamengo Rio de Janeiro,7,2,3,2,12,11,1,9,4
+Atletico Mineiro,7,1,4,2,10,7,3,7,5
+Atletico Clube Goianiense,7,1,3,3,6,11,-5,6,6
+Botafogo Rio de Janeiro,7,1,3,3,4,9,-5,6,7
+Sao Paulo FC,7,0,5,2,7,8,-1,5,8
+Santos FC,7,0,5,2,7,9,-2,5,9
+Corinthians Paulista,7,0,5,2,5,8,-3,5,10
+Fortaleza,7,0,5,2,4,8,-4,5,11
+America MG,7,0,3,4,10,9,1,3,12
+Atletico Paranaense,7,0,3,4,8,13,-5,3,13
+Ceara SC,7,0,3,4,4,12,-8,3,14
+Coritiba FC,7,0,2,5,5,6,-1,2,15
+Cuiaba Esporte Clube,7,0,2,5,6,12,-6,2,16
+Goias Esporte Clube,7,0,2,5,3,10,-7,2,17
+Bragantino,7,0,2,5,7,16,-9,2,18
+Avai FC,7,0,0,7,6,6,0,0,19
+Esporte Clube Juventude,7,0,0,7,3,11,-8,0,20
+Sociedade Esportiva Palmeiras,8,7,1,0,15,5,10,22,1
+Fluminense Rio de Janeiro,8,7,1,0,10,8,2,22,2
+Internacional,8,3,4,1,14,4,10,13,3
+Flamengo Rio de Janeiro,8,3,3,2,14,12,2,12,4
+Atletico Mineiro,8,2,4,2,11,8,3,10,5
+Atletico Clube Goianiense,8,2,3,3,6,11,-5,9,6
+Sao Paulo FC,8,1,5,2,9,8,1,8,7
+Fortaleza,8,1,5,2,4,8,-4,8,8
+Botafogo Rio de Janeiro,8,1,3,4,4,11,-7,6,9
+Santos FC,8,0,6,2,10,10,0,6,10
+Corinthians Paulista,8,0,6,2,7,9,-2,6,11
+America MG,8,0,4,4,12,10,2,4,12
+Atletico Paranaense,8,0,4,4,9,14,-5,4,13
+Ceara SC,8,0,4,4,4,13,-9,4,14
+Coritiba FC,8,0,3,5,7,6,1,3,15
+Cuiaba Esporte Clube,8,0,3,5,9,13,-4,3,16
+Bragantino,8,0,3,5,7,17,-10,3,17
+Goias Esporte Clube,8,0,3,5,3,13,-10,3,18
+Avai FC,8,0,0,8,8,8,0,0,19
+Esporte Clube Juventude,8,0,0,8,6,11,-5,0,20
+Sociedade Esportiva Palmeiras,9,8,1,0,15,6,9,25,1
+Fluminense Rio de Janeiro,9,8,1,0,12,8,4,25,2
+Internacional,9,3,5,1,16,5,11,14,3
+Flamengo Rio de Janeiro,9,3,4,2,16,13,3,13,4
+Atletico Mineiro,9,3,4,2,11,8,3,13,5
+Atletico Clube Goianiense,9,2,4,3,6,14,-8,10,6
+Botafogo Rio de Janeiro,9,2,3,4,5,12,-7,9,7
+Sao Paulo FC,9,1,6,2,10,9,1,9,8
+Fortaleza,9,1,6,2,6,8,-2,9,9
+Corinthians Paulista,9,0,7,2,8,9,-1,7,10
+Santos FC,9,0,6,3,12,13,-1,6,11
+America MG,9,0,4,5,12,11,1,4,12
+Coritiba FC,9,0,4,5,8,7,1,4,13
+Atletico Paranaense,9,0,4,5,10,15,-5,4,14
+Ceara SC,9,0,4,5,5,14,-9,4,15
+Cuiaba Esporte Clube,9,0,3,6,11,13,-2,3,16
+Bragantino,9,0,3,6,8,18,-10,3,17
+Goias Esporte Clube,9,0,3,6,4,14,-10,3,18
+Avai FC,9,0,1,8,8,11,-3,1,19
+Esporte Clube Juventude,9,0,0,9,8,14,-6,0,20
+Sociedade Esportiva Palmeiras,10,9,1,0,18,6,12,28,1
+Fluminense Rio de Janeiro,10,9,1,0,14,8,6,28,2
+Internacional,10,4,5,1,18,5,13,17,3
+Flamengo Rio de Janeiro,10,4,4,2,16,16,0,16,4
+Atletico Mineiro,10,3,5,2,11,9,2,14,5
+Atletico Clube Goianiense,10,3,4,3,6,16,-10,13,6
+Sao Paulo FC,10,2,6,2,10,9,1,12,7
+Fortaleza,10,2,6,2,7,9,-2,12,8
+Botafogo Rio de Janeiro,10,2,4,4,9,13,-4,10,9
+Corinthians Paulista,10,1,7,2,9,9,0,10,10
+Santos FC,10,1,6,3,13,15,-2,9,11
+Coritiba FC,10,1,4,5,8,8,0,7,12
+Atletico Paranaense,10,1,4,5,10,15,-5,7,13
+America MG,10,0,5,5,15,13,2,5,14
+Ceara SC,10,0,5,5,5,17,-12,5,15
+Cuiaba Esporte Clube,10,0,4,6,13,13,0,4,16
+Bragantino,10,0,4,6,10,18,-8,4,17
+Goias Esporte Clube,10,0,4,6,6,14,-8,4,18
+Avai FC,10,0,1,9,8,12,-4,1,19
+Esporte Clube Juventude,10,0,0,10,8,14,-6,0,20
+Sociedade Esportiva Palmeiras,11,10,1,0,20,6,14,31,1
+Fluminense Rio de Janeiro,11,10,1,0,15,9,6,31,2
+Internacional,11,5,5,1,18,7,11,20,3
+Atletico Mineiro,11,4,5,2,14,10,4,17,4
+Flamengo Rio de Janeiro,11,4,5,2,17,16,1,17,5
+Atletico Clube Goianiense,11,3,5,3,6,16,-10,14,6
+Sao Paulo FC,11,2,7,2,11,10,1,13,7
+Fortaleza,11,2,7,2,7,9,-2,13,8
+Botafogo Rio de Janeiro,11,2,5,4,13,13,0,11,9
+Corinthians Paulista,11,1,8,2,10,10,0,11,10
+Santos FC,11,1,7,3,14,16,-2,10,11
+Coritiba FC,11,1,5,5,9,11,-2,8,12
+Atletico Paranaense,11,1,5,5,10,17,-7,8,13
+America MG,11,0,6,5,18,14,4,6,14
+Ceara SC,11,0,6,5,6,18,-12,6,15
+Cuiaba Esporte Clube,11,0,5,6,13,15,-2,5,16
+Bragantino,11,0,5,6,12,18,-6,5,17
+Goias Esporte Clube,11,0,5,6,6,16,-10,5,18
+Avai FC,11,0,2,9,8,12,-4,2,19
+Esporte Clube Juventude,11,0,1,10,8,16,-8,1,20
+Sociedade Esportiva Palmeiras,12,11,1,0,22,6,16,34,1
+Fluminense Rio de Janeiro,12,11,1,0,17,10,7,34,2
+Internacional,12,5,6,1,19,9,10,21,3
+Atletico Mineiro,12,4,6,2,15,10,5,18,4
+Flamengo Rio de Janeiro,12,4,6,2,17,17,0,18,5
+Sao Paulo FC,12,3,7,2,13,10,3,16,6
+Fortaleza,12,3,7,2,7,9,-2,16,7
+Atletico Clube Goianiense,12,3,6,3,7,19,-12,15,8
+Botafogo Rio de Janeiro,12,3,5,4,15,14,1,14,9
+Corinthians Paulista,12,1,9,2,10,10,0,12,10
+Coritiba FC,12,2,5,5,11,11,0,11,11
+Santos FC,12,1,8,3,14,17,-3,11,12
+Atletico Paranaense,12,1,6,5,11,21,-10,9,13
+Goias Esporte Clube,12,1,5,6,7,19,-12,8,14
+America MG,12,0,7,5,21,15,6,7,15
+Ceara SC,12,0,7,5,6,18,-12,7,16
+Cuiaba Esporte Clube,12,0,5,7,13,16,-3,5,17
+Bragantino,12,0,5,7,12,18,-6,5,18
+Avai FC,12,0,3,9,8,12,-4,3,19
+Esporte Clube Juventude,12,0,1,11,11,18,-7,1,20
+Sociedade Esportiva Palmeiras,13,12,1,0,23,6,17,37,1
+Fluminense Rio de Janeiro,13,12,1,0,20,11,9,37,2
+Internacional,13,5,7,1,21,9,12,22,3
+Atletico Mineiro,13,5,6,2,15,10,5,21,4
+Flamengo Rio de Janeiro,13,4,7,2,18,19,-1,19,5
+Fortaleza,13,4,7,2,8,10,-2,19,6
+Sao Paulo FC,13,3,8,2,14,11,3,17,7
+Atletico Clube Goianiense,13,3,7,3,7,19,-12,16,8
+Botafogo Rio de Janeiro,13,3,6,4,16,14,2,15,9
+Corinthians Paulista,13,1,10,2,12,10,2,13,10
+Coritiba FC,13,2,6,5,12,13,-1,12,11
+Santos FC,13,1,9,3,14,17,-3,12,12
+America MG,13,1,7,5,23,15,8,10,13
+Atletico Paranaense,13,1,6,6,13,21,-8,9,14
+Goias Esporte Clube,13,1,5,7,9,19,-10,8,15
+Ceara SC,13,0,7,6,6,19,-13,7,16
+Bragantino,13,0,5,8,12,18,-6,5,17
+Cuiaba Esporte Clube,13,0,5,8,13,21,-8,5,18
+Avai FC,13,0,4,9,9,13,-4,4,19
+Esporte Clube Juventude,13,0,2,11,12,19,-7,2,20
+Sociedade Esportiva Palmeiras,14,13,1,0,25,7,18,40,1
+Fluminense Rio de Janeiro,14,13,1,0,21,12,9,40,2
+Atletico Mineiro,14,6,6,2,18,11,7,24,3
+Internacional,14,5,8,1,22,10,12,23,4
+Sao Paulo FC,14,4,8,2,17,11,6,20,5
+Flamengo Rio de Janeiro,14,4,8,2,18,20,-2,20,6
+Fortaleza,14,4,8,2,8,11,-3,20,7
+Botafogo Rio de Janeiro,14,4,6,4,17,14,3,18,8
+Atletico Clube Goianiense,14,3,8,3,8,20,-12,17,9
+Corinthians Paulista,14,2,10,2,13,11,2,16,10
+Coritiba FC,14,2,7,5,14,16,-2,13,11
+Santos FC,14,1,10,3,15,18,-3,13,12
+Goias Esporte Clube,14,2,5,7,9,20,-11,11,13
+America MG,14,1,8,5,26,16,10,11,14
+Atletico Paranaense,14,1,7,6,14,23,-9,10,15
+Ceara SC,14,0,8,6,6,21,-15,8,16
+Bragantino,14,0,6,8,12,19,-7,6,17
+Cuiaba Esporte Clube,14,0,6,8,14,23,-9,6,18
+Avai FC,14,0,5,9,9,16,-7,5,19
+Esporte Clube Juventude,14,0,2,12,13,21,-8,2,20
+Sociedade Esportiva Palmeiras,15,14,1,0,28,7,21,43,1
+Fluminense Rio de Janeiro,15,14,1,0,22,12,10,43,2
+Atletico Mineiro,15,7,6,2,19,13,6,27,3
+Internacional,15,5,9,1,22,10,12,24,4
+Sao Paulo FC,15,5,8,2,18,12,6,23,5
+Fortaleza,15,5,8,2,12,12,0,23,6
+Botafogo Rio de Janeiro,15,5,6,4,18,14,4,21,7
+Flamengo Rio de Janeiro,15,4,9,2,19,20,-1,21,8
+Atletico Clube Goianiense,15,3,9,3,9,23,-14,18,9
+Corinthians Paulista,15,2,11,2,14,11,3,17,10
+America MG,15,2,8,5,28,16,12,14,11
+Coritiba FC,15,2,8,5,16,18,-2,14,12
+Santos FC,15,1,11,3,16,18,-2,14,13
+Goias Esporte Clube,15,2,6,7,11,24,-13,12,14
+Atletico Paranaense,15,1,7,7,14,25,-11,10,15
+Ceara SC,15,0,8,7,7,22,-15,8,16
+Cuiaba Esporte Clube,15,0,7,8,14,25,-11,7,17
+Bragantino,15,0,6,9,13,22,-9,6,18
+Avai FC,15,0,5,10,9,18,-9,5,19
+Esporte Clube Juventude,15,0,3,12,13,22,-9,3,20
+Sociedade Esportiva Palmeiras,16,15,1,0,31,10,21,46,1
+Fluminense Rio de Janeiro,16,15,1,0,25,13,12,46,2
+Atletico Mineiro,16,7,7,2,19,14,5,28,3
+Sao Paulo FC,16,6,8,2,21,14,7,26,4
+Fortaleza,16,6,8,2,13,12,1,26,5
+Internacional,16,5,10,1,23,11,12,25,6
+Flamengo Rio de Janeiro,16,5,9,2,20,20,0,24,7
+Botafogo Rio de Janeiro,16,5,7,4,19,15,4,22,8
+Corinthians Paulista,16,3,11,2,15,11,4,20,9
+Atletico Clube Goianiense,16,3,9,4,11,28,-17,18,10
+Santos FC,16,2,11,3,16,18,-2,17,11
+America MG,16,2,9,5,29,17,12,15,12
+Coritiba FC,16,2,9,5,17,19,-2,15,13
+Goias Esporte Clube,16,2,7,7,12,24,-12,13,14
+Atletico Paranaense,16,1,7,8,14,28,-14,10,15
+Avai FC,16,1,5,10,9,21,-12,8,16
+Ceara SC,16,0,8,8,10,23,-13,8,17
+Cuiaba Esporte Clube,16,0,7,9,14,25,-11,7,18
+Bragantino,16,0,6,10,14,24,-10,6,19
+Esporte Clube Juventude,16,0,3,13,13,25,-12,3,20
+Sociedade Esportiva Palmeiras,17,16,1,0,33,11,22,49,1
+Fluminense Rio de Janeiro,17,16,1,0,28,14,14,49,2
+Atletico Mineiro,17,8,7,2,20,16,4,31,3
+Sao Paulo FC,17,7,8,2,24,16,8,29,4
+Fortaleza,17,7,8,2,15,12,3,29,5
+Flamengo Rio de Janeiro,17,6,9,2,20,20,0,27,6
+Internacional,17,5,11,1,25,12,13,26,7
+Botafogo Rio de Janeiro,17,5,8,4,20,15,5,23,8
+Corinthians Paulista,17,3,12,2,16,11,5,21,9
+Atletico Clube Goianiense,17,3,10,4,13,30,-17,19,10
+Santos FC,17,2,12,3,18,20,-2,18,11
+America MG,17,2,10,5,33,17,16,16,12
+Coritiba FC,17,2,10,5,18,19,-1,16,13
+Goias Esporte Clube,17,2,8,7,14,24,-10,14,14
+Atletico Paranaense,17,1,8,8,15,30,-15,11,15
+Avai FC,17,1,6,10,12,21,-9,9,16
+Cuiaba Esporte Clube,17,0,8,9,14,25,-11,8,17
+Ceara SC,17,0,8,9,11,24,-13,8,18
+Bragantino,17,0,6,11,14,24,-10,6,19
+Esporte Clube Juventude,17,0,4,13,14,27,-13,4,20
+Sociedade Esportiva Palmeiras,18,17,1,0,35,13,22,52,1
+Fluminense Rio de Janeiro,18,16,2,0,28,15,13,50,2
+Sao Paulo FC,18,8,8,2,25,17,8,32,3
+Atletico Mineiro,18,8,8,2,21,16,5,32,4
+Fortaleza,18,7,9,2,16,12,4,30,5
+Internacional,18,6,11,1,28,13,15,29,6
+Flamengo Rio de Janeiro,18,6,10,2,21,21,0,28,7
+Botafogo Rio de Janeiro,18,6,8,4,22,15,7,26,8
+Corinthians Paulista,18,4,12,2,21,13,8,24,9
+Santos FC,18,3,12,3,18,21,-3,21,10
+Atletico Clube Goianiense,18,3,11,4,14,31,-17,20,11
+Goias Esporte Clube,18,3,8,7,15,26,-11,17,12
+America MG,18,2,11,5,34,18,16,17,13
+Coritiba FC,18,2,10,6,19,19,0,16,14
+Atletico Paranaense,18,2,8,8,16,30,-14,14,15
+Avai FC,18,1,7,10,13,23,-10,10,16
+Cuiaba Esporte Clube,18,0,9,9,15,25,-10,9,17
+Ceara SC,18,0,9,9,12,26,-14,9,18
+Bragantino,18,0,7,11,17,24,-7,7,19
+Esporte Clube Juventude,18,0,4,14,16,28,-12,4,20
+Sociedade Esportiva Palmeiras,19,18,1,0,40,13,27,55,1
+Fluminense Rio de Janeiro,19,17,2,0,31,15,16,53,2
+Sao Paulo FC,19,9,8,2,26,17,9,35,3
+Atletico Mineiro,19,8,9,2,22,18,4,33,4
+Fortaleza,19,8,9,2,17,13,4,33,5
+Internacional,19,7,11,1,31,14,17,32,6
+Flamengo Rio de Janeiro,19,7,10,2,21,21,0,31,7
+Botafogo Rio de Janeiro,19,6,9,4,23,15,8,27,8
+Corinthians Paulista,19,4,13,2,21,14,7,25,9
+Santos FC,19,3,13,3,19,23,-4,22,10
+America MG,19,3,11,5,39,21,18,20,11
+Atletico Clube Goianiense,19,3,11,5,14,34,-20,20,12
+Goias Esporte Clube,19,3,9,7,16,28,-12,18,13
+Coritiba FC,19,2,11,6,20,19,1,17,14
+Atletico Paranaense,19,2,8,9,17,31,-14,14,15
+Avai FC,19,1,8,10,14,25,-11,11,16
+Bragantino,19,1,7,11,17,24,-7,10,17
+Cuiaba Esporte Clube,19,0,10,9,15,25,-10,10,18
+Ceara SC,19,0,9,10,13,27,-14,9,19
+Esporte Clube Juventude,19,0,5,14,16,30,-14,5,20
+Sociedade Esportiva Palmeiras,20,19,1,0,42,15,27,58,1
+Fluminense Rio de Janeiro,20,18,2,0,35,15,20,56,2
+Sao Paulo FC,20,9,9,2,26,18,8,36,3
+Atletico Mineiro,20,9,9,2,24,19,5,36,4
+Internacional,20,8,11,1,32,14,18,35,5
+Fortaleza,20,8,10,2,18,13,5,34,6
+Flamengo Rio de Janeiro,20,8,10,2,23,23,0,34,7
+Botafogo Rio de Janeiro,20,6,10,4,26,18,8,28,8
+Corinthians Paulista,20,5,13,2,21,14,7,28,9
+Santos FC,20,3,14,3,20,23,-3,23,10
+Goias Esporte Clube,20,4,9,7,20,29,-9,21,11
+America MG,20,3,12,5,39,22,17,21,12
+Atletico Clube Goianiense,20,3,12,5,17,35,-18,21,13
+Coritiba FC,20,2,12,6,24,22,2,18,14
+Atletico Paranaense,20,3,8,9,20,33,-13,17,15
+Avai FC,20,1,9,10,15,28,-13,12,16
+Cuiaba Esporte Clube,20,0,11,9,16,27,-11,11,17
+Bragantino,20,1,7,12,19,25,-6,10,18
+Ceara SC,20,0,10,10,14,28,-14,10,19
+Esporte Clube Juventude,20,0,6,14,18,33,-15,6,20
+Sociedade Esportiva Palmeiras,21,20,1,0,45,15,30,61,1
+Fluminense Rio de Janeiro,21,18,2,1,35,17,18,56,2
+Sao Paulo FC,21,10,9,2,26,20,6,39,3
+Atletico Mineiro,21,10,9,2,25,19,6,39,4
+Flamengo Rio de Janeiro,21,9,10,2,24,25,-1,37,5
+Internacional,21,8,12,1,33,16,17,36,6
+Fortaleza,21,8,11,2,19,14,5,35,7
+Botafogo Rio de Janeiro,21,6,11,4,28,20,8,29,8
+Corinthians Paulista,21,5,14,2,23,15,8,29,9
+America MG,21,4,12,5,40,24,16,24,10
+Santos FC,21,3,15,3,20,24,-4,24,11
+Goias Esporte Clube,21,4,10,7,21,32,-11,22,12
+Atletico Clube Goianiense,21,3,12,6,17,39,-22,21,13
+Atletico Paranaense,21,3,9,9,21,34,-13,18,14
+Coritiba FC,21,2,12,7,24,25,-1,18,15
+Cuiaba Esporte Clube,21,1,11,9,18,27,-9,14,16
+Bragantino,21,2,7,12,20,28,-8,13,17
+Ceara SC,21,1,10,10,16,28,-12,13,18
+Avai FC,21,1,10,10,16,31,-15,13,19
+Esporte Clube Juventude,21,0,6,15,18,34,-16,6,20
+Sociedade Esportiva Palmeiras,22,21,1,0,46,16,30,64,1
+Fluminense Rio de Janeiro,22,19,2,1,36,18,18,59,2
+Sao Paulo FC,22,11,9,2,29,22,7,42,3
+Atletico Mineiro,22,10,10,2,26,22,4,40,4
+Flamengo Rio de Janeiro,22,10,10,2,26,26,0,40,5
+Internacional,22,9,12,1,36,16,20,39,6
+Fortaleza,22,9,11,2,20,14,6,38,7
+Botafogo Rio de Janeiro,22,7,11,4,28,21,7,32,8
+Corinthians Paulista,22,6,14,2,24,15,9,32,9
+America MG,22,5,12,5,41,26,15,27,10
+Santos FC,22,4,15,3,21,24,-3,27,11
+Goias Esporte Clube,22,4,11,7,22,33,-11,23,12
+Atletico Clube Goianiense,22,3,13,6,18,40,-22,22,13
+Atletico Paranaense,22,3,10,9,21,35,-14,19,14
+Coritiba FC,22,2,13,7,26,26,0,19,15
+Cuiaba Esporte Clube,22,1,12,9,19,28,-9,15,16
+Bragantino,22,2,8,12,20,28,-8,14,17
+Ceara SC,22,1,10,11,17,31,-14,13,18
+Avai FC,22,1,10,11,17,33,-16,13,19
+Esporte Clube Juventude,22,0,7,15,18,36,-18,7,20
+Sociedade Esportiva Palmeiras,23,21,2,0,46,17,29,65,1
+Fluminense Rio de Janeiro,23,19,3,1,37,19,18,60,2
+Sao Paulo FC,23,11,10,2,30,24,6,43,3
+Atletico Mineiro,23,11,10,2,26,23,3,43,4
+Flamengo Rio de Janeiro,23,11,10,2,28,28,0,43,5
+Internacional,23,10,12,1,37,16,21,42,6
+Fortaleza,23,10,11,2,22,15,7,41,7
+Corinthians Paulista,23,7,14,2,25,17,8,35,8
+Botafogo Rio de Janeiro,23,7,12,4,28,21,7,33,9
+America MG,23,5,13,5,41,26,15,28,10
+Santos FC,23,4,16,3,21,25,-4,28,11
+Goias Esporte Clube,23,4,12,7,24,33,-9,24,12
+Atletico Clube Goianiense,23,3,13,7,19,44,-25,22,13
+Atletico Paranaense,23,3,11,9,21,38,-17,20,14
+Coritiba FC,23,2,13,8,27,27,0,19,15
+Cuiaba Esporte Clube,23,2,12,9,21,28,-7,18,16
+Ceara SC,23,2,10,11,19,33,-14,16,17
+Bragantino,23,2,9,12,23,31,-8,15,18
+Avai FC,23,1,11,11,18,34,-16,14,19
+Esporte Clube Juventude,23,0,7,16,20,37,-17,7,20
+Sociedade Esportiva Palmeiras,24,22,2,0,48,17,31,68,1
+Fluminense Rio de Janeiro,24,19,4,1,40,19,21,61,2
+Sao Paulo FC,24,12,10,2,31,25,6,46,3
+Flamengo Rio de Janeiro,24,12,10,2,32,28,4,46,4
+Internacional,24,11,12,1,38,16,22,45,5
+Atletico Mineiro,24,11,11,2,27,27,0,44,6
+Fortaleza,24,10,12,2,23,15,8,42,7
+Corinthians Paulista,24,8,14,2,27,17,10,38,8
+Botafogo Rio de Janeiro,24,7,13,4,28,22,6,34,9
+America MG,24,6,13,5,42,26,16,31,10
+Santos FC,24,5,16,3,22,26,-4,31,11
+Goias Esporte Clube,24,4,13,7,25,34,-9,25,12
+Atletico Paranaense,24,4,11,9,21,38,-17,23,13
+Atletico Clube Goianiense,24,3,13,8,20,46,-26,22,14
+Coritiba FC,24,2,13,9,28,28,0,19,15
+Cuiaba Esporte Clube,24,2,13,9,24,28,-4,19,16
+Ceara SC,24,2,11,11,20,34,-14,17,17
+Bragantino,24,2,10,12,24,34,-10,16,18
+Avai FC,24,1,12,11,19,34,-15,15,19
+Esporte Clube Juventude,24,0,7,17,23,37,-14,7,20
+Sociedade Esportiva Palmeiras,25,22,3,0,48,19,29,69,1
+Fluminense Rio de Janeiro,25,19,5,1,40,19,21,62,2
+Flamengo Rio de Janeiro,25,13,10,2,36,29,7,49,3
+Sao Paulo FC,25,13,10,2,32,26,6,49,4
+Internacional,25,12,12,1,40,17,23,48,5
+Fortaleza,25,11,12,2,24,15,9,45,6
+Atletico Mineiro,25,11,12,2,27,27,0,45,7
+Corinthians Paulista,25,9,14,2,32,17,15,41,8
+Botafogo Rio de Janeiro,25,7,13,5,28,22,6,34,9
+Santos FC,25,6,16,3,22,27,-5,34,10
+America MG,25,6,14,5,43,26,17,32,11
+Goias Esporte Clube,25,4,14,7,25,35,-10,26,12
+Atletico Paranaense,25,4,12,9,21,38,-17,24,13
+Atletico Clube Goianiense,25,3,13,9,20,46,-26,22,14
+Cuiaba Esporte Clube,25,2,14,9,25,28,-3,20,15
+Bragantino,25,3,10,12,27,34,-7,19,16
+Coritiba FC,25,2,13,10,29,29,0,19,17
+Ceara SC,25,2,12,11,21,35,-14,18,18
+Avai FC,25,1,12,12,19,36,-17,15,19
+Esporte Clube Juventude,25,0,7,18,23,37,-14,7,20
+Sociedade Esportiva Palmeiras,26,23,3,0,49,19,30,72,1
+Fluminense Rio de Janeiro,26,20,5,1,42,21,21,65,2
+Flamengo Rio de Janeiro,26,14,10,2,39,30,9,52,3
+Internacional,26,13,12,1,41,18,23,51,4
+Sao Paulo FC,26,13,11,2,33,28,5,50,5
+Fortaleza,26,11,13,2,27,15,12,46,6
+Atletico Mineiro,26,11,13,2,27,27,0,46,7
+Corinthians Paulista,26,9,15,2,32,17,15,42,8
+Botafogo Rio de Janeiro,26,7,14,5,29,23,6,35,9
+Santos FC,26,6,17,3,22,28,-6,35,10
+America MG,26,6,15,5,44,26,18,33,11
+Atletico Paranaense,26,5,12,9,21,38,-17,27,12
+Goias Esporte Clube,26,4,15,7,27,35,-8,27,13
+Atletico Clube Goianiense,26,3,14,9,23,46,-23,23,14
+Cuiaba Esporte Clube,26,2,15,9,26,30,-4,21,15
+Bragantino,26,3,11,12,27,34,-7,20,16
+Coritiba FC,26,2,14,10,29,29,0,20,17
+Ceara SC,26,2,13,11,21,35,-14,19,18
+Avai FC,26,1,13,12,20,36,-16,16,19
+Esporte Clube Juventude,26,0,8,18,23,39,-16,8,20
+Sociedade Esportiva Palmeiras,27,23,4,0,50,20,30,73,1
+Fluminense Rio de Janeiro,27,20,6,1,43,22,21,66,2
+Flamengo Rio de Janeiro,27,15,10,2,40,31,9,55,3
+Internacional,27,14,12,1,43,19,24,54,4
+Sao Paulo FC,27,14,11,2,34,29,5,53,5
+Atletico Mineiro,27,11,14,2,28,28,0,47,6
+Fortaleza,27,11,13,3,28,16,12,46,7
+Corinthians Paulista,27,9,16,2,34,18,16,43,8
+Santos FC,27,6,18,3,23,28,-5,36,9
+Botafogo Rio de Janeiro,27,7,14,6,29,26,3,35,10
+America MG,27,6,16,5,48,27,21,34,11
+Atletico Paranaense,27,6,12,9,22,40,-18,30,12
+Goias Esporte Clube,27,4,16,7,27,37,-10,28,13
+Bragantino,27,4,11,12,28,34,-6,23,14
+Atletico Clube Goianiense,27,3,14,10,23,46,-23,23,15
+Ceara SC,27,3,13,11,21,35,-14,22,16
+Cuiaba Esporte Clube,27,2,16,9,27,31,-4,22,17
+Coritiba FC,27,2,14,11,29,31,-2,20,18
+Avai FC,27,1,13,13,22,39,-17,16,19
+Esporte Clube Juventude,27,0,8,19,23,41,-18,8,20
+Sociedade Esportiva Palmeiras,28,24,4,0,52,23,29,76,1
+Fluminense Rio de Janeiro,28,21,6,1,43,22,21,69,2
+Flamengo Rio de Janeiro,28,16,10,2,42,31,11,58,3
+Internacional,28,15,12,1,45,20,25,57,4
+Sao Paulo FC,28,15,11,2,35,31,4,56,5
+Atletico Mineiro,28,12,14,2,30,29,1,50,6
+Fortaleza,28,12,13,3,31,16,15,49,7
+Corinthians Paulista,28,10,16,2,34,20,14,46,8
+Santos FC,28,7,18,3,25,29,-4,39,9
+America MG,28,7,16,5,48,27,21,37,10
+Botafogo Rio de Janeiro,28,7,15,6,30,26,4,36,11
+Atletico Paranaense,28,6,13,9,23,41,-18,31,12
+Goias Esporte Clube,28,4,16,8,29,37,-8,28,13
+Bragantino,28,5,11,12,29,34,-5,26,14
+Atletico Clube Goianiense,28,3,15,10,25,46,-21,24,15
+Ceara SC,28,3,14,11,23,36,-13,23,16
+Cuiaba Esporte Clube,28,2,17,9,28,31,-3,23,17
+Coritiba FC,28,2,15,11,30,32,-2,21,18
+Avai FC,28,1,14,13,24,40,-16,17,19
+Esporte Clube Juventude,28,0,9,19,26,41,-15,9,20
+Sociedade Esportiva Palmeiras,29,25,4,0,52,25,27,79,1
+Fluminense Rio de Janeiro,29,21,7,1,45,22,23,70,2
+Flamengo Rio de Janeiro,29,17,10,2,42,33,9,61,3
+Internacional,29,16,12,1,45,22,23,60,4
+Sao Paulo FC,29,15,12,2,37,32,5,57,5
+Atletico Mineiro,29,12,15,2,34,31,3,51,6
+Fortaleza,29,12,14,3,31,18,13,50,7
+Corinthians Paulista,29,11,16,2,34,20,14,49,8
+Santos FC,29,7,19,3,25,30,-5,40,9
+America MG,29,7,17,5,50,28,22,38,10
+Botafogo Rio de Janeiro,29,7,16,6,30,27,3,37,11
+Atletico Paranaense,29,6,14,9,24,42,-18,32,12
+Goias Esporte Clube,29,4,17,8,30,38,-8,29,13
+Bragantino,29,5,12,12,30,36,-6,27,14
+Ceara SC,29,4,14,11,24,37,-13,26,15
+Atletico Clube Goianiense,29,3,15,11,28,47,-19,24,16
+Cuiaba Esporte Clube,29,2,18,9,30,32,-2,24,17
+Coritiba FC,29,2,15,12,31,32,-1,21,18
+Avai FC,29,1,14,14,26,41,-15,17,19
+Esporte Clube Juventude,29,0,9,20,27,45,-18,9,20
+Sociedade Esportiva Palmeiras,30,25,5,0,53,28,25,80,1
+Fluminense Rio de Janeiro,30,21,8,1,46,25,21,71,2
+Flamengo Rio de Janeiro,30,18,10,2,44,34,10,64,3
+Internacional,30,17,12,1,45,22,23,63,4
+Sao Paulo FC,30,15,13,2,38,32,6,58,5
+Atletico Mineiro,30,12,16,2,35,32,3,52,6
+Fortaleza,30,12,15,3,32,19,13,51,7
+Corinthians Paulista,30,11,17,2,34,22,12,50,8
+Santos FC,30,8,19,3,27,30,-3,43,9
+America MG,30,7,18,5,50,28,22,39,10
+Botafogo Rio de Janeiro,30,7,17,6,30,31,-1,38,11
+Atletico Paranaense,30,7,14,9,25,42,-17,35,12
+Goias Esporte Clube,30,4,17,9,32,39,-7,29,13
+Bragantino,30,5,13,12,30,36,-6,28,14
+Ceara SC,30,4,15,11,24,37,-13,27,15
+Cuiaba Esporte Clube,30,2,19,9,31,32,-1,25,16
+Atletico Clube Goianiense,30,3,15,12,28,49,-21,24,17
+Coritiba FC,30,2,15,13,31,34,-3,21,18
+Avai FC,30,1,14,15,29,46,-17,17,19
+Esporte Clube Juventude,30,0,9,21,29,46,-17,9,20
+Sociedade Esportiva Palmeiras,31,25,6,0,53,29,24,81,1
+Fluminense Rio de Janeiro,31,21,9,1,46,27,19,72,2
+Flamengo Rio de Janeiro,31,19,10,2,47,34,13,67,3
+Internacional,31,18,12,1,46,22,24,66,4
+Sao Paulo FC,31,15,14,2,39,34,5,59,5
+Corinthians Paulista,31,12,17,2,35,22,13,53,6
+Atletico Mineiro,31,12,17,2,35,33,2,53,7
+Fortaleza,31,12,16,3,33,19,14,52,8
+Santos FC,31,9,19,3,30,31,-1,46,9
+America MG,31,7,18,6,50,30,20,39,10
+Botafogo Rio de Janeiro,31,7,17,7,32,36,-4,38,11
+Atletico Paranaense,31,7,15,9,25,44,-19,36,12
+Bragantino,31,6,13,12,31,37,-6,31,13
+Goias Esporte Clube,31,4,17,10,34,40,-6,29,14
+Ceara SC,31,4,16,11,24,38,-14,28,15
+Cuiaba Esporte Clube,31,2,20,9,32,33,-1,26,16
+Atletico Clube Goianiense,31,3,15,13,29,50,-21,24,17
+Coritiba FC,31,2,15,14,31,35,-4,21,18
+Avai FC,31,1,14,16,29,46,-17,17,19
+Esporte Clube Juventude,31,0,9,22,29,47,-18,9,20
+Sociedade Esportiva Palmeiras,32,26,6,0,53,29,24,84,1
+Fluminense Rio de Janeiro,32,21,10,1,48,28,20,73,2
+Flamengo Rio de Janeiro,32,20,10,2,49,35,14,70,3
+Internacional,32,19,12,1,46,23,23,69,4
+Sao Paulo FC,32,15,15,2,40,35,5,60,5
+Corinthians Paulista,32,12,18,2,37,23,14,54,6
+Atletico Mineiro,32,12,18,2,35,34,1,54,7
+Fortaleza,32,12,17,3,35,20,15,53,8
+Santos FC,32,9,20,3,30,31,-1,47,9
+America MG,32,7,19,6,50,31,19,40,10
+Botafogo Rio de Janeiro,32,7,18,7,32,36,-4,39,11
+Atletico Paranaense,32,7,16,9,26,47,-21,37,12
+Bragantino,32,6,14,12,31,40,-9,32,13
+Goias Esporte Clube,32,4,18,10,34,43,-9,30,14
+Ceara SC,32,4,17,11,25,40,-15,29,15
+Cuiaba Esporte Clube,32,2,21,9,34,33,1,27,16
+Atletico Clube Goianiense,32,3,16,13,31,50,-19,25,17
+Coritiba FC,32,2,16,14,31,35,-4,22,18
+Avai FC,32,1,14,17,29,48,-19,17,19
+Esporte Clube Juventude,32,0,9,23,29,49,-20,9,20
+Sociedade Esportiva Palmeiras,33,26,7,0,55,31,24,85,1
+Fluminense Rio de Janeiro,33,21,11,1,48,29,19,74,2
+Internacional,33,20,12,1,47,25,22,72,3
+Flamengo Rio de Janeiro,33,20,11,2,50,36,14,71,4
+Sao Paulo FC,33,15,16,2,41,35,6,61,5
+Corinthians Paulista,33,12,19,2,37,24,13,55,6
+Atletico Mineiro,33,12,19,2,37,35,2,55,7
+Fortaleza,33,12,18,3,36,20,16,54,8
+Santos FC,33,10,20,3,31,32,-1,50,9
+America MG,33,7,20,6,51,31,20,41,10
+Atletico Paranaense,33,8,16,9,26,47,-21,40,11
+Botafogo Rio de Janeiro,33,7,19,7,32,37,-5,40,12
+Bragantino,33,6,15,12,34,42,-8,33,13
+Goias Esporte Clube,33,4,18,11,35,43,-8,30,14
+Ceara SC,33,4,18,11,26,40,-14,30,15
+Cuiaba Esporte Clube,33,2,21,10,35,35,0,27,16
+Atletico Clube Goianiense,33,3,16,14,31,50,-19,25,17
+Coritiba FC,33,2,16,15,32,35,-3,22,18
+Avai FC,33,1,14,18,29,49,-20,17,19
+Esporte Clube Juventude,33,0,9,24,30,50,-20,9,20
+Sociedade Esportiva Palmeiras,34,26,8,0,56,32,24,86,1
+Internacional,34,21,12,1,47,26,21,75,2
+Fluminense Rio de Janeiro,34,21,11,2,48,30,18,74,3
+Flamengo Rio de Janeiro,34,21,11,2,51,39,12,74,4
+Sao Paulo FC,34,15,16,3,41,39,2,61,5
+Corinthians Paulista,34,12,19,3,37,26,11,55,6
+Atletico Mineiro,34,12,19,3,39,37,2,55,7
+Fortaleza,34,12,18,4,37,22,15,54,8
+Santos FC,34,10,20,4,32,34,-2,50,9
+Atletico Paranaense,34,8,17,9,27,49,-22,41,10
+America MG,34,7,20,7,52,32,20,41,11
+Botafogo Rio de Janeiro,34,7,19,8,34,38,-4,40,12
+Bragantino,34,6,16,12,36,44,-8,34,13
+Ceara SC,34,4,19,11,26,41,-15,31,14
+Goias Esporte Clube,34,4,18,12,36,46,-10,30,15
+Cuiaba Esporte Clube,34,2,21,11,37,35,2,27,16
+Atletico Clube Goianiense,34,3,16,15,31,50,-19,25,17
+Coritiba FC,34,2,16,16,32,35,-3,22,18
+Avai FC,34,1,14,19,31,51,-20,17,19
+Esporte Clube Juventude,34,0,9,25,31,54,-23,9,20
+Sociedade Esportiva Palmeiras,35,27,8,0,57,33,24,89,1
+Internacional,35,22,12,1,49,27,22,78,2
+Fluminense Rio de Janeiro,35,21,12,2,50,31,19,75,3
+Flamengo Rio de Janeiro,35,21,12,2,54,40,14,75,4
+Sao Paulo FC,35,15,17,3,41,39,2,62,5
+Corinthians Paulista,35,12,20,3,38,27,11,56,6
+Atletico Mineiro,35,12,20,3,40,38,2,56,7
+Fortaleza,35,12,19,4,40,22,18,55,8
+Santos FC,35,10,21,4,34,34,0,51,9
+Atletico Paranaense,35,9,17,9,28,50,-22,44,10
+America MG,35,7,21,7,53,33,20,42,11
+Botafogo Rio de Janeiro,35,7,20,8,35,38,-3,41,12
+Bragantino,35,6,16,13,37,47,-10,34,13
+Ceara SC,35,4,20,11,27,41,-14,32,14
+Goias Esporte Clube,35,4,18,13,38,47,-9,30,15
+Cuiaba Esporte Clube,35,2,21,12,37,36,1,27,16
+Atletico Clube Goianiense,35,3,16,16,31,51,-20,25,17
+Coritiba FC,35,2,16,17,34,38,-4,22,18
+Avai FC,35,1,14,20,31,51,-20,17,19
+Esporte Clube Juventude,35,0,9,26,31,54,-23,9,20
+Sociedade Esportiva Palmeiras,36,28,8,0,58,35,23,92,1
+Internacional,36,23,12,1,51,27,24,81,2
+Fluminense Rio de Janeiro,36,21,13,2,50,34,16,76,3
+Flamengo Rio de Janeiro,36,21,13,2,56,43,13,76,4
+Sao Paulo FC,36,15,18,3,41,39,2,63,5
+Corinthians Paulista,36,12,21,3,38,27,11,57,6
+Atletico Mineiro,36,12,21,3,40,38,2,57,7
+Fortaleza,36,12,20,4,43,23,20,56,8
+Santos FC,36,10,22,4,37,34,3,52,9
+Atletico Paranaense,36,9,18,9,30,52,-22,45,10
+America MG,36,7,22,7,55,34,21,43,11
+Botafogo Rio de Janeiro,36,7,21,8,38,41,-3,42,12
+Bragantino,36,6,17,13,39,48,-9,35,13
+Ceara SC,36,4,21,11,27,43,-16,33,14
+Goias Esporte Clube,36,4,18,14,38,48,-10,30,15
+Cuiaba Esporte Clube,36,2,21,13,38,37,1,27,16
+Atletico Clube Goianiense,36,3,16,17,31,51,-20,25,17
+Coritiba FC,36,2,16,18,37,39,-2,22,18
+Avai FC,36,1,14,21,31,54,-23,17,19
+Esporte Clube Juventude,36,0,9,27,31,55,-24,9,20
+Sociedade Esportiva Palmeiras,37,28,9,0,60,36,24,93,1
+Internacional,37,24,12,1,52,28,24,84,2
+Flamengo Rio de Janeiro,37,21,13,3,57,43,14,76,3
+Fluminense Rio de Janeiro,37,21,13,3,51,37,14,76,4
+Sao Paulo FC,37,15,18,4,42,41,1,63,5
+Corinthians Paulista,37,12,21,4,38,28,10,57,6
+Atletico Mineiro,37,12,21,4,40,39,1,57,7
+Fortaleza,37,12,20,5,44,25,19,56,8
+Santos FC,37,10,22,5,39,35,4,52,9
+Atletico Paranaense,37,9,18,10,31,54,-23,45,10
+America MG,37,7,22,8,55,34,21,43,11
+Botafogo Rio de Janeiro,37,7,21,9,38,42,-4,42,12
+Bragantino,37,6,17,14,39,50,-11,35,13
+Ceara SC,37,4,22,11,28,44,-16,34,14
+Goias Esporte Clube,37,4,18,15,40,48,-8,30,15
+Cuiaba Esporte Clube,37,2,21,14,39,37,2,27,16
+Atletico Clube Goianiense,37,3,16,18,31,52,-21,25,17
+Coritiba FC,37,2,16,19,37,42,-5,22,18
+Avai FC,37,1,14,22,32,55,-23,17,19
+Esporte Clube Juventude,37,0,9,28,32,57,-25,9,20
+Sociedade Esportiva Palmeiras,38,29,9,0,63,37,26,96,1
+Internacional,38,24,13,1,54,28,26,85,2
+Fluminense Rio de Janeiro,38,21,14,3,52,38,14,77,3
+Flamengo Rio de Janeiro,38,21,14,3,57,44,13,77,4
+Sao Paulo FC,38,15,19,4,43,43,0,64,5
+Corinthians Paulista,38,12,22,4,40,29,11,58,6
+Atletico Mineiro,38,12,22,4,41,40,1,58,7
+Fortaleza,38,12,21,5,44,25,19,57,8
+Santos FC,38,10,23,5,40,35,5,53,9
+Atletico Paranaense,38,9,19,10,33,54,-21,46,10
+America MG,38,7,23,8,56,34,22,44,11
+Botafogo Rio de Janeiro,38,7,22,9,39,43,-4,43,12
+Bragantino,38,6,18,14,40,51,-11,36,13
+Ceara SC,38,4,23,11,28,46,-18,35,14
+Goias Esporte Clube,38,4,19,15,40,48,-8,31,15
+Cuiaba Esporte Clube,38,2,22,14,39,38,1,28,16
+Atletico Clube Goianiense,38,3,16,19,31,54,-23,25,17
+Coritiba FC,38,2,16,20,39,44,-5,22,18
+Avai FC,38,1,14,23,32,55,-23,17,19
+Esporte Clube Juventude,38,0,9,29,33,58,-25,9,20

@@ -1,8 +1,10 @@
 # Constantes globais utilizadas entre os arquivos
+PAGES_CONTENT_DIR: str = "pages_content/"
 SHOTS_DATA_DIR: str = "data/shots/"
 BRASILEIRO_DATA_DIR: str = "data/brasileirao/"
 SPALD_DATA_DIR: str = "data/spadl_format/"
 ELO_DATA_DIR: str = "data/elo/"
+RANK_DATA_DIR: str = "data/rank/"
 CLUBS_DICT: dict[str, str] = {
     "barcelona": "Barcelona",
     "realmadrid": "Real Madrid",
@@ -38,7 +40,6 @@ CLUBS_DICT: dict[str, str] = {
     "sporting": "Sporting CP",
     "valencia": "Valencia",
     "sevilla": "Sevilla",
-    "vilarreal": "Villarreal",
     "lyon": "Olympique Lyonnais",
     "monaco": "AS Monaco",
     "parissg": "Paris Saint-Germain",
@@ -81,7 +82,6 @@ REVERSED_CLUBS_DICT = {
     "Sporting CP": "sporting",
     "Valencia": "valencia",
     "Sevilla": "sevilla",
-    "Villarreal": "vilarreal",
     "Olympique Lyonnais": "lyon",
     "AS Monaco": "monaco",
     "Paris Saint-Germain": "parissg",
@@ -147,6 +147,7 @@ TIMES_BRASILEIRAO_E_POSICOES: list[str] = [
     "PD",
     "MA",
 ]
+
 LEAGUES: dict[str, str] = {
     "england": "Premier League",
     "spain": "La Liga",
@@ -154,3 +155,28 @@ LEAGUES: dict[str, str] = {
     "italy": "Serie A",
     "france": "Ligue 1",
 }
+
+
+TIMES_BRASILEIRAO: list[str] = [
+    "América (MG)",
+    "Ath Paranaense",
+    "Atlético Mineiro",
+    "Bahia",
+    "Botafogo (RJ)",
+    "Corinthians",
+    "Coritiba",
+    "Cruzeiro",
+    "Cuiabá",
+    "Flamengo",
+    "Fluminense",
+    "Fortaleza",
+    "Goiás",
+    "Grêmio",
+    "Internacional",
+    "Palmeiras",
+    "Red Bull Bragantino",
+    "Santos",
+    "São Paulo",
+    "Vasco da Gama",
+]
+

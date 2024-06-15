@@ -1,12 +1,40 @@
-Projeto final de Visualização de Dados
+Visualização de Dados
+Projeto Final
 
+INTEGRANTES
+
+- Luís Felipe Ramos Ferreira
 - Caio Teles Cunha
-- Deborah Santos Andrade Guimarães
 - Diogo Oliveira Neiss
 - Igor Lacerda Faria da Silva
 - Ivan Vilaça de Assis
+
+Todos os membros do grupo trabalharam em conjunto e em mesmo esforço para a entrega do projeto final.
+Em particular, cada integrante teve como objetivo e foco específico as seguintes tarefas:
+
 - Luís Felipe Ramos Ferreira
 
-LINK DE ACESSO PARA A FERRAMENTA:
+Compreensão da métrica de Elo quando aplicada ao contexto do futebol. Obtenção dos dados necessários para a construção das visualizações
+desejadas. As tabelas de Elo foram construídas utilizando os dados disponibilizados pela API disponibilizada pela plataforma ClubELO.
+Existem duas visualizações de séries temporais quando contextualizadasem relação ao Elo. A primeira, mais básica, permite selecionar quais
+clubes comparar e ver na tabela a variação bruta do valor de Elo de cada time ao longo dos anos.
 
-blablubleh
+A segunda visualização, por sua vez, permite que se aplique uma média móvel sobre o valor do Elo, permitindo que uma visualização mais fluida
+seja feita. Com a média móvel, é possível ver como ocorreu a variação dos Elos de cada time de acordo com um intervalo de tempo que pode ser
+predeterminado pelo usuário.
+
+- Caio Teles Cunha
+
+radar plot
+
+- Diogo Oliveira Neiss
+
+nao lembro agr
+
+- Igor Lacerda Faria da Silva
+
+poisson
+
+- Ivan Vilaça de Assis
+
+chutes

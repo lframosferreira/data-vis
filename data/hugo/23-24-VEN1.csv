@@ -1,0 +1,85 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+Caracas FC,1,0,1,0,0,0,0,1,1
+Zamora FC,1,0,1,0,0,0,0,1,2
+Angostura,1,0,1,0,0,0,0,1,3
+Deportivo La Guaira,1,0,1,0,0,0,0,1,4
+Metropolitanos FC,1,0,1,0,0,0,0,1,5
+Deportivo Tachira,1,0,1,0,0,0,0,1,6
+Cabello,1,0,1,0,0,0,0,1,7
+Caracas FC,2,0,2,0,0,0,0,2,1
+Zamora FC,2,0,2,0,0,0,0,2,2
+Deportivo La Guaira,2,0,2,0,0,0,0,2,3
+Deportivo Tachira,2,0,2,0,0,0,0,2,4
+Cabello,2,0,2,0,0,0,0,2,5
+Angostura,2,0,2,0,0,1,-1,2,6
+Metropolitanos FC,2,0,1,1,0,59,-59,1,7
+Zamora FC,3,0,3,0,1,0,1,3,1
+Caracas FC,3,0,3,0,0,0,0,3,2
+Deportivo La Guaira,3,0,3,0,0,0,0,3,3
+Deportivo Tachira,3,0,3,0,0,0,0,3,4
+Cabello,3,0,3,0,0,0,0,3,5
+Angostura,3,0,3,0,0,1,-1,3,6
+Metropolitanos FC,3,0,1,2,0,59,-59,1,7
+Zamora FC,4,0,4,0,1,0,1,4,1
+Caracas FC,4,0,4,0,0,0,0,4,2
+Deportivo La Guaira,4,0,4,0,0,0,0,4,3
+Deportivo Tachira,4,0,4,0,0,0,0,4,4
+Cabello,4,0,4,0,0,0,0,4,5
+Angostura,4,0,4,0,0,1,-1,4,6
+Metropolitanos FC,4,0,2,2,0,59,-59,2,7
+Zamora FC,5,1,4,0,60,0,60,7,1
+Deportivo Tachira,5,0,5,0,1,0,1,5,2
+Caracas FC,5,0,5,0,0,0,0,5,3
+Deportivo La Guaira,5,0,5,0,0,0,0,5,4
+Cabello,5,0,5,0,0,0,0,5,5
+Angostura,5,0,5,0,0,1,-1,5,6
+Metropolitanos FC,5,0,3,2,0,59,-59,3,7
+Zamora FC,6,1,5,0,60,0,60,8,1
+Angostura,6,1,5,0,0,1,-1,8,2
+Deportivo Tachira,6,0,6,0,1,0,1,6,3
+Caracas FC,6,0,6,0,0,0,0,6,4
+Deportivo La Guaira,6,0,6,0,0,0,0,6,5
+Cabello,6,0,6,0,0,0,0,6,6
+Metropolitanos FC,6,0,4,2,0,59,-59,4,7
+Zamora FC,7,1,6,0,60,0,60,9,1
+Angostura,7,1,6,0,0,1,-1,9,2
+Deportivo Tachira,7,0,7,0,1,0,1,7,3
+Caracas FC,7,0,7,0,0,0,0,7,4
+Deportivo La Guaira,7,0,7,0,0,0,0,7,5
+Cabello,7,0,7,0,0,0,0,7,6
+Metropolitanos FC,7,0,5,2,0,59,-59,5,7
+Zamora FC,8,1,7,0,60,0,60,10,1
+Angostura,8,1,7,0,0,1,-1,10,2
+Deportivo Tachira,8,0,8,0,1,0,1,8,3
+Caracas FC,8,0,8,0,0,0,0,8,4
+Deportivo La Guaira,8,0,8,0,0,0,0,8,5
+Cabello,8,0,8,0,0,0,0,8,6
+Metropolitanos FC,8,0,6,2,0,59,-59,6,7
+Zamora FC,9,1,8,0,60,0,60,11,1
+Angostura,9,1,8,0,0,1,-1,11,2
+Deportivo Tachira,9,0,9,0,1,0,1,9,3
+Caracas FC,9,0,9,0,0,0,0,9,4
+Deportivo La Guaira,9,0,9,0,0,0,0,9,5
+Cabello,9,0,9,0,0,0,0,9,6
+Metropolitanos FC,9,0,7,2,0,60,-60,7,7
+Zamora FC,10,1,9,0,60,0,60,12,1
+Deportivo Tachira,10,1,9,0,49,0,49,12,2
+Angostura,10,1,9,0,0,1,-1,12,3
+Caracas FC,10,0,10,0,0,0,0,10,4
+Deportivo La Guaira,10,0,10,0,0,0,0,10,5
+Cabello,10,0,10,0,0,0,0,10,6
+Metropolitanos FC,10,0,8,2,0,60,-60,8,7
+Cabello,11,1,10,0,69,0,69,13,1
+Zamora FC,11,1,10,0,60,0,60,13,2
+Deportivo Tachira,11,1,10,0,49,0,49,13,3
+Angostura,11,1,10,0,0,1,-1,13,4
+Caracas FC,11,0,11,0,0,0,0,11,5
+Deportivo La Guaira,11,0,11,0,0,0,0,11,6
+Metropolitanos FC,11,0,8,3,0,108,-108,8,7
+Cabello,12,1,11,0,69,0,69,14,1
+Zamora FC,12,1,11,0,60,0,60,14,2
+Deportivo Tachira,12,1,11,0,49,0,49,14,3
+Angostura,12,1,11,0,0,1,-1,14,4
+Caracas FC,12,0,12,0,0,0,0,12,5
+Deportivo La Guaira,12,0,12,0,0,0,0,12,6
+Metropolitanos FC,12,0,8,4,0,177,-177,8,7

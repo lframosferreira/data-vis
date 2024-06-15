@@ -1,0 +1,613 @@
+Team,Matches,Won,Drawn,Lost,GF,GA,GD,Points,Rank
+CF Monterrey,1,1,0,0,2,2,0,3,1
+CF Pachuca,1,1,0,0,2,2,0,3,2
+Deportivo Guadalajara,1,1,0,0,0,0,0,3,3
+Tigres de la Universidad Autonoma,1,1,0,0,0,1,-1,3,4
+Atletico San Luis,1,1,0,0,0,2,-2,3,5
+Club de Futbol America,1,0,1,0,3,1,2,1,6
+Puebla FC,1,0,1,0,3,1,2,1,7
+Gallos Blancos Queretaro FC,1,0,1,0,2,0,2,1,8
+Santos Laguna,1,0,1,0,1,1,0,1,9
+Deportivo Toluca,1,0,1,0,0,1,-1,1,10
+Club Necaxa,1,0,1,0,1,3,-2,1,11
+Mazatlan,1,0,0,1,3,1,2,0,12
+FC Juarez,1,0,0,1,2,0,2,0,13
+Pumas de la UNAM,1,0,0,1,2,2,0,0,14
+Club Leon,1,0,0,1,0,0,0,0,15
+Cruz Azul,1,0,0,1,1,2,-1,0,16
+Club Tijuana,1,0,0,1,0,1,-1,0,17
+Atlas Guadalajara,1,0,0,1,0,4,-4,0,18
+Tigres de la Universidad Autonoma,2,2,0,0,3,2,1,6,1
+Club de Futbol America,2,1,1,0,10,2,8,4,2
+Deportivo Guadalajara,2,1,1,0,0,0,0,4,3
+CF Monterrey,2,1,1,0,6,9,-3,4,4
+Atletico San Luis,2,1,1,0,0,4,-4,4,5
+CF Pachuca,2,1,0,1,3,5,-2,3,6
+Puebla FC,2,0,1,1,4,3,1,1,7
+Gallos Blancos Queretaro FC,2,0,1,1,2,1,1,1,8
+Deportivo Toluca,2,0,1,1,1,2,-1,1,9
+Club Necaxa,2,0,1,1,3,5,-2,1,10
+Santos Laguna,2,0,1,1,1,6,-5,1,11
+Pumas de la UNAM,2,0,0,2,5,7,-2,0,12
+FC Juarez,2,0,0,2,4,6,-2,0,13
+Mazatlan,2,0,0,2,3,6,-3,0,14
+Club Tijuana,2,0,0,2,0,4,-4,0,15
+Club Leon,2,0,0,2,0,5,-5,0,16
+Cruz Azul,2,0,0,2,2,8,-6,0,17
+Atlas Guadalajara,2,0,0,2,0,9,-9,0,18
+Tigres de la Universidad Autonoma,3,3,0,0,4,3,1,9,1
+CF Monterrey,3,2,1,0,9,9,0,7,2
+Club de Futbol America,3,1,2,0,17,6,11,5,3
+Deportivo Guadalajara,3,1,1,1,2,0,2,4,4
+Club Necaxa,3,1,1,1,5,7,-2,4,5
+Atletico San Luis,3,1,1,1,3,5,-2,4,6
+CF Pachuca,3,1,0,2,4,10,-6,3,7
+Deportivo Toluca,3,0,1,2,4,4,0,1,8
+Puebla FC,3,0,1,2,5,8,-3,1,9
+Gallos Blancos Queretaro FC,3,0,1,2,2,6,-4,1,10
+Santos Laguna,3,0,1,2,1,9,-8,1,11
+FC Juarez,3,0,0,3,8,12,-4,0,12
+Pumas de la UNAM,3,0,0,3,5,10,-5,0,13
+Club Leon,3,0,0,3,0,5,-5,0,14
+Club Tijuana,3,0,0,3,0,6,-6,0,15
+Mazatlan,3,0,0,3,4,13,-9,0,16
+Cruz Azul,3,0,0,3,2,11,-9,0,17
+Atlas Guadalajara,3,0,0,3,2,15,-13,0,18
+Tigres de la Universidad Autonoma,4,4,0,0,4,3,1,12,1
+CF Monterrey,4,3,1,0,13,11,2,10,2
+Club de Futbol America,4,2,2,0,22,9,13,8,3
+Atletico San Luis,4,2,1,1,3,5,-2,7,4
+CF Pachuca,4,2,0,2,9,12,-3,6,5
+Deportivo Guadalajara,4,1,2,1,4,0,4,5,6
+Club Necaxa,4,1,2,1,6,8,-2,5,7
+Pumas de la UNAM,4,1,0,3,8,10,-2,3,8
+Deportivo Toluca,4,0,2,2,5,5,0,2,9
+Puebla FC,4,0,2,2,5,8,-3,2,10
+Gallos Blancos Queretaro FC,4,0,2,2,4,8,-4,2,11
+Santos Laguna,4,0,2,2,2,10,-8,2,12
+FC Juarez,4,0,1,3,9,16,-7,1,13
+Club Leon,4,0,0,4,0,6,-6,0,14
+Club Tijuana,4,0,0,4,0,7,-7,0,15
+Cruz Azul,4,0,0,4,3,11,-8,0,16
+Mazatlan,4,0,0,4,6,16,-10,0,17
+Atlas Guadalajara,4,0,0,4,6,17,-11,0,18
+Tigres de la Universidad Autonoma,5,5,0,0,6,3,3,15,1
+CF Monterrey,5,4,1,0,16,11,5,13,2
+Club de Futbol America,5,3,2,0,27,9,18,11,3
+Atletico San Luis,5,2,2,1,5,5,0,8,4
+Club Necaxa,5,2,2,1,7,8,-1,8,5
+CF Pachuca,5,2,1,2,10,15,-5,7,6
+Deportivo Guadalajara,5,1,3,1,5,1,4,6,7
+Santos Laguna,5,1,2,2,4,14,-10,5,8
+Pumas de la UNAM,5,1,1,3,8,11,-3,4,9
+Deportivo Toluca,5,0,3,2,5,9,-4,3,10
+Gallos Blancos Queretaro FC,5,0,2,3,6,11,-5,2,11
+Puebla FC,5,0,2,3,5,11,-6,2,12
+FC Juarez,5,0,1,4,10,20,-10,1,13
+Cruz Azul,5,0,0,5,5,12,-7,0,14
+Club Leon,5,0,0,5,1,9,-8,0,15
+Club Tijuana,5,0,0,5,0,8,-8,0,16
+Mazatlan,5,0,0,5,6,18,-12,0,17
+Atlas Guadalajara,5,0,0,5,7,20,-13,0,18
+Tigres de la Universidad Autonoma,6,6,0,0,8,4,4,18,1
+CF Monterrey,6,5,1,0,19,11,8,16,2
+Club de Futbol America,6,4,2,0,30,9,21,14,3
+Atletico San Luis,6,3,2,1,6,5,1,11,4
+CF Pachuca,6,3,1,2,10,16,-6,10,5
+Club Necaxa,6,2,2,2,9,10,-1,8,6
+Deportivo Guadalajara,6,1,4,1,6,1,5,7,7
+Santos Laguna,6,1,3,2,7,15,-8,6,8
+Pumas de la UNAM,6,1,1,4,8,12,-4,4,9
+Deportivo Toluca,6,0,4,2,5,9,-4,4,10
+Gallos Blancos Queretaro FC,6,0,3,3,7,11,-4,3,11
+Puebla FC,6,0,3,3,6,11,-5,3,12
+FC Juarez,6,0,2,4,10,20,-10,2,13
+Cruz Azul,6,0,1,5,6,12,-6,1,14
+Club Leon,6,0,1,5,1,10,-9,1,15
+Club Tijuana,6,0,1,5,0,9,-9,1,16
+Atlas Guadalajara,6,0,1,5,7,22,-15,1,17
+Mazatlan,6,0,0,6,8,19,-11,0,18
+Tigres de la Universidad Autonoma,7,7,0,0,9,5,4,21,1
+CF Monterrey,7,6,1,0,21,11,10,19,2
+Club de Futbol America,7,5,2,0,33,10,23,17,3
+CF Pachuca,7,4,1,2,12,18,-6,13,4
+Atletico San Luis,7,3,3,1,9,8,1,12,5
+Club Necaxa,7,3,2,2,13,10,3,11,6
+Deportivo Guadalajara,7,1,5,1,9,3,6,8,7
+Santos Laguna,7,1,3,3,7,18,-11,6,8
+Pumas de la UNAM,7,1,2,4,9,13,-4,5,9
+Deportivo Toluca,7,0,4,3,5,10,-5,4,10
+Gallos Blancos Queretaro FC,7,0,3,4,8,14,-6,3,11
+Puebla FC,7,0,3,4,7,14,-7,3,12
+FC Juarez,7,0,2,5,11,23,-12,2,13
+Cruz Azul,7,0,1,6,7,14,-7,1,14
+Club Tijuana,7,0,1,6,3,11,-8,1,15
+Club Leon,7,0,1,6,1,11,-10,1,16
+Atlas Guadalajara,7,0,1,6,8,23,-15,1,17
+Mazatlan,7,0,0,7,8,25,-17,0,18
+Tigres de la Universidad Autonoma,8,8,0,0,12,6,6,24,1
+CF Monterrey,8,7,1,0,26,12,14,22,2
+Club de Futbol America,8,6,2,0,38,10,28,20,3
+CF Pachuca,8,5,1,2,14,20,-6,16,4
+Atletico San Luis,8,4,3,1,10,10,0,15,5
+Club Necaxa,8,3,2,3,15,10,5,11,6
+Deportivo Guadalajara,8,2,5,1,10,5,5,11,7
+Santos Laguna,8,2,3,3,12,19,-7,9,8
+Pumas de la UNAM,8,2,2,4,10,13,-3,8,9
+Deportivo Toluca,8,0,5,3,7,12,-5,5,10
+Atlas Guadalajara,8,1,1,6,8,26,-18,4,11
+Gallos Blancos Queretaro FC,8,0,4,4,10,17,-7,4,12
+Puebla FC,8,0,4,4,7,15,-8,4,13
+FC Juarez,8,0,2,6,14,24,-10,2,14
+Club Tijuana,8,0,1,7,6,11,-5,1,15
+Cruz Azul,8,0,1,7,9,19,-10,1,16
+Club Leon,8,0,1,7,3,15,-12,1,17
+Mazatlan,8,0,0,8,12,25,-13,0,18
+CF Monterrey,9,8,1,0,32,14,18,25,1
+Tigres de la Universidad Autonoma,9,8,1,0,12,6,6,25,2
+Club de Futbol America,9,6,3,0,40,10,30,21,3
+CF Pachuca,9,6,1,2,17,22,-5,19,4
+Atletico San Luis,9,5,3,1,10,10,0,18,5
+Club Necaxa,9,3,3,3,16,13,3,12,6
+Santos Laguna,9,3,3,3,13,19,-6,12,7
+Deportivo Guadalajara,9,2,6,1,10,5,5,12,8
+Pumas de la UNAM,9,2,2,5,12,18,-6,8,9
+Atlas Guadalajara,9,1,2,6,13,29,-16,5,10
+Deportivo Toluca,9,0,5,4,8,14,-6,5,11
+Gallos Blancos Queretaro FC,9,0,4,5,11,17,-6,4,12
+Puebla FC,9,0,4,5,8,16,-8,4,13
+Club Tijuana,9,0,2,7,6,11,-5,2,14
+FC Juarez,9,0,2,7,15,29,-14,2,15
+Cruz Azul,9,0,1,8,9,21,-12,1,16
+Club Leon,9,0,1,8,3,16,-13,1,17
+Mazatlan,9,0,0,9,13,28,-15,0,18
+CF Monterrey,10,9,1,0,33,17,16,28,1
+Tigres de la Universidad Autonoma,10,9,1,0,13,7,6,28,2
+Club de Futbol America,10,7,3,0,42,11,31,24,3
+CF Pachuca,10,7,1,2,19,22,-3,22,4
+Atletico San Luis,10,6,3,1,12,12,0,21,5
+Club Necaxa,10,4,3,3,18,14,4,15,6
+Santos Laguna,10,3,4,3,16,20,-4,13,7
+Deportivo Guadalajara,10,2,7,1,12,5,7,13,8
+Pumas de la UNAM,10,3,2,5,14,22,-8,11,9
+Puebla FC,10,1,4,5,9,16,-7,7,10
+Deportivo Toluca,10,0,6,4,9,16,-7,6,11
+Atlas Guadalajara,10,1,2,7,14,33,-19,5,12
+Gallos Blancos Queretaro FC,10,0,4,6,12,21,-9,4,13
+Club Tijuana,10,0,3,7,6,12,-6,3,14
+FC Juarez,10,0,2,8,18,31,-13,2,15
+Club Leon,10,0,1,9,3,16,-13,1,16
+Cruz Azul,10,0,1,9,10,24,-14,1,17
+Mazatlan,10,0,0,10,13,29,-16,0,18
+CF Monterrey,11,10,1,0,38,18,20,31,1
+Tigres de la Universidad Autonoma,11,10,1,0,13,7,6,31,2
+Club de Futbol America,11,8,3,0,48,12,36,27,3
+CF Pachuca,11,8,1,2,24,25,-1,25,4
+Atletico San Luis,11,7,3,1,12,12,0,24,5
+Club Necaxa,11,4,4,3,19,14,5,16,6
+Santos Laguna,11,4,4,3,19,21,-2,16,7
+Deportivo Guadalajara,11,2,8,1,12,5,7,14,8
+Pumas de la UNAM,11,3,2,6,14,22,-8,11,9
+Atlas Guadalajara,11,2,2,7,20,34,-14,8,10
+Puebla FC,11,1,5,5,10,19,-9,8,11
+Deportivo Toluca,11,0,7,4,9,17,-8,7,12
+Gallos Blancos Queretaro FC,11,0,5,6,13,22,-9,5,13
+Club Tijuana,11,0,3,8,7,12,-5,3,14
+FC Juarez,11,0,3,8,22,33,-11,3,15
+Cruz Azul,11,0,2,9,12,26,-14,2,16
+Club Leon,11,0,1,10,3,19,-16,1,17
+Mazatlan,11,0,0,11,13,29,-16,0,18
+CF Monterrey,12,11,1,0,41,18,23,34,1
+Tigres de la Universidad Autonoma,12,11,1,0,13,7,6,34,2
+Club de Futbol America,12,9,3,0,49,13,36,30,3
+CF Pachuca,12,9,1,2,27,26,1,28,4
+Atletico San Luis,12,8,3,1,14,12,2,27,5
+Club Necaxa,12,5,4,3,19,16,3,19,6
+Santos Laguna,12,4,5,3,19,23,-4,17,7
+Deportivo Guadalajara,12,2,9,1,12,6,6,15,8
+Pumas de la UNAM,12,3,3,6,14,22,-8,12,9
+Deportivo Toluca,12,1,7,4,10,18,-8,10,10
+Atlas Guadalajara,12,2,3,7,22,37,-15,9,11
+Puebla FC,12,1,5,6,10,22,-12,8,12
+Gallos Blancos Queretaro FC,12,0,5,7,13,24,-11,5,13
+Club Tijuana,12,0,4,8,9,12,-3,4,14
+FC Juarez,12,0,3,9,23,37,-14,3,15
+Cruz Azul,12,0,3,9,12,27,-15,3,16
+Club Leon,12,0,1,11,3,21,-18,1,17
+Mazatlan,12,0,0,12,13,31,-18,0,18
+CF Monterrey,13,12,1,0,43,21,22,37,1
+Tigres de la Universidad Autonoma,13,12,1,0,15,7,8,37,2
+Club de Futbol America,13,10,3,0,55,15,40,33,3
+CF Pachuca,13,10,1,2,28,27,1,31,4
+Atletico San Luis,13,9,3,1,15,12,3,30,5
+Santos Laguna,13,5,5,3,22,23,-1,20,6
+Club Necaxa,13,5,4,4,20,16,4,19,7
+Deportivo Guadalajara,13,2,10,1,14,7,7,16,8
+Pumas de la UNAM,13,4,3,6,14,23,-9,15,9
+Atlas Guadalajara,13,3,3,7,23,37,-14,12,10
+Puebla FC,13,2,5,6,12,22,-10,11,11
+Deportivo Toluca,13,1,8,4,12,19,-7,11,12
+FC Juarez,13,1,3,9,27,37,-10,6,13
+Gallos Blancos Queretaro FC,13,0,5,8,13,27,-14,5,14
+Club Tijuana,13,0,4,9,9,13,-4,4,15
+Cruz Azul,13,0,3,10,13,28,-15,3,16
+Club Leon,13,0,1,12,3,24,-21,1,17
+Mazatlan,13,0,0,13,14,33,-19,0,18
+CF Monterrey,14,13,1,0,49,25,24,40,1
+Tigres de la Universidad Autonoma,14,13,1,0,21,8,13,40,2
+Club de Futbol America,14,10,3,1,56,18,38,33,3
+Atletico San Luis,14,10,3,1,17,13,4,33,4
+CF Pachuca,14,10,2,2,31,30,1,32,5
+Santos Laguna,14,6,5,3,23,25,-2,23,6
+Club Necaxa,14,6,4,4,20,16,4,22,7
+Pumas de la UNAM,14,4,4,6,15,24,-9,16,8
+Deportivo Guadalajara,14,2,10,2,15,9,6,16,9
+Puebla FC,14,3,5,6,13,23,-10,14,10
+Atlas Guadalajara,14,3,3,8,25,39,-14,12,11
+Deportivo Toluca,14,1,9,4,16,19,-3,12,12
+FC Juarez,14,1,4,9,31,40,-9,7,13
+Club Tijuana,14,0,5,9,9,14,-5,5,14
+Gallos Blancos Queretaro FC,14,0,5,9,13,28,-15,5,15
+Cruz Azul,14,0,4,10,14,28,-14,4,16
+Club Leon,14,0,1,13,3,26,-23,1,17
+Mazatlan,14,0,0,14,15,35,-20,0,18
+Tigres de la Universidad Autonoma,15,14,1,0,22,8,14,43,1
+CF Monterrey,15,13,1,1,50,26,24,40,2
+Club de Futbol America,15,11,3,1,61,18,43,36,3
+Atletico San Luis,15,11,3,1,18,16,2,36,4
+CF Pachuca,15,11,2,2,34,31,3,35,5
+Club Necaxa,15,7,4,4,21,19,2,25,6
+Santos Laguna,15,6,6,3,27,25,2,24,7
+Deportivo Guadalajara,15,3,10,2,18,9,9,19,8
+Pumas de la UNAM,15,4,5,6,19,25,-6,17,9
+Puebla FC,15,4,5,6,14,23,-9,17,10
+Deportivo Toluca,15,2,9,4,17,19,-2,15,11
+Atlas Guadalajara,15,3,3,9,27,40,-13,12,12
+FC Juarez,15,1,4,10,36,41,-5,7,13
+Club Tijuana,15,0,6,9,9,15,-6,6,14
+Gallos Blancos Queretaro FC,15,0,6,9,13,30,-17,6,15
+Cruz Azul,15,0,5,10,14,28,-14,5,16
+Club Leon,15,0,2,13,3,26,-23,2,17
+Mazatlan,15,0,0,15,16,35,-19,0,18
+Tigres de la Universidad Autonoma,16,15,1,0,26,11,15,46,1
+CF Monterrey,16,14,1,1,50,26,24,43,2
+Club de Futbol America,16,12,3,1,66,18,48,39,3
+Atletico San Luis,16,12,3,1,19,17,2,39,4
+CF Pachuca,16,12,2,2,36,32,4,38,5
+Santos Laguna,16,7,6,3,31,26,5,27,6
+Club Necaxa,16,7,4,5,21,19,2,25,7
+Deportivo Guadalajara,16,4,10,2,18,10,8,22,8
+Puebla FC,16,4,6,6,16,25,-9,18,9
+Deportivo Toluca,16,3,9,4,17,19,-2,18,10
+Pumas de la UNAM,16,4,5,7,19,25,-6,17,11
+Atlas Guadalajara,16,3,4,9,28,40,-12,13,12
+FC Juarez,16,2,4,10,36,43,-7,10,13
+Gallos Blancos Queretaro FC,16,1,6,9,14,31,-17,9,14
+Club Tijuana,16,0,7,9,9,15,-6,7,15
+Cruz Azul,16,0,6,10,15,28,-13,6,16
+Club Leon,16,0,2,14,3,28,-25,2,17
+Mazatlan,16,0,0,16,16,38,-22,0,18
+Tigres de la Universidad Autonoma,17,16,1,0,31,11,20,49,1
+CF Monterrey,17,15,1,1,57,27,30,46,2
+Atletico San Luis,17,13,3,1,20,18,2,42,3
+CF Pachuca,17,13,2,2,37,32,5,41,4
+Club de Futbol America,17,12,4,1,66,18,48,40,5
+Santos Laguna,17,7,6,4,31,28,3,27,6
+Club Necaxa,17,7,5,5,21,21,0,26,7
+Deportivo Guadalajara,17,5,10,2,18,11,7,25,8
+Puebla FC,17,5,6,6,19,27,-8,21,9
+Deportivo Toluca,17,4,9,4,19,20,-1,21,10
+Pumas de la UNAM,17,5,5,7,20,25,-5,20,11
+Atlas Guadalajara,17,4,4,9,33,42,-9,16,12
+FC Juarez,17,3,4,10,38,43,-5,13,13
+Gallos Blancos Queretaro FC,17,1,6,10,14,31,-17,9,14
+Club Tijuana,17,0,8,9,9,15,-6,8,15
+Cruz Azul,17,0,6,11,18,30,-12,6,16
+Club Leon,17,0,2,15,3,30,-27,2,17
+Mazatlan,17,0,0,17,18,42,-24,0,18
+Tigres de la Universidad Autonoma,18,17,1,0,33,12,21,52,1
+CF Monterrey,18,16,1,1,57,29,28,49,2
+Atletico San Luis,18,14,3,1,22,18,4,45,3
+CF Pachuca,18,14,2,2,40,33,7,44,4
+Club de Futbol America,18,13,4,1,67,18,49,43,5
+Santos Laguna,18,8,6,4,34,29,5,30,6
+Deportivo Guadalajara,18,6,10,2,19,11,8,28,7
+Club Necaxa,18,7,5,6,22,28,-6,26,8
+Pumas de la UNAM,18,6,5,7,23,27,-4,23,9
+Puebla FC,18,5,7,6,19,30,-11,22,10
+Deportivo Toluca,18,4,10,4,19,20,-1,22,11
+Atlas Guadalajara,18,4,5,9,35,44,-9,17,12
+FC Juarez,18,4,4,10,38,44,-6,16,13
+Gallos Blancos Queretaro FC,18,2,6,10,16,31,-15,12,14
+Cruz Azul,18,1,6,11,19,31,-12,9,15
+Club Tijuana,18,0,8,10,10,17,-7,8,16
+Club Leon,18,0,3,15,5,32,-27,3,17
+Mazatlan,18,0,0,18,19,45,-26,0,18
+Tigres de la Universidad Autonoma,19,18,1,0,34,13,21,55,1
+CF Monterrey,19,17,1,1,62,29,33,52,2
+Atletico San Luis,19,15,3,1,24,19,5,48,3
+CF Pachuca,19,14,2,3,41,34,7,44,4
+Club de Futbol America,19,13,4,2,69,22,47,43,5
+Santos Laguna,19,9,6,4,36,29,7,33,6
+Deportivo Guadalajara,19,7,10,2,19,12,7,31,7
+Club Necaxa,19,7,5,7,22,31,-9,26,8
+Puebla FC,19,6,7,6,22,31,-9,25,9
+Deportivo Toluca,19,5,10,4,22,20,2,25,10
+Pumas de la UNAM,19,6,6,7,23,29,-6,24,11
+Atlas Guadalajara,19,5,5,9,36,47,-11,20,12
+FC Juarez,19,4,5,10,41,47,-6,17,13
+Gallos Blancos Queretaro FC,19,2,7,10,17,33,-16,13,14
+Cruz Azul,19,1,6,12,19,32,-13,9,15
+Club Tijuana,19,0,9,10,11,17,-6,9,16
+Club Leon,19,0,4,15,6,32,-26,4,17
+Mazatlan,19,0,0,19,19,45,-26,0,18
+Tigres de la Universidad Autonoma,20,19,1,0,35,14,21,58,1
+CF Monterrey,20,18,1,1,63,29,34,55,2
+Atletico San Luis,20,16,3,1,29,20,9,51,3
+CF Pachuca,20,15,2,3,42,34,8,47,4
+Club de Futbol America,20,13,5,2,70,22,48,44,5
+Santos Laguna,20,9,7,4,37,30,7,34,6
+Deportivo Guadalajara,20,8,10,2,23,12,11,34,7
+Club Necaxa,20,7,5,8,22,34,-12,26,8
+Puebla FC,20,6,8,6,24,32,-8,26,9
+Deportivo Toluca,20,5,11,4,22,20,2,26,10
+Pumas de la UNAM,20,6,7,7,25,31,-6,25,11
+FC Juarez,20,5,5,10,44,49,-5,20,12
+Atlas Guadalajara,20,5,5,10,37,50,-13,20,13
+Gallos Blancos Queretaro FC,20,2,7,11,21,35,-14,13,14
+Club Tijuana,20,1,9,10,12,19,-7,12,15
+Cruz Azul,20,1,7,12,21,33,-12,10,16
+Club Leon,20,0,5,15,7,33,-26,5,17
+Mazatlan,20,0,0,20,21,48,-27,0,18
+Tigres de la Universidad Autonoma,21,20,1,0,41,16,25,61,1
+CF Monterrey,21,19,1,1,66,29,37,58,2
+Atletico San Luis,21,16,4,1,29,20,9,52,3
+CF Pachuca,21,16,2,3,48,34,14,50,4
+Club de Futbol America,21,13,6,2,71,25,46,45,5
+Santos Laguna,21,10,7,4,40,32,8,37,6
+Deportivo Guadalajara,21,9,10,2,26,12,14,37,7
+Puebla FC,21,7,8,6,26,35,-9,29,8
+Deportivo Toluca,21,6,11,4,22,21,1,29,9
+Club Necaxa,21,7,5,9,26,36,-10,26,10
+Pumas de la UNAM,21,6,7,8,26,36,-10,25,11
+Atlas Guadalajara,21,6,5,10,41,52,-11,23,12
+FC Juarez,21,5,5,11,44,49,-5,20,13
+Gallos Blancos Queretaro FC,21,3,7,11,22,35,-13,16,14
+Club Tijuana,21,1,10,10,12,20,-8,13,15
+Cruz Azul,21,1,8,12,22,33,-11,11,16
+Club Leon,21,0,5,16,8,34,-26,5,17
+Mazatlan,21,0,1,20,21,49,-28,1,18
+Tigres de la Universidad Autonoma,22,21,1,0,44,17,27,64,1
+CF Monterrey,22,20,1,1,66,32,34,61,2
+Atletico San Luis,22,17,4,1,30,20,10,55,3
+CF Pachuca,22,16,3,3,50,37,13,51,4
+Club de Futbol America,22,14,6,2,73,28,45,48,5
+Deportivo Guadalajara,22,10,10,2,27,12,15,40,6
+Santos Laguna,22,10,8,4,41,32,9,38,7
+Deportivo Toluca,22,7,11,4,23,21,2,32,8
+Puebla FC,22,7,8,7,27,36,-9,29,9
+Club Necaxa,22,7,6,9,27,36,-9,27,10
+Atlas Guadalajara,22,7,5,10,41,56,-15,26,11
+Pumas de la UNAM,22,6,8,8,26,36,-10,26,12
+FC Juarez,22,6,5,11,46,53,-7,23,13
+Gallos Blancos Queretaro FC,22,3,8,11,25,36,-11,17,14
+Club Tijuana,22,1,11,10,12,21,-9,14,15
+Cruz Azul,22,1,9,12,24,37,-13,12,16
+Club Leon,22,0,6,16,8,34,-26,6,17
+Mazatlan,22,0,1,21,21,52,-31,1,18
+Tigres de la Universidad Autonoma,23,22,1,0,47,17,30,67,1
+CF Monterrey,23,20,1,2,68,35,33,61,2
+Atletico San Luis,23,18,4,1,33,21,12,58,3
+CF Pachuca,23,17,3,3,53,38,15,54,4
+Club de Futbol America,23,14,6,3,75,30,45,48,5
+Deportivo Guadalajara,23,11,10,2,28,13,15,43,6
+Santos Laguna,23,10,8,5,44,37,7,38,7
+Deportivo Toluca,23,8,11,4,27,22,5,35,8
+Puebla FC,23,8,8,7,27,36,-9,32,9
+Club Necaxa,23,7,6,10,29,38,-9,27,10
+FC Juarez,23,7,5,11,49,54,-5,26,11
+Atlas Guadalajara,23,7,5,11,43,57,-14,26,12
+Pumas de la UNAM,23,6,8,9,26,38,-12,26,13
+Gallos Blancos Queretaro FC,23,4,8,11,26,36,-10,20,14
+Club Tijuana,23,1,11,11,13,24,-11,14,15
+Cruz Azul,23,1,9,13,24,37,-13,12,16
+Club Leon,23,0,6,17,8,36,-28,6,17
+Mazatlan,23,0,1,22,24,54,-30,1,18
+Tigres de la Universidad Autonoma,24,23,1,0,50,17,33,70,1
+CF Monterrey,24,21,1,2,72,36,36,64,2
+Atletico San Luis,24,18,5,1,33,21,12,59,3
+CF Pachuca,24,18,3,3,55,40,15,57,4
+Club de Futbol America,24,14,7,3,78,35,43,49,5
+Deportivo Guadalajara,24,12,10,2,33,13,20,46,6
+Santos Laguna,24,10,9,5,47,39,8,39,7
+Puebla FC,24,9,8,7,28,36,-8,35,8
+Deportivo Toluca,24,8,11,5,27,22,5,35,9
+FC Juarez,24,7,6,11,51,55,-4,27,10
+Club Necaxa,24,7,6,11,32,38,-6,27,11
+Atlas Guadalajara,24,7,6,11,46,59,-13,27,12
+Pumas de la UNAM,24,6,8,10,27,44,-17,26,13
+Gallos Blancos Queretaro FC,24,4,9,11,27,39,-12,21,14
+Cruz Azul,24,2,9,13,27,37,-10,15,15
+Club Tijuana,24,1,11,12,13,25,-12,14,16
+Club Leon,24,0,7,17,8,37,-29,7,17
+Mazatlan,24,0,1,23,25,57,-32,1,18
+Tigres de la Universidad Autonoma,25,24,1,0,51,17,34,73,1
+CF Monterrey,25,21,1,3,72,36,36,64,2
+Atletico San Luis,25,19,5,1,33,22,11,62,3
+CF Pachuca,25,18,3,4,58,41,17,57,4
+Club de Futbol America,25,14,7,4,80,37,43,49,5
+Deportivo Guadalajara,25,12,11,2,34,13,21,47,6
+Santos Laguna,25,10,9,6,47,40,7,39,7
+Deportivo Toluca,25,9,11,5,29,22,7,38,8
+Puebla FC,25,9,9,7,28,38,-10,36,9
+FC Juarez,25,7,6,12,51,57,-6,27,10
+Club Necaxa,25,7,6,12,32,38,-6,27,11
+Atlas Guadalajara,25,7,6,12,47,60,-13,27,12
+Pumas de la UNAM,25,6,8,11,27,46,-19,26,13
+Gallos Blancos Queretaro FC,25,5,9,11,31,40,-9,24,14
+Cruz Azul,25,3,9,13,27,37,-10,18,15
+Club Tijuana,25,1,11,13,14,27,-13,14,16
+Club Leon,25,0,8,17,9,38,-29,8,17
+Mazatlan,25,0,1,24,26,59,-33,1,18
+Tigres de la Universidad Autonoma,26,25,1,0,53,17,36,76,1
+CF Monterrey,26,22,1,3,75,36,39,67,2
+Atletico San Luis,26,19,6,1,36,22,14,63,3
+CF Pachuca,26,18,4,4,60,43,17,58,4
+Club de Futbol America,26,14,8,4,83,38,45,50,5
+Deportivo Guadalajara,26,13,11,2,34,14,20,50,6
+Deportivo Toluca,26,10,11,5,31,22,9,41,7
+Santos Laguna,26,10,9,7,48,41,7,39,8
+Puebla FC,26,10,9,7,32,39,-7,39,9
+FC Juarez,26,8,6,12,54,57,-3,30,10
+Club Necaxa,26,7,6,13,32,39,-7,27,11
+Atlas Guadalajara,26,7,6,13,49,63,-14,27,12
+Pumas de la UNAM,26,6,8,12,27,48,-21,26,13
+Gallos Blancos Queretaro FC,26,5,10,11,32,40,-8,25,14
+Cruz Azul,26,3,10,13,27,37,-10,19,15
+Club Tijuana,26,1,11,14,14,28,-14,14,16
+Club Leon,26,0,9,17,10,40,-30,9,17
+Mazatlan,26,0,2,24,27,60,-33,2,18
+Tigres de la Universidad Autonoma,27,26,1,0,55,17,38,79,1
+CF Monterrey,27,23,1,3,76,37,39,70,2
+Atletico San Luis,27,20,6,1,37,22,15,66,3
+CF Pachuca,27,19,4,4,62,46,16,61,4
+Deportivo Guadalajara,27,14,11,2,35,14,21,53,5
+Club de Futbol America,27,14,9,4,84,38,46,51,6
+Deportivo Toluca,27,10,12,5,32,22,10,42,7
+Santos Laguna,27,10,10,7,48,41,7,40,8
+Puebla FC,27,10,10,7,33,41,-8,40,9
+FC Juarez,27,9,6,12,56,58,-2,33,10
+Club Necaxa,27,7,7,13,34,41,-7,28,11
+Atlas Guadalajara,27,7,6,14,50,64,-14,27,12
+Pumas de la UNAM,27,6,9,12,27,49,-22,27,13
+Gallos Blancos Queretaro FC,27,5,11,11,33,41,-8,26,14
+Cruz Azul,27,3,11,13,28,38,-10,20,15
+Club Tijuana,27,1,12,14,14,29,-15,15,16
+Club Leon,27,0,10,17,13,42,-29,10,17
+Mazatlan,27,0,2,25,27,61,-34,2,18
+Tigres de la Universidad Autonoma,28,27,1,0,57,18,39,82,1
+CF Monterrey,28,23,2,3,76,41,35,71,2
+Atletico San Luis,28,20,7,1,37,22,15,67,3
+CF Pachuca,28,19,5,4,62,46,16,62,4
+Deportivo Guadalajara,28,14,12,2,38,16,22,54,5
+Club de Futbol America,28,14,10,4,85,40,45,52,6
+Deportivo Toluca,28,11,12,5,34,22,12,45,7
+Santos Laguna,28,10,10,8,48,41,7,40,8
+Puebla FC,28,10,10,8,34,41,-7,40,9
+FC Juarez,28,9,7,12,57,60,-3,34,10
+Gallos Blancos Queretaro FC,28,6,11,11,34,41,-7,29,11
+Club Necaxa,28,7,7,14,35,42,-7,28,12
+Atlas Guadalajara,28,7,6,15,50,67,-17,27,13
+Pumas de la UNAM,28,6,9,13,27,50,-23,27,14
+Cruz Azul,28,3,11,14,28,39,-11,20,15
+Club Tijuana,28,1,12,15,15,31,-16,15,16
+Club Leon,28,0,10,18,13,43,-30,10,17
+Mazatlan,28,0,2,26,30,67,-37,2,18
+Tigres de la Universidad Autonoma,29,28,1,0,59,19,40,85,1
+CF Monterrey,29,24,2,3,77,46,31,74,2
+Atletico San Luis,29,21,7,1,37,22,15,70,3
+CF Pachuca,29,19,6,4,65,49,16,63,4
+Deportivo Guadalajara,29,15,12,2,40,16,24,57,5
+Club de Futbol America,29,14,11,4,88,44,44,53,6
+Deportivo Toluca,29,11,13,5,35,24,11,46,7
+Santos Laguna,29,10,10,9,48,43,5,40,8
+Puebla FC,29,10,10,9,38,43,-5,40,9
+FC Juarez,29,10,7,12,60,60,0,37,10
+Gallos Blancos Queretaro FC,29,6,12,11,35,41,-6,30,11
+Club Necaxa,29,7,7,15,35,46,-11,28,12
+Atlas Guadalajara,29,7,6,16,52,70,-18,27,13
+Pumas de la UNAM,29,6,9,14,29,50,-21,27,14
+Cruz Azul,29,3,11,15,29,42,-13,20,15
+Club Tijuana,29,1,12,16,16,31,-15,15,16
+Club Leon,29,1,10,18,13,44,-31,13,17
+Mazatlan,29,0,2,27,30,70,-40,2,18
+Tigres de la Universidad Autonoma,30,29,1,0,60,19,41,88,1
+CF Monterrey,30,24,2,4,80,50,30,74,2
+Atletico San Luis,30,21,7,2,38,25,13,70,3
+CF Pachuca,30,19,6,5,66,50,16,63,4
+Deportivo Guadalajara,30,15,13,2,40,16,24,58,5
+Club de Futbol America,30,14,11,5,88,45,43,53,6
+Deportivo Toluca,30,11,13,6,35,25,10,46,7
+Santos Laguna,30,10,10,10,49,45,4,40,8
+Puebla FC,30,10,10,10,38,46,-8,40,9
+FC Juarez,30,10,7,13,60,62,-2,37,10
+Gallos Blancos Queretaro FC,30,7,12,11,36,41,-5,33,11
+Club Necaxa,30,7,7,16,36,52,-16,28,12
+Atlas Guadalajara,30,7,6,17,54,76,-22,27,13
+Pumas de la UNAM,30,6,9,15,29,55,-26,27,14
+Cruz Azul,30,3,11,16,29,45,-16,20,15
+Club Tijuana,30,1,12,17,17,32,-15,15,16
+Club Leon,30,1,10,19,13,47,-34,13,17
+Mazatlan,30,0,3,27,31,71,-40,3,18
+Tigres de la Universidad Autonoma,31,30,1,0,61,19,42,91,1
+CF Monterrey,31,25,2,4,82,50,32,77,2
+Atletico San Luis,31,22,7,2,40,25,15,73,3
+CF Pachuca,31,20,6,5,67,51,16,66,4
+Deportivo Guadalajara,31,16,13,2,42,17,25,61,5
+Club de Futbol America,31,15,11,5,90,45,45,56,6
+Deportivo Toluca,31,11,14,6,37,26,11,47,7
+Santos Laguna,31,10,11,10,49,46,3,41,8
+Puebla FC,31,10,11,10,39,46,-7,41,9
+FC Juarez,31,10,8,13,62,65,-3,38,10
+Gallos Blancos Queretaro FC,31,7,12,12,37,44,-7,33,11
+Club Necaxa,31,7,8,16,36,52,-16,29,12
+Atlas Guadalajara,31,7,7,17,54,76,-22,28,13
+Pumas de la UNAM,31,6,10,15,31,57,-26,28,14
+Cruz Azul,31,3,12,16,30,46,-16,21,15
+Club Tijuana,31,1,13,17,18,33,-15,16,16
+Club Leon,31,1,11,19,15,47,-32,14,17
+Mazatlan,31,0,3,28,32,71,-39,3,18
+Tigres de la Universidad Autonoma,32,31,1,0,64,19,45,94,1
+CF Monterrey,32,26,2,4,85,51,34,80,2
+Atletico San Luis,32,23,7,2,43,26,17,76,3
+CF Pachuca,32,21,6,5,70,51,19,69,4
+Deportivo Guadalajara,32,17,13,2,48,17,31,64,5
+Club de Futbol America,32,16,11,5,94,47,47,59,6
+Deportivo Toluca,32,12,14,6,38,26,12,50,7
+Santos Laguna,32,11,11,10,52,48,4,44,8
+Puebla FC,32,11,11,10,41,47,-6,44,9
+FC Juarez,32,11,8,13,68,68,0,41,10
+Gallos Blancos Queretaro FC,32,8,12,12,37,45,-8,36,11
+Club Necaxa,32,8,8,16,39,52,-13,32,12
+Atlas Guadalajara,32,8,7,17,56,79,-23,31,13
+Pumas de la UNAM,32,7,10,15,31,57,-26,31,14
+Cruz Azul,32,3,13,16,31,47,-16,22,15
+Club Tijuana,32,1,14,17,19,33,-14,17,16
+Club Leon,32,1,12,19,16,48,-32,15,17
+Mazatlan,32,0,3,29,33,72,-39,3,18
+Tigres de la Universidad Autonoma,33,31,2,0,64,19,45,95,1
+CF Monterrey,33,26,2,5,86,51,35,80,2
+Atletico San Luis,33,23,8,2,43,27,16,77,3
+CF Pachuca,33,21,6,6,71,52,19,69,4
+Deportivo Guadalajara,33,18,13,2,48,17,31,67,5
+Club de Futbol America,33,16,11,6,94,48,46,59,6
+Deportivo Toluca,33,12,15,6,40,29,11,51,7
+Santos Laguna,33,11,11,11,52,51,1,44,8
+Puebla FC,33,11,11,11,42,47,-5,44,9
+FC Juarez,33,11,8,14,68,70,-2,41,10
+Gallos Blancos Queretaro FC,33,9,12,12,39,45,-6,39,11
+Club Necaxa,33,8,8,17,40,52,-12,32,12
+Atlas Guadalajara,33,8,7,18,56,84,-28,31,13
+Pumas de la UNAM,33,7,10,16,31,61,-30,31,14
+Cruz Azul,33,3,13,17,31,48,-17,22,15
+Club Tijuana,33,1,14,18,19,34,-15,17,16
+Club Leon,33,1,12,20,17,50,-33,15,17
+Mazatlan,33,0,3,30,33,78,-45,3,18
+Tigres de la Universidad Autonoma,34,32,2,0,67,20,47,98,1
+CF Monterrey,34,27,2,5,88,55,33,83,2
+Atletico San Luis,34,23,9,2,43,28,15,78,3
+CF Pachuca,34,21,7,6,74,53,21,70,4
+Deportivo Guadalajara,34,18,14,2,50,18,32,68,5
+Club de Futbol America,34,16,12,6,96,49,47,60,6
+Deportivo Toluca,34,12,16,6,40,30,10,52,7
+Santos Laguna,34,11,12,11,53,54,-1,45,8
+Puebla FC,34,11,12,11,43,48,-5,45,9
+FC Juarez,34,11,8,15,68,71,-3,41,10
+Gallos Blancos Queretaro FC,34,9,13,12,40,47,-7,40,11
+Club Necaxa,34,8,8,18,40,54,-14,32,12
+Atlas Guadalajara,34,8,7,19,57,88,-31,31,13
+Pumas de la UNAM,34,7,10,17,31,62,-31,31,14
+Cruz Azul,34,3,13,18,31,49,-18,22,15
+Club Tijuana,34,1,14,19,19,35,-16,17,16
+Club Leon,34,1,12,21,18,50,-32,15,17
+Mazatlan,34,0,3,31,33,80,-47,3,18

@@ -10,10 +10,10 @@ from settings import TEAMS_BRASILEIRAO
 
 
 def make_radar_plot(df_dict: dict[str, pd.DataFrame], player, fig) -> go.Figure:
-    df: pd.DataFrame = df_dict["players_standard_statsP90"]
-    jogador_series: pd.Series = df[
-        (df["Jogador"] == f"{player}")
-    ]  # & (df["Equipe"] == "Atlético Mineiro")]
+    df = df_dict["players_standard_statsP90"]  # noqa: PD901
+    df = df.drop(df[df["npxG"] == 0 or df["PrgC"] == 0 or df["PrgR"] == 0].index)  # noqa: PD901
+
+    jogador_series: pd.Series = df[(df["Jogador"] == f"{player}")]
     names = ["npxG", "PrgC", "PrgR", "Gols", "xG"]
 
     descriptive_names: np.array = np.array(
@@ -45,7 +45,9 @@ def make_radar_plot(df_dict: dict[str, pd.DataFrame], player, fig) -> go.Figure:
 
 
 def make_mean_radar_plot(df_dict, ticker, fig) -> go.Figure:
-    df: pd.DataFrame = df_dict["players_standard_statsP90"]
+    df = df_dict["players_standard_statsP90"]  # noqa: PD901
+    df = df.drop(df[df["npxG"] == 0 or df["PrgC"] == 0 or df["PrgR"] == 0].index)  # noqa: PD901
+
     jogador_series: pd.Series
     descriptive_names: np.array = np.array(
         [
