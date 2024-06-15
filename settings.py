@@ -1,4 +1,5 @@
 # Constantes globais utilizadas entre os arquivos
+PAGES_CONTENT_DIR: str = "pages_content/"
 SHOTS_DATA_DIR: str = "data/shots/"
 BRASILEIRO_DATA_DIR: str = "data/brasileirao/"
 ELO_DATA_DIR: str = "data/elo/"

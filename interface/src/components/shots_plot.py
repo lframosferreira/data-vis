@@ -86,12 +86,9 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                 .reset_index(drop=True)
             )
 
-            counter = 0
-
-            for _, shot in filtered_shots.iterrows():
-                xG = f"{shot['xG'] * 100:.2f}%"
-                color = COLORS[counter]
-                counter += 1
+            for idx, shot in filtered_shots.iterrows():
+                xG = f"{shot['xG'] * 100:.2f}%"  # noqa: N806
+                color = COLORS[idx]
 
                 pitch.scatter(
                     shot["start_x"],
