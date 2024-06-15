@@ -25,21 +25,22 @@ for filename in os.listdir(BRASILEIRO_DATA_DIR):
 
 layout = html.Div(
     [
-        html.H2("RadarPlot", style={"textAlign": "center"}),
-        html.H3("Comparação entre jogadores", style={"textAlign": "center"}),
-        html.Div(
-            className="radar-plot",
-            children=[
-                radar_plot_players_dropdown.render(df_dict=df_dict),
-                radar_plot_players.render(df_dict=df_dict),
-            ],
-        ),
-        html.H3("Comparação entre jogador e posição", style={"textAlign": "center"}),
+        html.H2("Comparação entre jogador e posição", style={"textAlign": "center"}),
+        html.P("Essa visualização tem como objetivo facilitar a comparação entre as métricas de um jogador específico com uma posição ou time. A métrica usada é a média simples dos valores dos outros jogadores daquele time ou posição.", style={"textAlign": "start", "margin-bottom": "30px","margin-top": "30px"}),
         html.Div(
             className="radar-position-plot",
             children=[
                 radar_plot_positions_dropdown.render(df_dict=df_dict),
                 radar_plot_positions.render(df_dict=df_dict),
+            ],
+        ),
+        html.H2("Comparação entre jogadores", style={"textAlign": "center"}),
+        html.P("Essa visualização tem como objetivo facilitar a comparação entre as métricas entre jogadores.", style={"textAlign": "start", "margin-bottom": "30px","margin-top": "30px"}),
+        html.Div(
+            className="radar-plot",
+            children=[
+                radar_plot_players_dropdown.render(df_dict=df_dict),
+                radar_plot_players.render(df_dict=df_dict),
             ],
         ),
     ]
