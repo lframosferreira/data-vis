@@ -4,14 +4,7 @@ from dash import Output
 from dash import callback
 from dash import dcc
 from dash import html
-
-LEAGUES: dict[str, str] = {
-    "england": "Premier League",
-    "spain": "La Liga",
-    "germany": "Bundesliga",
-    "italy": "Serie A",
-    "france": "Ligue 1",
-}
+from settings import LEAGUES
 
 PROBABILITY_THRESHOLD = 0.3
 

@@ -7,16 +7,8 @@ from dash import Input
 from dash import Output
 from dash import callback
 from mplsoccer import VerticalPitch
-
-LEAGUES: dict[str, str] = {
-    "england": "Premier League",
-    "spain": "La Liga",
-    "germany": "Bundesliga",
-    "italy": "Serie A",
-    "france": "Ligue 1",
-}
-
-COLORS = ["#0072B2", "#F0E442", "#4f4e4e", "#D55E00", "#CC79A7"]
+from settings import LEAGUES
+import matplotlib.colors as mcolors
 
 
 def render(df_dict: dict[str, pd.DataFrame]) -> None:
@@ -81,19 +73,23 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                     )
                 ]
                 .sort_values(by="xG")
-                .head(5)
-                .reset_index(drop=True)
             )
 
+            norm = mcolors.Normalize(vmin=filtered_shots["xG"].min(), vmax=filtered_shots["xG"].max())
+            cmap = plt.cm.viridis
+
             for idx, shot in filtered_shots.iterrows():
-                xG = f"{shot['xG'] * 100:.2f}%"  # noqa: N806
-                color = COLORS[idx]
+                xG = f"{shot['xG'] * 100:.2f}%"
+                color = cmap(norm(shot["xG"]))
+
 
                 pitch.scatter(
                     shot["start_x"],
                     shot["start_y"],
                     color=color,
                     s=125,
+                    edgecolor='black', 
+                    linewidth=0.5,  
                     ax=ax,
                     zorder=1.2,
                     label=xG,
@@ -111,9 +107,18 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                 )
 
         if player_name is not None and league is not None:
-            ax.legend(
-                title="Probabilidade de gol", labelspacing=1, bbox_to_anchor=(1.25, 0.7)
-            )
+            norm = mcolors.Normalize(vmin=0, vmax=filtered_shots["xG"].max())
+            sm = plt.cm.ScalarMappable(cmap="viridis", norm=norm)
+            sm.set_array([])
+
+            cbar = fig.colorbar(sm, ax=ax, fraction=0.046, pad=0.04)
+            cbar.set_label('Probabilidade de gol')
+            cbar.ax.get_yaxis().labelpad = 15
+            cbar.ax.get_yaxis().label.set_rotation(270)
+            cbar.ax.get_yaxis().label.set_verticalalignment('bottom')
+
+            legend_elements = []
+            ax.legend(handles=legend_elements, bbox_to_anchor=(1.05, 1), loc='upper left')
 
         img = BytesIO()
         fig.savefig(img, format="png", bbox_inches="tight")

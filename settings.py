@@ -2,6 +2,7 @@
 PAGES_CONTENT_DIR: str = "pages_content/"
 SHOTS_DATA_DIR: str = "data/shots/"
 BRASILEIRO_DATA_DIR: str = "data/brasileirao/"
+SPALD_DATA_DIR: str = "data/spadl_format/"
 ELO_DATA_DIR: str = "data/elo/"
 RANK_DATA_DIR: str = "data/rank/"
 CLUBS_DICT: dict[str, str] = {
@@ -147,6 +148,15 @@ TIMES_BRASILEIRAO_E_POSICOES: list[str] = [
     "MA",
 ]
 
+LEAGUES: dict[str, str] = {
+    "england": "Premier League",
+    "spain": "La Liga",
+    "germany": "Bundesliga",
+    "italy": "Serie A",
+    "france": "Ligue 1",
+}
+
+
 TIMES_BRASILEIRAO: list[str] = [
     "América (MG)",
     "Ath Paranaense",
@@ -169,3 +179,4 @@ TIMES_BRASILEIRAO: list[str] = [
     "São Paulo",
     "Vasco da Gama",
 ]
+
