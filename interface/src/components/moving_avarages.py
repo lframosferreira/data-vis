@@ -3,8 +3,6 @@ import plotly.graph_objects as go
 from dash import dcc
 from dash import html
 
-from settings import TIMES_BRASILEIRAO
-
 
 def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
     return html.Div(
@@ -29,18 +27,20 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                         ],
                         value=5,
                         id="teams-moving-avarages-window-radio",
-                        style={"margin-bottom": "10px", 
-                               "margin-top": "10px",
-                            }
+                        style={
+                            "margin-bottom": "10px",
+                            "margin-top": "10px",
+                        },
                     ),
-                    html.P("As seŕies temporais com janela móvel maiores possuem grau de informação maior, já janelas menores possuem mais informação local", style={"textAlign": "start", "margin-top": "5px"}),
+                    html.P(
+                        "As seŕies temporais com janela móvel maiores possuem grau de informação maior, já janelas menores possuem mais informação local",
+                        style={"textAlign": "start", "margin-top": "5px"},
+                    ),
                 ],
             ),
             dcc.Graph(
                 id="moving-avarages-plot",
-                figure=go.Figure(
-                    data=go.Scatter()
-                ),
+                figure=go.Figure(data=go.Scatter()),
             ),
         ]
     )

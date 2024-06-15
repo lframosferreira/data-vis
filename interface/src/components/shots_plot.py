@@ -6,7 +6,6 @@ import pandas as pd
 from dash import Input
 from dash import Output
 from dash import callback
-from dash import html
 from mplsoccer import VerticalPitch
 
 LEAGUES: dict[str, str] = {
