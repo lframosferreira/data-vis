@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 import dash
 import pandas as pd
@@ -8,6 +9,7 @@ from dash import html
 from interface.src.components import elo_time_series_dropdown
 from interface.src.components import elo_time_series_plot
 from settings import ELO_DATA_DIR
+from settings import PAGES_CONTENT_DIR
 
 dash.register_page(
     __name__,
@@ -22,13 +24,13 @@ for filename in os.listdir(ELO_DATA_DIR):
     df_dict[club_name] = pd.read_csv(f"{ELO_DATA_DIR}/{filename}")
 
 markdown_content: str = ""
-with open("pages_content/elo.md") as f:
+with Path.open(f"{PAGES_CONTENT_DIR}/elo.md") as f:
     markdown_content = f.read()
 
 layout = html.Div(
     [
         html.H2("Elo no futebol", style={"textAlign": "center"}),
-        dcc.Markdown(children=markdown_content),
+        dcc.Markdown(markdown_content),
         html.Div(
             className="elo-time-series-plot",
             children=[
