@@ -25,7 +25,7 @@ championships = list(df_dict.keys())
 
 layout = html.Div(
     children=[
-        bump_chart_dropdown.render(options=championships),
+        bump_chart_dropdown.render(championships, df_dict),
         bump_chart.render(df_dict),
     ]
 )
