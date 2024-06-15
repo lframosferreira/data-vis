@@ -4,20 +4,6 @@ from dash import html
 
 from settings import CLUBS_DICT
 
-RANGE_SLIDER_MARKS: dict[int, str] = {
-    0: "1950",
-    5: "1960",
-    10: "1970",
-    15: "1980",
-    20: "1990",
-    25: "2000",
-    30: "2010",
-    35: "2020",
-    40: "40%",
-    45: "45%",
-    50: "50%",
-}
-
 
 def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
     options: list[str] = [
@@ -34,7 +20,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                 placeholder="Arsenal, Chelsea",
                 options=list(options),
                 value=[],
-                clearable=False,
+                clearable=True,
             ),
             html.Div(
                 id="elo-slider-container",
