@@ -2,7 +2,7 @@
 
 Já pensou em simular seu campeonato favorito e acompanhar os resultados, a cada rodada? Para saber como as coisas poderiam ter sido!
 
-Com ESAK você pode explorar simulações de alguns campeonatos!
+Com o ESAK você pode explorar simulações de alguns campeonatos!
 
 #### Funcionamento
 

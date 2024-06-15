@@ -21,7 +21,11 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
     def apply_moving_average(period):
         # clear plot and dropdown values
         fig = go.Figure()
-        fig.update_layout(xaxis_title="Ano", yaxis_title="Média móvel do valor de Elo")
+        fig.update_layout(
+            xaxis_title="Ano",
+            yaxis_title="Média móvel do valor de Elo",
+            template="seaborn",
+        )
         return fig, []
 
     @callback(
@@ -30,7 +34,11 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
     )
     def display_time_series(ticker, period):
         fig = go.Figure()
-        fig.update_layout(xaxis_title="Ano", yaxis_title="Média móvel do valor de Elo")
+        fig.update_layout(
+            xaxis_title="Ano",
+            yaxis_title="Média móvel do valor de Elo",
+            template="seaborn",
+        )
         if len(ticker) == 0:
             return fig
         for club in ticker:

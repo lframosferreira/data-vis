@@ -19,7 +19,10 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
             f"{year_range[1]}-01-01",
         ]
         fig.update_layout(
-            xaxis_title="Ano", yaxis_title="Elo", xaxis={"range": year_range_in_dates}
+            xaxis_title="Ano",
+            yaxis_title="Elo",
+            xaxis={"range": year_range_in_dates},
+            template="seaborn",
         )
         if len(ticker) == 0:
             return fig

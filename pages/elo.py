@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 import dash
 import pandas as pd
@@ -10,6 +11,7 @@ from interface.src.components import elo_time_series_moving_average_dropdown
 from interface.src.components import elo_time_series_moving_average_plot
 from interface.src.components import elo_time_series_plot
 from settings import ELO_DATA_DIR
+from settings import PAGES_CONTENT_DIR
 
 dash.register_page(
     __name__,
@@ -24,11 +26,11 @@ for filename in os.listdir(ELO_DATA_DIR):
     df_dict[club_name] = pd.read_csv(f"{ELO_DATA_DIR}/{filename}")
 
 markdown_content_elo: str = ""
-with open("pages_content/elo_normal.md") as f:
+with Path.open(f"{PAGES_CONTENT_DIR}/elo_normal.md") as f:
     markdown_content_elo = f.read()
 
 markdown_content_elo_moving_avg: str = ""
-with open("pages_content/elo_media_movel.md") as f:
+with Path.open(f"{PAGES_CONTENT_DIR}/elo_media_movel.md") as f:
     markdown_content_elo_moving_avg = f.read()
 
 layout = html.Div(

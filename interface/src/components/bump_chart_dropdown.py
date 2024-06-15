@@ -1,3 +1,5 @@
+from pathlib import Path
+
 from dash import Input
 from dash import Output
 from dash import callback
@@ -11,7 +13,7 @@ from pandas import DataFrame
 from settings import PAGES_CONTENT_DIR
 
 markdown_content = ""
-with open(f"{PAGES_CONTENT_DIR}/rank.md") as f:
+with Path.open(f"{PAGES_CONTENT_DIR}/rank.md") as f:
     markdown_content = f.read()
 
 

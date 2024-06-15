@@ -39,6 +39,7 @@ def make_radar_plot(df_dict: dict[str, pd.DataFrame], player, fig) -> go.Figure:
             "radialaxis": {"visible": True},
         },
         showlegend=True,
+        template="seaborn",
     )
 
     return fig
@@ -83,6 +84,7 @@ def make_mean_radar_plot(df_dict, ticker, fig) -> go.Figure:
             "radialaxis": {"visible": True},
         },
         showlegend=True,
+        template="seaborn",
     )
 
     return fig
