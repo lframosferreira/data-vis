@@ -146,3 +146,26 @@ TIMES_BRASILEIRAO_E_POSICOES: list[str] = [
     "PD",
     "MA",
 ]
+
+TIMES_BRASILEIRAO: list[str] = [
+    "América (MG)",
+    "Ath Paranaense",
+    "Atlético Mineiro",
+    "Bahia",
+    "Botafogo (RJ)",
+    "Corinthians",
+    "Coritiba",
+    "Cruzeiro",
+    "Cuiabá",
+    "Flamengo",
+    "Fluminense",
+    "Fortaleza",
+    "Goiás",
+    "Grêmio",
+    "Internacional",
+    "Palmeiras",
+    "Red Bull Bragantino",
+    "Santos",
+    "São Paulo",
+    "Vasco da Gama",
+]
