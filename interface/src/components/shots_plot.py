@@ -80,7 +80,6 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
             norm = mcolors.Normalize(vmin=filtered_shots["xG"].min(), vmax=filtered_shots["xG"].max())
             cmap = plt.cm.viridis
 
-
             for idx, shot in filtered_shots.iterrows():
                 xG = f"{shot['xG'] * 100:.2f}%"
                 color = cmap(norm(shot["xG"]))
@@ -109,10 +108,18 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                 )
 
         if player_name is not None and league is not None:
-            legend = ax.legend(
-                title="Probabilidade de gol", labelspacing=1, bbox_to_anchor=(1.25, 0.9)
-            )
-            legend.get_frame().set_facecolor('white')
+            norm = mcolors.Normalize(vmin=0, vmax=filtered_shots["xG"].max())
+            sm = plt.cm.ScalarMappable(cmap="viridis", norm=norm)
+            sm.set_array([])
+
+            cbar = fig.colorbar(sm, ax=ax, fraction=0.046, pad=0.04)
+            cbar.set_label('Probabilidade de gol')
+            cbar.ax.get_yaxis().labelpad = 15
+            cbar.ax.get_yaxis().label.set_rotation(270)
+            cbar.ax.get_yaxis().label.set_verticalalignment('bottom')
+
+            legend_elements = []
+            ax.legend(handles=legend_elements, bbox_to_anchor=(1.05, 1), loc='upper left')
 
         img = BytesIO()
         fig.savefig(img, format="png", bbox_inches="tight")
@@ -123,16 +130,3 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
         plt.close(fig)
 
         return f"data:image/png;base64,{img_base64}"
-
-    layout = html.Div(
-        [
-            dcc.Dropdown(
-                id="league-dropdown",
-                options=[
-                    {"label": league, "value": league} for league in LEAGUES.values()
-                ],
-            ),
-            dcc.Dropdown(id="shots-players-dropdown"),
-            html.Img(id="shots-plot"),
-        ]
-    )

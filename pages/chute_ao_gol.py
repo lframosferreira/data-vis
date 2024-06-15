@@ -34,6 +34,24 @@ layout = html.Div(
         html.H2(
             "Visualização dos gols e suas probabilidades", style={"textAlign": "center"}
         ),
+        html.P(
+            """
+            Utilizamos os dados das partidas das principais ligas europeias, mais especificamente os dados de chutes e de faltas ao gol, 
+            para treinar um modelo de regressão logística para prever as chances de um chute ser gol. 
+            De forma mais específica, as features utilizadas foram: distância até o gol, ângulo de chute, distância quadrática até o gol 
+            e a parte do corpo que realizou a finalização ao gol. 
+            """,
+            style={"textAlign": "justify", "margin": "20px"},
+        ),
+        html.P(
+            """
+            Com essa métrica podemos analisar se os jogadores artilheiros mais 
+            famosos realmente têm uma qualidade superior que os permite converter mais oportunidades de gols em posições desfavoráveis. 
+            Além de ser possível observar de qual lado do campo um jogador se sobressai ao checar em qual deles ele realiza com sucesso 
+            mais finalizações improváveis.
+            """,
+            style={"textAlign": "justify", "margin": "20px"},
+        ),
         html.Div(
             className="shots-plot",
             children=[
