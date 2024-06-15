@@ -1,12 +1,33 @@
-Projeto final de Visualização de Dados
+Visualização de Dados
+Projeto Final
 
+INTEGRANTES
+
+- Luís Felipe Ramos Ferreira
 - Caio Teles Cunha
-- Deborah Santos Andrade Guimarães
 - Diogo Oliveira Neiss
 - Igor Lacerda Faria da Silva
 - Ivan Vilaça de Assis
+
+Todos os membros do grupo trabalharam em conjunto e em mesmo esforço para a entrega do projeto final.
+Em particular, cada integrante teve como objetivo e foco específico as seguintes tarefas:
+
 - Luís Felipe Ramos Ferreira
 
-LINK DE ACESSO PARA A FERRAMENTA:
+elo
 
-blablubleh
+- Caio Teles Cunha
+
+radar plot
+
+- Diogo Oliveira Neiss
+
+nao lembro agr
+
+- Igor Lacerda Faria da Silva
+
+poisson
+
+- Ivan Vilaça de Assis
+
+chutes
