@@ -11,7 +11,7 @@ def make_radar_plot(df_dict: dict[str, pd.DataFrame], player, fig) -> go.Figure:
     df: pd.DataFrame = df_dict["players_standard_statsP90"]
     jogador_series: pd.Series = df[
         (df["Jogador"] == f"{player}")
-    ]  # & (df["Equipe"] == "Atlético Mineiro")]
+    ]
     names = ["npxG", "PrgC", "PrgR", "Gols", "xG"]
 
     descriptive_names: np.array = np.array(
