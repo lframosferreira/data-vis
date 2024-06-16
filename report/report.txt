@@ -40,4 +40,6 @@ e ajustes para garantir a consistência do projeto, tanto em termos de código c
 
 - Ivan Vilaça de Assis
 
-chutes
+Preparação dos dados aplicando o modelo de Regressão Logística para prever a probabilidade de um chute ser um gol. Elaboração da visualização
+de chutes ao gol com a opção de seleção dos chutes mais improváveis. Elaboração do plot de sequências de ações até o gol utilizando os dados
+de partida que foram preparados pelo Diogo. Ajustes e pequenas refatorações no sistema em geral.
