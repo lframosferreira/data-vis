@@ -1,0 +1,761 @@
+,game_id,game_date,game_label,game_week
+0,2500089,13/05/2018,"Burnley - AFC Bournemouth, 1 - 2",38
+1,2500089,13/05/2018,"Burnley - AFC Bournemouth, 1 - 2",38
+2,2500090,13/05/2018,"Crystal Palace - West Bromwich Albion, 2 - 0",38
+3,2500090,13/05/2018,"Crystal Palace - West Bromwich Albion, 2 - 0",38
+4,2500091,13/05/2018,"Huddersfield Town - Arsenal, 0 - 1",38
+5,2500091,13/05/2018,"Huddersfield Town - Arsenal, 0 - 1",38
+6,2500092,13/05/2018,"Liverpool - Brighton & Hove Albion, 4 - 0",38
+7,2500092,13/05/2018,"Liverpool - Brighton & Hove Albion, 4 - 0",38
+8,2500093,13/05/2018,"Manchester United - Watford, 1 - 0",38
+9,2500093,13/05/2018,"Manchester United - Watford, 1 - 0",38
+10,2500094,13/05/2018,"Newcastle United - Chelsea, 3 - 0",38
+11,2500094,13/05/2018,"Newcastle United - Chelsea, 3 - 0",38
+12,2500095,13/05/2018,"Southampton - Manchester City, 0 - 1",38
+13,2500095,13/05/2018,"Southampton - Manchester City, 0 - 1",38
+14,2500096,13/05/2018,"Swansea City - Stoke City, 1 - 2",38
+15,2500096,13/05/2018,"Swansea City - Stoke City, 1 - 2",38
+16,2500097,13/05/2018,"Tottenham Hotspur - Leicester City, 5 - 4",38
+17,2500097,13/05/2018,"Tottenham Hotspur - Leicester City, 5 - 4",38
+18,2500098,13/05/2018,"West Ham United - Everton, 3 - 1",38
+19,2500098,13/05/2018,"West Ham United - Everton, 3 - 1",38
+20,2500028,10/05/2018,"West Ham United - Manchester United, 0 - 0",31
+21,2500028,10/05/2018,"West Ham United - Manchester United, 0 - 0",31
+22,2500024,09/05/2018,"Manchester City - Brighton & Hove Albion, 3 - 1",31
+23,2500024,09/05/2018,"Manchester City - Brighton & Hove Albion, 3 - 1",31
+24,2500027,09/05/2018,"Tottenham Hotspur - Newcastle United, 1 - 0",31
+25,2500027,09/05/2018,"Tottenham Hotspur - Newcastle United, 1 - 0",31
+26,2500022,09/05/2018,"Leicester City - Arsenal, 3 - 1",31
+27,2500022,09/05/2018,"Leicester City - Arsenal, 3 - 1",31
+28,2500062,09/05/2018,"Chelsea - Huddersfield Town, 1 - 1",35
+29,2500062,09/05/2018,"Chelsea - Huddersfield Town, 1 - 1",35
+30,2500026,08/05/2018,"Swansea City - Southampton, 0 - 1",31
+31,2500026,08/05/2018,"Swansea City - Southampton, 0 - 1",31
+32,2500080,06/05/2018,"Arsenal - Burnley, 5 - 0",37
+33,2500080,06/05/2018,"Arsenal - Burnley, 5 - 0",37
+34,2500082,06/05/2018,"Chelsea - Liverpool, 1 - 0",37
+35,2500082,06/05/2018,"Chelsea - Liverpool, 1 - 0",37
+36,2500085,06/05/2018,"Manchester City - Huddersfield Town, 0 - 0",37
+37,2500085,06/05/2018,"Manchester City - Huddersfield Town, 0 - 0",37
+38,2500083,05/05/2018,"Everton - Southampton, 1 - 1",37
+39,2500083,05/05/2018,"Everton - Southampton, 1 - 1",37
+40,2500079,05/05/2018,"AFC Bournemouth - Swansea City, 1 - 0",37
+41,2500079,05/05/2018,"AFC Bournemouth - Swansea City, 1 - 0",37
+42,2500084,05/05/2018,"Leicester City - West Ham United, 0 - 2",37
+43,2500084,05/05/2018,"Leicester City - West Ham United, 0 - 2",37
+44,2500087,05/05/2018,"Watford - Newcastle United, 2 - 1",37
+45,2500087,05/05/2018,"Watford - Newcastle United, 2 - 1",37
+46,2500088,05/05/2018,"West Bromwich Albion - Tottenham Hotspur, 1 - 0",37
+47,2500088,05/05/2018,"West Bromwich Albion - Tottenham Hotspur, 1 - 0",37
+48,2500086,05/05/2018,"Stoke City - Crystal Palace, 1 - 2",37
+49,2500086,05/05/2018,"Stoke City - Crystal Palace, 1 - 2",37
+50,2500081,04/05/2018,"Brighton & Hove Albion - Manchester United, 1 - 0",37
+51,2500081,04/05/2018,"Brighton & Hove Albion - Manchester United, 1 - 0",37
+52,2500077,30/04/2018,"Tottenham Hotspur - Watford, 2 - 0",36
+53,2500077,30/04/2018,"Tottenham Hotspur - Watford, 2 - 0",36
+54,2500073,29/04/2018,"Manchester United - Arsenal, 2 - 1",36
+55,2500073,29/04/2018,"Manchester United - Arsenal, 2 - 1",36
+56,2500078,29/04/2018,"West Ham United - Manchester City, 1 - 4",36
+57,2500078,29/04/2018,"West Ham United - Manchester City, 1 - 4",36
+58,2500076,28/04/2018,"Swansea City - Chelsea, 0 - 1",36
+59,2500076,28/04/2018,"Swansea City - Chelsea, 0 - 1",36
+60,2500069,28/04/2018,"Burnley - Brighton & Hove Albion, 0 - 0",36
+61,2500069,28/04/2018,"Burnley - Brighton & Hove Albion, 0 - 0",36
+62,2500070,28/04/2018,"Crystal Palace - Leicester City, 5 - 0",36
+63,2500070,28/04/2018,"Crystal Palace - Leicester City, 5 - 0",36
+64,2500071,28/04/2018,"Huddersfield Town - Everton, 0 - 2",36
+65,2500071,28/04/2018,"Huddersfield Town - Everton, 0 - 2",36
+66,2500074,28/04/2018,"Newcastle United - West Bromwich Albion, 0 - 1",36
+67,2500074,28/04/2018,"Newcastle United - West Bromwich Albion, 0 - 1",36
+68,2500075,28/04/2018,"Southampton - AFC Bournemouth, 2 - 1",36
+69,2500075,28/04/2018,"Southampton - AFC Bournemouth, 2 - 1",36
+70,2500072,28/04/2018,"Liverpool - Stoke City, 0 - 0",36
+71,2500072,28/04/2018,"Liverpool - Stoke City, 0 - 0",36
+72,2500063,23/04/2018,"Everton - Newcastle United, 1 - 0",35
+73,2500063,23/04/2018,"Everton - Newcastle United, 1 - 0",35
+74,2500065,22/04/2018,"Manchester City - Swansea City, 5 - 0",35
+75,2500065,22/04/2018,"Manchester City - Swansea City, 5 - 0",35
+76,2500060,22/04/2018,"Arsenal - West Ham United, 4 - 1",35
+77,2500060,22/04/2018,"Arsenal - West Ham United, 4 - 1",35
+78,2500066,22/04/2018,"Stoke City - Burnley, 1 - 1",35
+79,2500066,22/04/2018,"Stoke City - Burnley, 1 - 1",35
+80,2500067,21/04/2018,"Watford - Crystal Palace, 0 - 0",35
+81,2500067,21/04/2018,"Watford - Crystal Palace, 0 - 0",35
+82,2500068,21/04/2018,"West Bromwich Albion - Liverpool, 2 - 2",35
+83,2500068,21/04/2018,"West Bromwich Albion - Liverpool, 2 - 2",35
+84,2500020,19/04/2018,"Burnley - Chelsea, 1 - 2",31
+85,2500020,19/04/2018,"Burnley - Chelsea, 1 - 2",31
+86,2500064,19/04/2018,"Leicester City - Southampton, 0 - 0",35
+87,2500064,19/04/2018,"Leicester City - Southampton, 0 - 0",35
+88,2500059,18/04/2018,"AFC Bournemouth - Manchester United, 0 - 2",35
+89,2500059,18/04/2018,"AFC Bournemouth - Manchester United, 0 - 2",35
+90,2500061,17/04/2018,"Brighton & Hove Albion - Tottenham Hotspur, 1 - 1",35
+91,2500061,17/04/2018,"Brighton & Hove Albion - Tottenham Hotspur, 1 - 1",35
+92,2500058,16/04/2018,"West Ham United - Stoke City, 1 - 1",34
+93,2500058,16/04/2018,"West Ham United - Stoke City, 1 - 1",34
+94,2500053,15/04/2018,"Manchester United - West Bromwich Albion, 0 - 1",34
+95,2500053,15/04/2018,"Manchester United - West Bromwich Albion, 0 - 1",34
+96,2500054,15/04/2018,"Newcastle United - Arsenal, 2 - 1",34
+97,2500054,15/04/2018,"Newcastle United - Arsenal, 2 - 1",34
+98,2500057,14/04/2018,"Tottenham Hotspur - Manchester City, 1 - 3",34
+99,2500057,14/04/2018,"Tottenham Hotspur - Manchester City, 1 - 3",34
+100,2500052,14/04/2018,"Liverpool - AFC Bournemouth, 3 - 0",34
+101,2500052,14/04/2018,"Liverpool - AFC Bournemouth, 3 - 0",34
+102,2500049,14/04/2018,"Burnley - Leicester City, 2 - 1",34
+103,2500049,14/04/2018,"Burnley - Leicester City, 2 - 1",34
+104,2500050,14/04/2018,"Crystal Palace - Brighton & Hove Albion, 3 - 2",34
+105,2500050,14/04/2018,"Crystal Palace - Brighton & Hove Albion, 3 - 2",34
+106,2500051,14/04/2018,"Huddersfield Town - Watford, 1 - 0",34
+107,2500051,14/04/2018,"Huddersfield Town - Watford, 1 - 0",34
+108,2500056,14/04/2018,"Swansea City - Everton, 1 - 1",34
+109,2500056,14/04/2018,"Swansea City - Everton, 1 - 1",34
+110,2500055,14/04/2018,"Southampton - Chelsea, 2 - 3",34
+111,2500055,14/04/2018,"Southampton - Chelsea, 2 - 3",34
+112,2500042,08/04/2018,"Chelsea - West Ham United, 1 - 1",33
+113,2500042,08/04/2018,"Chelsea - West Ham United, 1 - 1",33
+114,2500040,08/04/2018,"Arsenal - Southampton, 3 - 2",33
+115,2500040,08/04/2018,"Arsenal - Southampton, 3 - 2",33
+116,2500045,07/04/2018,"Manchester City - Manchester United, 2 - 3",33
+117,2500045,07/04/2018,"Manchester City - Manchester United, 2 - 3",33
+118,2500039,07/04/2018,"AFC Bournemouth - Crystal Palace, 2 - 2",33
+119,2500039,07/04/2018,"AFC Bournemouth - Crystal Palace, 2 - 2",33
+120,2500041,07/04/2018,"Brighton & Hove Albion - Huddersfield Town, 1 - 1",33
+121,2500041,07/04/2018,"Brighton & Hove Albion - Huddersfield Town, 1 - 1",33
+122,2500044,07/04/2018,"Leicester City - Newcastle United, 1 - 2",33
+123,2500044,07/04/2018,"Leicester City - Newcastle United, 1 - 2",33
+124,2500046,07/04/2018,"Stoke City - Tottenham Hotspur, 1 - 2",33
+125,2500046,07/04/2018,"Stoke City - Tottenham Hotspur, 1 - 2",33
+126,2500047,07/04/2018,"Watford - Burnley, 1 - 2",33
+127,2500047,07/04/2018,"Watford - Burnley, 1 - 2",33
+128,2500048,07/04/2018,"West Bromwich Albion - Swansea City, 1 - 1",33
+129,2500048,07/04/2018,"West Bromwich Albion - Swansea City, 1 - 1",33
+130,2500043,07/04/2018,"Everton - Liverpool, 0 - 0",33
+131,2500043,07/04/2018,"Everton - Liverpool, 0 - 0",33
+132,2500031,01/04/2018,"Chelsea - Tottenham Hotspur, 1 - 3",32
+133,2500031,01/04/2018,"Chelsea - Tottenham Hotspur, 1 - 3",32
+134,2500029,01/04/2018,"Arsenal - Stoke City, 3 - 0",32
+135,2500029,01/04/2018,"Arsenal - Stoke City, 3 - 0",32
+136,2500033,31/03/2018,"Everton - Manchester City, 1 - 3",32
+137,2500033,31/03/2018,"Everton - Manchester City, 1 - 3",32
+138,2499738,31/03/2018,"West Ham United - Southampton, 3 - 0",32
+139,2499738,31/03/2018,"West Ham United - Southampton, 3 - 0",32
+140,2500030,31/03/2018,"Brighton & Hove Albion - Leicester City, 0 - 2",32
+141,2500030,31/03/2018,"Brighton & Hove Albion - Leicester City, 0 - 2",32
+142,2500034,31/03/2018,"Manchester United - Swansea City, 2 - 0",32
+143,2500034,31/03/2018,"Manchester United - Swansea City, 2 - 0",32
+144,2500035,31/03/2018,"Newcastle United - Huddersfield Town, 1 - 0",32
+145,2500035,31/03/2018,"Newcastle United - Huddersfield Town, 1 - 0",32
+146,2500037,31/03/2018,"Watford - AFC Bournemouth, 2 - 2",32
+147,2500037,31/03/2018,"Watford - AFC Bournemouth, 2 - 2",32
+148,2500038,31/03/2018,"West Bromwich Albion - Burnley, 1 - 2",32
+149,2500038,31/03/2018,"West Bromwich Albion - Burnley, 1 - 2",32
+150,2500032,31/03/2018,"Crystal Palace - Liverpool, 1 - 2",32
+151,2500032,31/03/2018,"Crystal Palace - Liverpool, 1 - 2",32
+152,2500023,17/03/2018,"Liverpool - Watford, 5 - 0",31
+153,2500023,17/03/2018,"Liverpool - Watford, 5 - 0",31
+154,2500019,17/03/2018,"AFC Bournemouth - West Bromwich Albion, 2 - 1",31
+155,2500019,17/03/2018,"AFC Bournemouth - West Bromwich Albion, 2 - 1",31
+156,2500021,17/03/2018,"Huddersfield Town - Crystal Palace, 0 - 2",31
+157,2500021,17/03/2018,"Huddersfield Town - Crystal Palace, 0 - 2",31
+158,2500025,17/03/2018,"Stoke City - Everton, 1 - 2",31
+159,2500025,17/03/2018,"Stoke City - Everton, 1 - 2",31
+160,2500016,12/03/2018,"Stoke City - Manchester City, 0 - 2",30
+161,2500016,12/03/2018,"Stoke City - Manchester City, 0 - 2",30
+162,2500009,11/03/2018,"AFC Bournemouth - Tottenham Hotspur, 1 - 4",30
+163,2500009,11/03/2018,"AFC Bournemouth - Tottenham Hotspur, 1 - 4",30
+164,2500010,11/03/2018,"Arsenal - Watford, 3 - 0",30
+165,2500010,11/03/2018,"Arsenal - Watford, 3 - 0",30
+166,2500011,10/03/2018,"Chelsea - Crystal Palace, 2 - 1",30
+167,2500011,10/03/2018,"Chelsea - Crystal Palace, 2 - 1",30
+168,2500012,10/03/2018,"Everton - Brighton & Hove Albion, 2 - 0",30
+169,2500012,10/03/2018,"Everton - Brighton & Hove Albion, 2 - 0",30
+170,2500013,10/03/2018,"Huddersfield Town - Swansea City, 0 - 0",30
+171,2500013,10/03/2018,"Huddersfield Town - Swansea City, 0 - 0",30
+172,2500015,10/03/2018,"Newcastle United - Southampton, 3 - 0",30
+173,2500015,10/03/2018,"Newcastle United - Southampton, 3 - 0",30
+174,2500017,10/03/2018,"West Bromwich Albion - Leicester City, 1 - 4",30
+175,2500017,10/03/2018,"West Bromwich Albion - Leicester City, 1 - 4",30
+176,2500018,10/03/2018,"West Ham United - Burnley, 0 - 3",30
+177,2500018,10/03/2018,"West Ham United - Burnley, 0 - 3",30
+178,2500014,10/03/2018,"Manchester United - Liverpool, 2 - 1",30
+179,2500014,10/03/2018,"Manchester United - Liverpool, 2 - 1",30
+180,2500001,05/03/2018,"Crystal Palace - Manchester United, 2 - 3",29
+181,2500001,05/03/2018,"Crystal Palace - Manchester United, 2 - 3",29
+182,2500004,04/03/2018,"Manchester City - Chelsea, 1 - 0",29
+183,2500004,04/03/2018,"Manchester City - Chelsea, 1 - 0",29
+184,2499999,04/03/2018,"Brighton & Hove Albion - Arsenal, 2 - 1",29
+185,2499999,04/03/2018,"Brighton & Hove Albion - Arsenal, 2 - 1",29
+186,2500003,03/03/2018,"Liverpool - Newcastle United, 2 - 0",29
+187,2500003,03/03/2018,"Liverpool - Newcastle United, 2 - 0",29
+188,2500002,03/03/2018,"Leicester City - AFC Bournemouth, 1 - 1",29
+189,2500002,03/03/2018,"Leicester City - AFC Bournemouth, 1 - 1",29
+190,2500005,03/03/2018,"Southampton - Stoke City, 0 - 0",29
+191,2500005,03/03/2018,"Southampton - Stoke City, 0 - 0",29
+192,2500006,03/03/2018,"Swansea City - West Ham United, 4 - 1",29
+193,2500006,03/03/2018,"Swansea City - West Ham United, 4 - 1",29
+194,2500007,03/03/2018,"Tottenham Hotspur - Huddersfield Town, 2 - 0",29
+195,2500007,03/03/2018,"Tottenham Hotspur - Huddersfield Town, 2 - 0",29
+196,2500008,03/03/2018,"Watford - West Bromwich Albion, 1 - 0",29
+197,2500008,03/03/2018,"Watford - West Bromwich Albion, 1 - 0",29
+198,2500000,03/03/2018,"Burnley - Everton, 2 - 1",29
+199,2500000,03/03/2018,"Burnley - Everton, 2 - 1",29
+200,2499990,01/03/2018,"Arsenal - Manchester City, 0 - 3",28
+201,2499990,01/03/2018,"Arsenal - Manchester City, 0 - 3",28
+202,2499996,25/02/2018,"Manchester United - Chelsea, 2 - 1",28
+203,2499996,25/02/2018,"Manchester United - Chelsea, 2 - 1",28
+204,2499993,25/02/2018,"Crystal Palace - Tottenham Hotspur, 0 - 1",28
+205,2499993,25/02/2018,"Crystal Palace - Tottenham Hotspur, 0 - 1",28
+206,2499997,24/02/2018,"Watford - Everton, 1 - 0",28
+207,2499997,24/02/2018,"Watford - Everton, 1 - 0",28
+208,2499989,24/02/2018,"AFC Bournemouth - Newcastle United, 2 - 2",28
+209,2499989,24/02/2018,"AFC Bournemouth - Newcastle United, 2 - 2",28
+210,2499991,24/02/2018,"Brighton & Hove Albion - Swansea City, 4 - 1",28
+211,2499991,24/02/2018,"Brighton & Hove Albion - Swansea City, 4 - 1",28
+212,2499992,24/02/2018,"Burnley - Southampton, 1 - 1",28
+213,2499992,24/02/2018,"Burnley - Southampton, 1 - 1",28
+214,2499995,24/02/2018,"Liverpool - West Ham United, 4 - 1",28
+215,2499995,24/02/2018,"Liverpool - West Ham United, 4 - 1",28
+216,2499998,24/02/2018,"West Bromwich Albion - Huddersfield Town, 1 - 2",28
+217,2499998,24/02/2018,"West Bromwich Albion - Huddersfield Town, 1 - 2",28
+218,2499994,24/02/2018,"Leicester City - Stoke City, 1 - 1",28
+219,2499994,24/02/2018,"Leicester City - Stoke City, 1 - 1",28
+220,2499979,12/02/2018,"Chelsea - West Bromwich Albion, 3 - 0",27
+221,2499979,12/02/2018,"Chelsea - West Bromwich Albion, 3 - 0",27
+222,2499984,11/02/2018,"Southampton - Liverpool, 0 - 2",27
+223,2499984,11/02/2018,"Southampton - Liverpool, 0 - 2",27
+224,2499983,11/02/2018,"Newcastle United - Manchester United, 1 - 0",27
+225,2499983,11/02/2018,"Newcastle United - Manchester United, 1 - 0",27
+226,2499981,11/02/2018,"Huddersfield Town - AFC Bournemouth, 4 - 1",27
+227,2499981,11/02/2018,"Huddersfield Town - AFC Bournemouth, 4 - 1",27
+228,2499982,10/02/2018,"Manchester City - Leicester City, 5 - 1",27
+229,2499982,10/02/2018,"Manchester City - Leicester City, 5 - 1",27
+230,2499980,10/02/2018,"Everton - Crystal Palace, 3 - 1",27
+231,2499980,10/02/2018,"Everton - Crystal Palace, 3 - 1",27
+232,2499985,10/02/2018,"Stoke City - Brighton & Hove Albion, 1 - 1",27
+233,2499985,10/02/2018,"Stoke City - Brighton & Hove Albion, 1 - 1",27
+234,2499986,10/02/2018,"Swansea City - Burnley, 1 - 0",27
+235,2499986,10/02/2018,"Swansea City - Burnley, 1 - 0",27
+236,2499988,10/02/2018,"West Ham United - Watford, 2 - 0",27
+237,2499988,10/02/2018,"West Ham United - Watford, 2 - 0",27
+238,2499987,10/02/2018,"Tottenham Hotspur - Arsenal, 1 - 0",27
+239,2499987,10/02/2018,"Tottenham Hotspur - Arsenal, 1 - 0",27
+240,2499977,05/02/2018,"Watford - Chelsea, 4 - 1",26
+241,2499977,05/02/2018,"Watford - Chelsea, 4 - 1",26
+242,2499975,04/02/2018,"Liverpool - Tottenham Hotspur, 2 - 2",26
+243,2499975,04/02/2018,"Liverpool - Tottenham Hotspur, 2 - 2",26
+244,2499973,04/02/2018,"Crystal Palace - Newcastle United, 1 - 1",26
+245,2499973,04/02/2018,"Crystal Palace - Newcastle United, 1 - 1",26
+246,2499970,03/02/2018,"Arsenal - Everton, 5 - 1",26
+247,2499970,03/02/2018,"Arsenal - Everton, 5 - 1",26
+248,2499969,03/02/2018,"AFC Bournemouth - Stoke City, 2 - 1",26
+249,2499969,03/02/2018,"AFC Bournemouth - Stoke City, 2 - 1",26
+250,2499971,03/02/2018,"Brighton & Hove Albion - West Ham United, 3 - 1",26
+251,2499971,03/02/2018,"Brighton & Hove Albion - West Ham United, 3 - 1",26
+252,2499974,03/02/2018,"Leicester City - Swansea City, 1 - 1",26
+253,2499974,03/02/2018,"Leicester City - Swansea City, 1 - 1",26
+254,2499976,03/02/2018,"Manchester United - Huddersfield Town, 2 - 0",26
+255,2499976,03/02/2018,"Manchester United - Huddersfield Town, 2 - 0",26
+256,2499978,03/02/2018,"West Bromwich Albion - Southampton, 2 - 3",26
+257,2499978,03/02/2018,"West Bromwich Albion - Southampton, 2 - 3",26
+258,2499972,03/02/2018,"Burnley - Manchester City, 1 - 1",26
+259,2499972,03/02/2018,"Burnley - Manchester City, 1 - 1",26
+260,2499966,31/01/2018,"Manchester City - West Bromwich Albion, 3 - 0",25
+261,2499966,31/01/2018,"Manchester City - West Bromwich Albion, 3 - 0",25
+262,2499967,31/01/2018,"Stoke City - Watford, 0 - 0",25
+263,2499967,31/01/2018,"Stoke City - Watford, 0 - 0",25
+264,2499968,31/01/2018,"Tottenham Hotspur - Manchester United, 2 - 0",25
+265,2499968,31/01/2018,"Tottenham Hotspur - Manchester United, 2 - 0",25
+266,2499962,31/01/2018,"Chelsea - AFC Bournemouth, 0 - 3",25
+267,2499962,31/01/2018,"Chelsea - AFC Bournemouth, 0 - 3",25
+268,2499963,31/01/2018,"Everton - Leicester City, 2 - 1",25
+269,2499963,31/01/2018,"Everton - Leicester City, 2 - 1",25
+270,2499964,31/01/2018,"Newcastle United - Burnley, 1 - 1",25
+271,2499964,31/01/2018,"Newcastle United - Burnley, 1 - 1",25
+272,2499965,31/01/2018,"Southampton - Brighton & Hove Albion, 1 - 1",25
+273,2499965,31/01/2018,"Southampton - Brighton & Hove Albion, 1 - 1",25
+274,2499959,30/01/2018,"Huddersfield Town - Liverpool, 0 - 3",25
+275,2499959,30/01/2018,"Huddersfield Town - Liverpool, 0 - 3",25
+276,2499960,30/01/2018,"Swansea City - Arsenal, 3 - 1",25
+277,2499960,30/01/2018,"Swansea City - Arsenal, 3 - 1",25
+278,2499961,30/01/2018,"West Ham United - Crystal Palace, 1 - 1",25
+279,2499961,30/01/2018,"West Ham United - Crystal Palace, 1 - 1",25
+280,2499957,22/01/2018,"Swansea City - Liverpool, 1 - 0",24
+281,2499957,22/01/2018,"Swansea City - Liverpool, 1 - 0",24
+282,2499955,21/01/2018,"Southampton - Tottenham Hotspur, 1 - 1",24
+283,2499955,21/01/2018,"Southampton - Tottenham Hotspur, 1 - 1",24
+284,2499954,20/01/2018,"Manchester City - Newcastle United, 3 - 1",24
+285,2499954,20/01/2018,"Manchester City - Newcastle United, 3 - 1",24
+286,2499949,20/01/2018,"Arsenal - Crystal Palace, 4 - 1",24
+287,2499949,20/01/2018,"Arsenal - Crystal Palace, 4 - 1",24
+288,2499951,20/01/2018,"Burnley - Manchester United, 0 - 1",24
+289,2499951,20/01/2018,"Burnley - Manchester United, 0 - 1",24
+290,2499952,20/01/2018,"Everton - West Bromwich Albion, 1 - 1",24
+291,2499952,20/01/2018,"Everton - West Bromwich Albion, 1 - 1",24
+292,2499953,20/01/2018,"Leicester City - Watford, 2 - 0",24
+293,2499953,20/01/2018,"Leicester City - Watford, 2 - 0",24
+294,2499956,20/01/2018,"Stoke City - Huddersfield Town, 2 - 0",24
+295,2499956,20/01/2018,"Stoke City - Huddersfield Town, 2 - 0",24
+296,2499958,20/01/2018,"West Ham United - AFC Bournemouth, 1 - 1",24
+297,2499958,20/01/2018,"West Ham United - AFC Bournemouth, 1 - 1",24
+298,2499950,20/01/2018,"Brighton & Hove Albion - Chelsea, 0 - 4",24
+299,2499950,20/01/2018,"Brighton & Hove Albion - Chelsea, 0 - 4",24
+300,2499944,15/01/2018,"Manchester United - Stoke City, 3 - 0",23
+301,2499944,15/01/2018,"Manchester United - Stoke City, 3 - 0",23
+302,2499943,14/01/2018,"Liverpool - Manchester City, 4 - 3",23
+303,2499943,14/01/2018,"Liverpool - Manchester City, 4 - 3",23
+304,2499939,14/01/2018,"AFC Bournemouth - Arsenal, 2 - 1",23
+305,2499939,14/01/2018,"AFC Bournemouth - Arsenal, 2 - 1",23
+306,2499946,13/01/2018,"Tottenham Hotspur - Everton, 4 - 0",23
+307,2499946,13/01/2018,"Tottenham Hotspur - Everton, 4 - 0",23
+308,2499940,13/01/2018,"Chelsea - Leicester City, 0 - 0",23
+309,2499940,13/01/2018,"Chelsea - Leicester City, 0 - 0",23
+310,2499941,13/01/2018,"Crystal Palace - Burnley, 1 - 0",23
+311,2499941,13/01/2018,"Crystal Palace - Burnley, 1 - 0",23
+312,2499942,13/01/2018,"Huddersfield Town - West Ham United, 1 - 4",23
+313,2499942,13/01/2018,"Huddersfield Town - West Ham United, 1 - 4",23
+314,2499945,13/01/2018,"Newcastle United - Swansea City, 1 - 1",23
+315,2499945,13/01/2018,"Newcastle United - Swansea City, 1 - 1",23
+316,2499947,13/01/2018,"Watford - Southampton, 2 - 2",23
+317,2499947,13/01/2018,"Watford - Southampton, 2 - 2",23
+318,2499948,13/01/2018,"West Bromwich Albion - Brighton & Hove Albion, 2 - 0",23
+319,2499948,13/01/2018,"West Bromwich Albion - Brighton & Hove Albion, 2 - 0",23
+320,2499926,04/01/2018,"Tottenham Hotspur - West Ham United, 1 - 1",21
+321,2499926,04/01/2018,"Tottenham Hotspur - West Ham United, 1 - 1",21
+322,2499929,03/01/2018,"Arsenal - Chelsea, 2 - 2",22
+323,2499929,03/01/2018,"Arsenal - Chelsea, 2 - 2",22
+324,2499937,02/01/2018,"Swansea City - Tottenham Hotspur, 0 - 2",22
+325,2499937,02/01/2018,"Swansea City - Tottenham Hotspur, 0 - 2",22
+326,2499938,02/01/2018,"West Ham United - West Bromwich Albion, 2 - 1",22
+327,2499938,02/01/2018,"West Ham United - West Bromwich Albion, 2 - 1",22
+328,2499934,02/01/2018,"Manchester City - Watford, 3 - 1",22
+329,2499934,02/01/2018,"Manchester City - Watford, 3 - 1",22
+330,2499935,02/01/2018,"Southampton - Crystal Palace, 1 - 2",22
+331,2499935,02/01/2018,"Southampton - Crystal Palace, 1 - 2",22
+332,2499932,01/01/2018,"Everton - Manchester United, 0 - 2",22
+333,2499932,01/01/2018,"Everton - Manchester United, 0 - 2",22
+334,2499931,01/01/2018,"Burnley - Liverpool, 1 - 2",22
+335,2499931,01/01/2018,"Burnley - Liverpool, 1 - 2",22
+336,2499933,01/01/2018,"Leicester City - Huddersfield Town, 3 - 0",22
+337,2499933,01/01/2018,"Leicester City - Huddersfield Town, 3 - 0",22
+338,2499936,01/01/2018,"Stoke City - Newcastle United, 0 - 1",22
+339,2499936,01/01/2018,"Stoke City - Newcastle United, 0 - 1",22
+340,2499930,01/01/2018,"Brighton & Hove Albion - AFC Bournemouth, 2 - 2",22
+341,2499930,01/01/2018,"Brighton & Hove Albion - AFC Bournemouth, 2 - 2",22
+342,2499928,31/12/2017,"West Bromwich Albion - Arsenal, 1 - 1",21
+343,2499928,31/12/2017,"West Bromwich Albion - Arsenal, 1 - 1",21
+344,2499921,31/12/2017,"Crystal Palace - Manchester City, 0 - 0",21
+345,2499921,31/12/2017,"Crystal Palace - Manchester City, 0 - 0",21
+346,2499924,30/12/2017,"Manchester United - Southampton, 0 - 0",21
+347,2499924,30/12/2017,"Manchester United - Southampton, 0 - 0",21
+348,2499919,30/12/2017,"AFC Bournemouth - Everton, 2 - 1",21
+349,2499919,30/12/2017,"AFC Bournemouth - Everton, 2 - 1",21
+350,2499920,30/12/2017,"Chelsea - Stoke City, 5 - 0",21
+351,2499920,30/12/2017,"Chelsea - Stoke City, 5 - 0",21
+352,2499922,30/12/2017,"Huddersfield Town - Burnley, 0 - 0",21
+353,2499922,30/12/2017,"Huddersfield Town - Burnley, 0 - 0",21
+354,2499923,30/12/2017,"Liverpool - Leicester City, 2 - 1",21
+355,2499923,30/12/2017,"Liverpool - Leicester City, 2 - 1",21
+356,2499925,30/12/2017,"Newcastle United - Brighton & Hove Albion, 0 - 0",21
+357,2499925,30/12/2017,"Newcastle United - Brighton & Hove Albion, 0 - 0",21
+358,2499927,30/12/2017,"Watford - Swansea City, 1 - 2",21
+359,2499927,30/12/2017,"Watford - Swansea City, 1 - 2",21
+360,2499911,28/12/2017,"Crystal Palace - Arsenal, 2 - 3",20
+361,2499911,28/12/2017,"Crystal Palace - Arsenal, 2 - 3",20
+362,2499915,27/12/2017,"Newcastle United - Manchester City, 0 - 1",20
+363,2499915,27/12/2017,"Newcastle United - Manchester City, 0 - 1",20
+364,2499913,26/12/2017,"Liverpool - Swansea City, 5 - 0",20
+365,2499913,26/12/2017,"Liverpool - Swansea City, 5 - 0",20
+366,2499909,26/12/2017,"AFC Bournemouth - West Ham United, 3 - 3",20
+367,2499909,26/12/2017,"AFC Bournemouth - West Ham United, 3 - 3",20
+368,2499910,26/12/2017,"Chelsea - Brighton & Hove Albion, 2 - 0",20
+369,2499910,26/12/2017,"Chelsea - Brighton & Hove Albion, 2 - 0",20
+370,2499912,26/12/2017,"Huddersfield Town - Stoke City, 1 - 1",20
+371,2499912,26/12/2017,"Huddersfield Town - Stoke City, 1 - 1",20
+372,2499914,26/12/2017,"Manchester United - Burnley, 2 - 2",20
+373,2499914,26/12/2017,"Manchester United - Burnley, 2 - 2",20
+374,2499917,26/12/2017,"Watford - Leicester City, 2 - 1",20
+375,2499917,26/12/2017,"Watford - Leicester City, 2 - 1",20
+376,2499918,26/12/2017,"West Bromwich Albion - Everton, 0 - 0",20
+377,2499918,26/12/2017,"West Bromwich Albion - Everton, 0 - 0",20
+378,2499916,26/12/2017,"Tottenham Hotspur - Southampton, 5 - 2",20
+379,2499916,26/12/2017,"Tottenham Hotspur - Southampton, 5 - 2",20
+380,2499903,23/12/2017,"Leicester City - Manchester United, 2 - 2",19
+381,2499903,23/12/2017,"Leicester City - Manchester United, 2 - 2",19
+382,2499901,23/12/2017,"Burnley - Tottenham Hotspur, 0 - 3",19
+383,2499901,23/12/2017,"Burnley - Tottenham Hotspur, 0 - 3",19
+384,2499900,23/12/2017,"Brighton & Hove Albion - Watford, 1 - 0",19
+385,2499900,23/12/2017,"Brighton & Hove Albion - Watford, 1 - 0",19
+386,2499904,23/12/2017,"Manchester City - AFC Bournemouth, 4 - 0",19
+387,2499904,23/12/2017,"Manchester City - AFC Bournemouth, 4 - 0",19
+388,2499905,23/12/2017,"Southampton - Huddersfield Town, 1 - 1",19
+389,2499905,23/12/2017,"Southampton - Huddersfield Town, 1 - 1",19
+390,2499906,23/12/2017,"Stoke City - West Bromwich Albion, 3 - 1",19
+391,2499906,23/12/2017,"Stoke City - West Bromwich Albion, 3 - 1",19
+392,2499907,23/12/2017,"Swansea City - Crystal Palace, 1 - 1",19
+393,2499907,23/12/2017,"Swansea City - Crystal Palace, 1 - 1",19
+394,2499908,23/12/2017,"West Ham United - Newcastle United, 2 - 3",19
+395,2499908,23/12/2017,"West Ham United - Newcastle United, 2 - 3",19
+396,2499902,23/12/2017,"Everton - Chelsea, 0 - 0",19
+397,2499902,23/12/2017,"Everton - Chelsea, 0 - 0",19
+398,2499899,22/12/2017,"Arsenal - Liverpool, 3 - 3",19
+399,2499899,22/12/2017,"Arsenal - Liverpool, 3 - 3",19
+400,2499893,18/12/2017,"Everton - Swansea City, 3 - 1",18
+401,2499893,18/12/2017,"Everton - Swansea City, 3 - 1",18
+402,2499889,17/12/2017,"AFC Bournemouth - Liverpool, 0 - 4",18
+403,2499889,17/12/2017,"AFC Bournemouth - Liverpool, 0 - 4",18
+404,2499898,17/12/2017,"West Bromwich Albion - Manchester United, 1 - 2",18
+405,2499898,17/12/2017,"West Bromwich Albion - Manchester United, 1 - 2",18
+406,2499895,16/12/2017,"Manchester City - Tottenham Hotspur, 4 - 1",18
+407,2499895,16/12/2017,"Manchester City - Tottenham Hotspur, 4 - 1",18
+408,2499896,16/12/2017,"Stoke City - West Ham United, 0 - 3",18
+409,2499896,16/12/2017,"Stoke City - West Ham United, 0 - 3",18
+410,2499890,16/12/2017,"Arsenal - Newcastle United, 1 - 0",18
+411,2499890,16/12/2017,"Arsenal - Newcastle United, 1 - 0",18
+412,2499891,16/12/2017,"Brighton & Hove Albion - Burnley, 0 - 0",18
+413,2499891,16/12/2017,"Brighton & Hove Albion - Burnley, 0 - 0",18
+414,2499892,16/12/2017,"Chelsea - Southampton, 1 - 0",18
+415,2499892,16/12/2017,"Chelsea - Southampton, 1 - 0",18
+416,2499897,16/12/2017,"Watford - Huddersfield Town, 1 - 4",18
+417,2499897,16/12/2017,"Watford - Huddersfield Town, 1 - 4",18
+418,2499894,16/12/2017,"Leicester City - Crystal Palace, 0 - 3",18
+419,2499894,16/12/2017,"Leicester City - Crystal Palace, 0 - 3",18
+420,2499882,13/12/2017,"West Ham United - Arsenal, 0 - 0",17
+421,2499882,13/12/2017,"West Ham United - Arsenal, 0 - 0",17
+422,2499884,13/12/2017,"Manchester United - AFC Bournemouth, 1 - 0",17
+423,2499884,13/12/2017,"Manchester United - AFC Bournemouth, 1 - 0",17
+424,2499887,13/12/2017,"Liverpool - West Bromwich Albion, 0 - 0",17
+425,2499887,13/12/2017,"Liverpool - West Bromwich Albion, 0 - 0",17
+426,2499888,13/12/2017,"Tottenham Hotspur - Brighton & Hove Albion, 2 - 0",17
+427,2499888,13/12/2017,"Tottenham Hotspur - Brighton & Hove Albion, 2 - 0",17
+428,2499881,13/12/2017,"Swansea City - Manchester City, 0 - 4",17
+429,2499881,13/12/2017,"Swansea City - Manchester City, 0 - 4",17
+430,2499885,13/12/2017,"Newcastle United - Everton, 0 - 1",17
+431,2499885,13/12/2017,"Newcastle United - Everton, 0 - 1",17
+432,2499886,13/12/2017,"Southampton - Leicester City, 1 - 4",17
+433,2499886,13/12/2017,"Southampton - Leicester City, 1 - 4",17
+434,2499880,12/12/2017,"Huddersfield Town - Chelsea, 1 - 3",17
+435,2499880,12/12/2017,"Huddersfield Town - Chelsea, 1 - 3",17
+436,2499883,12/12/2017,"Crystal Palace - Watford, 2 - 1",17
+437,2499883,12/12/2017,"Crystal Palace - Watford, 2 - 1",17
+438,2499879,12/12/2017,"Burnley - Stoke City, 1 - 0",17
+439,2499879,12/12/2017,"Burnley - Stoke City, 1 - 0",17
+440,2499873,10/12/2017,"Manchester United - Manchester City, 1 - 2",16
+441,2499873,10/12/2017,"Manchester United - Manchester City, 1 - 2",16
+442,2499872,10/12/2017,"Liverpool - Everton, 1 - 1",16
+443,2499872,10/12/2017,"Liverpool - Everton, 1 - 1",16
+444,2499875,10/12/2017,"Southampton - Arsenal, 1 - 1",16
+445,2499875,10/12/2017,"Southampton - Arsenal, 1 - 1",16
+446,2499874,09/12/2017,"Newcastle United - Leicester City, 2 - 3",16
+447,2499874,09/12/2017,"Newcastle United - Leicester City, 2 - 3",16
+448,2499869,09/12/2017,"Burnley - Watford, 1 - 0",16
+449,2499869,09/12/2017,"Burnley - Watford, 1 - 0",16
+450,2499870,09/12/2017,"Crystal Palace - AFC Bournemouth, 2 - 2",16
+451,2499870,09/12/2017,"Crystal Palace - AFC Bournemouth, 2 - 2",16
+452,2499871,09/12/2017,"Huddersfield Town - Brighton & Hove Albion, 2 - 0",16
+453,2499871,09/12/2017,"Huddersfield Town - Brighton & Hove Albion, 2 - 0",16
+454,2499876,09/12/2017,"Swansea City - West Bromwich Albion, 1 - 0",16
+455,2499876,09/12/2017,"Swansea City - West Bromwich Albion, 1 - 0",16
+456,2499877,09/12/2017,"Tottenham Hotspur - Stoke City, 5 - 1",16
+457,2499877,09/12/2017,"Tottenham Hotspur - Stoke City, 5 - 1",16
+458,2499878,09/12/2017,"West Ham United - Chelsea, 1 - 0",16
+459,2499878,09/12/2017,"West Ham United - Chelsea, 1 - 0",16
+460,2499865,03/12/2017,"Manchester City - West Ham United, 2 - 1",15
+461,2499865,03/12/2017,"Manchester City - West Ham United, 2 - 1",15
+462,2499859,03/12/2017,"AFC Bournemouth - Southampton, 1 - 1",15
+463,2499859,03/12/2017,"AFC Bournemouth - Southampton, 1 - 1",15
+464,2499860,02/12/2017,"Arsenal - Manchester United, 1 - 3",15
+465,2499860,02/12/2017,"Arsenal - Manchester United, 1 - 3",15
+466,2499861,02/12/2017,"Brighton & Hove Albion - Liverpool, 1 - 5",15
+467,2499861,02/12/2017,"Brighton & Hove Albion - Liverpool, 1 - 5",15
+468,2499863,02/12/2017,"Everton - Huddersfield Town, 2 - 0",15
+469,2499863,02/12/2017,"Everton - Huddersfield Town, 2 - 0",15
+470,2499864,02/12/2017,"Leicester City - Burnley, 1 - 0",15
+471,2499864,02/12/2017,"Leicester City - Burnley, 1 - 0",15
+472,2499866,02/12/2017,"Stoke City - Swansea City, 2 - 1",15
+473,2499866,02/12/2017,"Stoke City - Swansea City, 2 - 1",15
+474,2499867,02/12/2017,"Watford - Tottenham Hotspur, 1 - 1",15
+475,2499867,02/12/2017,"Watford - Tottenham Hotspur, 1 - 1",15
+476,2499868,02/12/2017,"West Bromwich Albion - Crystal Palace, 0 - 0",15
+477,2499868,02/12/2017,"West Bromwich Albion - Crystal Palace, 0 - 0",15
+478,2499862,02/12/2017,"Chelsea - Newcastle United, 3 - 1",15
+479,2499862,02/12/2017,"Chelsea - Newcastle United, 3 - 1",15
+480,2499856,29/11/2017,"Everton - West Ham United, 4 - 0",14
+481,2499856,29/11/2017,"Everton - West Ham United, 4 - 0",14
+482,2499857,29/11/2017,"Manchester City - Southampton, 2 - 1",14
+483,2499857,29/11/2017,"Manchester City - Southampton, 2 - 1",14
+484,2499858,29/11/2017,"Stoke City - Liverpool, 0 - 3",14
+485,2499858,29/11/2017,"Stoke City - Liverpool, 0 - 3",14
+486,2499849,29/11/2017,"AFC Bournemouth - Burnley, 1 - 2",14
+487,2499849,29/11/2017,"AFC Bournemouth - Burnley, 1 - 2",14
+488,2499850,29/11/2017,"Arsenal - Huddersfield Town, 5 - 0",14
+489,2499850,29/11/2017,"Arsenal - Huddersfield Town, 5 - 0",14
+490,2499855,29/11/2017,"Chelsea - Swansea City, 1 - 0",14
+491,2499855,29/11/2017,"Chelsea - Swansea City, 1 - 0",14
+492,2499853,28/11/2017,"Watford - Manchester United, 2 - 4",14
+493,2499853,28/11/2017,"Watford - Manchester United, 2 - 4",14
+494,2499854,28/11/2017,"West Bromwich Albion - Newcastle United, 2 - 2",14
+495,2499854,28/11/2017,"West Bromwich Albion - Newcastle United, 2 - 2",14
+496,2499851,28/11/2017,"Brighton & Hove Albion - Crystal Palace, 0 - 0",14
+497,2499851,28/11/2017,"Brighton & Hove Albion - Crystal Palace, 0 - 0",14
+498,2499852,28/11/2017,"Leicester City - Tottenham Hotspur, 2 - 1",14
+499,2499852,28/11/2017,"Leicester City - Tottenham Hotspur, 2 - 1",14
+500,2499841,26/11/2017,"Huddersfield Town - Manchester City, 1 - 2",13
+501,2499841,26/11/2017,"Huddersfield Town - Manchester City, 1 - 2",13
+502,2499839,26/11/2017,"Burnley - Arsenal, 0 - 1",13
+503,2499839,26/11/2017,"Burnley - Arsenal, 0 - 1",13
+504,2499845,26/11/2017,"Southampton - Everton, 4 - 1",13
+505,2499845,26/11/2017,"Southampton - Everton, 4 - 1",13
+506,2499842,25/11/2017,"Liverpool - Chelsea, 1 - 1",13
+507,2499842,25/11/2017,"Liverpool - Chelsea, 1 - 1",13
+508,2499840,25/11/2017,"Crystal Palace - Stoke City, 2 - 1",13
+509,2499840,25/11/2017,"Crystal Palace - Stoke City, 2 - 1",13
+510,2499843,25/11/2017,"Manchester United - Brighton & Hove Albion, 1 - 0",13
+511,2499843,25/11/2017,"Manchester United - Brighton & Hove Albion, 1 - 0",13
+512,2499844,25/11/2017,"Newcastle United - Watford, 0 - 3",13
+513,2499844,25/11/2017,"Newcastle United - Watford, 0 - 3",13
+514,2499846,25/11/2017,"Swansea City - AFC Bournemouth, 0 - 0",13
+515,2499846,25/11/2017,"Swansea City - AFC Bournemouth, 0 - 0",13
+516,2499847,25/11/2017,"Tottenham Hotspur - West Bromwich Albion, 1 - 1",13
+517,2499847,25/11/2017,"Tottenham Hotspur - West Bromwich Albion, 1 - 1",13
+518,2499848,24/11/2017,"West Ham United - Leicester City, 1 - 1",13
+519,2499848,24/11/2017,"West Ham United - Leicester City, 1 - 1",13
+520,2499831,20/11/2017,"Brighton & Hove Albion - Stoke City, 2 - 2",12
+521,2499831,20/11/2017,"Brighton & Hove Albion - Stoke City, 2 - 2",12
+522,2499837,19/11/2017,"Watford - West Ham United, 2 - 0",12
+523,2499837,19/11/2017,"Watford - West Ham United, 2 - 0",12
+524,2499836,18/11/2017,"Manchester United - Newcastle United, 4 - 1",12
+525,2499836,18/11/2017,"Manchester United - Newcastle United, 4 - 1",12
+526,2499829,18/11/2017,"AFC Bournemouth - Huddersfield Town, 4 - 0",12
+527,2499829,18/11/2017,"AFC Bournemouth - Huddersfield Town, 4 - 0",12
+528,2499832,18/11/2017,"Burnley - Swansea City, 2 - 0",12
+529,2499832,18/11/2017,"Burnley - Swansea City, 2 - 0",12
+530,2499833,18/11/2017,"Crystal Palace - Everton, 2 - 2",12
+531,2499833,18/11/2017,"Crystal Palace - Everton, 2 - 2",12
+532,2499834,18/11/2017,"Leicester City - Manchester City, 0 - 2",12
+533,2499834,18/11/2017,"Leicester City - Manchester City, 0 - 2",12
+534,2499835,18/11/2017,"Liverpool - Southampton, 3 - 0",12
+535,2499835,18/11/2017,"Liverpool - Southampton, 3 - 0",12
+536,2499838,18/11/2017,"West Bromwich Albion - Chelsea, 0 - 4",12
+537,2499838,18/11/2017,"West Bromwich Albion - Chelsea, 0 - 4",12
+538,2499830,18/11/2017,"Arsenal - Tottenham Hotspur, 2 - 0",12
+539,2499830,18/11/2017,"Arsenal - Tottenham Hotspur, 2 - 0",12
+540,2499819,05/11/2017,"Chelsea - Manchester United, 1 - 0",11
+541,2499819,05/11/2017,"Chelsea - Manchester United, 1 - 0",11
+542,2499820,05/11/2017,"Everton - Watford, 3 - 2",11
+543,2499820,05/11/2017,"Everton - Watford, 3 - 2",11
+544,2499822,05/11/2017,"Manchester City - Arsenal, 3 - 1",11
+545,2499822,05/11/2017,"Manchester City - Arsenal, 3 - 1",11
+546,2499827,05/11/2017,"Tottenham Hotspur - Crystal Palace, 1 - 0",11
+547,2499827,05/11/2017,"Tottenham Hotspur - Crystal Palace, 1 - 0",11
+548,2499828,04/11/2017,"West Ham United - Liverpool, 1 - 4",11
+549,2499828,04/11/2017,"West Ham United - Liverpool, 1 - 4",11
+550,2499821,04/11/2017,"Huddersfield Town - West Bromwich Albion, 1 - 0",11
+551,2499821,04/11/2017,"Huddersfield Town - West Bromwich Albion, 1 - 0",11
+552,2499823,04/11/2017,"Newcastle United - AFC Bournemouth, 0 - 1",11
+553,2499823,04/11/2017,"Newcastle United - AFC Bournemouth, 0 - 1",11
+554,2499824,04/11/2017,"Southampton - Burnley, 0 - 1",11
+555,2499824,04/11/2017,"Southampton - Burnley, 0 - 1",11
+556,2499826,04/11/2017,"Swansea City - Brighton & Hove Albion, 0 - 1",11
+557,2499826,04/11/2017,"Swansea City - Brighton & Hove Albion, 0 - 1",11
+558,2499825,04/11/2017,"Stoke City - Leicester City, 2 - 2",11
+559,2499825,04/11/2017,"Stoke City - Leicester City, 2 - 2",11
+560,2499812,30/10/2017,"Burnley - Newcastle United, 1 - 0",10
+561,2499812,30/10/2017,"Burnley - Newcastle United, 1 - 0",10
+562,2499814,29/10/2017,"Leicester City - Everton, 2 - 0",10
+563,2499814,29/10/2017,"Leicester City - Everton, 2 - 0",10
+564,2499811,29/10/2017,"Brighton & Hove Albion - Southampton, 1 - 1",10
+565,2499811,29/10/2017,"Brighton & Hove Albion - Southampton, 1 - 1",10
+566,2499809,28/10/2017,"AFC Bournemouth - Chelsea, 0 - 1",10
+567,2499809,28/10/2017,"AFC Bournemouth - Chelsea, 0 - 1",10
+568,2499810,28/10/2017,"Arsenal - Swansea City, 2 - 1",10
+569,2499810,28/10/2017,"Arsenal - Swansea City, 2 - 1",10
+570,2499813,28/10/2017,"Crystal Palace - West Ham United, 2 - 2",10
+571,2499813,28/10/2017,"Crystal Palace - West Ham United, 2 - 2",10
+572,2499815,28/10/2017,"Liverpool - Huddersfield Town, 3 - 0",10
+573,2499815,28/10/2017,"Liverpool - Huddersfield Town, 3 - 0",10
+574,2499817,28/10/2017,"Watford - Stoke City, 0 - 1",10
+575,2499817,28/10/2017,"Watford - Stoke City, 0 - 1",10
+576,2499818,28/10/2017,"West Bromwich Albion - Manchester City, 2 - 3",10
+577,2499818,28/10/2017,"West Bromwich Albion - Manchester City, 2 - 3",10
+578,2499816,28/10/2017,"Manchester United - Tottenham Hotspur, 1 - 0",10
+579,2499816,28/10/2017,"Manchester United - Tottenham Hotspur, 1 - 0",10
+580,2499807,22/10/2017,"Tottenham Hotspur - Liverpool, 4 - 1",9
+581,2499807,22/10/2017,"Tottenham Hotspur - Liverpool, 4 - 1",9
+582,2499800,22/10/2017,"Everton - Arsenal, 2 - 5",9
+583,2499800,22/10/2017,"Everton - Arsenal, 2 - 5",9
+584,2499804,21/10/2017,"Southampton - West Bromwich Albion, 1 - 0",9
+585,2499804,21/10/2017,"Southampton - West Bromwich Albion, 1 - 0",9
+586,2499801,21/10/2017,"Huddersfield Town - Manchester United, 2 - 1",9
+587,2499801,21/10/2017,"Huddersfield Town - Manchester United, 2 - 1",9
+588,2499802,21/10/2017,"Manchester City - Burnley, 3 - 0",9
+589,2499802,21/10/2017,"Manchester City - Burnley, 3 - 0",9
+590,2499803,21/10/2017,"Newcastle United - Crystal Palace, 1 - 0",9
+591,2499803,21/10/2017,"Newcastle United - Crystal Palace, 1 - 0",9
+592,2499805,21/10/2017,"Stoke City - AFC Bournemouth, 1 - 2",9
+593,2499805,21/10/2017,"Stoke City - AFC Bournemouth, 1 - 2",9
+594,2499806,21/10/2017,"Swansea City - Leicester City, 1 - 2",9
+595,2499806,21/10/2017,"Swansea City - Leicester City, 1 - 2",9
+596,2499799,21/10/2017,"Chelsea - Watford, 4 - 2",9
+597,2499799,21/10/2017,"Chelsea - Watford, 4 - 2",9
+598,2499808,20/10/2017,"West Ham United - Brighton & Hove Albion, 0 - 3",9
+599,2499808,20/10/2017,"West Ham United - Brighton & Hove Albion, 0 - 3",9
+600,2499792,16/10/2017,"Leicester City - West Bromwich Albion, 1 - 1",8
+601,2499792,16/10/2017,"Leicester City - West Bromwich Albion, 1 - 1",8
+602,2499795,15/10/2017,"Southampton - Newcastle United, 2 - 2",8
+603,2499795,15/10/2017,"Southampton - Newcastle United, 2 - 2",8
+604,2499789,15/10/2017,"Brighton & Hove Albion - Everton, 1 - 1",8
+605,2499789,15/10/2017,"Brighton & Hove Albion - Everton, 1 - 1",8
+606,2499798,14/10/2017,"Watford - Arsenal, 2 - 1",8
+607,2499798,14/10/2017,"Watford - Arsenal, 2 - 1",8
+608,2499790,14/10/2017,"Burnley - West Ham United, 1 - 1",8
+609,2499790,14/10/2017,"Burnley - West Ham United, 1 - 1",8
+610,2499791,14/10/2017,"Crystal Palace - Chelsea, 2 - 1",8
+611,2499791,14/10/2017,"Crystal Palace - Chelsea, 2 - 1",8
+612,2499794,14/10/2017,"Manchester City - Stoke City, 7 - 2",8
+613,2499794,14/10/2017,"Manchester City - Stoke City, 7 - 2",8
+614,2499796,14/10/2017,"Swansea City - Huddersfield Town, 2 - 0",8
+615,2499796,14/10/2017,"Swansea City - Huddersfield Town, 2 - 0",8
+616,2499797,14/10/2017,"Tottenham Hotspur - AFC Bournemouth, 1 - 0",8
+617,2499797,14/10/2017,"Tottenham Hotspur - AFC Bournemouth, 1 - 0",8
+618,2499793,14/10/2017,"Liverpool - Manchester United, 0 - 0",8
+619,2499793,14/10/2017,"Liverpool - Manchester United, 0 - 0",8
+620,2499785,01/10/2017,"Newcastle United - Liverpool, 1 - 1",7
+621,2499785,01/10/2017,"Newcastle United - Liverpool, 1 - 1",7
+622,2499782,01/10/2017,"Everton - Burnley, 0 - 1",7
+623,2499782,01/10/2017,"Everton - Burnley, 0 - 1",7
+624,2499780,01/10/2017,"Arsenal - Brighton & Hove Albion, 2 - 0",7
+625,2499780,01/10/2017,"Arsenal - Brighton & Hove Albion, 2 - 0",7
+626,2499781,30/09/2017,"Chelsea - Manchester City, 0 - 1",7
+627,2499781,30/09/2017,"Chelsea - Manchester City, 0 - 1",7
+628,2499779,30/09/2017,"AFC Bournemouth - Leicester City, 0 - 0",7
+629,2499779,30/09/2017,"AFC Bournemouth - Leicester City, 0 - 0",7
+630,2499784,30/09/2017,"Manchester United - Crystal Palace, 4 - 0",7
+631,2499784,30/09/2017,"Manchester United - Crystal Palace, 4 - 0",7
+632,2499786,30/09/2017,"Stoke City - Southampton, 2 - 1",7
+633,2499786,30/09/2017,"Stoke City - Southampton, 2 - 1",7
+634,2499787,30/09/2017,"West Bromwich Albion - Watford, 2 - 2",7
+635,2499787,30/09/2017,"West Bromwich Albion - Watford, 2 - 2",7
+636,2499788,30/09/2017,"West Ham United - Swansea City, 1 - 0",7
+637,2499788,30/09/2017,"West Ham United - Swansea City, 1 - 0",7
+638,2499783,30/09/2017,"Huddersfield Town - Tottenham Hotspur, 0 - 4",7
+639,2499783,30/09/2017,"Huddersfield Town - Tottenham Hotspur, 0 - 4",7
+640,2499769,25/09/2017,"Arsenal - West Bromwich Albion, 2 - 0",6
+641,2499769,25/09/2017,"Arsenal - West Bromwich Albion, 2 - 0",6
+642,2499770,24/09/2017,"Brighton & Hove Albion - Newcastle United, 1 - 0",6
+643,2499770,24/09/2017,"Brighton & Hove Albion - Newcastle United, 1 - 0",6
+644,2499773,23/09/2017,"Leicester City - Liverpool, 2 - 3",6
+645,2499773,23/09/2017,"Leicester City - Liverpool, 2 - 3",6
+646,2499771,23/09/2017,"Burnley - Huddersfield Town, 0 - 0",6
+647,2499771,23/09/2017,"Burnley - Huddersfield Town, 0 - 0",6
+648,2499772,23/09/2017,"Everton - AFC Bournemouth, 2 - 1",6
+649,2499772,23/09/2017,"Everton - AFC Bournemouth, 2 - 1",6
+650,2499774,23/09/2017,"Manchester City - Crystal Palace, 5 - 0",6
+651,2499774,23/09/2017,"Manchester City - Crystal Palace, 5 - 0",6
+652,2499775,23/09/2017,"Southampton - Manchester United, 0 - 1",6
+653,2499775,23/09/2017,"Southampton - Manchester United, 0 - 1",6
+654,2499776,23/09/2017,"Stoke City - Chelsea, 0 - 4",6
+655,2499776,23/09/2017,"Stoke City - Chelsea, 0 - 4",6
+656,2499777,23/09/2017,"Swansea City - Watford, 1 - 2",6
+657,2499777,23/09/2017,"Swansea City - Watford, 1 - 2",6
+658,2499778,23/09/2017,"West Ham United - Tottenham Hotspur, 2 - 3",6
+659,2499778,23/09/2017,"West Ham United - Tottenham Hotspur, 2 - 3",6
+660,2499764,17/09/2017,"Manchester United - Everton, 4 - 0",5
+661,2499764,17/09/2017,"Manchester United - Everton, 4 - 0",5
+662,2499760,17/09/2017,"Chelsea - Arsenal, 0 - 0",5
+663,2499760,17/09/2017,"Chelsea - Arsenal, 0 - 0",5
+664,2499766,16/09/2017,"Tottenham Hotspur - Swansea City, 0 - 0",5
+665,2499766,16/09/2017,"Tottenham Hotspur - Swansea City, 0 - 0",5
+666,2499762,16/09/2017,"Huddersfield Town - Leicester City, 1 - 1",5
+667,2499762,16/09/2017,"Huddersfield Town - Leicester City, 1 - 1",5
+668,2499763,16/09/2017,"Liverpool - Burnley, 1 - 1",5
+669,2499763,16/09/2017,"Liverpool - Burnley, 1 - 1",5
+670,2499765,16/09/2017,"Newcastle United - Stoke City, 2 - 1",5
+671,2499765,16/09/2017,"Newcastle United - Stoke City, 2 - 1",5
+672,2499767,16/09/2017,"Watford - Manchester City, 0 - 6",5
+673,2499767,16/09/2017,"Watford - Manchester City, 0 - 6",5
+674,2499768,16/09/2017,"West Bromwich Albion - West Ham United, 0 - 0",5
+675,2499768,16/09/2017,"West Bromwich Albion - West Ham United, 0 - 0",5
+676,2499761,16/09/2017,"Crystal Palace - Southampton, 0 - 1",5
+677,2499761,16/09/2017,"Crystal Palace - Southampton, 0 - 1",5
+678,2499759,15/09/2017,"AFC Bournemouth - Brighton & Hove Albion, 2 - 1",5
+679,2499759,15/09/2017,"AFC Bournemouth - Brighton & Hove Albion, 2 - 1",5
+680,2499758,11/09/2017,"West Ham United - Huddersfield Town, 2 - 0",4
+681,2499758,11/09/2017,"West Ham United - Huddersfield Town, 2 - 0",4
+682,2499757,10/09/2017,"Swansea City - Newcastle United, 0 - 1",4
+683,2499757,10/09/2017,"Swansea City - Newcastle United, 0 - 1",4
+684,2499751,10/09/2017,"Burnley - Crystal Palace, 1 - 0",4
+685,2499751,10/09/2017,"Burnley - Crystal Palace, 1 - 0",4
+686,2499756,09/09/2017,"Stoke City - Manchester United, 2 - 2",4
+687,2499756,09/09/2017,"Stoke City - Manchester United, 2 - 2",4
+688,2499749,09/09/2017,"Arsenal - AFC Bournemouth, 3 - 0",4
+689,2499749,09/09/2017,"Arsenal - AFC Bournemouth, 3 - 0",4
+690,2499750,09/09/2017,"Brighton & Hove Albion - West Bromwich Albion, 3 - 1",4
+691,2499750,09/09/2017,"Brighton & Hove Albion - West Bromwich Albion, 3 - 1",4
+692,2499752,09/09/2017,"Everton - Tottenham Hotspur, 0 - 3",4
+693,2499752,09/09/2017,"Everton - Tottenham Hotspur, 0 - 3",4
+694,2499753,09/09/2017,"Leicester City - Chelsea, 1 - 2",4
+695,2499753,09/09/2017,"Leicester City - Chelsea, 1 - 2",4
+696,2499755,09/09/2017,"Southampton - Watford, 0 - 2",4
+697,2499755,09/09/2017,"Southampton - Watford, 0 - 2",4
+698,2499754,09/09/2017,"Manchester City - Liverpool, 5 - 0",4
+699,2499754,09/09/2017,"Manchester City - Liverpool, 5 - 0",4
+700,2499743,27/08/2017,"Liverpool - Arsenal, 4 - 0",3
+701,2499743,27/08/2017,"Liverpool - Arsenal, 4 - 0",3
+702,2499746,27/08/2017,"Tottenham Hotspur - Burnley, 1 - 1",3
+703,2499746,27/08/2017,"Tottenham Hotspur - Burnley, 1 - 1",3
+704,2499740,27/08/2017,"Chelsea - Everton, 2 - 0",3
+705,2499740,27/08/2017,"Chelsea - Everton, 2 - 0",3
+706,2499748,27/08/2017,"West Bromwich Albion - Stoke City, 1 - 1",3
+707,2499748,27/08/2017,"West Bromwich Albion - Stoke City, 1 - 1",3
+708,2499744,26/08/2017,"Manchester United - Leicester City, 2 - 0",3
+709,2499744,26/08/2017,"Manchester United - Leicester City, 2 - 0",3
+710,2499741,26/08/2017,"Crystal Palace - Swansea City, 0 - 2",3
+711,2499741,26/08/2017,"Crystal Palace - Swansea City, 0 - 2",3
+712,2499742,26/08/2017,"Huddersfield Town - Southampton, 0 - 0",3
+713,2499742,26/08/2017,"Huddersfield Town - Southampton, 0 - 0",3
+714,2499745,26/08/2017,"Newcastle United - West Ham United, 3 - 0",3
+715,2499745,26/08/2017,"Newcastle United - West Ham United, 3 - 0",3
+716,2499747,26/08/2017,"Watford - Brighton & Hove Albion, 0 - 0",3
+717,2499747,26/08/2017,"Watford - Brighton & Hove Albion, 0 - 0",3
+718,2499739,26/08/2017,"AFC Bournemouth - Manchester City, 1 - 2",3
+719,2499739,26/08/2017,"AFC Bournemouth - Manchester City, 1 - 2",3
+720,2499734,21/08/2017,"Manchester City - Everton, 1 - 1",2
+721,2499734,21/08/2017,"Manchester City - Everton, 1 - 1",2
+722,2499737,20/08/2017,"Tottenham Hotspur - Chelsea, 1 - 2",2
+723,2499737,20/08/2017,"Tottenham Hotspur - Chelsea, 1 - 2",2
+724,2499731,20/08/2017,"Huddersfield Town - Newcastle United, 1 - 0",2
+725,2499731,20/08/2017,"Huddersfield Town - Newcastle United, 1 - 0",2
+726,2499735,19/08/2017,"Stoke City - Arsenal, 1 - 0",2
+727,2499735,19/08/2017,"Stoke City - Arsenal, 1 - 0",2
+728,2499729,19/08/2017,"AFC Bournemouth - Watford, 0 - 2",2
+729,2499729,19/08/2017,"AFC Bournemouth - Watford, 0 - 2",2
+730,2499730,19/08/2017,"Burnley - West Bromwich Albion, 0 - 1",2
+731,2499730,19/08/2017,"Burnley - West Bromwich Albion, 0 - 1",2
+732,2499732,19/08/2017,"Leicester City - Brighton & Hove Albion, 2 - 0",2
+733,2499732,19/08/2017,"Leicester City - Brighton & Hove Albion, 2 - 0",2
+734,2499733,19/08/2017,"Liverpool - Crystal Palace, 1 - 0",2
+735,2499733,19/08/2017,"Liverpool - Crystal Palace, 1 - 0",2
+736,2500036,19/08/2017,"Southampton - West Ham United, 3 - 2",2
+737,2500036,19/08/2017,"Southampton - West Ham United, 3 - 2",2
+738,2499736,19/08/2017,"Swansea City - Manchester United, 0 - 4",2
+739,2499736,19/08/2017,"Swansea City - Manchester United, 0 - 4",2
+740,2499724,13/08/2017,"Manchester United - West Ham United, 4 - 0",1
+741,2499724,13/08/2017,"Manchester United - West Ham United, 4 - 0",1
+742,2499725,13/08/2017,"Newcastle United - Tottenham Hotspur, 0 - 2",1
+743,2499725,13/08/2017,"Newcastle United - Tottenham Hotspur, 0 - 2",1
+744,2499720,12/08/2017,"Brighton & Hove Albion - Manchester City, 0 - 2",1
+745,2499720,12/08/2017,"Brighton & Hove Albion - Manchester City, 0 - 2",1
+746,2499721,12/08/2017,"Chelsea - Burnley, 2 - 3",1
+747,2499721,12/08/2017,"Chelsea - Burnley, 2 - 3",1
+748,2499722,12/08/2017,"Crystal Palace - Huddersfield Town, 0 - 3",1
+749,2499722,12/08/2017,"Crystal Palace - Huddersfield Town, 0 - 3",1
+750,2499723,12/08/2017,"Everton - Stoke City, 1 - 0",1
+751,2499723,12/08/2017,"Everton - Stoke City, 1 - 0",1
+752,2499726,12/08/2017,"Southampton - Swansea City, 0 - 0",1
+753,2499726,12/08/2017,"Southampton - Swansea City, 0 - 0",1
+754,2499728,12/08/2017,"West Bromwich Albion - AFC Bournemouth, 1 - 0",1
+755,2499728,12/08/2017,"West Bromwich Albion - AFC Bournemouth, 1 - 0",1
+756,2499727,12/08/2017,"Watford - Liverpool, 3 - 3",1
+757,2499727,12/08/2017,"Watford - Liverpool, 3 - 3",1
+758,2499719,11/08/2017,"Arsenal - Leicester City, 4 - 3",1
+759,2499719,11/08/2017,"Arsenal - Leicester City, 4 - 3",1
