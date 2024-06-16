@@ -15,13 +15,21 @@ def make_moving_avarages_plot(
 
     x = np.arange(0, 37, 1)
 
-    team_df: pd.DataFrame = df[(df["Home"] == team) | (df["Away"] == team)]
-    team_df["xG_pro"] = np.where(
-        team_df["Home"] == team, team_df["xG_Home"], team_df["xG_Away"]
-    )
-    team_df["xG_against"] = np.where(
-        team_df["Home"] == team, team_df["xG_Away"], team_df["xG_Home"]
-    )
+    team_df: pd.DataFrame = df[(df["Home"] == team) | (df["Away"] == team)].copy()
+    team_df["xG_pro"] = np.nan  # Initialize the new column with NaN values
+    team_df["xG_against"] = np.nan  # Initialize the new column with NaN values
+
+    # Set values using .loc
+    team_df.loc[team_df["Home"] == team, "xG_pro"] = team_df["xG_Home"]
+    team_df.loc[team_df["Away"] == team, "xG_pro"] = team_df["xG_Away"]
+    team_df.loc[team_df["Home"] == team, "xG_against"] = team_df["xG_Away"]
+    team_df.loc[team_df["Away"] == team, "xG_against"] = team_df["xG_Home"]
+    # team_df["xG_pro"] = np.where(
+    #     team_df["Home"] == team, team_df["xG_Home"], team_df["xG_Away"]
+    # )
+    # team_df["xG_against"] = np.where(
+    #     team_df["Home"] == team, team_df["xG_Away"], team_df["xG_Home"]
+    # )
 
     xG_pro_moving_average: np.array = (  # noqa: N806
         team_df["xG_pro"].rolling(window=window_size, min_periods=1).mean().to_numpy()
