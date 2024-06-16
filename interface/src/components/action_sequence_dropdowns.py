@@ -53,6 +53,14 @@ def render(df_dict: dict[str, pd.DataFrame], spadl_dict: dict[str, pd.DataFrame]
         children=[
             html.Hr(),
             html.H2("Sequência de ações até o gol", style={"textAlign": "center"}),
+            html.P(
+                """
+                Você pode escolher até 5 ações antes do gol selecionado, mas é importante ressaltar que dependendo do gol
+                escolhido, o número de ações que são da jogada do gol é menor. Nesse caso, você verá mais ações sem ser as que
+                levaram ao gol.
+                """,
+                style={"textAlign": "justify", "margin": "20px"},
+            ),
             dcc.Dropdown(
                 id="goal-dropdown",
                 multi=False,

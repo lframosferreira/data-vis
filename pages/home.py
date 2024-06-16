@@ -9,7 +9,6 @@ dash.register_page(
     name="Página principal",
 )
 
-
 # Creating a list group of all pages in the app with clickable links
 list_group = dbc.ListGroup(
     [

@@ -26,7 +26,8 @@ def render(options: list[str], df_dict: dict[str, DataFrame]) -> html.Div:
 
     options.sort()
     return html.Div(
-        [
+        className="mb-5",
+        children=[
             html.H2("Simulando Campeonatos", style={"textAlign": "center"}),
             Markdown(markdown_content, style={"textAlign": "justify"}, mathjax=True),
             Dropdown(
