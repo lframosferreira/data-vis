@@ -33,7 +33,7 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
                         },
                     ),
                     html.P(
-                        "As seŕies temporais com janela móvel maiores possuem grau de informação maior, já janelas menores possuem mais informação local",
+                        "As séries temporais com janela móvel maiores possuem grau de informação maior, já janelas menores possuem mais informação local.",
                         style={"textAlign": "start", "margin-top": "5px"},
                     ),
                 ],

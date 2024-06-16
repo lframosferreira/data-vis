@@ -34,7 +34,7 @@ with open("pages_content/elo_media_movel.md") as f:
 layout = html.Div(
     [
         html.H2("Elo no futebol", style={"textAlign": "center"}),
-        dcc.Markdown(children=markdown_content_elo),
+        dcc.Markdown(children=markdown_content_elo, style={"textAlign": "justify"}),
         html.Div(
             className="elo-time-series-plot",
             children=[
@@ -43,7 +43,9 @@ layout = html.Div(
             ],
         ),
         html.Br(),
-        dcc.Markdown(children=markdown_content_elo_moving_avg),
+        dcc.Markdown(
+            children=markdown_content_elo_moving_avg, style={"textAlign": "justify"}
+        ),
         html.Div(
             className="elo-time-series-moving-average-plot",
             children=[
