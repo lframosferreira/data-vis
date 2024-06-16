@@ -14,8 +14,8 @@ from settings import ELO_DATA_DIR
 dash.register_page(
     __name__,
     path="/elo-ratings",
-    title="Visualizaçao de elos",
-    name="Visualizaçao de elos",
+    title="Visualização de elos",
+    name="Visualização de elos",
 )
 
 df_dict: dict[str, pd.DataFrame] = {}
@@ -47,8 +47,8 @@ layout = html.Div(
         html.Div(
             className="elo-time-series-moving-average-plot",
             children=[
+                elo_time_series_moving_average_plot.render(),
                 elo_time_series_moving_average_dropdown.render(df_dict=df_dict),
-                elo_time_series_moving_average_plot.render(df_dict=df_dict),
             ],
         ),
     ]
