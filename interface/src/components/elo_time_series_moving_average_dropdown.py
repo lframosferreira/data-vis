@@ -9,24 +9,8 @@ from settings import REVERSED_CLUBS_DICT
 
 def render(df_dict: dict[str, pd.DataFrame]) -> None:
     @callback(
-        [
-            Output(
-                "elo-moving-average-evolution-chart", "figure", allow_duplicate=True
-            ),
-            Output("ticker-moving-average", "value"),
-        ],
-        Input("period-selector", "value"),
-        prevent_initial_call=True,
-    )
-    def apply_moving_average(period):
-        # clear plot and dropdown values
-        fig = go.Figure()
-        fig.update_layout(xaxis_title="Ano", yaxis_title="Média móvel do valor de Elo")
-        return fig, []
-
-    @callback(
         Output("elo-moving-average-evolution-chart", "figure"),
-        [Input("ticker-moving-average", "value"), Input("period-selector", "value")],
+        [Input("ticker", "value"), Input("period-selector", "value")],
     )
     def display_time_series(ticker, period):
         fig = go.Figure()

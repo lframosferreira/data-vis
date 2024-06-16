@@ -4,6 +4,7 @@ from dash import Output
 from dash import callback
 from dash import dcc
 from dash import html
+
 from settings import LEAGUES
 
 PROBABILITY_THRESHOLD = 0.3
