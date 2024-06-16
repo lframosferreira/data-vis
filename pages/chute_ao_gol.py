@@ -8,6 +8,9 @@ from interface.src.components import shots_plot
 from interface.src.components import shots_plot_dropdown
 from interface.src.components import action_sequence_plot
 from interface.src.components import action_sequence_dropdowns
+from interface.src.components import heatmap_plot_accordion
+from interface.src.components import heatmap_plot
+from interface.src.components import passes_plot
 from settings import SHOTS_DATA_DIR, SPALD_DATA_DIR
 
 dash.register_page(
@@ -46,7 +49,7 @@ for filename in files:
     spald_df_dict[f"{spadl_league}_spadl"] = merged_df
 
 keys = list(df_dict.keys())
-print(df_dict[keys[0]].columns)
+# print(df_dict[keys[0]].columns)
 
 layout = html.Div(
     [
@@ -78,6 +81,9 @@ layout = html.Div(
                 shots_plot_dropdown.render(df_dict=df_dict),
                 action_sequence_plot.render(df_dict=spald_df_dict),
                 action_sequence_dropdowns.render(df_dict=df_dict, spadl_dict=spald_df_dict),
+                heatmap_plot.render(df_dict=spald_df_dict),
+                heatmap_plot_accordion.render(df_dict=df_dict, spadl_dict=spald_df_dict),
+                passes_plot.render(df_dict=spald_df_dict),
             ],
         ),
     ]

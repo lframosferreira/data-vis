@@ -69,6 +69,14 @@ def render(df_dict: dict[str, pd.DataFrame], spadl_dict: dict[str, pd.DataFrame]
                         "Selecione quantas ações antes do gol quer ver:",
                         style={"margin-right": "10px"},
                     ),
+                    html.P(
+                        """
+                        Você pode escolher até 5 ações antes do gol selecionado, mas é importante ressaltar que dependendo do gol
+                        escolhido, o número de ações que são da jogada do gol é menor. Nesse caso, você verá mais ações sem ser as que
+                        levaram ao gol.
+                        """,
+                        style={"textAlign": "justify", "margin": "20px"},
+                    ),
                     dcc.Slider(
                         id="goal-actions-slider",
                         min=0,
