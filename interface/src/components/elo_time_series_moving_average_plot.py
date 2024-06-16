@@ -4,7 +4,8 @@ from dash import html
 
 def render() -> html.Div:
     return html.Div(
-        [
+        className="mb-5",
+        children=[
             html.H4("Média móvel de variação de Elo ao longo dos anos"),
             dcc.Graph(id="elo-moving-average-evolution-chart"),
             html.P("Selecione um valor para o comprimento da média móvel"),

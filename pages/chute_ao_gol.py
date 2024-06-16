@@ -16,7 +16,6 @@ dash.register_page(
     title="Chute ao gol",
     name="Chute ao gol",
 )
-# TODO importar isso de um arquivo de settings
 
 df_dict: dict[str, pd.DataFrame] = {}
 spald_df_dict: dict[str, pd.DataFrame] = {}
