@@ -21,13 +21,32 @@ dash.register_page(
 df_dict: dict[str, pd.DataFrame] = {}
 spald_df_dict: dict[str, pd.DataFrame] = {}
 
+files_match = [f for f in os.listdir(SPALD_DATA_DIR) if "matches" in f]
+
 for filename in os.listdir(SHOTS_DATA_DIR):
     league_name: str = filename[: filename.index("_")]
-    df_dict[f"{league_name}_shots"] = pd.read_csv(f"{SHOTS_DATA_DIR}/{filename}")
+    csv = pd.read_csv(f"{SHOTS_DATA_DIR}/{filename}")
 
-for filename in os.listdir(SPALD_DATA_DIR):
+    league_name_match = league_name[0].upper() + league_name[1:]
+    csv_matches = pd.read_csv(f"{SPALD_DATA_DIR}/{league_name_match}_matches.csv")
+    merged_df = csv.merge(csv_matches, on="game_id", how="left")
+    # drop columns that have "Unnamed" in the name
+    merged_df = merged_df.loc[:, ~merged_df.columns.str.contains("^Unnamed")]
+    df_dict[f"{league_name}_shots"] = merged_df
+
+
+files = [f for f in os.listdir(SPALD_DATA_DIR) if "matches" not in f]
+for filename in files:
     spadl_league: str = filename[: filename.index(".")]
-    spald_df_dict[f"{spadl_league}_spadl"] = pd.read_csv(f"{SPALD_DATA_DIR}/{filename}")
+    spadl_league_df = pd.read_csv(f"{SPALD_DATA_DIR}/{filename}")
+    df_matches = pd.read_csv(f"{SPALD_DATA_DIR}/{spadl_league}_matches.csv")
+    merged_df = spadl_league_df.merge(df_matches, on="game_id", how="left")
+    # drop columns that have "Unnamed" in the name
+    merged_df = merged_df.loc[:, ~merged_df.columns.str.contains("^Unnamed")]
+    spald_df_dict[f"{spadl_league}_spadl"] = merged_df
+
+keys = list(df_dict.keys())
+print(df_dict[keys[0]].columns)
 
 layout = html.Div(
     [
