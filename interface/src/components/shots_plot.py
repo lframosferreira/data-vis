@@ -1,6 +1,7 @@
 import base64
 from io import BytesIO
 
+import matplotlib
 import matplotlib.pyplot as plt
 import pandas as pd
 from dash import Input
@@ -10,7 +11,7 @@ from mplsoccer import VerticalPitch
 from settings import LEAGUES
 import matplotlib.colors as mcolors
 
-
+matplotlib.use("Agg")
 def render(df_dict: dict[str, pd.DataFrame]) -> None:
     @callback(
         [

@@ -83,7 +83,7 @@ layout = html.Div(
                 action_sequence_dropdowns.render(df_dict=df_dict, spadl_dict=spald_df_dict),
                 heatmap_plot.render(df_dict=spald_df_dict),
                 heatmap_plot_accordion.render(df_dict=df_dict, spadl_dict=spald_df_dict),
-                passes_plot.render(df_dict=spald_df_dict),
+                #passes_plot.render(df_dict=spald_df_dict),
             ],
         ),
     ]

@@ -1,6 +1,7 @@
 import base64
 from io import BytesIO
 
+import matplotlib
 import matplotlib.pyplot as plt
 import pandas as pd
 from dash import Input
@@ -10,7 +11,7 @@ from mplsoccer import VerticalPitch
 from settings import LEAGUES
 import matplotsoccer
 import scipy
-
+matplotlib.use("Agg")
 def render(df_dict: dict[str, pd.DataFrame]) -> None:
     @callback(
         Output("heatmap-plot", "src"),
@@ -38,11 +39,10 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
 
             actions_heatmap = matplotsoccer.count(player_actions_df["start_x"], player_actions_df["start_y"], n=25, m=25)
             actions_heatmap = scipy.ndimage.gaussian_filter(actions_heatmap, 1)
-            matplotsoccer.heatmap(actions_heatmap, cmap="Greens", cbar=True)
+            matplotsoccer.field(color="white", ax=ax, show=True)
 
-            #TODO imagem não está sendo gerada corretamente
-            # fig.savefig("heatmap.png", format="png", bbox_inches='tight')
-        
+            matplotsoccer.heatmap(actions_heatmap, cmap="Greens", cbar=False, ax=ax)
+
         img = BytesIO()
         fig.savefig(img, format="png", bbox_inches='tight')
         img.seek(0)

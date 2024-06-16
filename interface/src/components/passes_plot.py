@@ -1,16 +1,17 @@
 import base64
 from io import BytesIO
 
+import matplotlib
 import matplotlib.pyplot as plt
 import pandas as pd
 from dash import Input
 from dash import Output
 from dash import callback
-from mplsoccer import VerticalPitch
+from mplsoccer import VerticalPitch, Pitch
 from settings import LEAGUES
 import matplotsoccer
 import scipy
-
+matplotlib.use("Agg")
 def render(df_dict: dict[str, pd.DataFrame]) -> None:
     @callback(
         Output("passes-plot", "src"),
@@ -19,10 +20,12 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
         ]
     )
     def plot_passes(league: str, goal_event_id: int):
-        fig, ax = plt.subplots(figsize=(10, 6)) 
+        fig, ax = plt.subplots(figsize=(10, 6))
+
+        matplotsoccer.field(color="green", ax=ax)
 
         if league is None or goal_event_id is None:
-            matplotsoccer.field(color="green", ax=ax)
+            pass
         else:
             league_key = next(
                 (key.capitalize() for key, value in LEAGUES.items() if value == league), None
@@ -44,8 +47,6 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                 'freekick_short',
                 'corner_crossed',
                 'corner_short'])].copy()
-            
-            matplotsoccer.field("green",figsize=8, show=False)
 
             for i, thepass in passes.iterrows():
                 x = thepass["start_x"]
@@ -55,7 +56,9 @@ def render(df_dict: dict[str, pd.DataFrame]) -> None:
                 dx = thepass["end_x"] - x
                 dy = thepass["end_y"] - y
 
-                plt.arrow(x, y, dx, dy, width=.3, color="blue")
+                #plt.arrow(x, y, dx, dy, width=.3, color="blue")
+                ax.arrow(x, y, dx, dy, width=.3, color="blue")
+
 
             #TODO imagem não está sendo gerada corretamente
             # fig.savefig("heatmap.png", format="png", bbox_inches='tight')

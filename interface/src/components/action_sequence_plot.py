@@ -1,6 +1,7 @@
 import base64
 from io import BytesIO
 
+import matplotlib
 import matplotlib.pyplot as plt
 import pandas as pd
 from dash import Input
@@ -9,7 +10,7 @@ from dash import callback
 from dash import html
 import matplotsoccer
 from settings import LEAGUES
-
+matplotlib.use("Agg")
 def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
     @callback(
         Output("action-sequence-plot", "src"),
