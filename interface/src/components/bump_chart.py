@@ -39,13 +39,15 @@ def render(df_dict: dict[str, DataFrame]):
             traces.append(trace)
 
         layout = go.Layout(
+            title=f"Ranking Simulado dos Times no Campeonato {league if league is not None else "BRA1"}",
+            title_x=0.5,
             template="seaborn",
             xaxis={"title": "Rodada", "tickangle": 0},
             yaxis={
                 "title": "Classificação",
                 "autorange": "reversed",
             },
-            margin={"l": 0, "r": 0, "t": 0, "b": 0},
+            margin={"l": 0, "r": 0, "t": 30, "b": 0},
         )
 
         return go.Figure(data=traces, layout=layout)
