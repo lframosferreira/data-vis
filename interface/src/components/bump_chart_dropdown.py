@@ -27,6 +27,7 @@ def render(options: list[str], df_dict: dict[str, DataFrame]) -> html.Div:
     options.sort()
     return html.Div(
         [
+            html.H2("Simulando Campeonatos", style={"textAlign": "center"}),
             Markdown(markdown_content, style={"textAlign": "justify"}, mathjax=True),
             Dropdown(
                 id="rank-league-dropdown",
