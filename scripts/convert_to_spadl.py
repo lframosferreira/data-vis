@@ -11,23 +11,24 @@ from tqdm import tqdm
 
 # # Carregando os dados da WyScout
 
-# In[9]:
-
-
 def load_matches(path):
     matches = pd.read_json(path_or_buf=path)
-    # as informações dos times de cada partida estão em um dicionário dentro da coluna 'teamsData', então vamos separar essas informações
-    team_matches = []
-    for i in range(len(matches)):
-        match = pd.DataFrame(matches.loc[i, "teamsData"]).T
-        match["matchId"] = matches.loc[i, "wyId"]
-        team_matches.append(match)
-    team_matches = pd.concat(team_matches).reset_index(drop=True)
+    matches["label"] = matches["label"].str.decode("unicode-escape")
+
+    def process_row(row):
+        match = pd.DataFrame(row['teamsData']).T
+        match['game_id'] = row['wyId']
+        match['game_week'] = row['gameweek']
+        match['game_label'] = row['label']
+        match['game_date'] = pd.to_datetime(row['dateutc']).strftime("%d/%m/%Y")
+        return match
+
+    team_matches = pd.concat(matches.apply(process_row, axis=1).tolist()).reset_index(drop=True)
+
+    new_path = path.replace(".json", ".csv")
+    team_matches.to_csv(new_path)
 
     return team_matches
-
-
-# In[10]:
 
 
 def load_players(path):
@@ -85,7 +86,7 @@ leagues = ["England", "Spain", "France", "Germany", "Italy"]
 events = {}
 matches = {}
 minutes = {}
-for league in leagues:
+for league in tqdm(leagues, desc="Loading data from disc"):
     path = f"data/wyscout/matches/matches_{league}.json"
     matches[league] = load_matches(path)
     path = f"data/wyscout/events/events_{league}.json"
@@ -110,10 +111,11 @@ players["player_name"] = players["player_name"].str.decode("unicode-escape")
 def spadl_transform(events, matches):
     spadl = []
     game_ids = events.game_id.unique().tolist()
-    for g in tqdm(game_ids):
+    #for g in tqdm(game_ids, leave=False, desc="SPADL conversion"):
+    for g in game_ids:
         match_events = events.loc[events.game_id == g]
         match_home_id = matches.loc[
-            (matches.matchId == g) & (matches.side == "home"), "teamId"
+            (matches.game_id == g) & (matches.side == "home"), "teamId"
         ].values[0]
         match_actions = spd.wyscout.convert_to_actions(
             events=match_events, home_team_id=match_home_id
@@ -137,7 +139,23 @@ players: pd.DataFrame = pd.read_json("data/wyscout/players/players.json")
 players["player_name"] = players["shortName"].str.decode("unicode-escape")
 players = players[["wyId", "player_name"]].rename(columns={"wyId": "player_id"})
 
-for league in leagues:
-    df = spadl_transform(events=events[league], matches=matches[league])
-    df = df.merge(players, on="player_id", how="left")
-    df.to_csv(f"data/spadl_format/{league}.csv")
+teams: pd.DataFrame = pd.read_json("data/wyscout/teams/teams.json")
+teams["officialName"] = teams["officialName"].str.decode("unicode-escape")
+df_teams = teams[["wyId", "officialName"]]
+df_teams = df_teams.rename(columns={
+    "wyId": "team_id",
+    "officialName": "team_official_name"
+})
+
+for league in tqdm(leagues, desc="All leagues SPADL conversion"):
+    df_matches_league = matches[league]
+    df_matches_league = df_matches_league[["game_id", "game_date", "game_label", "game_week"]]
+
+    df_actions_league = spadl_transform(events=events[league], matches=matches[league])
+    df_actions_league = df_actions_league.merge(players, on="player_id", how="left")
+    df_actions_league = df_actions_league.merge(df_teams, on="team_id", how="left")
+    #df_actions_league = df_actions_league.merge(df_matches_league, on="game_id", how="left")
+    dest = f"data/spadl_format/{league}.csv"
+    df_actions_league.to_csv(dest)
+    df_matches_league.to_csv(dest.replace(".csv", "_matches.csv"))
+

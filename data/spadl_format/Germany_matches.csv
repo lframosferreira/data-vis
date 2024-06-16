@@ -1,0 +1,613 @@
+,game_id,game_date,game_label,game_week
+0,2517036,12/05/2018,"Bayern München - Stuttgart, 1 - 4",34
+1,2517036,12/05/2018,"Bayern München - Stuttgart, 1 - 4",34
+2,2517037,12/05/2018,"Hoffenheim - Borussia Dortmund, 3 - 1",34
+3,2517037,12/05/2018,"Hoffenheim - Borussia Dortmund, 3 - 1",34
+4,2517038,12/05/2018,"Hertha BSC - RB Leipzig, 2 - 6",34
+5,2517038,12/05/2018,"Hertha BSC - RB Leipzig, 2 - 6",34
+6,2517039,12/05/2018,"Freiburg - Augsburg, 2 - 0",34
+7,2517039,12/05/2018,"Freiburg - Augsburg, 2 - 0",34
+8,2517040,12/05/2018,"Schalke 04 - Eintracht Frankfurt, 1 - 0",34
+9,2517040,12/05/2018,"Schalke 04 - Eintracht Frankfurt, 1 - 0",34
+10,2517041,12/05/2018,"Bayer Leverkusen - Hannover 96, 3 - 2",34
+11,2517041,12/05/2018,"Bayer Leverkusen - Hannover 96, 3 - 2",34
+12,2517042,12/05/2018,"Hamburger SV - Borussia M'gladbach, 2 - 1",34
+13,2517042,12/05/2018,"Hamburger SV - Borussia M'gladbach, 2 - 1",34
+14,2517043,12/05/2018,"Mainz 05 - Werder Bremen, 1 - 2",34
+15,2517043,12/05/2018,"Mainz 05 - Werder Bremen, 1 - 2",34
+16,2517044,12/05/2018,"Wolfsburg - Köln, 4 - 1",34
+17,2517044,12/05/2018,"Wolfsburg - Köln, 4 - 1",34
+18,2517027,05/05/2018,"Borussia Dortmund - Mainz 05, 1 - 2",33
+19,2517027,05/05/2018,"Borussia Dortmund - Mainz 05, 1 - 2",33
+20,2517028,05/05/2018,"RB Leipzig - Wolfsburg, 4 - 1",33
+21,2517028,05/05/2018,"RB Leipzig - Wolfsburg, 4 - 1",33
+22,2517029,05/05/2018,"Köln - Bayern München, 1 - 3",33
+23,2517029,05/05/2018,"Köln - Bayern München, 1 - 3",33
+24,2517030,05/05/2018,"Werder Bremen - Bayer Leverkusen, 0 - 0",33
+25,2517030,05/05/2018,"Werder Bremen - Bayer Leverkusen, 0 - 0",33
+26,2517031,05/05/2018,"Borussia M'gladbach - Freiburg, 3 - 1",33
+27,2517031,05/05/2018,"Borussia M'gladbach - Freiburg, 3 - 1",33
+28,2517032,05/05/2018,"Eintracht Frankfurt - Hamburger SV, 3 - 0",33
+29,2517032,05/05/2018,"Eintracht Frankfurt - Hamburger SV, 3 - 0",33
+30,2517033,05/05/2018,"Augsburg - Schalke 04, 1 - 2",33
+31,2517033,05/05/2018,"Augsburg - Schalke 04, 1 - 2",33
+32,2517034,05/05/2018,"Hannover 96 - Hertha BSC, 3 - 1",33
+33,2517034,05/05/2018,"Hannover 96 - Hertha BSC, 3 - 1",33
+34,2517035,05/05/2018,"Stuttgart - Hoffenheim, 2 - 0",33
+35,2517035,05/05/2018,"Stuttgart - Hoffenheim, 2 - 0",33
+36,2517022,29/04/2018,"Werder Bremen - Borussia Dortmund, 1 - 1",32
+37,2517022,29/04/2018,"Werder Bremen - Borussia Dortmund, 1 - 1",32
+38,2517025,29/04/2018,"Mainz 05 - RB Leipzig, 3 - 0",32
+39,2517025,29/04/2018,"Mainz 05 - RB Leipzig, 3 - 0",32
+40,2517024,28/04/2018,"Bayer Leverkusen - Stuttgart, 0 - 1",32
+41,2517024,28/04/2018,"Bayer Leverkusen - Stuttgart, 0 - 1",32
+42,2517018,28/04/2018,"Bayern München - Eintracht Frankfurt, 4 - 1",32
+43,2517018,28/04/2018,"Bayern München - Eintracht Frankfurt, 4 - 1",32
+44,2517020,28/04/2018,"Hertha BSC - Augsburg, 2 - 2",32
+45,2517020,28/04/2018,"Hertha BSC - Augsburg, 2 - 2",32
+46,2517021,28/04/2018,"Freiburg - Köln, 3 - 2",32
+47,2517021,28/04/2018,"Freiburg - Köln, 3 - 2",32
+48,2517023,28/04/2018,"Schalke 04 - Borussia M'gladbach, 1 - 1",32
+49,2517023,28/04/2018,"Schalke 04 - Borussia M'gladbach, 1 - 1",32
+50,2517026,28/04/2018,"Wolfsburg - Hamburger SV, 1 - 3",32
+51,2517026,28/04/2018,"Wolfsburg - Hamburger SV, 1 - 3",32
+52,2517019,27/04/2018,"Hoffenheim - Hannover 96, 3 - 1",32
+53,2517019,27/04/2018,"Hoffenheim - Hannover 96, 3 - 1",32
+54,2517011,22/04/2018,"Köln - Schalke 04, 2 - 2",31
+55,2517011,22/04/2018,"Köln - Schalke 04, 2 - 2",31
+56,2517014,22/04/2018,"Augsburg - Mainz 05, 2 - 0",31
+57,2517014,22/04/2018,"Augsburg - Mainz 05, 2 - 0",31
+58,2517009,21/04/2018,"Borussia Dortmund - Bayer Leverkusen, 4 - 0",31
+59,2517009,21/04/2018,"Borussia Dortmund - Bayer Leverkusen, 4 - 0",31
+60,2517010,21/04/2018,"RB Leipzig - Hoffenheim, 2 - 5",31
+61,2517010,21/04/2018,"RB Leipzig - Hoffenheim, 2 - 5",31
+62,2517013,21/04/2018,"Eintracht Frankfurt - Hertha BSC, 0 - 3",31
+63,2517013,21/04/2018,"Eintracht Frankfurt - Hertha BSC, 0 - 3",31
+64,2517015,21/04/2018,"Hamburger SV - Freiburg, 1 - 0",31
+65,2517015,21/04/2018,"Hamburger SV - Freiburg, 1 - 0",31
+66,2517016,21/04/2018,"Hannover 96 - Bayern München, 0 - 3",31
+67,2517016,21/04/2018,"Hannover 96 - Bayern München, 0 - 3",31
+68,2517017,21/04/2018,"Stuttgart - Werder Bremen, 2 - 0",31
+69,2517017,21/04/2018,"Stuttgart - Werder Bremen, 2 - 0",31
+70,2517012,20/04/2018,"Borussia M'gladbach - Wolfsburg, 3 - 0",31
+71,2517012,20/04/2018,"Borussia M'gladbach - Wolfsburg, 3 - 0",31
+72,2517006,16/04/2018,"Mainz 05 - Freiburg, 2 - 0",30
+73,2517006,16/04/2018,"Mainz 05 - Freiburg, 2 - 0",30
+74,2517003,15/04/2018,"Werder Bremen - RB Leipzig, 1 - 1",30
+75,2517003,15/04/2018,"Werder Bremen - RB Leipzig, 1 - 1",30
+76,2517004,15/04/2018,"Schalke 04 - Borussia Dortmund, 2 - 0",30
+77,2517004,15/04/2018,"Schalke 04 - Borussia Dortmund, 2 - 0",30
+78,2517000,14/04/2018,"Bayern München - Borussia M'gladbach, 5 - 1",30
+79,2517000,14/04/2018,"Bayern München - Borussia M'gladbach, 5 - 1",30
+80,2517001,14/04/2018,"Hoffenheim - Hamburger SV, 2 - 0",30
+81,2517001,14/04/2018,"Hoffenheim - Hamburger SV, 2 - 0",30
+82,2517002,14/04/2018,"Hertha BSC - Köln, 2 - 1",30
+83,2517002,14/04/2018,"Hertha BSC - Köln, 2 - 1",30
+84,2517005,14/04/2018,"Bayer Leverkusen - Eintracht Frankfurt, 4 - 1",30
+85,2517005,14/04/2018,"Bayer Leverkusen - Eintracht Frankfurt, 4 - 1",30
+86,2517008,14/04/2018,"Stuttgart - Hannover 96, 1 - 1",30
+87,2517008,14/04/2018,"Stuttgart - Hannover 96, 1 - 1",30
+88,2517007,13/04/2018,"Wolfsburg - Augsburg, 0 - 0",30
+89,2517007,13/04/2018,"Wolfsburg - Augsburg, 0 - 0",30
+90,2516992,09/04/2018,"RB Leipzig - Bayer Leverkusen, 1 - 4",29
+91,2516992,09/04/2018,"RB Leipzig - Bayer Leverkusen, 1 - 4",29
+92,2516996,08/04/2018,"Eintracht Frankfurt - Hoffenheim, 1 - 1",29
+93,2516996,08/04/2018,"Eintracht Frankfurt - Hoffenheim, 1 - 1",29
+94,2516991,08/04/2018,"Borussia Dortmund - Stuttgart, 3 - 0",29
+95,2516991,08/04/2018,"Borussia Dortmund - Stuttgart, 3 - 0",29
+96,2516998,07/04/2018,"Hamburger SV - Schalke 04, 3 - 2",29
+97,2516998,07/04/2018,"Hamburger SV - Schalke 04, 3 - 2",29
+98,2516993,07/04/2018,"Köln - Mainz 05, 1 - 1",29
+99,2516993,07/04/2018,"Köln - Mainz 05, 1 - 1",29
+100,2516994,07/04/2018,"Freiburg - Wolfsburg, 0 - 2",29
+101,2516994,07/04/2018,"Freiburg - Wolfsburg, 0 - 2",29
+102,2516995,07/04/2018,"Borussia M'gladbach - Hertha BSC, 2 - 1",29
+103,2516995,07/04/2018,"Borussia M'gladbach - Hertha BSC, 2 - 1",29
+104,2516997,07/04/2018,"Augsburg - Bayern München, 1 - 4",29
+105,2516997,07/04/2018,"Augsburg - Bayern München, 1 - 4",29
+106,2516999,06/04/2018,"Hannover 96 - Werder Bremen, 2 - 1",29
+107,2516999,06/04/2018,"Hannover 96 - Werder Bremen, 2 - 1",29
+108,2516988,01/04/2018,"Mainz 05 - Borussia M'gladbach, 0 - 0",28
+109,2516988,01/04/2018,"Mainz 05 - Borussia M'gladbach, 0 - 0",28
+110,2516985,01/04/2018,"Werder Bremen - Eintracht Frankfurt, 2 - 1",28
+111,2516985,01/04/2018,"Werder Bremen - Eintracht Frankfurt, 2 - 1",28
+112,2516984,31/03/2018,"Hertha BSC - Wolfsburg, 0 - 0",28
+113,2516984,31/03/2018,"Hertha BSC - Wolfsburg, 0 - 0",28
+114,2516982,31/03/2018,"Bayern München - Borussia Dortmund, 6 - 0",28
+115,2516982,31/03/2018,"Bayern München - Borussia Dortmund, 6 - 0",28
+116,2516983,31/03/2018,"Hoffenheim - Köln, 6 - 0",28
+117,2516983,31/03/2018,"Hoffenheim - Köln, 6 - 0",28
+118,2516986,31/03/2018,"Schalke 04 - Freiburg, 2 - 0",28
+119,2516986,31/03/2018,"Schalke 04 - Freiburg, 2 - 0",28
+120,2516987,31/03/2018,"Bayer Leverkusen - Augsburg, 0 - 0",28
+121,2516987,31/03/2018,"Bayer Leverkusen - Augsburg, 0 - 0",28
+122,2516989,31/03/2018,"Hannover 96 - RB Leipzig, 2 - 3",28
+123,2516989,31/03/2018,"Hannover 96 - RB Leipzig, 2 - 3",28
+124,2516990,31/03/2018,"Stuttgart - Hamburger SV, 1 - 1",28
+125,2516990,31/03/2018,"Stuttgart - Hamburger SV, 1 - 1",28
+126,2516974,18/03/2018,"RB Leipzig - Bayern München, 2 - 1",27
+127,2516974,18/03/2018,"RB Leipzig - Bayern München, 2 - 1",27
+128,2516975,18/03/2018,"Köln - Bayer Leverkusen, 2 - 0",27
+129,2516975,18/03/2018,"Köln - Bayer Leverkusen, 2 - 0",27
+130,2516973,18/03/2018,"Borussia Dortmund - Hannover 96, 1 - 0",27
+131,2516973,18/03/2018,"Borussia Dortmund - Hannover 96, 1 - 0",27
+132,2516981,17/03/2018,"Wolfsburg - Schalke 04, 0 - 1",27
+133,2516981,17/03/2018,"Wolfsburg - Schalke 04, 0 - 1",27
+134,2516977,17/03/2018,"Borussia M'gladbach - Hoffenheim, 3 - 3",27
+135,2516977,17/03/2018,"Borussia M'gladbach - Hoffenheim, 3 - 3",27
+136,2516978,17/03/2018,"Eintracht Frankfurt - Mainz 05, 3 - 0",27
+137,2516978,17/03/2018,"Eintracht Frankfurt - Mainz 05, 3 - 0",27
+138,2516979,17/03/2018,"Augsburg - Werder Bremen, 1 - 3",27
+139,2516979,17/03/2018,"Augsburg - Werder Bremen, 1 - 3",27
+140,2516980,17/03/2018,"Hamburger SV - Hertha BSC, 1 - 2",27
+141,2516980,17/03/2018,"Hamburger SV - Hertha BSC, 1 - 2",27
+142,2516976,16/03/2018,"Freiburg - Stuttgart, 1 - 2",27
+143,2516976,16/03/2018,"Freiburg - Stuttgart, 1 - 2",27
+144,2516968,12/03/2018,"Werder Bremen - Köln, 3 - 1",26
+145,2516968,12/03/2018,"Werder Bremen - Köln, 3 - 1",26
+146,2516965,11/03/2018,"Borussia Dortmund - Eintracht Frankfurt, 3 - 2",26
+147,2516965,11/03/2018,"Borussia Dortmund - Eintracht Frankfurt, 3 - 2",26
+148,2516972,11/03/2018,"Stuttgart - RB Leipzig, 0 - 0",26
+149,2516972,11/03/2018,"Stuttgart - RB Leipzig, 0 - 0",26
+150,2516969,10/03/2018,"Bayer Leverkusen - Borussia M'gladbach, 2 - 0",26
+151,2516969,10/03/2018,"Bayer Leverkusen - Borussia M'gladbach, 2 - 0",26
+152,2516964,10/03/2018,"Bayern München - Hamburger SV, 6 - 0",26
+153,2516964,10/03/2018,"Bayern München - Hamburger SV, 6 - 0",26
+154,2516966,10/03/2018,"Hoffenheim - Wolfsburg, 3 - 0",26
+155,2516966,10/03/2018,"Hoffenheim - Wolfsburg, 3 - 0",26
+156,2516967,10/03/2018,"Hertha BSC - Freiburg, 0 - 0",26
+157,2516967,10/03/2018,"Hertha BSC - Freiburg, 0 - 0",26
+158,2516971,10/03/2018,"Hannover 96 - Augsburg, 1 - 3",26
+159,2516971,10/03/2018,"Hannover 96 - Augsburg, 1 - 3",26
+160,2516970,09/03/2018,"Mainz 05 - Schalke 04, 0 - 1",26
+161,2516970,09/03/2018,"Mainz 05 - Schalke 04, 0 - 1",26
+162,2516957,04/03/2018,"Freiburg - Bayern München, 0 - 4",25
+163,2516957,04/03/2018,"Freiburg - Bayern München, 0 - 4",25
+164,2516956,04/03/2018,"Köln - Stuttgart, 2 - 3",25
+165,2516956,04/03/2018,"Köln - Stuttgart, 2 - 3",25
+166,2516955,03/03/2018,"RB Leipzig - Borussia Dortmund, 1 - 1",25
+167,2516955,03/03/2018,"RB Leipzig - Borussia Dortmund, 1 - 1",25
+168,2516959,03/03/2018,"Schalke 04 - Hertha BSC, 1 - 0",25
+169,2516959,03/03/2018,"Schalke 04 - Hertha BSC, 1 - 0",25
+170,2516960,03/03/2018,"Eintracht Frankfurt - Hannover 96, 1 - 0",25
+171,2516960,03/03/2018,"Eintracht Frankfurt - Hannover 96, 1 - 0",25
+172,2516961,03/03/2018,"Augsburg - Hoffenheim, 0 - 2",25
+173,2516961,03/03/2018,"Augsburg - Hoffenheim, 0 - 2",25
+174,2516962,03/03/2018,"Hamburger SV - Mainz 05, 0 - 0",25
+175,2516962,03/03/2018,"Hamburger SV - Mainz 05, 0 - 0",25
+176,2516963,03/03/2018,"Wolfsburg - Bayer Leverkusen, 1 - 2",25
+177,2516963,03/03/2018,"Wolfsburg - Bayer Leverkusen, 1 - 2",25
+178,2516958,02/03/2018,"Borussia M'gladbach - Werder Bremen, 2 - 2",25
+179,2516958,02/03/2018,"Borussia M'gladbach - Werder Bremen, 2 - 2",25
+180,2516947,26/02/2018,"Borussia Dortmund - Augsburg, 1 - 1",24
+181,2516947,26/02/2018,"Borussia Dortmund - Augsburg, 1 - 1",24
+182,2516948,25/02/2018,"RB Leipzig - Köln, 1 - 2",24
+183,2516948,25/02/2018,"RB Leipzig - Köln, 1 - 2",24
+184,2516951,25/02/2018,"Bayer Leverkusen - Schalke 04, 0 - 2",24
+185,2516951,25/02/2018,"Bayer Leverkusen - Schalke 04, 0 - 2",24
+186,2516950,24/02/2018,"Werder Bremen - Hamburger SV, 1 - 0",24
+187,2516950,24/02/2018,"Werder Bremen - Hamburger SV, 1 - 0",24
+188,2516946,24/02/2018,"Bayern München - Hertha BSC, 0 - 0",24
+189,2516946,24/02/2018,"Bayern München - Hertha BSC, 0 - 0",24
+190,2516949,24/02/2018,"Hoffenheim - Freiburg, 1 - 1",24
+191,2516949,24/02/2018,"Hoffenheim - Freiburg, 1 - 1",24
+192,2516953,24/02/2018,"Hannover 96 - Borussia M'gladbach, 0 - 1",24
+193,2516953,24/02/2018,"Hannover 96 - Borussia M'gladbach, 0 - 1",24
+194,2516954,24/02/2018,"Stuttgart - Eintracht Frankfurt, 1 - 0",24
+195,2516954,24/02/2018,"Stuttgart - Eintracht Frankfurt, 1 - 0",24
+196,2516952,23/02/2018,"Mainz 05 - Wolfsburg, 1 - 1",24
+197,2516952,23/02/2018,"Mainz 05 - Wolfsburg, 1 - 1",24
+198,2516942,19/02/2018,"Eintracht Frankfurt - RB Leipzig, 2 - 1",23
+199,2516942,19/02/2018,"Eintracht Frankfurt - RB Leipzig, 2 - 1",23
+200,2516940,18/02/2018,"Borussia M'gladbach - Borussia Dortmund, 0 - 1",23
+201,2516940,18/02/2018,"Borussia M'gladbach - Borussia Dortmund, 0 - 1",23
+202,2516943,18/02/2018,"Augsburg - Stuttgart, 0 - 1",23
+203,2516943,18/02/2018,"Augsburg - Stuttgart, 0 - 1",23
+204,2516941,17/02/2018,"Schalke 04 - Hoffenheim, 2 - 1",23
+205,2516941,17/02/2018,"Schalke 04 - Hoffenheim, 2 - 1",23
+206,2516937,17/02/2018,"Köln - Hannover 96, 1 - 1",23
+207,2516937,17/02/2018,"Köln - Hannover 96, 1 - 1",23
+208,2516939,17/02/2018,"Freiburg - Werder Bremen, 1 - 0",23
+209,2516939,17/02/2018,"Freiburg - Werder Bremen, 1 - 0",23
+210,2516944,17/02/2018,"Hamburger SV - Bayer Leverkusen, 1 - 2",23
+211,2516944,17/02/2018,"Hamburger SV - Bayer Leverkusen, 1 - 2",23
+212,2516945,17/02/2018,"Wolfsburg - Bayern München, 1 - 2",23
+213,2516945,17/02/2018,"Wolfsburg - Bayern München, 1 - 2",23
+214,2516938,16/02/2018,"Hertha BSC - Mainz 05, 0 - 2",23
+215,2516938,16/02/2018,"Hertha BSC - Mainz 05, 0 - 2",23
+216,2516932,11/02/2018,"Werder Bremen - Wolfsburg, 3 - 1",22
+217,2516932,11/02/2018,"Werder Bremen - Wolfsburg, 3 - 1",22
+218,2516936,11/02/2018,"Stuttgart - Borussia M'gladbach, 1 - 0",22
+219,2516936,11/02/2018,"Stuttgart - Borussia M'gladbach, 1 - 0",22
+220,2516928,10/02/2018,"Bayern München - Schalke 04, 2 - 1",22
+221,2516928,10/02/2018,"Bayern München - Schalke 04, 2 - 1",22
+222,2516929,10/02/2018,"Borussia Dortmund - Hamburger SV, 2 - 0",22
+223,2516929,10/02/2018,"Borussia Dortmund - Hamburger SV, 2 - 0",22
+224,2516931,10/02/2018,"Hoffenheim - Mainz 05, 4 - 2",22
+225,2516931,10/02/2018,"Hoffenheim - Mainz 05, 4 - 2",22
+226,2516933,10/02/2018,"Eintracht Frankfurt - Köln, 4 - 2",22
+227,2516933,10/02/2018,"Eintracht Frankfurt - Köln, 4 - 2",22
+228,2516934,10/02/2018,"Bayer Leverkusen - Hertha BSC, 0 - 2",22
+229,2516934,10/02/2018,"Bayer Leverkusen - Hertha BSC, 0 - 2",22
+230,2516935,10/02/2018,"Hannover 96 - Freiburg, 2 - 1",22
+231,2516935,10/02/2018,"Hannover 96 - Freiburg, 2 - 1",22
+232,2516930,09/02/2018,"RB Leipzig - Augsburg, 2 - 0",22
+233,2516930,09/02/2018,"RB Leipzig - Augsburg, 2 - 0",22
+234,2516925,04/02/2018,"Hamburger SV - Hannover 96, 1 - 1",21
+235,2516925,04/02/2018,"Hamburger SV - Hannover 96, 1 - 1",21
+236,2516924,04/02/2018,"Augsburg - Eintracht Frankfurt, 3 - 0",21
+237,2516924,04/02/2018,"Augsburg - Eintracht Frankfurt, 3 - 0",21
+238,2516922,03/02/2018,"Borussia M'gladbach - RB Leipzig, 0 - 1",21
+239,2516922,03/02/2018,"Borussia M'gladbach - RB Leipzig, 0 - 1",21
+240,2516920,03/02/2018,"Hertha BSC - Hoffenheim, 1 - 1",21
+241,2516920,03/02/2018,"Hertha BSC - Hoffenheim, 1 - 1",21
+242,2516921,03/02/2018,"Freiburg - Bayer Leverkusen, 0 - 0",21
+243,2516921,03/02/2018,"Freiburg - Bayer Leverkusen, 0 - 0",21
+244,2516923,03/02/2018,"Schalke 04 - Werder Bremen, 1 - 2",21
+245,2516923,03/02/2018,"Schalke 04 - Werder Bremen, 1 - 2",21
+246,2516926,03/02/2018,"Mainz 05 - Bayern München, 0 - 2",21
+247,2516926,03/02/2018,"Mainz 05 - Bayern München, 0 - 2",21
+248,2516927,03/02/2018,"Wolfsburg - Stuttgart, 1 - 1",21
+249,2516927,03/02/2018,"Wolfsburg - Stuttgart, 1 - 1",21
+250,2516919,02/02/2018,"Köln - Borussia Dortmund, 2 - 3",21
+251,2516919,02/02/2018,"Köln - Borussia Dortmund, 2 - 3",21
+252,2516917,28/01/2018,"Hannover 96 - Wolfsburg, 0 - 1",20
+253,2516917,28/01/2018,"Hannover 96 - Wolfsburg, 0 - 1",20
+254,2516916,28/01/2018,"Bayer Leverkusen - Mainz 05, 2 - 0",20
+255,2516916,28/01/2018,"Bayer Leverkusen - Mainz 05, 2 - 0",20
+256,2516914,27/01/2018,"Werder Bremen - Hertha BSC, 0 - 0",20
+257,2516914,27/01/2018,"Werder Bremen - Hertha BSC, 0 - 0",20
+258,2516910,27/01/2018,"Bayern München - Hoffenheim, 5 - 2",20
+259,2516910,27/01/2018,"Bayern München - Hoffenheim, 5 - 2",20
+260,2516911,27/01/2018,"Borussia Dortmund - Freiburg, 2 - 2",20
+261,2516911,27/01/2018,"Borussia Dortmund - Freiburg, 2 - 2",20
+262,2516912,27/01/2018,"RB Leipzig - Hamburger SV, 1 - 1",20
+263,2516912,27/01/2018,"RB Leipzig - Hamburger SV, 1 - 1",20
+264,2516913,27/01/2018,"Köln - Augsburg, 1 - 1",20
+265,2516913,27/01/2018,"Köln - Augsburg, 1 - 1",20
+266,2516918,27/01/2018,"Stuttgart - Schalke 04, 0 - 2",20
+267,2516918,27/01/2018,"Stuttgart - Schalke 04, 0 - 2",20
+268,2516915,26/01/2018,"Eintracht Frankfurt - Borussia M'gladbach, 2 - 0",20
+269,2516915,26/01/2018,"Eintracht Frankfurt - Borussia M'gladbach, 2 - 0",20
+270,2516906,21/01/2018,"Schalke 04 - Hannover 96, 1 - 1",19
+271,2516906,21/01/2018,"Schalke 04 - Hannover 96, 1 - 1",19
+272,2516901,21/01/2018,"Bayern München - Werder Bremen, 4 - 2",19
+273,2516901,21/01/2018,"Bayern München - Werder Bremen, 4 - 2",19
+274,2516907,20/01/2018,"Hamburger SV - Köln, 0 - 2",19
+275,2516907,20/01/2018,"Hamburger SV - Köln, 0 - 2",19
+276,2516902,20/01/2018,"Hoffenheim - Bayer Leverkusen, 1 - 4",19
+277,2516902,20/01/2018,"Hoffenheim - Bayer Leverkusen, 1 - 4",19
+278,2516904,20/01/2018,"Freiburg - RB Leipzig, 2 - 1",19
+279,2516904,20/01/2018,"Freiburg - RB Leipzig, 2 - 1",19
+280,2516905,20/01/2018,"Borussia M'gladbach - Augsburg, 2 - 0",19
+281,2516905,20/01/2018,"Borussia M'gladbach - Augsburg, 2 - 0",19
+282,2516908,20/01/2018,"Mainz 05 - Stuttgart, 3 - 2",19
+283,2516908,20/01/2018,"Mainz 05 - Stuttgart, 3 - 2",19
+284,2516909,20/01/2018,"Wolfsburg - Eintracht Frankfurt, 1 - 3",19
+285,2516909,20/01/2018,"Wolfsburg - Eintracht Frankfurt, 1 - 3",19
+286,2516903,19/01/2018,"Hertha BSC - Borussia Dortmund, 1 - 1",19
+287,2516903,19/01/2018,"Hertha BSC - Borussia Dortmund, 1 - 1",19
+288,2516892,14/01/2018,"Borussia Dortmund - Wolfsburg, 0 - 0",18
+289,2516892,14/01/2018,"Borussia Dortmund - Wolfsburg, 0 - 0",18
+290,2516894,14/01/2018,"Köln - Borussia M'gladbach, 2 - 1",18
+291,2516894,14/01/2018,"Köln - Borussia M'gladbach, 2 - 1",18
+292,2516893,13/01/2018,"RB Leipzig - Schalke 04, 3 - 1",18
+293,2516893,13/01/2018,"RB Leipzig - Schalke 04, 3 - 1",18
+294,2516896,13/01/2018,"Eintracht Frankfurt - Freiburg, 1 - 1",18
+295,2516896,13/01/2018,"Eintracht Frankfurt - Freiburg, 1 - 1",18
+296,2516895,13/01/2018,"Werder Bremen - Hoffenheim, 1 - 1",18
+297,2516895,13/01/2018,"Werder Bremen - Hoffenheim, 1 - 1",18
+298,2516898,13/01/2018,"Augsburg - Hamburger SV, 1 - 0",18
+299,2516898,13/01/2018,"Augsburg - Hamburger SV, 1 - 0",18
+300,2516899,13/01/2018,"Hannover 96 - Mainz 05, 3 - 2",18
+301,2516899,13/01/2018,"Hannover 96 - Mainz 05, 3 - 2",18
+302,2516900,13/01/2018,"Stuttgart - Hertha BSC, 1 - 0",18
+303,2516900,13/01/2018,"Stuttgart - Hertha BSC, 1 - 0",18
+304,2516897,12/01/2018,"Bayer Leverkusen - Bayern München, 1 - 3",18
+305,2516897,12/01/2018,"Bayer Leverkusen - Bayern München, 1 - 3",18
+306,2516884,17/12/2017,"RB Leipzig - Hertha BSC, 2 - 3",17
+307,2516884,17/12/2017,"RB Leipzig - Hertha BSC, 2 - 3",17
+308,2516890,17/12/2017,"Hannover 96 - Bayer Leverkusen, 4 - 4",17
+309,2516890,17/12/2017,"Hannover 96 - Bayer Leverkusen, 4 - 4",17
+310,2516883,16/12/2017,"Borussia Dortmund - Hoffenheim, 2 - 1",17
+311,2516883,16/12/2017,"Borussia Dortmund - Hoffenheim, 2 - 1",17
+312,2516888,16/12/2017,"Eintracht Frankfurt - Schalke 04, 2 - 2",17
+313,2516888,16/12/2017,"Eintracht Frankfurt - Schalke 04, 2 - 2",17
+314,2516885,16/12/2017,"Köln - Wolfsburg, 1 - 0",17
+315,2516885,16/12/2017,"Köln - Wolfsburg, 1 - 0",17
+316,2516886,16/12/2017,"Werder Bremen - Mainz 05, 2 - 2",17
+317,2516886,16/12/2017,"Werder Bremen - Mainz 05, 2 - 2",17
+318,2516889,16/12/2017,"Augsburg - Freiburg, 3 - 3",17
+319,2516889,16/12/2017,"Augsburg - Freiburg, 3 - 3",17
+320,2516891,16/12/2017,"Stuttgart - Bayern München, 0 - 1",17
+321,2516891,16/12/2017,"Stuttgart - Bayern München, 0 - 1",17
+322,2516887,15/12/2017,"Borussia M'gladbach - Hamburger SV, 3 - 1",17
+323,2516887,15/12/2017,"Borussia M'gladbach - Hamburger SV, 3 - 1",17
+324,2516874,13/12/2017,"Bayern München - Köln, 1 - 0",16
+325,2516874,13/12/2017,"Bayern München - Köln, 1 - 0",16
+326,2516876,13/12/2017,"Hertha BSC - Hannover 96, 3 - 1",16
+327,2516876,13/12/2017,"Hertha BSC - Hannover 96, 3 - 1",16
+328,2516878,13/12/2017,"Schalke 04 - Augsburg, 3 - 2",16
+329,2516878,13/12/2017,"Schalke 04 - Augsburg, 3 - 2",16
+330,2516879,13/12/2017,"Bayer Leverkusen - Werder Bremen, 1 - 0",16
+331,2516879,13/12/2017,"Bayer Leverkusen - Werder Bremen, 1 - 0",16
+332,2516875,13/12/2017,"Hoffenheim - Stuttgart, 1 - 0",16
+333,2516875,13/12/2017,"Hoffenheim - Stuttgart, 1 - 0",16
+334,2516880,12/12/2017,"Hamburger SV - Eintracht Frankfurt, 1 - 2",16
+335,2516880,12/12/2017,"Hamburger SV - Eintracht Frankfurt, 1 - 2",16
+336,2516881,12/12/2017,"Mainz 05 - Borussia Dortmund, 0 - 2",16
+337,2516881,12/12/2017,"Mainz 05 - Borussia Dortmund, 0 - 2",16
+338,2516877,12/12/2017,"Freiburg - Borussia M'gladbach, 1 - 0",16
+339,2516877,12/12/2017,"Freiburg - Borussia M'gladbach, 1 - 0",16
+340,2516882,12/12/2017,"Wolfsburg - RB Leipzig, 1 - 1",16
+341,2516882,12/12/2017,"Wolfsburg - RB Leipzig, 1 - 1",16
+342,2516870,10/12/2017,"Augsburg - Hertha BSC, 1 - 1",15
+343,2516870,10/12/2017,"Augsburg - Hertha BSC, 1 - 1",15
+344,2516872,10/12/2017,"Hannover 96 - Hoffenheim, 2 - 0",15
+345,2516872,10/12/2017,"Hannover 96 - Hoffenheim, 2 - 0",15
+346,2516867,10/12/2017,"Köln - Freiburg, 3 - 4",15
+347,2516867,10/12/2017,"Köln - Freiburg, 3 - 4",15
+348,2516868,09/12/2017,"Borussia M'gladbach - Schalke 04, 1 - 1",15
+349,2516868,09/12/2017,"Borussia M'gladbach - Schalke 04, 1 - 1",15
+350,2516865,09/12/2017,"Borussia Dortmund - Werder Bremen, 1 - 2",15
+351,2516865,09/12/2017,"Borussia Dortmund - Werder Bremen, 1 - 2",15
+352,2516866,09/12/2017,"RB Leipzig - Mainz 05, 2 - 2",15
+353,2516866,09/12/2017,"RB Leipzig - Mainz 05, 2 - 2",15
+354,2516869,09/12/2017,"Eintracht Frankfurt - Bayern München, 0 - 1",15
+355,2516869,09/12/2017,"Eintracht Frankfurt - Bayern München, 0 - 1",15
+356,2516871,09/12/2017,"Hamburger SV - Wolfsburg, 0 - 0",15
+357,2516871,09/12/2017,"Hamburger SV - Wolfsburg, 0 - 0",15
+358,2516873,08/12/2017,"Stuttgart - Bayer Leverkusen, 0 - 2",15
+359,2516873,08/12/2017,"Stuttgart - Bayer Leverkusen, 0 - 2",15
+360,2516864,03/12/2017,"Wolfsburg - Borussia M'gladbach, 3 - 0",14
+361,2516864,03/12/2017,"Wolfsburg - Borussia M'gladbach, 3 - 0",14
+362,2516858,03/12/2017,"Hertha BSC - Eintracht Frankfurt, 1 - 2",14
+363,2516858,03/12/2017,"Hertha BSC - Eintracht Frankfurt, 1 - 2",14
+364,2516861,02/12/2017,"Schalke 04 - Köln, 2 - 2",14
+365,2516861,02/12/2017,"Schalke 04 - Köln, 2 - 2",14
+366,2516856,02/12/2017,"Bayern München - Hannover 96, 3 - 1",14
+367,2516856,02/12/2017,"Bayern München - Hannover 96, 3 - 1",14
+368,2516857,02/12/2017,"Hoffenheim - RB Leipzig, 4 - 0",14
+369,2516857,02/12/2017,"Hoffenheim - RB Leipzig, 4 - 0",14
+370,2516860,02/12/2017,"Werder Bremen - Stuttgart, 1 - 0",14
+371,2516860,02/12/2017,"Werder Bremen - Stuttgart, 1 - 0",14
+372,2516862,02/12/2017,"Bayer Leverkusen - Borussia Dortmund, 1 - 1",14
+373,2516862,02/12/2017,"Bayer Leverkusen - Borussia Dortmund, 1 - 1",14
+374,2516863,02/12/2017,"Mainz 05 - Augsburg, 1 - 3",14
+375,2516863,02/12/2017,"Mainz 05 - Augsburg, 1 - 3",14
+376,2516859,01/12/2017,"Freiburg - Hamburger SV, 0 - 0",14
+377,2516859,01/12/2017,"Freiburg - Hamburger SV, 0 - 0",14
+378,2516849,26/11/2017,"Köln - Hertha BSC, 0 - 2",13
+379,2516849,26/11/2017,"Köln - Hertha BSC, 0 - 2",13
+380,2516854,26/11/2017,"Hamburger SV - Hoffenheim, 3 - 0",13
+381,2516854,26/11/2017,"Hamburger SV - Hoffenheim, 3 - 0",13
+382,2516851,25/11/2017,"Borussia M'gladbach - Bayern München, 2 - 1",13
+383,2516851,25/11/2017,"Borussia M'gladbach - Bayern München, 2 - 1",13
+384,2516847,25/11/2017,"Borussia Dortmund - Schalke 04, 4 - 4",13
+385,2516847,25/11/2017,"Borussia Dortmund - Schalke 04, 4 - 4",13
+386,2516848,25/11/2017,"RB Leipzig - Werder Bremen, 2 - 0",13
+387,2516848,25/11/2017,"RB Leipzig - Werder Bremen, 2 - 0",13
+388,2516850,25/11/2017,"Freiburg - Mainz 05, 2 - 1",13
+389,2516850,25/11/2017,"Freiburg - Mainz 05, 2 - 1",13
+390,2516853,25/11/2017,"Augsburg - Wolfsburg, 2 - 1",13
+391,2516853,25/11/2017,"Augsburg - Wolfsburg, 2 - 1",13
+392,2516852,25/11/2017,"Eintracht Frankfurt - Bayer Leverkusen, 0 - 1",13
+393,2516852,25/11/2017,"Eintracht Frankfurt - Bayer Leverkusen, 0 - 1",13
+394,2516855,24/11/2017,"Hannover 96 - Stuttgart, 1 - 1",13
+395,2516855,24/11/2017,"Hannover 96 - Stuttgart, 1 - 1",13
+396,2516841,19/11/2017,"Werder Bremen - Hannover 96, 4 - 0",12
+397,2516841,19/11/2017,"Werder Bremen - Hannover 96, 4 - 0",12
+398,2516842,19/11/2017,"Schalke 04 - Hamburger SV, 2 - 0",12
+399,2516842,19/11/2017,"Schalke 04 - Hamburger SV, 2 - 0",12
+400,2516840,18/11/2017,"Hertha BSC - Borussia M'gladbach, 2 - 4",12
+401,2516840,18/11/2017,"Hertha BSC - Borussia M'gladbach, 2 - 4",12
+402,2516838,18/11/2017,"Bayern München - Augsburg, 3 - 0",12
+403,2516838,18/11/2017,"Bayern München - Augsburg, 3 - 0",12
+404,2516839,18/11/2017,"Hoffenheim - Eintracht Frankfurt, 1 - 1",12
+405,2516839,18/11/2017,"Hoffenheim - Eintracht Frankfurt, 1 - 1",12
+406,2516843,18/11/2017,"Bayer Leverkusen - RB Leipzig, 2 - 2",12
+407,2516843,18/11/2017,"Bayer Leverkusen - RB Leipzig, 2 - 2",12
+408,2516844,18/11/2017,"Mainz 05 - Köln, 1 - 0",12
+409,2516844,18/11/2017,"Mainz 05 - Köln, 1 - 0",12
+410,2516845,18/11/2017,"Wolfsburg - Freiburg, 3 - 1",12
+411,2516845,18/11/2017,"Wolfsburg - Freiburg, 3 - 1",12
+412,2516846,17/11/2017,"Stuttgart - Borussia Dortmund, 2 - 1",12
+413,2516846,17/11/2017,"Stuttgart - Borussia Dortmund, 2 - 1",12
+414,2516837,05/11/2017,"Wolfsburg - Hertha BSC, 3 - 3",11
+415,2516837,05/11/2017,"Wolfsburg - Hertha BSC, 3 - 3",11
+416,2516831,05/11/2017,"Köln - Hoffenheim, 0 - 3",11
+417,2516831,05/11/2017,"Köln - Hoffenheim, 0 - 3",11
+418,2516829,04/11/2017,"Borussia Dortmund - Bayern München, 1 - 3",11
+419,2516829,04/11/2017,"Borussia Dortmund - Bayern München, 1 - 3",11
+420,2516830,04/11/2017,"RB Leipzig - Hannover 96, 2 - 1",11
+421,2516830,04/11/2017,"RB Leipzig - Hannover 96, 2 - 1",11
+422,2516832,04/11/2017,"Freiburg - Schalke 04, 0 - 1",11
+423,2516832,04/11/2017,"Freiburg - Schalke 04, 0 - 1",11
+424,2516833,04/11/2017,"Borussia M'gladbach - Mainz 05, 1 - 1",11
+425,2516833,04/11/2017,"Borussia M'gladbach - Mainz 05, 1 - 1",11
+426,2516835,04/11/2017,"Augsburg - Bayer Leverkusen, 1 - 1",11
+427,2516835,04/11/2017,"Augsburg - Bayer Leverkusen, 1 - 1",11
+428,2516836,04/11/2017,"Hamburger SV - Stuttgart, 3 - 1",11
+429,2516836,04/11/2017,"Hamburger SV - Stuttgart, 3 - 1",11
+430,2516834,03/11/2017,"Eintracht Frankfurt - Werder Bremen, 2 - 1",11
+431,2516834,03/11/2017,"Eintracht Frankfurt - Werder Bremen, 2 - 1",11
+432,2516828,29/10/2017,"Stuttgart - Freiburg, 3 - 0",10
+433,2516828,29/10/2017,"Stuttgart - Freiburg, 3 - 0",10
+434,2516823,29/10/2017,"Werder Bremen - Augsburg, 0 - 3",10
+435,2516823,29/10/2017,"Werder Bremen - Augsburg, 0 - 3",10
+436,2516820,28/10/2017,"Bayern München - RB Leipzig, 2 - 0",10
+437,2516820,28/10/2017,"Bayern München - RB Leipzig, 2 - 0",10
+438,2516821,28/10/2017,"Hoffenheim - Borussia M'gladbach, 1 - 3",10
+439,2516821,28/10/2017,"Hoffenheim - Borussia M'gladbach, 1 - 3",10
+440,2516822,28/10/2017,"Hertha BSC - Hamburger SV, 2 - 1",10
+441,2516822,28/10/2017,"Hertha BSC - Hamburger SV, 2 - 1",10
+442,2516824,28/10/2017,"Schalke 04 - Wolfsburg, 1 - 1",10
+443,2516824,28/10/2017,"Schalke 04 - Wolfsburg, 1 - 1",10
+444,2516825,28/10/2017,"Bayer Leverkusen - Köln, 2 - 1",10
+445,2516825,28/10/2017,"Bayer Leverkusen - Köln, 2 - 1",10
+446,2516827,28/10/2017,"Hannover 96 - Borussia Dortmund, 4 - 2",10
+447,2516827,28/10/2017,"Hannover 96 - Borussia Dortmund, 4 - 2",10
+448,2516826,27/10/2017,"Mainz 05 - Eintracht Frankfurt, 1 - 1",10
+449,2516826,27/10/2017,"Mainz 05 - Eintracht Frankfurt, 1 - 1",10
+450,2516819,22/10/2017,"Wolfsburg - Hoffenheim, 1 - 1",9
+451,2516819,22/10/2017,"Wolfsburg - Hoffenheim, 1 - 1",9
+452,2516813,22/10/2017,"Freiburg - Hertha BSC, 1 - 1",9
+453,2516813,22/10/2017,"Freiburg - Hertha BSC, 1 - 1",9
+454,2516812,22/10/2017,"Köln - Werder Bremen, 0 - 0",9
+455,2516812,22/10/2017,"Köln - Werder Bremen, 0 - 0",9
+456,2516818,21/10/2017,"Hamburger SV - Bayern München, 0 - 1",9
+457,2516818,21/10/2017,"Hamburger SV - Bayern München, 0 - 1",9
+458,2516811,21/10/2017,"RB Leipzig - Stuttgart, 1 - 0",9
+459,2516811,21/10/2017,"RB Leipzig - Stuttgart, 1 - 0",9
+460,2516814,21/10/2017,"Borussia M'gladbach - Bayer Leverkusen, 1 - 5",9
+461,2516814,21/10/2017,"Borussia M'gladbach - Bayer Leverkusen, 1 - 5",9
+462,2516816,21/10/2017,"Eintracht Frankfurt - Borussia Dortmund, 2 - 2",9
+463,2516816,21/10/2017,"Eintracht Frankfurt - Borussia Dortmund, 2 - 2",9
+464,2516817,21/10/2017,"Augsburg - Hannover 96, 1 - 2",9
+465,2516817,21/10/2017,"Augsburg - Hannover 96, 1 - 2",9
+466,2516815,20/10/2017,"Schalke 04 - Mainz 05, 2 - 0",9
+467,2516815,20/10/2017,"Schalke 04 - Mainz 05, 2 - 0",9
+468,2516806,15/10/2017,"Werder Bremen - Borussia M'gladbach, 0 - 2",8
+469,2516806,15/10/2017,"Werder Bremen - Borussia M'gladbach, 0 - 2",8
+470,2516807,15/10/2017,"Bayer Leverkusen - Wolfsburg, 2 - 2",8
+471,2516807,15/10/2017,"Bayer Leverkusen - Wolfsburg, 2 - 2",8
+472,2516803,14/10/2017,"Borussia Dortmund - RB Leipzig, 2 - 3",8
+473,2516803,14/10/2017,"Borussia Dortmund - RB Leipzig, 2 - 3",8
+474,2516802,14/10/2017,"Bayern München - Freiburg, 5 - 0",8
+475,2516802,14/10/2017,"Bayern München - Freiburg, 5 - 0",8
+476,2516804,14/10/2017,"Hoffenheim - Augsburg, 2 - 2",8
+477,2516804,14/10/2017,"Hoffenheim - Augsburg, 2 - 2",8
+478,2516805,14/10/2017,"Hertha BSC - Schalke 04, 0 - 2",8
+479,2516805,14/10/2017,"Hertha BSC - Schalke 04, 0 - 2",8
+480,2516808,14/10/2017,"Mainz 05 - Hamburger SV, 3 - 2",8
+481,2516808,14/10/2017,"Mainz 05 - Hamburger SV, 3 - 2",8
+482,2516809,14/10/2017,"Hannover 96 - Eintracht Frankfurt, 1 - 2",8
+483,2516809,14/10/2017,"Hannover 96 - Eintracht Frankfurt, 1 - 2",8
+484,2516810,13/10/2017,"Stuttgart - Köln, 2 - 1",8
+485,2516810,13/10/2017,"Stuttgart - Köln, 2 - 1",8
+486,2516793,01/10/2017,"Köln - RB Leipzig, 1 - 2",7
+487,2516793,01/10/2017,"Köln - RB Leipzig, 1 - 2",7
+488,2516794,01/10/2017,"Hertha BSC - Bayern München, 2 - 2",7
+489,2516794,01/10/2017,"Hertha BSC - Bayern München, 2 - 2",7
+490,2516795,01/10/2017,"Freiburg - Hoffenheim, 3 - 2",7
+491,2516795,01/10/2017,"Freiburg - Hoffenheim, 3 - 2",7
+492,2516800,30/09/2017,"Hamburger SV - Werder Bremen, 0 - 0",7
+493,2516800,30/09/2017,"Hamburger SV - Werder Bremen, 0 - 0",7
+494,2516796,30/09/2017,"Borussia M'gladbach - Hannover 96, 2 - 1",7
+495,2516796,30/09/2017,"Borussia M'gladbach - Hannover 96, 2 - 1",7
+496,2516798,30/09/2017,"Eintracht Frankfurt - Stuttgart, 2 - 1",7
+497,2516798,30/09/2017,"Eintracht Frankfurt - Stuttgart, 2 - 1",7
+498,2516799,30/09/2017,"Augsburg - Borussia Dortmund, 1 - 2",7
+499,2516799,30/09/2017,"Augsburg - Borussia Dortmund, 1 - 2",7
+500,2516801,30/09/2017,"Wolfsburg - Mainz 05, 1 - 1",7
+501,2516801,30/09/2017,"Wolfsburg - Mainz 05, 1 - 1",7
+502,2516797,29/09/2017,"Schalke 04 - Bayer Leverkusen, 1 - 1",7
+503,2516797,29/09/2017,"Schalke 04 - Bayer Leverkusen, 1 - 1",7
+504,2516789,24/09/2017,"Bayer Leverkusen - Hamburger SV, 3 - 0",6
+505,2516789,24/09/2017,"Bayer Leverkusen - Hamburger SV, 3 - 0",6
+506,2516791,24/09/2017,"Hannover 96 - Köln, 0 - 0",6
+507,2516791,24/09/2017,"Hannover 96 - Köln, 0 - 0",6
+508,2516785,23/09/2017,"Borussia Dortmund - Borussia M'gladbach, 6 - 1",6
+509,2516785,23/09/2017,"Borussia Dortmund - Borussia M'gladbach, 6 - 1",6
+510,2516786,23/09/2017,"RB Leipzig - Eintracht Frankfurt, 2 - 1",6
+511,2516786,23/09/2017,"RB Leipzig - Eintracht Frankfurt, 2 - 1",6
+512,2516787,23/09/2017,"Hoffenheim - Schalke 04, 2 - 0",6
+513,2516787,23/09/2017,"Hoffenheim - Schalke 04, 2 - 0",6
+514,2516788,23/09/2017,"Werder Bremen - Freiburg, 0 - 0",6
+515,2516788,23/09/2017,"Werder Bremen - Freiburg, 0 - 0",6
+516,2516790,23/09/2017,"Mainz 05 - Hertha BSC, 1 - 0",6
+517,2516790,23/09/2017,"Mainz 05 - Hertha BSC, 1 - 0",6
+518,2516792,23/09/2017,"Stuttgart - Augsburg, 0 - 0",6
+519,2516792,23/09/2017,"Stuttgart - Augsburg, 0 - 0",6
+520,2516784,22/09/2017,"Bayern München - Wolfsburg, 2 - 2",6
+521,2516784,22/09/2017,"Bayern München - Wolfsburg, 2 - 2",6
+522,2516776,20/09/2017,"Hertha BSC - Bayer Leverkusen, 2 - 1",5
+523,2516776,20/09/2017,"Hertha BSC - Bayer Leverkusen, 2 - 1",5
+524,2516777,20/09/2017,"Freiburg - Hannover 96, 1 - 1",5
+525,2516777,20/09/2017,"Freiburg - Hannover 96, 1 - 1",5
+526,2516781,20/09/2017,"Hamburger SV - Borussia Dortmund, 0 - 3",5
+527,2516781,20/09/2017,"Hamburger SV - Borussia Dortmund, 0 - 3",5
+528,2516782,20/09/2017,"Mainz 05 - Hoffenheim, 2 - 3",5
+529,2516782,20/09/2017,"Mainz 05 - Hoffenheim, 2 - 3",5
+530,2516775,20/09/2017,"Köln - Eintracht Frankfurt, 0 - 1",5
+531,2516775,20/09/2017,"Köln - Eintracht Frankfurt, 0 - 1",5
+532,2516779,19/09/2017,"Schalke 04 - Bayern München, 0 - 3",5
+533,2516779,19/09/2017,"Schalke 04 - Bayern München, 0 - 3",5
+534,2516780,19/09/2017,"Augsburg - RB Leipzig, 1 - 0",5
+535,2516780,19/09/2017,"Augsburg - RB Leipzig, 1 - 0",5
+536,2516783,19/09/2017,"Wolfsburg - Werder Bremen, 1 - 1",5
+537,2516783,19/09/2017,"Wolfsburg - Werder Bremen, 1 - 1",5
+538,2516778,19/09/2017,"Borussia M'gladbach - Stuttgart, 2 - 0",5
+539,2516778,19/09/2017,"Borussia M'gladbach - Stuttgart, 2 - 0",5
+540,2516767,17/09/2017,"Borussia Dortmund - Köln, 5 - 0",4
+541,2516767,17/09/2017,"Borussia Dortmund - Köln, 5 - 0",4
+542,2516772,17/09/2017,"Bayer Leverkusen - Freiburg, 4 - 0",4
+543,2516772,17/09/2017,"Bayer Leverkusen - Freiburg, 4 - 0",4
+544,2516769,17/09/2017,"Hoffenheim - Hertha BSC, 1 - 1",4
+545,2516769,17/09/2017,"Hoffenheim - Hertha BSC, 1 - 1",4
+546,2516768,16/09/2017,"RB Leipzig - Borussia M'gladbach, 2 - 2",4
+547,2516768,16/09/2017,"RB Leipzig - Borussia M'gladbach, 2 - 2",4
+548,2516766,16/09/2017,"Bayern München - Mainz 05, 4 - 0",4
+549,2516766,16/09/2017,"Bayern München - Mainz 05, 4 - 0",4
+550,2516770,16/09/2017,"Werder Bremen - Schalke 04, 1 - 2",4
+551,2516770,16/09/2017,"Werder Bremen - Schalke 04, 1 - 2",4
+552,2516771,16/09/2017,"Eintracht Frankfurt - Augsburg, 1 - 2",4
+553,2516771,16/09/2017,"Eintracht Frankfurt - Augsburg, 1 - 2",4
+554,2516774,16/09/2017,"Stuttgart - Wolfsburg, 1 - 0",4
+555,2516774,16/09/2017,"Stuttgart - Wolfsburg, 1 - 0",4
+556,2516773,15/09/2017,"Hannover 96 - Hamburger SV, 2 - 0",4
+557,2516773,15/09/2017,"Hannover 96 - Hamburger SV, 2 - 0",4
+558,2516761,10/09/2017,"Schalke 04 - Stuttgart, 3 - 1",3
+559,2516761,10/09/2017,"Schalke 04 - Stuttgart, 3 - 1",3
+560,2516758,10/09/2017,"Hertha BSC - Werder Bremen, 1 - 1",3
+561,2516758,10/09/2017,"Hertha BSC - Werder Bremen, 1 - 1",3
+562,2516757,09/09/2017,"Hoffenheim - Bayern München, 2 - 0",3
+563,2516757,09/09/2017,"Hoffenheim - Bayern München, 2 - 0",3
+564,2516759,09/09/2017,"Freiburg - Borussia Dortmund, 0 - 0",3
+565,2516759,09/09/2017,"Freiburg - Borussia Dortmund, 0 - 0",3
+566,2516760,09/09/2017,"Borussia M'gladbach - Eintracht Frankfurt, 0 - 1",3
+567,2516760,09/09/2017,"Borussia M'gladbach - Eintracht Frankfurt, 0 - 1",3
+568,2516762,09/09/2017,"Augsburg - Köln, 3 - 0",3
+569,2516762,09/09/2017,"Augsburg - Köln, 3 - 0",3
+570,2516764,09/09/2017,"Mainz 05 - Bayer Leverkusen, 3 - 1",3
+571,2516764,09/09/2017,"Mainz 05 - Bayer Leverkusen, 3 - 1",3
+572,2516765,09/09/2017,"Wolfsburg - Hannover 96, 1 - 1",3
+573,2516765,09/09/2017,"Wolfsburg - Hannover 96, 1 - 1",3
+574,2516763,08/09/2017,"Hamburger SV - RB Leipzig, 0 - 2",3
+575,2516763,08/09/2017,"Hamburger SV - RB Leipzig, 0 - 2",3
+576,2516755,27/08/2017,"Hannover 96 - Schalke 04, 1 - 0",2
+577,2516755,27/08/2017,"Hannover 96 - Schalke 04, 1 - 0",2
+578,2516749,27/08/2017,"RB Leipzig - Freiburg, 4 - 1",2
+579,2516749,27/08/2017,"RB Leipzig - Freiburg, 4 - 1",2
+580,2516748,26/08/2017,"Borussia Dortmund - Hertha BSC, 2 - 0",2
+581,2516748,26/08/2017,"Borussia Dortmund - Hertha BSC, 2 - 0",2
+582,2516751,26/08/2017,"Werder Bremen - Bayern München, 0 - 2",2
+583,2516751,26/08/2017,"Werder Bremen - Bayern München, 0 - 2",2
+584,2516752,26/08/2017,"Eintracht Frankfurt - Wolfsburg, 0 - 1",2
+585,2516752,26/08/2017,"Eintracht Frankfurt - Wolfsburg, 0 - 1",2
+586,2516753,26/08/2017,"Bayer Leverkusen - Hoffenheim, 2 - 2",2
+587,2516753,26/08/2017,"Bayer Leverkusen - Hoffenheim, 2 - 2",2
+588,2516754,26/08/2017,"Augsburg - Borussia M'gladbach, 2 - 2",2
+589,2516754,26/08/2017,"Augsburg - Borussia M'gladbach, 2 - 2",2
+590,2516756,26/08/2017,"Stuttgart - Mainz 05, 1 - 0",2
+591,2516756,26/08/2017,"Stuttgart - Mainz 05, 1 - 0",2
+592,2516750,25/08/2017,"Köln - Hamburger SV, 1 - 3",2
+593,2516750,25/08/2017,"Köln - Hamburger SV, 1 - 3",2
+594,2516743,20/08/2017,"Borussia M'gladbach - Köln, 1 - 0",1
+595,2516743,20/08/2017,"Borussia M'gladbach - Köln, 1 - 0",1
+596,2516742,20/08/2017,"Freiburg - Eintracht Frankfurt, 0 - 0",1
+597,2516742,20/08/2017,"Freiburg - Eintracht Frankfurt, 0 - 0",1
+598,2516744,19/08/2017,"Schalke 04 - RB Leipzig, 2 - 0",1
+599,2516744,19/08/2017,"Schalke 04 - RB Leipzig, 2 - 0",1
+600,2516740,19/08/2017,"Hoffenheim - Werder Bremen, 1 - 0",1
+601,2516740,19/08/2017,"Hoffenheim - Werder Bremen, 1 - 0",1
+602,2516741,19/08/2017,"Hertha BSC - Stuttgart, 2 - 0",1
+603,2516741,19/08/2017,"Hertha BSC - Stuttgart, 2 - 0",1
+604,2516745,19/08/2017,"Hamburger SV - Augsburg, 1 - 0",1
+605,2516745,19/08/2017,"Hamburger SV - Augsburg, 1 - 0",1
+606,2516746,19/08/2017,"Mainz 05 - Hannover 96, 0 - 1",1
+607,2516746,19/08/2017,"Mainz 05 - Hannover 96, 0 - 1",1
+608,2516747,19/08/2017,"Wolfsburg - Borussia Dortmund, 0 - 3",1
+609,2516747,19/08/2017,"Wolfsburg - Borussia Dortmund, 0 - 3",1
+610,2516739,18/08/2017,"Bayern München - Bayer Leverkusen, 3 - 1",1
+611,2516739,18/08/2017,"Bayern München - Bayer Leverkusen, 3 - 1",1

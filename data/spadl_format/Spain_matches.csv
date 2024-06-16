@@ -1,0 +1,761 @@
+,game_id,game_date,game_label,game_week
+0,2565922,20/05/2018,"Barcelona - Real Sociedad, 1 - 0",38
+1,2565922,20/05/2018,"Barcelona - Real Sociedad, 1 - 0",38
+2,2565925,20/05/2018,"Atlético Madrid - Eibar, 2 - 2",38
+3,2565925,20/05/2018,"Atlético Madrid - Eibar, 2 - 2",38
+4,2565919,20/05/2018,"Athletic Club - Espanyol, 0 - 1",38
+5,2565919,20/05/2018,"Athletic Club - Espanyol, 0 - 1",38
+6,2565924,20/05/2018,"Valencia - Deportivo La Coruña, 2 - 1",38
+7,2565924,20/05/2018,"Valencia - Deportivo La Coruña, 2 - 1",38
+8,2565927,19/05/2018,"Villarreal - Real Madrid, 2 - 2",38
+9,2565927,19/05/2018,"Villarreal - Real Madrid, 2 - 2",38
+10,2565920,19/05/2018,"Sevilla - Deportivo Alavés, 1 - 0",38
+11,2565920,19/05/2018,"Sevilla - Deportivo Alavés, 1 - 0",38
+12,2565921,19/05/2018,"Málaga - Getafe, 0 - 1",38
+13,2565921,19/05/2018,"Málaga - Getafe, 0 - 1",38
+14,2565923,19/05/2018,"Las Palmas - Girona, 1 - 2",38
+15,2565923,19/05/2018,"Las Palmas - Girona, 1 - 2",38
+16,2565926,19/05/2018,"Leganés - Real Betis, 3 - 2",38
+17,2565926,19/05/2018,"Leganés - Real Betis, 3 - 2",38
+18,2565918,19/05/2018,"Celta de Vigo - Levante, 4 - 2",38
+19,2565918,19/05/2018,"Celta de Vigo - Levante, 4 - 2",38
+20,2565917,13/05/2018,"Levante - Barcelona, 5 - 4",37
+21,2565917,13/05/2018,"Levante - Barcelona, 5 - 4",37
+22,2565910,13/05/2018,"Espanyol - Málaga, 4 - 1",37
+23,2565910,13/05/2018,"Espanyol - Málaga, 4 - 1",37
+24,2565912,12/05/2018,"Real Madrid - Celta de Vigo, 6 - 0",37
+25,2565912,12/05/2018,"Real Madrid - Celta de Vigo, 6 - 0",37
+26,2565908,12/05/2018,"Girona - Valencia, 0 - 1",37
+27,2565908,12/05/2018,"Girona - Valencia, 0 - 1",37
+28,2565909,12/05/2018,"Deportivo Alavés - Athletic Club, 3 - 1",37
+29,2565909,12/05/2018,"Deportivo Alavés - Athletic Club, 3 - 1",37
+30,2565911,12/05/2018,"Deportivo La Coruña - Villarreal, 2 - 4",37
+31,2565911,12/05/2018,"Deportivo La Coruña - Villarreal, 2 - 4",37
+32,2565913,12/05/2018,"Getafe - Atlético Madrid, 0 - 1",37
+33,2565913,12/05/2018,"Getafe - Atlético Madrid, 0 - 1",37
+34,2565914,12/05/2018,"Real Betis - Sevilla, 2 - 2",37
+35,2565914,12/05/2018,"Real Betis - Sevilla, 2 - 2",37
+36,2565915,12/05/2018,"Eibar - Las Palmas, 1 - 0",37
+37,2565915,12/05/2018,"Eibar - Las Palmas, 1 - 0",37
+38,2565916,12/05/2018,"Real Sociedad - Leganés, 3 - 2",37
+39,2565916,12/05/2018,"Real Sociedad - Leganés, 3 - 2",37
+40,2565882,09/05/2018,"Sevilla - Real Madrid, 3 - 2",34
+41,2565882,09/05/2018,"Sevilla - Real Madrid, 3 - 2",34
+42,2565884,09/05/2018,"Barcelona - Villarreal, 5 - 1",34
+43,2565884,09/05/2018,"Barcelona - Villarreal, 5 - 1",34
+44,2565900,07/05/2018,"Leganés - Levante, 0 - 3",36
+45,2565900,07/05/2018,"Leganés - Levante, 0 - 3",36
+46,2565907,06/05/2018,"Barcelona - Real Madrid, 2 - 2",36
+47,2565907,06/05/2018,"Barcelona - Real Madrid, 2 - 2",36
+48,2565898,06/05/2018,"Las Palmas - Getafe, 0 - 1",36
+49,2565898,06/05/2018,"Las Palmas - Getafe, 0 - 1",36
+50,2565899,06/05/2018,"Atlético Madrid - Espanyol, 0 - 2",36
+51,2565899,06/05/2018,"Atlético Madrid - Espanyol, 0 - 2",36
+52,2565906,06/05/2018,"Málaga - Deportivo Alavés, 0 - 3",36
+53,2565906,06/05/2018,"Málaga - Deportivo Alavés, 0 - 3",36
+54,2565901,05/05/2018,"Villarreal - Valencia, 1 - 0",36
+55,2565901,05/05/2018,"Villarreal - Valencia, 1 - 0",36
+56,2565902,05/05/2018,"Celta de Vigo - Deportivo La Coruña, 1 - 1",36
+57,2565902,05/05/2018,"Celta de Vigo - Deportivo La Coruña, 1 - 1",36
+58,2565903,05/05/2018,"Athletic Club - Real Betis, 2 - 0",36
+59,2565903,05/05/2018,"Athletic Club - Real Betis, 2 - 0",36
+60,2565904,05/05/2018,"Girona - Eibar, 1 - 4",36
+61,2565904,05/05/2018,"Girona - Eibar, 1 - 4",36
+62,2565905,04/05/2018,"Sevilla - Real Sociedad, 1 - 0",36
+63,2565905,04/05/2018,"Sevilla - Real Sociedad, 1 - 0",36
+64,2565893,30/04/2018,"Real Betis - Málaga, 2 - 1",35
+65,2565893,30/04/2018,"Real Betis - Málaga, 2 - 1",35
+66,2565889,29/04/2018,"Deportivo La Coruña - Barcelona, 2 - 4",35
+67,2565889,29/04/2018,"Deportivo La Coruña - Barcelona, 2 - 4",35
+68,2565890,29/04/2018,"Valencia - Eibar, 0 - 0",35
+69,2565890,29/04/2018,"Valencia - Eibar, 0 - 0",35
+70,2565896,29/04/2018,"Deportivo Alavés - Atlético Madrid, 0 - 1",35
+71,2565896,29/04/2018,"Deportivo Alavés - Atlético Madrid, 0 - 1",35
+72,2565892,29/04/2018,"Getafe - Girona, 1 - 1",35
+73,2565892,29/04/2018,"Getafe - Girona, 1 - 1",35
+74,2565888,28/04/2018,"Villarreal - Celta de Vigo, 4 - 1",35
+75,2565888,28/04/2018,"Villarreal - Celta de Vigo, 4 - 1",35
+76,2565891,28/04/2018,"Real Madrid - Leganés, 2 - 1",35
+77,2565891,28/04/2018,"Real Madrid - Leganés, 2 - 1",35
+78,2565894,28/04/2018,"Real Sociedad - Athletic Club, 3 - 1",35
+79,2565894,28/04/2018,"Real Sociedad - Athletic Club, 3 - 1",35
+80,2565897,28/04/2018,"Espanyol - Las Palmas, 1 - 1",35
+81,2565897,28/04/2018,"Espanyol - Las Palmas, 1 - 1",35
+82,2565895,27/04/2018,"Levante - Sevilla, 2 - 1",35
+83,2565895,27/04/2018,"Levante - Sevilla, 2 - 1",35
+84,2565879,23/04/2018,"Athletic Club - Levante, 1 - 3",34
+85,2565879,23/04/2018,"Athletic Club - Levante, 1 - 3",34
+86,2565886,22/04/2018,"Atlético Madrid - Real Betis, 0 - 0",34
+87,2565886,22/04/2018,"Atlético Madrid - Real Betis, 0 - 0",34
+88,2565885,22/04/2018,"Las Palmas - Deportivo Alavés, 0 - 4",34
+89,2565885,22/04/2018,"Las Palmas - Deportivo Alavés, 0 - 4",34
+90,2565883,22/04/2018,"Málaga - Real Sociedad, 2 - 0",34
+91,2565883,22/04/2018,"Málaga - Real Sociedad, 2 - 0",34
+92,2565880,22/04/2018,"Girona - Espanyol, 0 - 2",34
+93,2565880,22/04/2018,"Girona - Espanyol, 0 - 2",34
+94,2565878,21/04/2018,"Celta de Vigo - Valencia, 1 - 1",34
+95,2565878,21/04/2018,"Celta de Vigo - Valencia, 1 - 1",34
+96,2565881,21/04/2018,"Eibar - Getafe, 0 - 1",34
+97,2565881,21/04/2018,"Eibar - Getafe, 0 - 1",34
+98,2565887,20/04/2018,"Leganés - Deportivo La Coruña, 0 - 0",34
+99,2565887,20/04/2018,"Leganés - Deportivo La Coruña, 0 - 0",34
+100,2565869,19/04/2018,"Levante - Málaga, 1 - 0",33
+101,2565869,19/04/2018,"Levante - Málaga, 1 - 0",33
+102,2565877,19/04/2018,"Real Betis - Las Palmas, 1 - 0",33
+103,2565877,19/04/2018,"Real Betis - Las Palmas, 1 - 0",33
+104,2565868,19/04/2018,"Real Sociedad - Atlético Madrid, 3 - 0",33
+105,2565868,19/04/2018,"Real Sociedad - Atlético Madrid, 3 - 0",33
+106,2565870,19/04/2018,"Deportivo Alavés - Girona, 1 - 2",33
+107,2565870,19/04/2018,"Deportivo Alavés - Girona, 1 - 2",33
+108,2565876,18/04/2018,"Real Madrid - Athletic Club, 1 - 1",33
+109,2565876,18/04/2018,"Real Madrid - Athletic Club, 1 - 1",33
+110,2565871,18/04/2018,"Espanyol - Eibar, 0 - 1",33
+111,2565871,18/04/2018,"Espanyol - Eibar, 0 - 1",33
+112,2565875,18/04/2018,"Valencia - Getafe, 1 - 2",33
+113,2565875,18/04/2018,"Valencia - Getafe, 1 - 2",33
+114,2565872,17/04/2018,"Villarreal - Leganés, 2 - 1",33
+115,2565872,17/04/2018,"Villarreal - Leganés, 2 - 1",33
+116,2565874,17/04/2018,"Celta de Vigo - Barcelona, 2 - 2",33
+117,2565874,17/04/2018,"Celta de Vigo - Barcelona, 2 - 2",33
+118,2565873,17/04/2018,"Deportivo La Coruña - Sevilla, 0 - 0",33
+119,2565873,17/04/2018,"Deportivo La Coruña - Sevilla, 0 - 0",33
+120,2565867,15/04/2018,"Málaga - Real Madrid, 1 - 2",32
+121,2565867,15/04/2018,"Málaga - Real Madrid, 1 - 2",32
+122,2565862,15/04/2018,"Getafe - Espanyol, 1 - 0",32
+123,2565862,15/04/2018,"Getafe - Espanyol, 1 - 0",32
+124,2565860,15/04/2018,"Atlético Madrid - Levante, 3 - 0",32
+125,2565860,15/04/2018,"Atlético Madrid - Levante, 3 - 0",32
+126,2565865,15/04/2018,"Eibar - Deportivo Alavés, 0 - 1",32
+127,2565865,15/04/2018,"Eibar - Deportivo Alavés, 0 - 1",32
+128,2565863,14/04/2018,"Athletic Club - Deportivo La Coruña, 2 - 3",32
+129,2565863,14/04/2018,"Athletic Club - Deportivo La Coruña, 2 - 3",32
+130,2565859,14/04/2018,"Las Palmas - Real Sociedad, 0 - 1",32
+131,2565859,14/04/2018,"Las Palmas - Real Sociedad, 0 - 1",32
+132,2565861,14/04/2018,"Leganés - Celta de Vigo, 1 - 0",32
+133,2565861,14/04/2018,"Leganés - Celta de Vigo, 1 - 0",32
+134,2565858,14/04/2018,"Barcelona - Valencia, 2 - 1",32
+135,2565858,14/04/2018,"Barcelona - Valencia, 2 - 1",32
+136,2565866,14/04/2018,"Sevilla - Villarreal, 2 - 2",32
+137,2565866,14/04/2018,"Sevilla - Villarreal, 2 - 2",32
+138,2565864,13/04/2018,"Girona - Real Betis, 0 - 1",32
+139,2565864,13/04/2018,"Girona - Real Betis, 0 - 1",32
+140,2565848,09/04/2018,"Villarreal - Athletic Club, 1 - 3",31
+141,2565848,09/04/2018,"Villarreal - Athletic Club, 1 - 3",31
+142,2565851,08/04/2018,"Valencia - Espanyol, 1 - 0",31
+143,2565851,08/04/2018,"Valencia - Espanyol, 1 - 0",31
+144,2565854,08/04/2018,"Real Sociedad - Girona, 5 - 0",31
+145,2565854,08/04/2018,"Real Sociedad - Girona, 5 - 0",31
+146,2565852,08/04/2018,"Real Madrid - Atlético Madrid, 1 - 1",31
+147,2565852,08/04/2018,"Real Madrid - Atlético Madrid, 1 - 1",31
+148,2565855,08/04/2018,"Levante - Las Palmas, 2 - 1",31
+149,2565855,08/04/2018,"Levante - Las Palmas, 2 - 1",31
+150,2565856,07/04/2018,"Barcelona - Leganés, 3 - 1",31
+151,2565856,07/04/2018,"Barcelona - Leganés, 3 - 1",31
+152,2565853,07/04/2018,"Real Betis - Eibar, 2 - 0",31
+153,2565853,07/04/2018,"Real Betis - Eibar, 2 - 0",31
+154,2565850,07/04/2018,"Celta de Vigo - Sevilla, 4 - 0",31
+155,2565850,07/04/2018,"Celta de Vigo - Sevilla, 4 - 0",31
+156,2565857,07/04/2018,"Deportivo Alavés - Getafe, 2 - 0",31
+157,2565857,07/04/2018,"Deportivo Alavés - Getafe, 2 - 0",31
+158,2565849,06/04/2018,"Deportivo La Coruña - Málaga, 3 - 2",31
+159,2565849,06/04/2018,"Deportivo La Coruña - Málaga, 3 - 2",31
+160,2565841,02/04/2018,"Getafe - Real Betis, 0 - 1",30
+161,2565841,02/04/2018,"Getafe - Real Betis, 0 - 1",30
+162,2565839,01/04/2018,"Atlético Madrid - Deportivo La Coruña, 1 - 0",30
+163,2565839,01/04/2018,"Atlético Madrid - Deportivo La Coruña, 1 - 0",30
+164,2565844,01/04/2018,"Eibar - Real Sociedad, 0 - 0",30
+165,2565844,01/04/2018,"Eibar - Real Sociedad, 0 - 0",30
+166,2565846,01/04/2018,"Málaga - Villarreal, 1 - 0",30
+167,2565846,01/04/2018,"Málaga - Villarreal, 1 - 0",30
+168,2565840,01/04/2018,"Leganés - Valencia, 0 - 1",30
+169,2565840,01/04/2018,"Leganés - Valencia, 0 - 1",30
+170,2565838,01/04/2018,"Espanyol - Deportivo Alavés, 0 - 0",30
+171,2565838,01/04/2018,"Espanyol - Deportivo Alavés, 0 - 0",30
+172,2565845,31/03/2018,"Sevilla - Barcelona, 2 - 2",30
+173,2565845,31/03/2018,"Sevilla - Barcelona, 2 - 2",30
+174,2565847,31/03/2018,"Las Palmas - Real Madrid, 0 - 3",30
+175,2565847,31/03/2018,"Las Palmas - Real Madrid, 0 - 3",30
+176,2565842,31/03/2018,"Athletic Club - Celta de Vigo, 1 - 1",30
+177,2565842,31/03/2018,"Athletic Club - Celta de Vigo, 1 - 1",30
+178,2565843,31/03/2018,"Girona - Levante, 1 - 1",30
+179,2565843,31/03/2018,"Girona - Levante, 1 - 1",30
+180,2565836,18/03/2018,"Real Madrid - Girona, 6 - 3",29
+181,2565836,18/03/2018,"Real Madrid - Girona, 6 - 3",29
+182,2565832,18/03/2018,"Villarreal - Atlético Madrid, 2 - 1",29
+183,2565832,18/03/2018,"Villarreal - Atlético Madrid, 2 - 1",29
+184,2565834,18/03/2018,"Celta de Vigo - Málaga, 0 - 0",29
+185,2565834,18/03/2018,"Celta de Vigo - Málaga, 0 - 0",29
+186,2565830,18/03/2018,"Barcelona - Athletic Club, 2 - 0",29
+187,2565830,18/03/2018,"Barcelona - Athletic Club, 2 - 0",29
+188,2565831,18/03/2018,"Leganés - Sevilla, 2 - 1",29
+189,2565831,18/03/2018,"Leganés - Sevilla, 2 - 1",29
+190,2565837,17/03/2018,"Real Betis - Espanyol, 3 - 0",29
+191,2565837,17/03/2018,"Real Betis - Espanyol, 3 - 0",29
+192,2565828,17/03/2018,"Real Sociedad - Getafe, 1 - 2",29
+193,2565828,17/03/2018,"Real Sociedad - Getafe, 1 - 2",29
+194,2565835,17/03/2018,"Valencia - Deportivo Alavés, 3 - 1",29
+195,2565835,17/03/2018,"Valencia - Deportivo Alavés, 3 - 1",29
+196,2565833,17/03/2018,"Deportivo La Coruña - Las Palmas, 1 - 1",29
+197,2565833,17/03/2018,"Deportivo La Coruña - Las Palmas, 1 - 1",29
+198,2565829,16/03/2018,"Levante - Eibar, 2 - 1",29
+199,2565829,16/03/2018,"Levante - Eibar, 2 - 1",29
+200,2565822,12/03/2018,"Deportivo Alavés - Real Betis, 1 - 3",28
+201,2565822,12/03/2018,"Deportivo Alavés - Real Betis, 1 - 3",28
+202,2565826,11/03/2018,"Athletic Club - Leganés, 2 - 0",28
+203,2565826,11/03/2018,"Athletic Club - Leganés, 2 - 0",28
+204,2565821,11/03/2018,"Las Palmas - Villarreal, 0 - 2",28
+205,2565821,11/03/2018,"Las Palmas - Villarreal, 0 - 2",28
+206,2565824,11/03/2018,"Atlético Madrid - Celta de Vigo, 3 - 0",28
+207,2565824,11/03/2018,"Atlético Madrid - Celta de Vigo, 3 - 0",28
+208,2565823,11/03/2018,"Espanyol - Real Sociedad, 2 - 1",28
+209,2565823,11/03/2018,"Espanyol - Real Sociedad, 2 - 1",28
+210,2565820,10/03/2018,"Málaga - Barcelona, 0 - 2",28
+211,2565820,10/03/2018,"Málaga - Barcelona, 0 - 2",28
+212,2565825,10/03/2018,"Getafe - Levante, 0 - 1",28
+213,2565825,10/03/2018,"Getafe - Levante, 0 - 1",28
+214,2565819,10/03/2018,"Sevilla - Valencia, 0 - 2",28
+215,2565819,10/03/2018,"Sevilla - Valencia, 0 - 2",28
+216,2565818,10/03/2018,"Eibar - Real Madrid, 1 - 2",28
+217,2565818,10/03/2018,"Eibar - Real Madrid, 1 - 2",28
+218,2565827,09/03/2018,"Girona - Deportivo La Coruña, 2 - 0",28
+219,2565827,09/03/2018,"Girona - Deportivo La Coruña, 2 - 0",28
+220,2565813,05/03/2018,"Celta de Vigo - Las Palmas, 2 - 1",27
+221,2565813,05/03/2018,"Celta de Vigo - Las Palmas, 2 - 1",27
+222,2565811,04/03/2018,"Valencia - Real Betis, 2 - 0",27
+223,2565811,04/03/2018,"Valencia - Real Betis, 2 - 0",27
+224,2565815,04/03/2018,"Real Sociedad - Deportivo Alavés, 2 - 1",27
+225,2565815,04/03/2018,"Real Sociedad - Deportivo Alavés, 2 - 1",27
+226,2565817,04/03/2018,"Barcelona - Atlético Madrid, 1 - 0",27
+227,2565817,04/03/2018,"Barcelona - Atlético Madrid, 1 - 0",27
+228,2565816,04/03/2018,"Levante - Espanyol, 1 - 1",27
+229,2565816,04/03/2018,"Levante - Espanyol, 1 - 1",27
+230,2565812,03/03/2018,"Real Madrid - Getafe, 3 - 1",27
+231,2565812,03/03/2018,"Real Madrid - Getafe, 3 - 1",27
+232,2565808,03/03/2018,"Leganés - Málaga, 2 - 0",27
+233,2565808,03/03/2018,"Leganés - Málaga, 2 - 0",27
+234,2565810,03/03/2018,"Deportivo La Coruña - Eibar, 1 - 1",27
+235,2565810,03/03/2018,"Deportivo La Coruña - Eibar, 1 - 1",27
+236,2565814,03/03/2018,"Sevilla - Athletic Club, 2 - 0",27
+237,2565814,03/03/2018,"Sevilla - Athletic Club, 2 - 0",27
+238,2565809,03/03/2018,"Villarreal - Girona, 0 - 2",27
+239,2565809,03/03/2018,"Villarreal - Girona, 0 - 2",27
+240,2565798,01/03/2018,"Deportivo Alavés - Levante, 1 - 0",26
+241,2565798,01/03/2018,"Deportivo Alavés - Levante, 1 - 0",26
+242,2565807,01/03/2018,"Las Palmas - Barcelona, 1 - 1",26
+243,2565807,01/03/2018,"Las Palmas - Barcelona, 1 - 1",26
+244,2565804,01/03/2018,"Real Betis - Real Sociedad, 0 - 0",26
+245,2565804,01/03/2018,"Real Betis - Real Sociedad, 0 - 0",26
+246,2565800,28/02/2018,"Atlético Madrid - Leganés, 4 - 0",26
+247,2565800,28/02/2018,"Atlético Madrid - Leganés, 4 - 0",26
+248,2565805,28/02/2018,"Eibar - Villarreal, 1 - 0",26
+249,2565805,28/02/2018,"Eibar - Villarreal, 1 - 0",26
+250,2565801,28/02/2018,"Getafe - Deportivo La Coruña, 3 - 0",26
+251,2565801,28/02/2018,"Getafe - Deportivo La Coruña, 3 - 0",26
+252,2565802,28/02/2018,"Athletic Club - Valencia, 1 - 1",26
+253,2565802,28/02/2018,"Athletic Club - Valencia, 1 - 1",26
+254,2565806,28/02/2018,"Málaga - Sevilla, 0 - 1",26
+255,2565806,28/02/2018,"Málaga - Sevilla, 0 - 1",26
+256,2565803,27/02/2018,"Girona - Celta de Vigo, 1 - 0",26
+257,2565803,27/02/2018,"Girona - Celta de Vigo, 1 - 0",26
+258,2565799,27/02/2018,"Espanyol - Real Madrid, 1 - 0",26
+259,2565799,27/02/2018,"Espanyol - Real Madrid, 1 - 0",26
+260,2565790,26/02/2018,"Levante - Real Betis, 0 - 2",25
+261,2565790,26/02/2018,"Levante - Real Betis, 0 - 2",25
+262,2565789,25/02/2018,"Sevilla - Atlético Madrid, 2 - 5",25
+263,2565789,25/02/2018,"Sevilla - Atlético Madrid, 2 - 5",25
+264,2565795,25/02/2018,"Valencia - Real Sociedad, 2 - 1",25
+265,2565795,25/02/2018,"Valencia - Real Sociedad, 2 - 1",25
+266,2565788,25/02/2018,"Athletic Club - Málaga, 2 - 1",25
+267,2565788,25/02/2018,"Athletic Club - Málaga, 2 - 1",25
+268,2565793,25/02/2018,"Villarreal - Getafe, 1 - 0",25
+269,2565793,25/02/2018,"Villarreal - Getafe, 1 - 0",25
+270,2565791,24/02/2018,"Barcelona - Girona, 6 - 1",25
+271,2565791,24/02/2018,"Barcelona - Girona, 6 - 1",25
+272,2565792,24/02/2018,"Leganés - Las Palmas, 0 - 0",25
+273,2565792,24/02/2018,"Leganés - Las Palmas, 0 - 0",25
+274,2565796,24/02/2018,"Real Madrid - Deportivo Alavés, 4 - 0",25
+275,2565796,24/02/2018,"Real Madrid - Deportivo Alavés, 4 - 0",25
+276,2565797,24/02/2018,"Celta de Vigo - Eibar, 2 - 0",25
+277,2565797,24/02/2018,"Celta de Vigo - Eibar, 2 - 0",25
+278,2565794,23/02/2018,"Deportivo La Coruña - Espanyol, 0 - 0",25
+279,2565794,23/02/2018,"Deportivo La Coruña - Espanyol, 0 - 0",25
+280,2565707,21/02/2018,"Leganés - Real Madrid, 1 - 3",16
+281,2565707,21/02/2018,"Leganés - Real Madrid, 1 - 3",16
+282,2565778,19/02/2018,"Getafe - Celta de Vigo, 3 - 0",24
+283,2565778,19/02/2018,"Getafe - Celta de Vigo, 3 - 0",24
+284,2565780,18/02/2018,"Real Betis - Real Madrid, 3 - 5",24
+285,2565780,18/02/2018,"Real Betis - Real Madrid, 3 - 5",24
+286,2565786,18/02/2018,"Espanyol - Villarreal, 1 - 1",24
+287,2565786,18/02/2018,"Espanyol - Villarreal, 1 - 1",24
+288,2565787,18/02/2018,"Atlético Madrid - Athletic Club, 2 - 0",24
+289,2565787,18/02/2018,"Atlético Madrid - Athletic Club, 2 - 0",24
+290,2565783,18/02/2018,"Real Sociedad - Levante, 3 - 0",24
+291,2565783,18/02/2018,"Real Sociedad - Levante, 3 - 0",24
+292,2565782,17/02/2018,"Málaga - Valencia, 1 - 2",24
+293,2565782,17/02/2018,"Málaga - Valencia, 1 - 2",24
+294,2565785,17/02/2018,"Deportivo Alavés - Deportivo La Coruña, 1 - 0",24
+295,2565785,17/02/2018,"Deportivo Alavés - Deportivo La Coruña, 1 - 0",24
+296,2565781,17/02/2018,"Eibar - Barcelona, 0 - 2",24
+297,2565781,17/02/2018,"Eibar - Barcelona, 0 - 2",24
+298,2565784,17/02/2018,"Las Palmas - Sevilla, 1 - 2",24
+299,2565784,17/02/2018,"Las Palmas - Sevilla, 1 - 2",24
+300,2565779,16/02/2018,"Girona - Leganés, 3 - 0",24
+301,2565779,16/02/2018,"Girona - Leganés, 3 - 0",24
+302,2565770,12/02/2018,"Deportivo La Coruña - Real Betis, 0 - 1",23
+303,2565770,12/02/2018,"Deportivo La Coruña - Real Betis, 0 - 1",23
+304,2565771,11/02/2018,"Valencia - Levante, 3 - 1",23
+305,2565771,11/02/2018,"Valencia - Levante, 3 - 1",23
+306,2565773,11/02/2018,"Celta de Vigo - Espanyol, 2 - 2",23
+307,2565773,11/02/2018,"Celta de Vigo - Espanyol, 2 - 2",23
+308,2565777,11/02/2018,"Barcelona - Getafe, 0 - 0",23
+309,2565777,11/02/2018,"Barcelona - Getafe, 0 - 0",23
+310,2565775,11/02/2018,"Sevilla - Girona, 1 - 0",23
+311,2565775,11/02/2018,"Sevilla - Girona, 1 - 0",23
+312,2565772,10/02/2018,"Real Madrid - Real Sociedad, 5 - 2",23
+313,2565772,10/02/2018,"Real Madrid - Real Sociedad, 5 - 2",23
+314,2565768,10/02/2018,"Leganés - Eibar, 0 - 1",23
+315,2565768,10/02/2018,"Leganés - Eibar, 0 - 1",23
+316,2565776,10/02/2018,"Málaga - Atlético Madrid, 0 - 1",23
+317,2565776,10/02/2018,"Málaga - Atlético Madrid, 0 - 1",23
+318,2565769,10/02/2018,"Villarreal - Deportivo Alavés, 1 - 2",23
+319,2565769,10/02/2018,"Villarreal - Deportivo Alavés, 1 - 2",23
+320,2565774,09/02/2018,"Athletic Club - Las Palmas, 0 - 0",23
+321,2565774,09/02/2018,"Athletic Club - Las Palmas, 0 - 0",23
+322,2565767,05/02/2018,"Las Palmas - Málaga, 1 - 0",22
+323,2565767,05/02/2018,"Las Palmas - Málaga, 1 - 0",22
+324,2565760,04/02/2018,"Atlético Madrid - Valencia, 1 - 0",22
+325,2565760,04/02/2018,"Atlético Madrid - Valencia, 1 - 0",22
+326,2565762,04/02/2018,"Girona - Athletic Club, 2 - 0",22
+327,2565762,04/02/2018,"Girona - Athletic Club, 2 - 0",22
+328,2565759,04/02/2018,"Espanyol - Barcelona, 1 - 1",22
+329,2565759,04/02/2018,"Espanyol - Barcelona, 1 - 1",22
+330,2565761,04/02/2018,"Getafe - Leganés, 0 - 0",22
+331,2565761,04/02/2018,"Getafe - Leganés, 0 - 0",22
+332,2565766,03/02/2018,"Levante - Real Madrid, 2 - 2",22
+333,2565766,03/02/2018,"Levante - Real Madrid, 2 - 2",22
+334,2565758,03/02/2018,"Deportivo Alavés - Celta de Vigo, 2 - 1",22
+335,2565758,03/02/2018,"Deportivo Alavés - Celta de Vigo, 2 - 1",22
+336,2565763,03/02/2018,"Real Betis - Villarreal, 2 - 1",22
+337,2565763,03/02/2018,"Real Betis - Villarreal, 2 - 1",22
+338,2565764,03/02/2018,"Eibar - Sevilla, 5 - 1",22
+339,2565764,03/02/2018,"Eibar - Sevilla, 5 - 1",22
+340,2565765,02/02/2018,"Real Sociedad - Deportivo La Coruña, 5 - 0",22
+341,2565765,02/02/2018,"Real Sociedad - Deportivo La Coruña, 5 - 0",22
+342,2565750,29/01/2018,"Celta de Vigo - Real Betis, 3 - 2",21
+343,2565750,29/01/2018,"Celta de Vigo - Real Betis, 3 - 2",21
+344,2565754,28/01/2018,"Barcelona - Deportivo Alavés, 2 - 1",21
+345,2565754,28/01/2018,"Barcelona - Deportivo Alavés, 2 - 1",21
+346,2565752,28/01/2018,"Sevilla - Getafe, 1 - 1",21
+347,2565752,28/01/2018,"Sevilla - Getafe, 1 - 1",21
+348,2565755,28/01/2018,"Atlético Madrid - Las Palmas, 3 - 0",21
+349,2565755,28/01/2018,"Atlético Madrid - Las Palmas, 3 - 0",21
+350,2565756,28/01/2018,"Leganés - Espanyol, 3 - 2",21
+351,2565756,28/01/2018,"Leganés - Espanyol, 3 - 2",21
+352,2565757,27/01/2018,"Villarreal - Real Sociedad, 4 - 2",21
+353,2565757,27/01/2018,"Villarreal - Real Sociedad, 4 - 2",21
+354,2565753,27/01/2018,"Málaga - Girona, 0 - 0",21
+355,2565753,27/01/2018,"Málaga - Girona, 0 - 0",21
+356,2565749,27/01/2018,"Valencia - Real Madrid, 1 - 4",21
+357,2565749,27/01/2018,"Valencia - Real Madrid, 1 - 4",21
+358,2565748,27/01/2018,"Deportivo La Coruña - Levante, 2 - 2",21
+359,2565748,27/01/2018,"Deportivo La Coruña - Levante, 2 - 2",21
+360,2565751,26/01/2018,"Athletic Club - Eibar, 1 - 1",21
+361,2565751,26/01/2018,"Athletic Club - Eibar, 1 - 1",21
+362,2565741,22/01/2018,"Eibar - Málaga, 1 - 1",20
+363,2565741,22/01/2018,"Eibar - Málaga, 1 - 1",20
+364,2565740,21/01/2018,"Real Betis - Barcelona, 0 - 5",20
+365,2565740,21/01/2018,"Real Betis - Barcelona, 0 - 5",20
+366,2565742,21/01/2018,"Real Sociedad - Celta de Vigo, 1 - 2",20
+367,2565742,21/01/2018,"Real Sociedad - Celta de Vigo, 1 - 2",20
+368,2565738,21/01/2018,"Real Madrid - Deportivo La Coruña, 7 - 1",20
+369,2565738,21/01/2018,"Real Madrid - Deportivo La Coruña, 7 - 1",20
+370,2565746,21/01/2018,"Deportivo Alavés - Leganés, 2 - 2",20
+371,2565746,21/01/2018,"Deportivo Alavés - Leganés, 2 - 2",20
+372,2565744,20/01/2018,"Las Palmas - Valencia, 2 - 1",20
+373,2565744,20/01/2018,"Las Palmas - Valencia, 2 - 1",20
+374,2565745,20/01/2018,"Villarreal - Levante, 2 - 1",20
+375,2565745,20/01/2018,"Villarreal - Levante, 2 - 1",20
+376,2565743,20/01/2018,"Atlético Madrid - Girona, 1 - 1",20
+377,2565743,20/01/2018,"Atlético Madrid - Girona, 1 - 1",20
+378,2565747,20/01/2018,"Espanyol - Sevilla, 0 - 3",20
+379,2565747,20/01/2018,"Espanyol - Sevilla, 0 - 3",20
+380,2565739,19/01/2018,"Getafe - Athletic Club, 2 - 2",20
+381,2565739,19/01/2018,"Getafe - Athletic Club, 2 - 2",20
+382,2565735,15/01/2018,"Real Betis - Leganés, 3 - 2",19
+383,2565735,15/01/2018,"Real Betis - Leganés, 3 - 2",19
+384,2565737,14/01/2018,"Real Sociedad - Barcelona, 2 - 4",19
+385,2565737,14/01/2018,"Real Sociedad - Barcelona, 2 - 4",19
+386,2565730,14/01/2018,"Espanyol - Athletic Club, 1 - 1",19
+387,2565730,14/01/2018,"Espanyol - Athletic Club, 1 - 1",19
+388,2565729,14/01/2018,"Deportivo Alavés - Sevilla, 1 - 0",19
+389,2565729,14/01/2018,"Deportivo Alavés - Sevilla, 1 - 0",19
+390,2565731,14/01/2018,"Levante - Celta de Vigo, 0 - 1",19
+391,2565731,14/01/2018,"Levante - Celta de Vigo, 0 - 1",19
+392,2565732,13/01/2018,"Deportivo La Coruña - Valencia, 1 - 2",19
+393,2565732,13/01/2018,"Deportivo La Coruña - Valencia, 1 - 2",19
+394,2565736,13/01/2018,"Eibar - Atlético Madrid, 0 - 1",19
+395,2565736,13/01/2018,"Eibar - Atlético Madrid, 0 - 1",19
+396,2565733,13/01/2018,"Real Madrid - Villarreal, 0 - 1",19
+397,2565733,13/01/2018,"Real Madrid - Villarreal, 0 - 1",19
+398,2565728,13/01/2018,"Girona - Las Palmas, 6 - 0",19
+399,2565728,13/01/2018,"Girona - Las Palmas, 6 - 0",19
+400,2565734,12/01/2018,"Getafe - Málaga, 1 - 0",19
+401,2565734,12/01/2018,"Getafe - Málaga, 1 - 0",19
+402,2565726,08/01/2018,"Málaga - Espanyol, 0 - 1",18
+403,2565726,08/01/2018,"Málaga - Espanyol, 0 - 1",18
+404,2565723,07/01/2018,"Celta de Vigo - Real Madrid, 2 - 2",18
+405,2565723,07/01/2018,"Celta de Vigo - Real Madrid, 2 - 2",18
+406,2565720,07/01/2018,"Villarreal - Deportivo La Coruña, 1 - 1",18
+407,2565720,07/01/2018,"Villarreal - Deportivo La Coruña, 1 - 1",18
+408,2565724,07/01/2018,"Athletic Club - Deportivo Alavés, 2 - 0",18
+409,2565724,07/01/2018,"Athletic Club - Deportivo Alavés, 2 - 0",18
+410,2565718,07/01/2018,"Barcelona - Levante, 3 - 0",18
+411,2565718,07/01/2018,"Barcelona - Levante, 3 - 0",18
+412,2565721,07/01/2018,"Leganés - Real Sociedad, 1 - 0",18
+413,2565721,07/01/2018,"Leganés - Real Sociedad, 1 - 0",18
+414,2565725,06/01/2018,"Sevilla - Real Betis, 3 - 5",18
+415,2565725,06/01/2018,"Sevilla - Real Betis, 3 - 5",18
+416,2565719,06/01/2018,"Las Palmas - Eibar, 1 - 2",18
+417,2565719,06/01/2018,"Las Palmas - Eibar, 1 - 2",18
+418,2565722,06/01/2018,"Valencia - Girona, 2 - 1",18
+419,2565722,06/01/2018,"Valencia - Girona, 2 - 1",18
+420,2565727,06/01/2018,"Atlético Madrid - Getafe, 2 - 0",18
+421,2565727,06/01/2018,"Atlético Madrid - Getafe, 2 - 0",18
+422,2565709,23/12/2017,"Deportivo La Coruña - Celta de Vigo, 1 - 3",17
+423,2565709,23/12/2017,"Deportivo La Coruña - Celta de Vigo, 1 - 3",17
+424,2565710,23/12/2017,"Valencia - Villarreal, 0 - 1",17
+425,2565710,23/12/2017,"Valencia - Villarreal, 0 - 1",17
+426,2565711,23/12/2017,"Real Madrid - Barcelona, 0 - 3",17
+427,2565711,23/12/2017,"Real Madrid - Barcelona, 0 - 3",17
+428,2565717,22/12/2017,"Espanyol - Atlético Madrid, 1 - 0",17
+429,2565717,22/12/2017,"Espanyol - Atlético Madrid, 1 - 0",17
+430,2565713,22/12/2017,"Real Betis - Athletic Club, 0 - 2",17
+431,2565713,22/12/2017,"Real Betis - Athletic Club, 0 - 2",17
+432,2565716,21/12/2017,"Deportivo Alavés - Málaga, 1 - 0",17
+433,2565716,21/12/2017,"Deportivo Alavés - Málaga, 1 - 0",17
+434,2565714,21/12/2017,"Eibar - Girona, 4 - 1",17
+435,2565714,21/12/2017,"Eibar - Girona, 4 - 1",17
+436,2565715,20/12/2017,"Real Sociedad - Sevilla, 3 - 1",17
+437,2565715,20/12/2017,"Real Sociedad - Sevilla, 3 - 1",17
+438,2565712,20/12/2017,"Getafe - Las Palmas, 2 - 0",17
+439,2565712,20/12/2017,"Getafe - Las Palmas, 2 - 0",17
+440,2565708,19/12/2017,"Levante - Leganés, 0 - 0",17
+441,2565708,19/12/2017,"Levante - Leganés, 0 - 0",17
+442,2565702,18/12/2017,"Málaga - Real Betis, 0 - 2",16
+443,2565702,18/12/2017,"Málaga - Real Betis, 0 - 2",16
+444,2565704,17/12/2017,"Barcelona - Deportivo La Coruña, 4 - 0",16
+445,2565704,17/12/2017,"Barcelona - Deportivo La Coruña, 4 - 0",16
+446,2565705,17/12/2017,"Las Palmas - Espanyol, 2 - 2",16
+447,2565705,17/12/2017,"Las Palmas - Espanyol, 2 - 2",16
+448,2565699,17/12/2017,"Celta de Vigo - Villarreal, 0 - 1",16
+449,2565699,17/12/2017,"Celta de Vigo - Villarreal, 0 - 1",16
+450,2565706,17/12/2017,"Girona - Getafe, 1 - 0",16
+451,2565706,17/12/2017,"Girona - Getafe, 1 - 0",16
+452,2565703,16/12/2017,"Atlético Madrid - Deportivo Alavés, 1 - 0",16
+453,2565703,16/12/2017,"Atlético Madrid - Deportivo Alavés, 1 - 0",16
+454,2565698,16/12/2017,"Eibar - Valencia, 2 - 1",16
+455,2565698,16/12/2017,"Eibar - Valencia, 2 - 1",16
+456,2565700,16/12/2017,"Athletic Club - Real Sociedad, 0 - 0",16
+457,2565700,16/12/2017,"Athletic Club - Real Sociedad, 0 - 0",16
+458,2565701,15/12/2017,"Sevilla - Levante, 0 - 0",16
+459,2565701,15/12/2017,"Sevilla - Levante, 0 - 0",16
+460,2565690,11/12/2017,"Espanyol - Girona, 0 - 1",15
+461,2565690,11/12/2017,"Espanyol - Girona, 0 - 1",15
+462,2565692,10/12/2017,"Villarreal - Barcelona, 0 - 2",15
+463,2565692,10/12/2017,"Villarreal - Barcelona, 0 - 2",15
+464,2565691,10/12/2017,"Levante - Athletic Club, 1 - 2",15
+465,2565691,10/12/2017,"Levante - Athletic Club, 1 - 2",15
+466,2565697,10/12/2017,"Real Betis - Atlético Madrid, 0 - 1",15
+467,2565697,10/12/2017,"Real Betis - Atlético Madrid, 0 - 1",15
+468,2565688,10/12/2017,"Real Sociedad - Málaga, 0 - 2",15
+469,2565688,10/12/2017,"Real Sociedad - Málaga, 0 - 2",15
+470,2565694,09/12/2017,"Valencia - Celta de Vigo, 2 - 1",15
+471,2565694,09/12/2017,"Valencia - Celta de Vigo, 2 - 1",15
+472,2565693,09/12/2017,"Deportivo La Coruña - Leganés, 1 - 0",15
+473,2565693,09/12/2017,"Deportivo La Coruña - Leganés, 1 - 0",15
+474,2565695,09/12/2017,"Real Madrid - Sevilla, 5 - 0",15
+475,2565695,09/12/2017,"Real Madrid - Sevilla, 5 - 0",15
+476,2565696,09/12/2017,"Getafe - Eibar, 0 - 0",15
+477,2565696,09/12/2017,"Getafe - Eibar, 0 - 0",15
+478,2565689,08/12/2017,"Deportivo Alavés - Las Palmas, 2 - 0",15
+479,2565689,08/12/2017,"Deportivo Alavés - Las Palmas, 2 - 0",15
+480,2565683,04/12/2017,"Girona - Deportivo Alavés, 2 - 3",14
+481,2565683,04/12/2017,"Girona - Deportivo Alavés, 2 - 3",14
+482,2565682,03/12/2017,"Las Palmas - Real Betis, 1 - 0",14
+483,2565682,03/12/2017,"Las Palmas - Real Betis, 1 - 0",14
+484,2565686,03/12/2017,"Eibar - Espanyol, 3 - 1",14
+485,2565686,03/12/2017,"Eibar - Espanyol, 3 - 1",14
+486,2565684,03/12/2017,"Getafe - Valencia, 1 - 0",14
+487,2565684,03/12/2017,"Getafe - Valencia, 1 - 0",14
+488,2565685,03/12/2017,"Leganés - Villarreal, 3 - 1",14
+489,2565685,03/12/2017,"Leganés - Villarreal, 3 - 1",14
+490,2565687,02/12/2017,"Athletic Club - Real Madrid, 0 - 0",14
+491,2565687,02/12/2017,"Athletic Club - Real Madrid, 0 - 0",14
+492,2565678,02/12/2017,"Sevilla - Deportivo La Coruña, 2 - 0",14
+493,2565678,02/12/2017,"Sevilla - Deportivo La Coruña, 2 - 0",14
+494,2565680,02/12/2017,"Atlético Madrid - Real Sociedad, 2 - 1",14
+495,2565680,02/12/2017,"Atlético Madrid - Real Sociedad, 2 - 1",14
+496,2565681,02/12/2017,"Barcelona - Celta de Vigo, 2 - 2",14
+497,2565681,02/12/2017,"Barcelona - Celta de Vigo, 2 - 2",14
+498,2565679,01/12/2017,"Málaga - Levante, 0 - 0",14
+499,2565679,01/12/2017,"Málaga - Levante, 0 - 0",14
+500,2565668,27/11/2017,"Espanyol - Getafe, 1 - 0",13
+501,2565668,27/11/2017,"Espanyol - Getafe, 1 - 0",13
+502,2565672,26/11/2017,"Valencia - Barcelona, 1 - 1",13
+503,2565672,26/11/2017,"Valencia - Barcelona, 1 - 1",13
+504,2565670,26/11/2017,"Villarreal - Sevilla, 2 - 3",13
+505,2565670,26/11/2017,"Villarreal - Sevilla, 2 - 3",13
+506,2565675,26/11/2017,"Real Sociedad - Las Palmas, 2 - 2",13
+507,2565675,26/11/2017,"Real Sociedad - Las Palmas, 2 - 2",13
+508,2565671,26/11/2017,"Deportivo La Coruña - Athletic Club, 2 - 2",13
+509,2565671,26/11/2017,"Deportivo La Coruña - Athletic Club, 2 - 2",13
+510,2565669,25/11/2017,"Levante - Atlético Madrid, 0 - 5",13
+511,2565669,25/11/2017,"Levante - Atlético Madrid, 0 - 5",13
+512,2565674,25/11/2017,"Real Betis - Girona, 2 - 2",13
+513,2565674,25/11/2017,"Real Betis - Girona, 2 - 2",13
+514,2565673,25/11/2017,"Real Madrid - Málaga, 3 - 2",13
+515,2565673,25/11/2017,"Real Madrid - Málaga, 3 - 2",13
+516,2565677,25/11/2017,"Deportivo Alavés - Eibar, 1 - 2",13
+517,2565677,25/11/2017,"Deportivo Alavés - Eibar, 1 - 2",13
+518,2565676,24/11/2017,"Celta de Vigo - Leganés, 1 - 0",13
+519,2565676,24/11/2017,"Celta de Vigo - Leganés, 1 - 0",13
+520,2565659,20/11/2017,"Eibar - Real Betis, 5 - 0",12
+521,2565659,20/11/2017,"Eibar - Real Betis, 5 - 0",12
+522,2565660,19/11/2017,"Athletic Club - Villarreal, 1 - 1",12
+523,2565660,19/11/2017,"Athletic Club - Villarreal, 1 - 1",12
+524,2565665,19/11/2017,"Las Palmas - Levante, 0 - 2",12
+525,2565665,19/11/2017,"Las Palmas - Levante, 0 - 2",12
+526,2565663,19/11/2017,"Espanyol - Valencia, 0 - 2",12
+527,2565663,19/11/2017,"Espanyol - Valencia, 0 - 2",12
+528,2565662,19/11/2017,"Málaga - Deportivo La Coruña, 3 - 2",12
+529,2565662,19/11/2017,"Málaga - Deportivo La Coruña, 3 - 2",12
+530,2565664,18/11/2017,"Atlético Madrid - Real Madrid, 0 - 0",12
+531,2565664,18/11/2017,"Atlético Madrid - Real Madrid, 0 - 0",12
+532,2565661,18/11/2017,"Sevilla - Celta de Vigo, 2 - 1",12
+533,2565661,18/11/2017,"Sevilla - Celta de Vigo, 2 - 1",12
+534,2565658,18/11/2017,"Leganés - Barcelona, 0 - 3",12
+535,2565658,18/11/2017,"Leganés - Barcelona, 0 - 3",12
+536,2565667,18/11/2017,"Getafe - Deportivo Alavés, 4 - 1",12
+537,2565667,18/11/2017,"Getafe - Deportivo Alavés, 4 - 1",12
+538,2565666,17/11/2017,"Girona - Real Sociedad, 1 - 1",12
+539,2565666,17/11/2017,"Girona - Real Sociedad, 1 - 1",12
+540,2565657,05/11/2017,"Real Madrid - Las Palmas, 3 - 0",11
+541,2565657,05/11/2017,"Real Madrid - Las Palmas, 3 - 0",11
+542,2565649,05/11/2017,"Real Sociedad - Eibar, 3 - 1",11
+543,2565649,05/11/2017,"Real Sociedad - Eibar, 3 - 1",11
+544,2565654,05/11/2017,"Villarreal - Málaga, 2 - 0",11
+545,2565654,05/11/2017,"Villarreal - Málaga, 2 - 0",11
+546,2565650,05/11/2017,"Celta de Vigo - Athletic Club, 3 - 1",11
+547,2565650,05/11/2017,"Celta de Vigo - Athletic Club, 3 - 1",11
+548,2565652,05/11/2017,"Levante - Girona, 1 - 2",11
+549,2565652,05/11/2017,"Levante - Girona, 1 - 2",11
+550,2565653,04/11/2017,"Barcelona - Sevilla, 2 - 1",11
+551,2565653,04/11/2017,"Barcelona - Sevilla, 2 - 1",11
+552,2565651,04/11/2017,"Deportivo Alavés - Espanyol, 1 - 0",11
+553,2565651,04/11/2017,"Deportivo Alavés - Espanyol, 1 - 0",11
+554,2565655,04/11/2017,"Deportivo La Coruña - Atlético Madrid, 0 - 1",11
+555,2565655,04/11/2017,"Deportivo La Coruña - Atlético Madrid, 0 - 1",11
+556,2565656,04/11/2017,"Valencia - Leganés, 3 - 0",11
+557,2565656,04/11/2017,"Valencia - Leganés, 3 - 0",11
+558,2565648,03/11/2017,"Real Betis - Getafe, 2 - 2",11
+559,2565648,03/11/2017,"Real Betis - Getafe, 2 - 2",11
+560,2565641,30/10/2017,"Espanyol - Real Betis, 1 - 0",10
+561,2565641,30/10/2017,"Espanyol - Real Betis, 1 - 0",10
+562,2565643,30/10/2017,"Las Palmas - Deportivo La Coruña, 1 - 3",10
+563,2565643,30/10/2017,"Las Palmas - Deportivo La Coruña, 1 - 3",10
+564,2565640,29/10/2017,"Málaga - Celta de Vigo, 2 - 1",10
+565,2565640,29/10/2017,"Málaga - Celta de Vigo, 2 - 1",10
+566,2565646,29/10/2017,"Eibar - Levante, 2 - 2",10
+567,2565646,29/10/2017,"Eibar - Levante, 2 - 2",10
+568,2565644,29/10/2017,"Girona - Real Madrid, 2 - 1",10
+569,2565644,29/10/2017,"Girona - Real Madrid, 2 - 1",10
+570,2565645,29/10/2017,"Getafe - Real Sociedad, 2 - 1",10
+571,2565645,29/10/2017,"Getafe - Real Sociedad, 2 - 1",10
+572,2565639,28/10/2017,"Sevilla - Leganés, 2 - 1",10
+573,2565639,28/10/2017,"Sevilla - Leganés, 2 - 1",10
+574,2565647,28/10/2017,"Athletic Club - Barcelona, 0 - 2",10
+575,2565647,28/10/2017,"Athletic Club - Barcelona, 0 - 2",10
+576,2565642,28/10/2017,"Atlético Madrid - Villarreal, 1 - 1",10
+577,2565642,28/10/2017,"Atlético Madrid - Villarreal, 1 - 1",10
+578,2565638,28/10/2017,"Deportivo Alavés - Valencia, 1 - 2",10
+579,2565638,28/10/2017,"Deportivo Alavés - Valencia, 1 - 2",10
+580,2565631,23/10/2017,"Deportivo La Coruña - Girona, 1 - 2",9
+581,2565631,23/10/2017,"Deportivo La Coruña - Girona, 1 - 2",9
+582,2565636,23/10/2017,"Real Sociedad - Espanyol, 1 - 1",9
+583,2565636,23/10/2017,"Real Sociedad - Espanyol, 1 - 1",9
+584,2565633,22/10/2017,"Real Madrid - Eibar, 3 - 0",9
+585,2565633,22/10/2017,"Real Madrid - Eibar, 3 - 0",9
+586,2565635,22/10/2017,"Leganés - Athletic Club, 1 - 0",9
+587,2565635,22/10/2017,"Leganés - Athletic Club, 1 - 0",9
+588,2565637,22/10/2017,"Celta de Vigo - Atlético Madrid, 0 - 1",9
+589,2565637,22/10/2017,"Celta de Vigo - Atlético Madrid, 0 - 1",9
+590,2565630,22/10/2017,"Villarreal - Las Palmas, 4 - 0",9
+591,2565630,22/10/2017,"Villarreal - Las Palmas, 4 - 0",9
+592,2565629,21/10/2017,"Barcelona - Málaga, 2 - 0",9
+593,2565629,21/10/2017,"Barcelona - Málaga, 2 - 0",9
+594,2565632,21/10/2017,"Valencia - Sevilla, 4 - 0",9
+595,2565632,21/10/2017,"Valencia - Sevilla, 4 - 0",9
+596,2565634,21/10/2017,"Real Betis - Deportivo Alavés, 2 - 0",9
+597,2565634,21/10/2017,"Real Betis - Deportivo Alavés, 2 - 0",9
+598,2565628,21/10/2017,"Levante - Getafe, 1 - 1",9
+599,2565628,21/10/2017,"Levante - Getafe, 1 - 1",9
+600,2565627,16/10/2017,"Las Palmas - Celta de Vigo, 2 - 5",8
+601,2565627,16/10/2017,"Las Palmas - Celta de Vigo, 2 - 5",8
+602,2565620,15/10/2017,"Real Betis - Valencia, 3 - 6",8
+603,2565620,15/10/2017,"Real Betis - Valencia, 3 - 6",8
+604,2565624,15/10/2017,"Málaga - Leganés, 0 - 2",8
+605,2565624,15/10/2017,"Málaga - Leganés, 0 - 2",8
+606,2565618,15/10/2017,"Girona - Villarreal, 1 - 2",8
+607,2565618,15/10/2017,"Girona - Villarreal, 1 - 2",8
+608,2565621,15/10/2017,"Eibar - Deportivo La Coruña, 0 - 0",8
+609,2565621,15/10/2017,"Eibar - Deportivo La Coruña, 0 - 0",8
+610,2565626,14/10/2017,"Atlético Madrid - Barcelona, 1 - 1",8
+611,2565626,14/10/2017,"Atlético Madrid - Barcelona, 1 - 1",8
+612,2565623,14/10/2017,"Deportivo Alavés - Real Sociedad, 0 - 2",8
+613,2565623,14/10/2017,"Deportivo Alavés - Real Sociedad, 0 - 2",8
+614,2565619,14/10/2017,"Getafe - Real Madrid, 1 - 2",8
+615,2565619,14/10/2017,"Getafe - Real Madrid, 1 - 2",8
+616,2565622,14/10/2017,"Athletic Club - Sevilla, 1 - 0",8
+617,2565622,14/10/2017,"Athletic Club - Sevilla, 1 - 0",8
+618,2565625,13/10/2017,"Espanyol - Levante, 0 - 0",8
+619,2565625,13/10/2017,"Espanyol - Levante, 0 - 0",8
+620,2565609,01/10/2017,"Real Madrid - Espanyol, 2 - 0",7
+621,2565609,01/10/2017,"Real Madrid - Espanyol, 2 - 0",7
+622,2565608,01/10/2017,"Valencia - Athletic Club, 3 - 2",7
+623,2565608,01/10/2017,"Valencia - Athletic Club, 3 - 2",7
+624,2565616,01/10/2017,"Villarreal - Eibar, 3 - 0",7
+625,2565616,01/10/2017,"Villarreal - Eibar, 3 - 0",7
+626,2565615,01/10/2017,"Barcelona - Las Palmas, 3 - 0",7
+627,2565615,01/10/2017,"Barcelona - Las Palmas, 3 - 0",7
+628,2565611,01/10/2017,"Real Sociedad - Real Betis, 4 - 4",7
+629,2565611,01/10/2017,"Real Sociedad - Real Betis, 4 - 4",7
+630,2565610,30/09/2017,"Leganés - Atlético Madrid, 0 - 0",7
+631,2565610,30/09/2017,"Leganés - Atlético Madrid, 0 - 0",7
+632,2565614,30/09/2017,"Levante - Deportivo Alavés, 0 - 2",7
+633,2565614,30/09/2017,"Levante - Deportivo Alavés, 0 - 2",7
+634,2565613,30/09/2017,"Sevilla - Málaga, 2 - 0",7
+635,2565613,30/09/2017,"Sevilla - Málaga, 2 - 0",7
+636,2565617,30/09/2017,"Deportivo La Coruña - Getafe, 2 - 1",7
+637,2565617,30/09/2017,"Deportivo La Coruña - Getafe, 2 - 1",7
+638,2565612,29/09/2017,"Celta de Vigo - Girona, 3 - 3",7
+639,2565612,29/09/2017,"Celta de Vigo - Girona, 3 - 3",7
+640,2565605,25/09/2017,"Real Betis - Levante, 4 - 0",6
+641,2565605,25/09/2017,"Real Betis - Levante, 4 - 0",6
+642,2565607,24/09/2017,"Real Sociedad - Valencia, 2 - 3",6
+643,2565607,24/09/2017,"Real Sociedad - Valencia, 2 - 3",6
+644,2565602,24/09/2017,"Las Palmas - Leganés, 0 - 2",6
+645,2565602,24/09/2017,"Las Palmas - Leganés, 0 - 2",6
+646,2565606,24/09/2017,"Eibar - Celta de Vigo, 0 - 4",6
+647,2565606,24/09/2017,"Eibar - Celta de Vigo, 0 - 4",6
+648,2565604,24/09/2017,"Getafe - Villarreal, 4 - 0",6
+649,2565604,24/09/2017,"Getafe - Villarreal, 4 - 0",6
+650,2565600,24/09/2017,"Espanyol - Deportivo La Coruña, 4 - 1",6
+651,2565600,24/09/2017,"Espanyol - Deportivo La Coruña, 4 - 1",6
+652,2565603,23/09/2017,"Girona - Barcelona, 0 - 3",6
+653,2565603,23/09/2017,"Girona - Barcelona, 0 - 3",6
+654,2565599,23/09/2017,"Málaga - Athletic Club, 3 - 3",6
+655,2565599,23/09/2017,"Málaga - Athletic Club, 3 - 3",6
+656,2565598,23/09/2017,"Deportivo Alavés - Real Madrid, 1 - 2",6
+657,2565598,23/09/2017,"Deportivo Alavés - Real Madrid, 1 - 2",6
+658,2565601,23/09/2017,"Atlético Madrid - Sevilla, 2 - 0",6
+659,2565601,23/09/2017,"Atlético Madrid - Sevilla, 2 - 0",6
+660,2565591,21/09/2017,"Levante - Real Sociedad, 3 - 0",5
+661,2565591,21/09/2017,"Levante - Real Sociedad, 3 - 0",5
+662,2565588,21/09/2017,"Celta de Vigo - Getafe, 1 - 1",5
+663,2565588,21/09/2017,"Celta de Vigo - Getafe, 1 - 1",5
+664,2565593,21/09/2017,"Villarreal - Espanyol, 0 - 0",5
+665,2565593,21/09/2017,"Villarreal - Espanyol, 0 - 0",5
+666,2565590,20/09/2017,"Sevilla - Las Palmas, 1 - 0",5
+667,2565590,20/09/2017,"Sevilla - Las Palmas, 1 - 0",5
+668,2565596,20/09/2017,"Real Madrid - Real Betis, 0 - 1",5
+669,2565596,20/09/2017,"Real Madrid - Real Betis, 0 - 1",5
+670,2565594,20/09/2017,"Deportivo La Coruña - Deportivo Alavés, 1 - 0",5
+671,2565594,20/09/2017,"Deportivo La Coruña - Deportivo Alavés, 1 - 0",5
+672,2565589,20/09/2017,"Athletic Club - Atlético Madrid, 1 - 2",5
+673,2565589,20/09/2017,"Athletic Club - Atlético Madrid, 1 - 2",5
+674,2565597,20/09/2017,"Leganés - Girona, 0 - 0",5
+675,2565597,20/09/2017,"Leganés - Girona, 0 - 0",5
+676,2565592,19/09/2017,"Barcelona - Eibar, 6 - 1",5
+677,2565592,19/09/2017,"Barcelona - Eibar, 6 - 1",5
+678,2565595,19/09/2017,"Valencia - Málaga, 5 - 0",5
+679,2565595,19/09/2017,"Valencia - Málaga, 5 - 0",5
+680,2565585,18/09/2017,"Espanyol - Celta de Vigo, 2 - 1",4
+681,2565585,18/09/2017,"Espanyol - Celta de Vigo, 2 - 1",4
+682,2565583,17/09/2017,"Real Sociedad - Real Madrid, 1 - 3",4
+683,2565583,17/09/2017,"Real Sociedad - Real Madrid, 1 - 3",4
+684,2565578,17/09/2017,"Las Palmas - Athletic Club, 1 - 0",4
+685,2565578,17/09/2017,"Las Palmas - Athletic Club, 1 - 0",4
+686,2565579,17/09/2017,"Girona - Sevilla, 0 - 1",4
+687,2565579,17/09/2017,"Girona - Sevilla, 0 - 1",4
+688,2565584,17/09/2017,"Deportivo Alavés - Villarreal, 0 - 3",4
+689,2565584,17/09/2017,"Deportivo Alavés - Villarreal, 0 - 3",4
+690,2565586,16/09/2017,"Atlético Madrid - Málaga, 1 - 0",4
+691,2565586,16/09/2017,"Atlético Madrid - Málaga, 1 - 0",4
+692,2565581,16/09/2017,"Real Betis - Deportivo La Coruña, 2 - 1",4
+693,2565581,16/09/2017,"Real Betis - Deportivo La Coruña, 2 - 1",4
+694,2565580,16/09/2017,"Getafe - Barcelona, 1 - 2",4
+695,2565580,16/09/2017,"Getafe - Barcelona, 1 - 2",4
+696,2565587,16/09/2017,"Levante - Valencia, 1 - 1",4
+697,2565587,16/09/2017,"Levante - Valencia, 1 - 1",4
+698,2565582,15/09/2017,"Eibar - Leganés, 1 - 0",4
+699,2565582,15/09/2017,"Eibar - Leganés, 1 - 0",4
+700,2565576,11/09/2017,"Málaga - Las Palmas, 1 - 3",3
+701,2565576,11/09/2017,"Málaga - Las Palmas, 1 - 3",3
+702,2565568,10/09/2017,"Villarreal - Real Betis, 3 - 1",3
+703,2565568,10/09/2017,"Villarreal - Real Betis, 3 - 1",3
+704,2565573,10/09/2017,"Celta de Vigo - Deportivo Alavés, 1 - 0",3
+705,2565573,10/09/2017,"Celta de Vigo - Deportivo Alavés, 1 - 0",3
+706,2565574,10/09/2017,"Athletic Club - Girona, 2 - 0",3
+707,2565574,10/09/2017,"Athletic Club - Girona, 2 - 0",3
+708,2565569,10/09/2017,"Deportivo La Coruña - Real Sociedad, 2 - 4",3
+709,2565569,10/09/2017,"Deportivo La Coruña - Real Sociedad, 2 - 4",3
+710,2565577,09/09/2017,"Barcelona - Espanyol, 5 - 0",3
+711,2565577,09/09/2017,"Barcelona - Espanyol, 5 - 0",3
+712,2565575,09/09/2017,"Sevilla - Eibar, 3 - 0",3
+713,2565575,09/09/2017,"Sevilla - Eibar, 3 - 0",3
+714,2565570,09/09/2017,"Valencia - Atlético Madrid, 0 - 0",3
+715,2565570,09/09/2017,"Valencia - Atlético Madrid, 0 - 0",3
+716,2565571,09/09/2017,"Real Madrid - Levante, 1 - 1",3
+717,2565571,09/09/2017,"Real Madrid - Levante, 1 - 1",3
+718,2565572,08/09/2017,"Leganés - Getafe, 1 - 2",3
+719,2565572,08/09/2017,"Leganés - Getafe, 1 - 2",3
+720,2565564,27/08/2017,"Real Madrid - Valencia, 2 - 2",2
+721,2565564,27/08/2017,"Real Madrid - Valencia, 2 - 2",2
+722,2565565,27/08/2017,"Getafe - Sevilla, 0 - 1",2
+723,2565565,27/08/2017,"Getafe - Sevilla, 0 - 1",2
+724,2565560,27/08/2017,"Espanyol - Leganés, 0 - 1",2
+725,2565560,27/08/2017,"Espanyol - Leganés, 0 - 1",2
+726,2565567,27/08/2017,"Eibar - Athletic Club, 0 - 1",2
+727,2565567,27/08/2017,"Eibar - Athletic Club, 0 - 1",2
+728,2565562,26/08/2017,"Las Palmas - Atlético Madrid, 1 - 5",2
+729,2565562,26/08/2017,"Las Palmas - Atlético Madrid, 1 - 5",2
+730,2565561,26/08/2017,"Levante - Deportivo La Coruña, 2 - 2",2
+731,2565561,26/08/2017,"Levante - Deportivo La Coruña, 2 - 2",2
+732,2565563,26/08/2017,"Girona - Málaga, 1 - 0",2
+733,2565563,26/08/2017,"Girona - Málaga, 1 - 0",2
+734,2565559,26/08/2017,"Deportivo Alavés - Barcelona, 0 - 2",2
+735,2565559,26/08/2017,"Deportivo Alavés - Barcelona, 0 - 2",2
+736,2565566,25/08/2017,"Real Betis - Celta de Vigo, 2 - 1",2
+737,2565566,25/08/2017,"Real Betis - Celta de Vigo, 2 - 1",2
+738,2565558,25/08/2017,"Real Sociedad - Villarreal, 3 - 0",2
+739,2565558,25/08/2017,"Real Sociedad - Villarreal, 3 - 0",2
+740,2565553,21/08/2017,"Málaga - Eibar, 0 - 1",1
+741,2565553,21/08/2017,"Málaga - Eibar, 0 - 1",1
+742,2565548,21/08/2017,"Levante - Villarreal, 1 - 0",1
+743,2565548,21/08/2017,"Levante - Villarreal, 1 - 0",1
+744,2565555,20/08/2017,"Deportivo La Coruña - Real Madrid, 0 - 3",1
+745,2565555,20/08/2017,"Deportivo La Coruña - Real Madrid, 0 - 3",1
+746,2565554,20/08/2017,"Barcelona - Real Betis, 2 - 0",1
+747,2565554,20/08/2017,"Barcelona - Real Betis, 2 - 0",1
+748,2565550,20/08/2017,"Athletic Club - Getafe, 0 - 0",1
+749,2565550,20/08/2017,"Athletic Club - Getafe, 0 - 0",1
+750,2565552,19/08/2017,"Sevilla - Espanyol, 1 - 1",1
+751,2565552,19/08/2017,"Sevilla - Espanyol, 1 - 1",1
+752,2565551,19/08/2017,"Girona - Atlético Madrid, 2 - 2",1
+753,2565551,19/08/2017,"Girona - Atlético Madrid, 2 - 2",1
+754,2565549,19/08/2017,"Celta de Vigo - Real Sociedad, 2 - 3",1
+755,2565549,19/08/2017,"Celta de Vigo - Real Sociedad, 2 - 3",1
+756,2565556,18/08/2017,"Valencia - Las Palmas, 1 - 0",1
+757,2565556,18/08/2017,"Valencia - Las Palmas, 1 - 0",1
+758,2565557,18/08/2017,"Leganés - Deportivo Alavés, 1 - 0",1
+759,2565557,18/08/2017,"Leganés - Deportivo Alavés, 1 - 0",1

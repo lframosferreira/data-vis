@@ -15,6 +15,7 @@ Todas as dependências necessárias para executar o projeto estão disponíveis 
 ### Dados de eventos
 
 Para realizar o _download_ da base de dados necessária para o projeto, basta executar o comando `bash scripts/get_event_data.sh` no diretório raiz. O _script_ disponibilizado irá carregar todos os dados do repositório oficial para na pasta `/data/wyscout`.
+Certifique-se que seu ambiente linux possui o pacote `unzip` instalado.
 
 Para converter os dados carregados para o formato SPADL, basta executar o comando `python3 scripts/convert_to_spadl.py` no diretório raiz. O _script_ irá armazenar os dados no formato correto na pasta `/data/spadl`.
 

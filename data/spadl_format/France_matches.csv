@@ -1,0 +1,761 @@
+,game_id,game_date,game_label,game_week
+0,2501056,19/05/2018,"Caen - PSG, 0 - 0",38
+1,2501056,19/05/2018,"Caen - PSG, 0 - 0",38
+2,2501057,19/05/2018,"Dijon - Angers SCO, 2 - 1",38
+3,2501057,19/05/2018,"Dijon - Angers SCO, 2 - 1",38
+4,2501058,19/05/2018,"Olympique Lyonnais - Nice, 3 - 2",38
+5,2501058,19/05/2018,"Olympique Lyonnais - Nice, 3 - 2",38
+6,2501059,19/05/2018,"Olympique Marseille - Amiens SC, 2 - 1",38
+7,2501059,19/05/2018,"Olympique Marseille - Amiens SC, 2 - 1",38
+8,2501060,19/05/2018,"Metz - Bordeaux, 0 - 4",38
+9,2501060,19/05/2018,"Metz - Bordeaux, 0 - 4",38
+10,2501061,19/05/2018,"Nantes - Strasbourg, 1 - 0",38
+11,2501061,19/05/2018,"Nantes - Strasbourg, 1 - 0",38
+12,2501062,19/05/2018,"Rennes - Montpellier, 1 - 1",38
+13,2501062,19/05/2018,"Rennes - Montpellier, 1 - 1",38
+14,2501063,19/05/2018,"Saint-Étienne - Lille, 5 - 0",38
+15,2501063,19/05/2018,"Saint-Étienne - Lille, 5 - 0",38
+16,2501064,19/05/2018,"Toulouse - Guingamp, 2 - 1",38
+17,2501064,19/05/2018,"Toulouse - Guingamp, 2 - 1",38
+18,2501065,19/05/2018,"Troyes - Monaco, 0 - 3",38
+19,2501065,19/05/2018,"Troyes - Monaco, 0 - 3",38
+20,2501046,12/05/2018,"Amiens SC - Metz, 2 - 0",37
+21,2501046,12/05/2018,"Amiens SC - Metz, 2 - 0",37
+22,2501047,12/05/2018,"Angers SCO - Nantes, 0 - 2",37
+23,2501047,12/05/2018,"Angers SCO - Nantes, 0 - 2",37
+24,2501048,12/05/2018,"Bordeaux - Toulouse, 4 - 2",37
+25,2501048,12/05/2018,"Bordeaux - Toulouse, 4 - 2",37
+26,2501050,12/05/2018,"Lille - Dijon, 2 - 1",37
+27,2501050,12/05/2018,"Lille - Dijon, 2 - 1",37
+28,2501051,12/05/2018,"Monaco - Saint-Étienne, 1 - 0",37
+29,2501051,12/05/2018,"Monaco - Saint-Étienne, 1 - 0",37
+30,2501052,12/05/2018,"Montpellier - Troyes, 1 - 1",37
+31,2501052,12/05/2018,"Montpellier - Troyes, 1 - 1",37
+32,2501053,12/05/2018,"Nice - Caen, 4 - 1",37
+33,2501053,12/05/2018,"Nice - Caen, 4 - 1",37
+34,2501054,12/05/2018,"PSG - Rennes, 0 - 2",37
+35,2501054,12/05/2018,"PSG - Rennes, 0 - 2",37
+36,2501055,12/05/2018,"Strasbourg - Olympique Lyonnais, 3 - 2",37
+37,2501055,12/05/2018,"Strasbourg - Olympique Lyonnais, 3 - 2",37
+38,2501049,11/05/2018,"Guingamp - Olympique Marseille, 3 - 3",37
+39,2501049,11/05/2018,"Guingamp - Olympique Marseille, 3 - 3",37
+40,2501040,06/05/2018,"Olympique Marseille - Nice, 2 - 1",36
+41,2501040,06/05/2018,"Olympique Marseille - Nice, 2 - 1",36
+42,2501037,06/05/2018,"Caen - Monaco, 1 - 2",36
+43,2501037,06/05/2018,"Caen - Monaco, 1 - 2",36
+44,2501038,06/05/2018,"Dijon - Guingamp, 3 - 1",36
+45,2501038,06/05/2018,"Dijon - Guingamp, 3 - 1",36
+46,2501041,06/05/2018,"Metz - Angers SCO, 1 - 2",36
+47,2501041,06/05/2018,"Metz - Angers SCO, 1 - 2",36
+48,2501042,06/05/2018,"Nantes - Montpellier, 0 - 2",36
+49,2501042,06/05/2018,"Nantes - Montpellier, 0 - 2",36
+50,2501043,06/05/2018,"Rennes - Strasbourg, 2 - 1",36
+51,2501043,06/05/2018,"Rennes - Strasbourg, 2 - 1",36
+52,2501045,06/05/2018,"Toulouse - Lille, 2 - 3",36
+53,2501045,06/05/2018,"Toulouse - Lille, 2 - 3",36
+54,2501039,06/05/2018,"Olympique Lyonnais - Troyes, 3 - 0",36
+55,2501039,06/05/2018,"Olympique Lyonnais - Troyes, 3 - 0",36
+56,2501044,06/05/2018,"Saint-Étienne - Bordeaux, 1 - 3",36
+57,2501044,06/05/2018,"Saint-Étienne - Bordeaux, 1 - 3",36
+58,2501036,04/05/2018,"Amiens SC - PSG, 2 - 2",36
+59,2501036,04/05/2018,"Amiens SC - PSG, 2 - 2",36
+60,2501032,29/04/2018,"PSG - Guingamp, 2 - 2",35
+61,2501032,29/04/2018,"PSG - Guingamp, 2 - 2",35
+62,2501026,29/04/2018,"Angers SCO - Olympique Marseille, 1 - 1",35
+63,2501026,29/04/2018,"Angers SCO - Olympique Marseille, 1 - 1",35
+64,2501033,29/04/2018,"Rennes - Toulouse, 2 - 1",35
+65,2501033,29/04/2018,"Rennes - Toulouse, 2 - 1",35
+66,2501027,28/04/2018,"Bordeaux - Dijon, 3 - 1",35
+67,2501027,28/04/2018,"Bordeaux - Dijon, 3 - 1",35
+68,2501028,28/04/2018,"Lille - Metz, 3 - 1",35
+69,2501028,28/04/2018,"Lille - Metz, 3 - 1",35
+70,2501030,28/04/2018,"Monaco - Amiens SC, 0 - 0",35
+71,2501030,28/04/2018,"Monaco - Amiens SC, 0 - 0",35
+72,2501034,28/04/2018,"Strasbourg - Nice, 1 - 1",35
+73,2501034,28/04/2018,"Strasbourg - Nice, 1 - 1",35
+74,2501035,28/04/2018,"Troyes - Caen, 3 - 1",35
+75,2501035,28/04/2018,"Troyes - Caen, 3 - 1",35
+76,2501029,28/04/2018,"Olympique Lyonnais - Nantes, 2 - 0",35
+77,2501029,28/04/2018,"Olympique Lyonnais - Nantes, 2 - 0",35
+78,2501031,27/04/2018,"Montpellier - Saint-Étienne, 0 - 1",35
+79,2501031,27/04/2018,"Montpellier - Saint-Étienne, 0 - 1",35
+80,2501007,25/04/2018,"Caen - Toulouse, 0 - 0",33
+81,2501007,25/04/2018,"Caen - Toulouse, 0 - 0",33
+82,2501017,22/04/2018,"Bordeaux - PSG, 0 - 1",34
+83,2501017,22/04/2018,"Bordeaux - PSG, 0 - 1",34
+84,2501024,22/04/2018,"Saint-Étienne - Troyes, 2 - 1",34
+85,2501024,22/04/2018,"Saint-Étienne - Troyes, 2 - 1",34
+86,2501023,22/04/2018,"Nice - Montpellier, 1 - 0",34
+87,2501023,22/04/2018,"Nice - Montpellier, 1 - 0",34
+88,2501016,21/04/2018,"Amiens SC - Strasbourg, 3 - 1",34
+89,2501016,21/04/2018,"Amiens SC - Strasbourg, 3 - 1",34
+90,2501019,21/04/2018,"Guingamp - Monaco, 3 - 1",34
+91,2501019,21/04/2018,"Guingamp - Monaco, 3 - 1",34
+92,2501021,21/04/2018,"Metz - Caen, 1 - 1",34
+93,2501021,21/04/2018,"Metz - Caen, 1 - 1",34
+94,2501025,21/04/2018,"Toulouse - Angers SCO, 2 - 0",34
+95,2501025,21/04/2018,"Toulouse - Angers SCO, 2 - 0",34
+96,2501020,21/04/2018,"Olympique Marseille - Lille, 5 - 1",34
+97,2501020,21/04/2018,"Olympique Marseille - Lille, 5 - 1",34
+98,2501018,20/04/2018,"Dijon - Olympique Lyonnais, 2 - 5",34
+99,2501018,20/04/2018,"Dijon - Olympique Lyonnais, 2 - 5",34
+100,2501022,20/04/2018,"Nantes - Rennes, 1 - 1",34
+101,2501022,20/04/2018,"Nantes - Rennes, 1 - 1",34
+102,2501012,15/04/2018,"PSG - Monaco, 7 - 1",33
+103,2501012,15/04/2018,"PSG - Monaco, 7 - 1",33
+104,2501015,15/04/2018,"Troyes - Olympique Marseille, 2 - 3",33
+105,2501015,15/04/2018,"Troyes - Olympique Marseille, 2 - 3",33
+106,2501010,15/04/2018,"Montpellier - Bordeaux, 1 - 3",33
+107,2501010,15/04/2018,"Montpellier - Bordeaux, 1 - 3",33
+108,2501008,14/04/2018,"Lille - Guingamp, 2 - 2",33
+109,2501008,14/04/2018,"Lille - Guingamp, 2 - 2",33
+110,2501011,14/04/2018,"Nantes - Dijon, 1 - 1",33
+111,2501011,14/04/2018,"Nantes - Dijon, 1 - 1",33
+112,2501013,14/04/2018,"Rennes - Metz, 1 - 2",33
+113,2501013,14/04/2018,"Rennes - Metz, 1 - 2",33
+114,2501014,14/04/2018,"Strasbourg - Saint-Étienne, 0 - 1",33
+115,2501014,14/04/2018,"Strasbourg - Saint-Étienne, 0 - 1",33
+116,2501009,14/04/2018,"Olympique Lyonnais - Amiens SC, 3 - 0",33
+117,2501009,14/04/2018,"Olympique Lyonnais - Amiens SC, 3 - 0",33
+118,2501006,13/04/2018,"Angers SCO - Nice, 1 - 1",33
+119,2501006,13/04/2018,"Angers SCO - Nice, 1 - 1",33
+120,2501000,08/04/2018,"Olympique Marseille - Montpellier, 0 - 0",32
+121,2501000,08/04/2018,"Olympique Marseille - Montpellier, 0 - 0",32
+122,2501001,08/04/2018,"Metz - Olympique Lyonnais, 0 - 5",32
+123,2501001,08/04/2018,"Metz - Olympique Lyonnais, 0 - 5",32
+124,2501003,08/04/2018,"Nice - Rennes, 1 - 1",32
+125,2501003,08/04/2018,"Nice - Rennes, 1 - 1",32
+126,2500996,07/04/2018,"Amiens SC - Caen, 3 - 0",32
+127,2500996,07/04/2018,"Amiens SC - Caen, 3 - 0",32
+128,2500997,07/04/2018,"Angers SCO - Strasbourg, 1 - 1",32
+129,2500997,07/04/2018,"Angers SCO - Strasbourg, 1 - 1",32
+130,2500998,07/04/2018,"Bordeaux - Lille, 2 - 1",32
+131,2500998,07/04/2018,"Bordeaux - Lille, 2 - 1",32
+132,2500999,07/04/2018,"Guingamp - Troyes, 4 - 0",32
+133,2500999,07/04/2018,"Guingamp - Troyes, 4 - 0",32
+134,2501005,07/04/2018,"Toulouse - Dijon, 0 - 1",32
+135,2501005,07/04/2018,"Toulouse - Dijon, 0 - 1",32
+136,2501002,07/04/2018,"Monaco - Nantes, 2 - 1",32
+137,2501002,07/04/2018,"Monaco - Nantes, 2 - 1",32
+138,2501004,06/04/2018,"Saint-Étienne - PSG, 1 - 1",32
+139,2501004,06/04/2018,"Saint-Étienne - PSG, 1 - 1",32
+140,2500993,04/04/2018,"Rennes - Monaco, 1 - 1",31
+141,2500993,04/04/2018,"Rennes - Monaco, 1 - 1",31
+142,2500990,01/04/2018,"Olympique Lyonnais - Toulouse, 2 - 0",31
+143,2500990,01/04/2018,"Olympique Lyonnais - Toulouse, 2 - 0",31
+144,2500986,01/04/2018,"Caen - Montpellier, 1 - 3",31
+145,2500986,01/04/2018,"Caen - Montpellier, 1 - 3",31
+146,2500989,01/04/2018,"Lille - Amiens SC, 0 - 1",31
+147,2500989,01/04/2018,"Lille - Amiens SC, 0 - 1",31
+148,2500991,01/04/2018,"Nantes - Saint-Étienne, 0 - 3",31
+149,2500991,01/04/2018,"Nantes - Saint-Étienne, 0 - 3",31
+150,2500994,01/04/2018,"Strasbourg - Metz, 2 - 2",31
+151,2500994,01/04/2018,"Strasbourg - Metz, 2 - 2",31
+152,2500995,01/04/2018,"Troyes - Nice, 0 - 2",31
+153,2500995,01/04/2018,"Troyes - Nice, 0 - 2",31
+154,2500988,01/04/2018,"Guingamp - Bordeaux, 2 - 1",31
+155,2500988,01/04/2018,"Guingamp - Bordeaux, 2 - 1",31
+156,2500987,31/03/2018,"Dijon - Olympique Marseille, 1 - 3",31
+157,2500987,31/03/2018,"Dijon - Olympique Marseille, 1 - 3",31
+158,2500979,18/03/2018,"Olympique Marseille - Olympique Lyonnais, 2 - 3",30
+159,2500979,18/03/2018,"Olympique Marseille - Olympique Lyonnais, 2 - 3",30
+160,2500984,18/03/2018,"Saint-Étienne - Guingamp, 2 - 0",30
+161,2500984,18/03/2018,"Saint-Étienne - Guingamp, 2 - 0",30
+162,2500980,18/03/2018,"Metz - Nantes, 1 - 1",30
+163,2500980,18/03/2018,"Metz - Nantes, 1 - 1",30
+164,2500983,18/03/2018,"Nice - PSG, 1 - 2",30
+165,2500983,18/03/2018,"Nice - PSG, 1 - 2",30
+166,2500976,17/03/2018,"Amiens SC - Troyes, 1 - 1",30
+167,2500976,17/03/2018,"Amiens SC - Troyes, 1 - 1",30
+168,2500977,17/03/2018,"Angers SCO - Caen, 3 - 0",30
+169,2500977,17/03/2018,"Angers SCO - Caen, 3 - 0",30
+170,2500982,17/03/2018,"Montpellier - Dijon, 2 - 2",30
+171,2500982,17/03/2018,"Montpellier - Dijon, 2 - 2",30
+172,2500985,17/03/2018,"Toulouse - Strasbourg, 2 - 2",30
+173,2500985,17/03/2018,"Toulouse - Strasbourg, 2 - 2",30
+174,2500978,17/03/2018,"Bordeaux - Rennes, 0 - 2",30
+175,2500978,17/03/2018,"Bordeaux - Rennes, 0 - 2",30
+176,2500981,16/03/2018,"Monaco - Lille, 2 - 1",30
+177,2500981,16/03/2018,"Monaco - Lille, 2 - 1",30
+178,2500992,14/03/2018,"PSG - Angers SCO, 2 - 1",31
+179,2500992,14/03/2018,"PSG - Angers SCO, 2 - 1",31
+180,2500975,11/03/2018,"Toulouse - Olympique Marseille, 1 - 2",29
+181,2500975,11/03/2018,"Toulouse - Olympique Marseille, 1 - 2",29
+182,2500970,11/03/2018,"Olympique Lyonnais - Caen, 1 - 0",29
+183,2500970,11/03/2018,"Olympique Lyonnais - Caen, 1 - 0",29
+184,2500968,11/03/2018,"Guingamp - Nice, 2 - 5",29
+185,2500968,11/03/2018,"Guingamp - Nice, 2 - 5",29
+186,2500966,10/03/2018,"Bordeaux - Angers SCO, 0 - 0",29
+187,2500966,10/03/2018,"Bordeaux - Angers SCO, 0 - 0",29
+188,2500967,10/03/2018,"Dijon - Amiens SC, 1 - 1",29
+189,2500967,10/03/2018,"Dijon - Amiens SC, 1 - 1",29
+190,2500969,10/03/2018,"Lille - Montpellier, 1 - 1",29
+191,2500969,10/03/2018,"Lille - Montpellier, 1 - 1",29
+192,2500971,10/03/2018,"Nantes - Troyes, 1 - 0",29
+193,2500971,10/03/2018,"Nantes - Troyes, 1 - 0",29
+194,2500973,10/03/2018,"Rennes - Saint-Étienne, 1 - 1",29
+195,2500973,10/03/2018,"Rennes - Saint-Étienne, 1 - 1",29
+196,2500972,10/03/2018,"PSG - Metz, 5 - 0",29
+197,2500972,10/03/2018,"PSG - Metz, 5 - 0",29
+198,2500974,09/03/2018,"Strasbourg - Monaco, 1 - 3",29
+199,2500974,09/03/2018,"Strasbourg - Monaco, 1 - 3",29
+200,2500959,04/03/2018,"Olympique Marseille - Nantes, 1 - 1",28
+201,2500959,04/03/2018,"Olympique Marseille - Nantes, 1 - 1",28
+202,2500962,04/03/2018,"Montpellier - Olympique Lyonnais, 1 - 1",28
+203,2500962,04/03/2018,"Montpellier - Olympique Lyonnais, 1 - 1",28
+204,2500958,04/03/2018,"Caen - Strasbourg, 2 - 0",28
+205,2500958,04/03/2018,"Caen - Strasbourg, 2 - 0",28
+206,2500956,03/03/2018,"Amiens SC - Rennes, 0 - 2",28
+207,2500956,03/03/2018,"Amiens SC - Rennes, 0 - 2",28
+208,2500957,03/03/2018,"Angers SCO - Guingamp, 3 - 0",28
+209,2500957,03/03/2018,"Angers SCO - Guingamp, 3 - 0",28
+210,2500960,03/03/2018,"Metz - Toulouse, 1 - 1",28
+211,2500960,03/03/2018,"Metz - Toulouse, 1 - 1",28
+212,2500964,03/03/2018,"Saint-Étienne - Dijon, 2 - 2",28
+213,2500964,03/03/2018,"Saint-Étienne - Dijon, 2 - 2",28
+214,2500965,03/03/2018,"Troyes - PSG, 0 - 2",28
+215,2500965,03/03/2018,"Troyes - PSG, 0 - 2",28
+216,2500961,02/03/2018,"Monaco - Bordeaux, 2 - 1",28
+217,2500961,02/03/2018,"Monaco - Bordeaux, 2 - 1",28
+218,2500963,02/03/2018,"Nice - Lille, 2 - 1",28
+219,2500963,02/03/2018,"Nice - Lille, 2 - 1",28
+220,2500952,25/02/2018,"PSG - Olympique Marseille, 3 - 0",27
+221,2500952,25/02/2018,"PSG - Olympique Marseille, 3 - 0",27
+222,2500950,25/02/2018,"Olympique Lyonnais - Saint-Étienne, 1 - 1",27
+223,2500950,25/02/2018,"Olympique Lyonnais - Saint-Étienne, 1 - 1",27
+224,2500946,25/02/2018,"Bordeaux - Nice, 0 - 0",27
+225,2500946,25/02/2018,"Bordeaux - Nice, 0 - 0",27
+226,2500947,24/02/2018,"Dijon - Caen, 2 - 0",27
+227,2500947,24/02/2018,"Dijon - Caen, 2 - 0",27
+228,2500948,24/02/2018,"Guingamp - Metz, 2 - 2",27
+229,2500948,24/02/2018,"Guingamp - Metz, 2 - 2",27
+230,2500949,24/02/2018,"Lille - Angers SCO, 1 - 2",27
+231,2500949,24/02/2018,"Lille - Angers SCO, 1 - 2",27
+232,2500951,24/02/2018,"Nantes - Amiens SC, 0 - 1",27
+233,2500951,24/02/2018,"Nantes - Amiens SC, 0 - 1",27
+234,2500953,24/02/2018,"Rennes - Troyes, 2 - 0",27
+235,2500953,24/02/2018,"Rennes - Troyes, 2 - 0",27
+236,2500955,24/02/2018,"Toulouse - Monaco, 3 - 3",27
+237,2500955,24/02/2018,"Toulouse - Monaco, 3 - 3",27
+238,2500954,23/02/2018,"Strasbourg - Montpellier, 0 - 0",27
+239,2500954,23/02/2018,"Strasbourg - Montpellier, 0 - 0",27
+240,2500925,20/02/2018,"Troyes - Dijon, 0 - 0",24
+241,2500925,20/02/2018,"Troyes - Dijon, 0 - 0",24
+242,2500940,18/02/2018,"Olympique Marseille - Bordeaux, 1 - 0",26
+243,2500940,18/02/2018,"Olympique Marseille - Bordeaux, 1 - 0",26
+244,2500939,18/02/2018,"Lille - Olympique Lyonnais, 2 - 2",26
+245,2500939,18/02/2018,"Lille - Olympique Lyonnais, 2 - 2",26
+246,2500943,18/02/2018,"Nice - Nantes, 1 - 1",26
+247,2500943,18/02/2018,"Nice - Nantes, 1 - 1",26
+248,2500936,17/02/2018,"Amiens SC - Toulouse, 0 - 0",26
+249,2500936,17/02/2018,"Amiens SC - Toulouse, 0 - 0",26
+250,2500937,17/02/2018,"Angers SCO - Saint-Étienne, 0 - 1",26
+251,2500937,17/02/2018,"Angers SCO - Saint-Étienne, 0 - 1",26
+252,2500938,17/02/2018,"Caen - Rennes, 2 - 2",26
+253,2500938,17/02/2018,"Caen - Rennes, 2 - 2",26
+254,2500942,17/02/2018,"Montpellier - Guingamp, 1 - 1",26
+255,2500942,17/02/2018,"Montpellier - Guingamp, 1 - 1",26
+256,2500945,17/02/2018,"Troyes - Metz, 1 - 0",26
+257,2500945,17/02/2018,"Troyes - Metz, 1 - 0",26
+258,2500944,17/02/2018,"PSG - Strasbourg, 5 - 2",26
+259,2500944,17/02/2018,"PSG - Strasbourg, 5 - 2",26
+260,2500941,16/02/2018,"Monaco - Dijon, 4 - 0",26
+261,2500941,16/02/2018,"Monaco - Dijon, 4 - 0",26
+262,2500930,11/02/2018,"Olympique Lyonnais - Rennes, 0 - 2",25
+263,2500930,11/02/2018,"Olympique Lyonnais - Rennes, 0 - 2",25
+264,2500932,11/02/2018,"Nantes - Lille, 2 - 2",25
+265,2500932,11/02/2018,"Nantes - Lille, 2 - 2",25
+266,2500934,11/02/2018,"Strasbourg - Troyes, 2 - 1",25
+267,2500934,11/02/2018,"Strasbourg - Troyes, 2 - 1",25
+268,2500926,10/02/2018,"Angers SCO - Monaco, 0 - 4",25
+269,2500926,10/02/2018,"Angers SCO - Monaco, 0 - 4",25
+270,2500927,10/02/2018,"Bordeaux - Amiens SC, 3 - 2",25
+271,2500927,10/02/2018,"Bordeaux - Amiens SC, 3 - 2",25
+272,2500928,10/02/2018,"Dijon - Nice, 3 - 2",25
+273,2500928,10/02/2018,"Dijon - Nice, 3 - 2",25
+274,2500929,10/02/2018,"Guingamp - Caen, 0 - 0",25
+275,2500929,10/02/2018,"Guingamp - Caen, 0 - 0",25
+276,2500931,10/02/2018,"Metz - Montpellier, 0 - 1",25
+277,2500931,10/02/2018,"Metz - Montpellier, 0 - 1",25
+278,2500935,10/02/2018,"Toulouse - PSG, 0 - 1",25
+279,2500935,10/02/2018,"Toulouse - PSG, 0 - 1",25
+280,2500933,09/02/2018,"Saint-Étienne - Olympique Marseille, 2 - 2",25
+281,2500933,09/02/2018,"Saint-Étienne - Olympique Marseille, 2 - 2",25
+282,2500920,04/02/2018,"Monaco - Olympique Lyonnais, 3 - 2",24
+283,2500920,04/02/2018,"Monaco - Olympique Lyonnais, 3 - 2",24
+284,2500917,04/02/2018,"Caen - Nantes, 3 - 2",24
+285,2500917,04/02/2018,"Caen - Nantes, 3 - 2",24
+286,2500923,04/02/2018,"Rennes - Guingamp, 0 - 1",24
+287,2500923,04/02/2018,"Rennes - Guingamp, 0 - 1",24
+288,2500916,03/02/2018,"Amiens SC - Saint-Étienne, 0 - 2",24
+289,2500916,03/02/2018,"Amiens SC - Saint-Étienne, 0 - 2",24
+290,2500921,03/02/2018,"Montpellier - Angers SCO, 2 - 1",24
+291,2500921,03/02/2018,"Montpellier - Angers SCO, 2 - 1",24
+292,2500922,03/02/2018,"Nice - Toulouse, 0 - 1",24
+293,2500922,03/02/2018,"Nice - Toulouse, 0 - 1",24
+294,2500924,03/02/2018,"Strasbourg - Bordeaux, 0 - 2",24
+295,2500924,03/02/2018,"Strasbourg - Bordeaux, 0 - 2",24
+296,2500918,03/02/2018,"Lille - PSG, 0 - 3",24
+297,2500918,03/02/2018,"Lille - PSG, 0 - 3",24
+298,2500919,02/02/2018,"Olympique Marseille - Metz, 6 - 3",24
+299,2500919,02/02/2018,"Olympique Marseille - Metz, 6 - 3",24
+300,2500911,28/01/2018,"Olympique Marseille - Monaco, 2 - 2",23
+301,2500911,28/01/2018,"Olympique Marseille - Monaco, 2 - 2",23
+302,2500907,28/01/2018,"Bordeaux - Olympique Lyonnais, 3 - 1",23
+303,2500907,28/01/2018,"Bordeaux - Olympique Lyonnais, 3 - 1",23
+304,2500910,28/01/2018,"Lille - Strasbourg, 2 - 1",23
+305,2500910,28/01/2018,"Lille - Strasbourg, 2 - 1",23
+306,2500906,27/01/2018,"Angers SCO - Amiens SC, 1 - 0",23
+307,2500906,27/01/2018,"Angers SCO - Amiens SC, 1 - 0",23
+308,2500909,27/01/2018,"Guingamp - Nantes, 0 - 3",23
+309,2500909,27/01/2018,"Guingamp - Nantes, 0 - 3",23
+310,2500912,27/01/2018,"Metz - Nice, 2 - 1",23
+311,2500912,27/01/2018,"Metz - Nice, 2 - 1",23
+312,2500914,27/01/2018,"Saint-Étienne - Caen, 2 - 1",23
+313,2500914,27/01/2018,"Saint-Étienne - Caen, 2 - 1",23
+314,2500915,27/01/2018,"Toulouse - Troyes, 1 - 0",23
+315,2500915,27/01/2018,"Toulouse - Troyes, 1 - 0",23
+316,2500913,27/01/2018,"PSG - Montpellier, 4 - 0",23
+317,2500913,27/01/2018,"PSG - Montpellier, 4 - 0",23
+318,2500908,26/01/2018,"Dijon - Rennes, 2 - 1",23
+319,2500908,26/01/2018,"Dijon - Rennes, 2 - 1",23
+320,2500898,21/01/2018,"Olympique Lyonnais - PSG, 2 - 1",22
+321,2500898,21/01/2018,"Olympique Lyonnais - PSG, 2 - 1",22
+322,2500899,21/01/2018,"Monaco - Metz, 3 - 1",22
+323,2500899,21/01/2018,"Monaco - Metz, 3 - 1",22
+324,2500902,21/01/2018,"Nice - Saint-Étienne, 1 - 0",22
+325,2500902,21/01/2018,"Nice - Saint-Étienne, 1 - 0",22
+326,2500896,20/01/2018,"Amiens SC - Guingamp, 3 - 1",22
+327,2500896,20/01/2018,"Amiens SC - Guingamp, 3 - 1",22
+328,2500900,20/01/2018,"Montpellier - Toulouse, 2 - 1",22
+329,2500900,20/01/2018,"Montpellier - Toulouse, 2 - 1",22
+330,2500903,20/01/2018,"Rennes - Angers SCO, 1 - 0",22
+331,2500903,20/01/2018,"Rennes - Angers SCO, 1 - 0",22
+332,2500904,20/01/2018,"Strasbourg - Dijon, 3 - 2",22
+333,2500904,20/01/2018,"Strasbourg - Dijon, 3 - 2",22
+334,2500905,20/01/2018,"Troyes - Lille, 1 - 0",22
+335,2500905,20/01/2018,"Troyes - Lille, 1 - 0",22
+336,2500901,20/01/2018,"Nantes - Bordeaux, 0 - 1",22
+337,2500901,20/01/2018,"Nantes - Bordeaux, 0 - 1",22
+338,2500897,19/01/2018,"Caen - Olympique Marseille, 0 - 2",22
+339,2500897,19/01/2018,"Caen - Olympique Marseille, 0 - 2",22
+340,2500894,17/01/2018,"PSG - Dijon, 8 - 0",21
+341,2500894,17/01/2018,"PSG - Dijon, 8 - 0",21
+342,2500886,17/01/2018,"Amiens SC - Montpellier, 1 - 1",21
+343,2500886,17/01/2018,"Amiens SC - Montpellier, 1 - 1",21
+344,2500887,17/01/2018,"Angers SCO - Troyes, 3 - 1",21
+345,2500887,17/01/2018,"Angers SCO - Troyes, 3 - 1",21
+346,2500889,17/01/2018,"Guingamp - Olympique Lyonnais, 0 - 2",21
+347,2500889,17/01/2018,"Guingamp - Olympique Lyonnais, 0 - 2",21
+348,2500890,17/01/2018,"Lille - Rennes, 1 - 2",21
+349,2500890,17/01/2018,"Lille - Rennes, 1 - 2",21
+350,2500892,17/01/2018,"Metz - Saint-Étienne, 3 - 0",21
+351,2500892,17/01/2018,"Metz - Saint-Étienne, 3 - 0",21
+352,2500895,17/01/2018,"Toulouse - Nantes, 1 - 1",21
+353,2500895,17/01/2018,"Toulouse - Nantes, 1 - 1",21
+354,2500893,16/01/2018,"Monaco - Nice, 2 - 2",21
+355,2500893,16/01/2018,"Monaco - Nice, 2 - 2",21
+356,2500888,16/01/2018,"Bordeaux - Caen, 0 - 2",21
+357,2500888,16/01/2018,"Bordeaux - Caen, 0 - 2",21
+358,2500891,16/01/2018,"Olympique Marseille - Strasbourg, 2 - 0",21
+359,2500891,16/01/2018,"Olympique Marseille - Strasbourg, 2 - 0",21
+360,2500880,14/01/2018,"Nantes - PSG, 0 - 1",20
+361,2500880,14/01/2018,"Nantes - PSG, 0 - 1",20
+362,2500878,14/01/2018,"Olympique Lyonnais - Angers SCO, 1 - 1",20
+363,2500878,14/01/2018,"Olympique Lyonnais - Angers SCO, 1 - 1",20
+364,2500883,14/01/2018,"Saint-Étienne - Toulouse, 2 - 0",20
+365,2500883,14/01/2018,"Saint-Étienne - Toulouse, 2 - 0",20
+366,2500876,13/01/2018,"Caen - Lille, 0 - 1",20
+367,2500876,13/01/2018,"Caen - Lille, 0 - 1",20
+368,2500877,13/01/2018,"Dijon - Metz, 1 - 1",20
+369,2500877,13/01/2018,"Dijon - Metz, 1 - 1",20
+370,2500879,13/01/2018,"Montpellier - Monaco, 0 - 0",20
+371,2500879,13/01/2018,"Montpellier - Monaco, 0 - 0",20
+372,2500881,13/01/2018,"Nice - Amiens SC, 1 - 0",20
+373,2500881,13/01/2018,"Nice - Amiens SC, 1 - 0",20
+374,2500885,13/01/2018,"Troyes - Bordeaux, 0 - 1",20
+375,2500885,13/01/2018,"Troyes - Bordeaux, 0 - 1",20
+376,2500882,13/01/2018,"Rennes - Olympique Marseille, 0 - 3",20
+377,2500882,13/01/2018,"Rennes - Olympique Marseille, 0 - 3",20
+378,2500884,12/01/2018,"Strasbourg - Guingamp, 0 - 2",20
+379,2500884,12/01/2018,"Strasbourg - Guingamp, 0 - 2",20
+380,2500867,20/12/2017,"Angers SCO - Dijon, 2 - 1",19
+381,2500867,20/12/2017,"Angers SCO - Dijon, 2 - 1",19
+382,2500870,20/12/2017,"Lille - Nice, 1 - 1",19
+383,2500870,20/12/2017,"Lille - Nice, 1 - 1",19
+384,2500871,20/12/2017,"Olympique Marseille - Troyes, 3 - 1",19
+385,2500871,20/12/2017,"Olympique Marseille - Troyes, 3 - 1",19
+386,2500874,20/12/2017,"PSG - Caen, 3 - 1",19
+387,2500874,20/12/2017,"PSG - Caen, 3 - 1",19
+388,2500866,20/12/2017,"Amiens SC - Nantes, 0 - 1",19
+389,2500866,20/12/2017,"Amiens SC - Nantes, 0 - 1",19
+390,2500868,20/12/2017,"Bordeaux - Montpellier, 0 - 2",19
+391,2500868,20/12/2017,"Bordeaux - Montpellier, 0 - 2",19
+392,2500869,20/12/2017,"Guingamp - Saint-Étienne, 2 - 1",19
+393,2500869,20/12/2017,"Guingamp - Saint-Étienne, 2 - 1",19
+394,2500872,20/12/2017,"Metz - Strasbourg, 3 - 0",19
+395,2500872,20/12/2017,"Metz - Strasbourg, 3 - 0",19
+396,2500873,20/12/2017,"Monaco - Rennes, 2 - 1",19
+397,2500873,20/12/2017,"Monaco - Rennes, 2 - 1",19
+398,2500875,20/12/2017,"Toulouse - Olympique Lyonnais, 1 - 2",19
+399,2500875,20/12/2017,"Toulouse - Olympique Lyonnais, 1 - 2",19
+400,2500858,17/12/2017,"Olympique Lyonnais - Olympique Marseille, 2 - 0",18
+401,2500858,17/12/2017,"Olympique Lyonnais - Olympique Marseille, 2 - 0",18
+402,2500861,17/12/2017,"Nice - Bordeaux, 1 - 0",18
+403,2500861,17/12/2017,"Nice - Bordeaux, 1 - 0",18
+404,2500860,17/12/2017,"Nantes - Angers SCO, 1 - 0",18
+405,2500860,17/12/2017,"Nantes - Angers SCO, 1 - 0",18
+406,2500859,16/12/2017,"Montpellier - Metz, 1 - 3",18
+407,2500859,16/12/2017,"Montpellier - Metz, 1 - 3",18
+408,2500856,16/12/2017,"Caen - Guingamp, 0 - 0",18
+409,2500856,16/12/2017,"Caen - Guingamp, 0 - 0",18
+410,2500857,16/12/2017,"Dijon - Lille, 3 - 0",18
+411,2500857,16/12/2017,"Dijon - Lille, 3 - 0",18
+412,2500864,16/12/2017,"Strasbourg - Toulouse, 2 - 1",18
+413,2500864,16/12/2017,"Strasbourg - Toulouse, 2 - 1",18
+414,2500865,16/12/2017,"Troyes - Amiens SC, 1 - 0",18
+415,2500865,16/12/2017,"Troyes - Amiens SC, 1 - 0",18
+416,2500862,16/12/2017,"Rennes - PSG, 1 - 4",18
+417,2500862,16/12/2017,"Rennes - PSG, 1 - 4",18
+418,2500863,15/12/2017,"Saint-Étienne - Monaco, 0 - 4",18
+419,2500863,15/12/2017,"Saint-Étienne - Monaco, 0 - 4",18
+420,2500850,10/12/2017,"Olympique Marseille - Saint-Étienne, 3 - 0",17
+421,2500850,10/12/2017,"Olympique Marseille - Saint-Étienne, 3 - 0",17
+422,2500853,10/12/2017,"Nantes - Nice, 1 - 2",17
+423,2500853,10/12/2017,"Nantes - Nice, 1 - 2",17
+424,2500846,10/12/2017,"Amiens SC - Olympique Lyonnais, 1 - 2",17
+425,2500846,10/12/2017,"Amiens SC - Olympique Lyonnais, 1 - 2",17
+426,2500847,09/12/2017,"Angers SCO - Montpellier, 1 - 1",17
+427,2500847,09/12/2017,"Angers SCO - Montpellier, 1 - 1",17
+428,2500849,09/12/2017,"Guingamp - Dijon, 4 - 0",17
+429,2500849,09/12/2017,"Guingamp - Dijon, 4 - 0",17
+430,2500851,09/12/2017,"Metz - Rennes, 1 - 1",17
+431,2500851,09/12/2017,"Metz - Rennes, 1 - 1",17
+432,2500852,09/12/2017,"Monaco - Troyes, 3 - 2",17
+433,2500852,09/12/2017,"Monaco - Troyes, 3 - 2",17
+434,2500855,09/12/2017,"Toulouse - Caen, 2 - 0",17
+435,2500855,09/12/2017,"Toulouse - Caen, 2 - 0",17
+436,2500854,09/12/2017,"PSG - Lille, 3 - 1",17
+437,2500854,09/12/2017,"PSG - Lille, 3 - 1",17
+438,2500848,08/12/2017,"Bordeaux - Strasbourg, 0 - 3",17
+439,2500848,08/12/2017,"Bordeaux - Strasbourg, 0 - 3",17
+440,2500840,03/12/2017,"Montpellier - Olympique Marseille, 1 - 1",16
+441,2500840,03/12/2017,"Montpellier - Olympique Marseille, 1 - 1",16
+442,2500836,03/12/2017,"Caen - Olympique Lyonnais, 1 - 2",16
+443,2500836,03/12/2017,"Caen - Olympique Lyonnais, 1 - 2",16
+444,2500843,03/12/2017,"Saint-Étienne - Nantes, 1 - 1",16
+445,2500843,03/12/2017,"Saint-Étienne - Nantes, 1 - 1",16
+446,2500838,02/12/2017,"Lille - Toulouse, 1 - 0",16
+447,2500838,02/12/2017,"Lille - Toulouse, 1 - 0",16
+448,2500839,02/12/2017,"Monaco - Angers SCO, 1 - 0",16
+449,2500839,02/12/2017,"Monaco - Angers SCO, 1 - 0",16
+450,2500841,02/12/2017,"Nice - Metz, 3 - 1",16
+451,2500841,02/12/2017,"Nice - Metz, 3 - 1",16
+452,2500842,02/12/2017,"Rennes - Amiens SC, 2 - 0",16
+453,2500842,02/12/2017,"Rennes - Amiens SC, 2 - 0",16
+454,2500845,02/12/2017,"Troyes - Guingamp, 0 - 1",16
+455,2500845,02/12/2017,"Troyes - Guingamp, 0 - 1",16
+456,2500844,02/12/2017,"Strasbourg - PSG, 2 - 1",16
+457,2500844,02/12/2017,"Strasbourg - PSG, 2 - 1",16
+458,2500837,01/12/2017,"Dijon - Bordeaux, 3 - 2",16
+459,2500837,01/12/2017,"Dijon - Bordeaux, 3 - 2",16
+460,2500833,29/11/2017,"PSG - Troyes, 2 - 0",15
+461,2500833,29/11/2017,"PSG - Troyes, 2 - 0",15
+462,2500827,29/11/2017,"Angers SCO - Rennes, 1 - 2",15
+463,2500827,29/11/2017,"Angers SCO - Rennes, 1 - 2",15
+464,2500829,29/11/2017,"Guingamp - Montpellier, 0 - 0",15
+465,2500829,29/11/2017,"Guingamp - Montpellier, 0 - 0",15
+466,2500830,29/11/2017,"Olympique Lyonnais - Lille, 1 - 2",15
+467,2500830,29/11/2017,"Olympique Lyonnais - Lille, 1 - 2",15
+468,2500831,29/11/2017,"Metz - Olympique Marseille, 0 - 3",15
+469,2500831,29/11/2017,"Metz - Olympique Marseille, 0 - 3",15
+470,2500832,29/11/2017,"Nantes - Monaco, 1 - 0",15
+471,2500832,29/11/2017,"Nantes - Monaco, 1 - 0",15
+472,2500835,29/11/2017,"Toulouse - Nice, 1 - 2",15
+473,2500835,29/11/2017,"Toulouse - Nice, 1 - 2",15
+474,2500828,28/11/2017,"Bordeaux - Saint-Étienne, 3 - 0",15
+475,2500828,28/11/2017,"Bordeaux - Saint-Étienne, 3 - 0",15
+476,2500826,28/11/2017,"Amiens SC - Dijon, 2 - 1",15
+477,2500826,28/11/2017,"Amiens SC - Dijon, 2 - 1",15
+478,2500834,28/11/2017,"Strasbourg - Caen, 0 - 0",15
+479,2500834,28/11/2017,"Strasbourg - Caen, 0 - 0",15
+480,2500820,26/11/2017,"Monaco - PSG, 1 - 2",14
+481,2500820,26/11/2017,"Monaco - PSG, 1 - 2",14
+482,2500818,26/11/2017,"Olympique Marseille - Guingamp, 1 - 0",14
+483,2500818,26/11/2017,"Olympique Marseille - Guingamp, 1 - 0",14
+484,2500822,26/11/2017,"Nice - Olympique Lyonnais, 0 - 5",14
+485,2500822,26/11/2017,"Nice - Olympique Lyonnais, 0 - 5",14
+486,2500816,25/11/2017,"Caen - Bordeaux, 1 - 0",14
+487,2500816,25/11/2017,"Caen - Bordeaux, 1 - 0",14
+488,2500817,25/11/2017,"Dijon - Toulouse, 3 - 1",14
+489,2500817,25/11/2017,"Dijon - Toulouse, 3 - 1",14
+490,2500819,25/11/2017,"Metz - Amiens SC, 0 - 2",14
+491,2500819,25/11/2017,"Metz - Amiens SC, 0 - 2",14
+492,2500821,25/11/2017,"Montpellier - Lille, 3 - 0",14
+493,2500821,25/11/2017,"Montpellier - Lille, 3 - 0",14
+494,2500825,25/11/2017,"Troyes - Angers SCO, 3 - 0",14
+495,2500825,25/11/2017,"Troyes - Angers SCO, 3 - 0",14
+496,2500823,25/11/2017,"Rennes - Nantes, 2 - 1",14
+497,2500823,25/11/2017,"Rennes - Nantes, 2 - 1",14
+498,2500824,24/11/2017,"Saint-Étienne - Strasbourg, 2 - 2",14
+499,2500824,24/11/2017,"Saint-Étienne - Strasbourg, 2 - 2",14
+500,2500756,20/11/2017,"Amiens SC - Lille, 3 - 0",8
+501,2500756,20/11/2017,"Amiens SC - Lille, 3 - 0",8
+502,2500807,19/11/2017,"Bordeaux - Olympique Marseille, 1 - 1",13
+503,2500807,19/11/2017,"Bordeaux - Olympique Marseille, 1 - 1",13
+504,2500812,19/11/2017,"Olympique Lyonnais - Montpellier, 0 - 0",13
+505,2500812,19/11/2017,"Olympique Lyonnais - Montpellier, 0 - 0",13
+506,2500808,19/11/2017,"Caen - Nice, 1 - 1",13
+507,2500808,19/11/2017,"Caen - Nice, 1 - 1",13
+508,2500809,18/11/2017,"Dijon - Troyes, 3 - 1",13
+509,2500809,18/11/2017,"Dijon - Troyes, 3 - 1",13
+510,2500810,18/11/2017,"Guingamp - Angers SCO, 1 - 1",13
+511,2500810,18/11/2017,"Guingamp - Angers SCO, 1 - 1",13
+512,2500814,18/11/2017,"Strasbourg - Rennes, 2 - 1",13
+513,2500814,18/11/2017,"Strasbourg - Rennes, 2 - 1",13
+514,2500815,18/11/2017,"Toulouse - Metz, 0 - 0",13
+515,2500815,18/11/2017,"Toulouse - Metz, 0 - 0",13
+516,2500813,18/11/2017,"PSG - Nantes, 4 - 1",13
+517,2500813,18/11/2017,"PSG - Nantes, 4 - 1",13
+518,2500806,17/11/2017,"Amiens SC - Monaco, 1 - 1",13
+519,2500806,17/11/2017,"Amiens SC - Monaco, 1 - 1",13
+520,2500811,17/11/2017,"Lille - Saint-Étienne, 3 - 1",13
+521,2500811,17/11/2017,"Lille - Saint-Étienne, 3 - 1",13
+522,2500804,05/11/2017,"Saint-Étienne - Olympique Lyonnais, 0 - 5",12
+523,2500804,05/11/2017,"Saint-Étienne - Olympique Lyonnais, 0 - 5",12
+524,2500797,05/11/2017,"Olympique Marseille - Caen, 5 - 0",12
+525,2500797,05/11/2017,"Olympique Marseille - Caen, 5 - 0",12
+526,2500798,05/11/2017,"Metz - Lille, 0 - 3",12
+527,2500798,05/11/2017,"Metz - Lille, 0 - 3",12
+528,2500802,05/11/2017,"Nice - Dijon, 1 - 0",12
+529,2500802,05/11/2017,"Nice - Dijon, 1 - 0",12
+530,2500799,04/11/2017,"Monaco - Guingamp, 6 - 0",12
+531,2500799,04/11/2017,"Monaco - Guingamp, 6 - 0",12
+532,2500800,04/11/2017,"Montpellier - Amiens SC, 1 - 1",12
+533,2500800,04/11/2017,"Montpellier - Amiens SC, 1 - 1",12
+534,2500801,04/11/2017,"Nantes - Toulouse, 2 - 1",12
+535,2500801,04/11/2017,"Nantes - Toulouse, 2 - 1",12
+536,2500805,04/11/2017,"Troyes - Strasbourg, 3 - 0",12
+537,2500805,04/11/2017,"Troyes - Strasbourg, 3 - 0",12
+538,2500796,04/11/2017,"Angers SCO - PSG, 0 - 5",12
+539,2500796,04/11/2017,"Angers SCO - PSG, 0 - 5",12
+540,2500803,03/11/2017,"Rennes - Bordeaux, 1 - 0",12
+541,2500803,03/11/2017,"Rennes - Bordeaux, 1 - 0",12
+542,2500790,29/10/2017,"Lille - Olympique Marseille, 0 - 1",11
+543,2500790,29/10/2017,"Lille - Olympique Marseille, 0 - 1",11
+544,2500795,29/10/2017,"Toulouse - Saint-Étienne, 0 - 0",11
+545,2500795,29/10/2017,"Toulouse - Saint-Étienne, 0 - 0",11
+546,2500791,29/10/2017,"Olympique Lyonnais - Metz, 2 - 0",11
+547,2500791,29/10/2017,"Olympique Lyonnais - Metz, 2 - 0",11
+548,2500787,28/10/2017,"Caen - Troyes, 1 - 0",11
+549,2500787,28/10/2017,"Caen - Troyes, 1 - 0",11
+550,2500788,28/10/2017,"Dijon - Nantes, 1 - 0",11
+551,2500788,28/10/2017,"Dijon - Nantes, 1 - 0",11
+552,2500789,28/10/2017,"Guingamp - Amiens SC, 1 - 1",11
+553,2500789,28/10/2017,"Guingamp - Amiens SC, 1 - 1",11
+554,2500792,28/10/2017,"Montpellier - Rennes, 0 - 1",11
+555,2500792,28/10/2017,"Montpellier - Rennes, 0 - 1",11
+556,2500794,28/10/2017,"Strasbourg - Angers SCO, 2 - 2",11
+557,2500794,28/10/2017,"Strasbourg - Angers SCO, 2 - 2",11
+558,2500786,28/10/2017,"Bordeaux - Monaco, 0 - 2",11
+559,2500786,28/10/2017,"Bordeaux - Monaco, 0 - 2",11
+560,2500793,27/10/2017,"PSG - Nice, 3 - 0",11
+561,2500793,27/10/2017,"PSG - Nice, 3 - 0",11
+562,2500778,22/10/2017,"Olympique Marseille - PSG, 2 - 2",10
+563,2500778,22/10/2017,"Olympique Marseille - PSG, 2 - 2",10
+564,2500785,22/10/2017,"Troyes - Olympique Lyonnais, 0 - 5",10
+565,2500785,22/10/2017,"Troyes - Olympique Lyonnais, 0 - 5",10
+566,2500782,22/10/2017,"Nice - Strasbourg, 1 - 2",10
+567,2500782,22/10/2017,"Nice - Strasbourg, 1 - 2",10
+568,2500776,21/10/2017,"Amiens SC - Bordeaux, 1 - 0",10
+569,2500776,21/10/2017,"Amiens SC - Bordeaux, 1 - 0",10
+570,2500777,21/10/2017,"Angers SCO - Toulouse, 0 - 1",10
+571,2500777,21/10/2017,"Angers SCO - Toulouse, 0 - 1",10
+572,2500779,21/10/2017,"Metz - Dijon, 1 - 2",10
+573,2500779,21/10/2017,"Metz - Dijon, 1 - 2",10
+574,2500781,21/10/2017,"Nantes - Guingamp, 2 - 1",10
+575,2500781,21/10/2017,"Nantes - Guingamp, 2 - 1",10
+576,2500783,21/10/2017,"Rennes - Lille, 1 - 0",10
+577,2500783,21/10/2017,"Rennes - Lille, 1 - 0",10
+578,2500780,21/10/2017,"Monaco - Caen, 2 - 0",10
+579,2500780,21/10/2017,"Monaco - Caen, 2 - 0",10
+580,2500784,20/10/2017,"Saint-Étienne - Montpellier, 0 - 1",10
+581,2500784,20/10/2017,"Saint-Étienne - Montpellier, 0 - 1",10
+582,2500774,15/10/2017,"Strasbourg - Olympique Marseille, 3 - 3",9
+583,2500774,15/10/2017,"Strasbourg - Olympique Marseille, 3 - 3",9
+584,2500772,15/10/2017,"Montpellier - Nice, 2 - 0",9
+585,2500772,15/10/2017,"Montpellier - Nice, 2 - 0",9
+586,2500766,15/10/2017,"Bordeaux - Nantes, 1 - 1",9
+587,2500766,15/10/2017,"Bordeaux - Nantes, 1 - 1",9
+588,2500767,14/10/2017,"Caen - Angers SCO, 0 - 2",9
+589,2500767,14/10/2017,"Caen - Angers SCO, 0 - 2",9
+590,2500769,14/10/2017,"Guingamp - Rennes, 2 - 0",9
+591,2500769,14/10/2017,"Guingamp - Rennes, 2 - 0",9
+592,2500770,14/10/2017,"Lille - Troyes, 2 - 2",9
+593,2500770,14/10/2017,"Lille - Troyes, 2 - 2",9
+594,2500773,14/10/2017,"Saint-Étienne - Metz, 3 - 1",9
+595,2500773,14/10/2017,"Saint-Étienne - Metz, 3 - 1",9
+596,2500775,14/10/2017,"Toulouse - Amiens SC, 1 - 0",9
+597,2500775,14/10/2017,"Toulouse - Amiens SC, 1 - 0",9
+598,2500768,14/10/2017,"Dijon - PSG, 1 - 2",9
+599,2500768,14/10/2017,"Dijon - PSG, 1 - 2",9
+600,2500771,13/10/2017,"Olympique Lyonnais - Monaco, 3 - 2",9
+601,2500771,13/10/2017,"Olympique Lyonnais - Monaco, 3 - 2",9
+602,2500762,01/10/2017,"Nice - Olympique Marseille, 2 - 4",8
+603,2500762,01/10/2017,"Nice - Olympique Marseille, 2 - 4",8
+604,2500757,01/10/2017,"Angers SCO - Olympique Lyonnais, 3 - 3",8
+605,2500757,01/10/2017,"Angers SCO - Olympique Lyonnais, 3 - 3",8
+606,2500765,01/10/2017,"Troyes - Saint-Étienne, 2 - 1",8
+607,2500765,01/10/2017,"Troyes - Saint-Étienne, 2 - 1",8
+608,2500758,30/09/2017,"Dijon - Strasbourg, 1 - 1",8
+609,2500758,30/09/2017,"Dijon - Strasbourg, 1 - 1",8
+610,2500759,30/09/2017,"Guingamp - Toulouse, 1 - 1",8
+611,2500759,30/09/2017,"Guingamp - Toulouse, 1 - 1",8
+612,2500761,30/09/2017,"Nantes - Metz, 1 - 0",8
+613,2500761,30/09/2017,"Nantes - Metz, 1 - 0",8
+614,2500764,30/09/2017,"Rennes - Caen, 0 - 1",8
+615,2500764,30/09/2017,"Rennes - Caen, 0 - 1",8
+616,2500763,30/09/2017,"PSG - Bordeaux, 6 - 2",8
+617,2500763,30/09/2017,"PSG - Bordeaux, 6 - 2",8
+618,2500760,29/09/2017,"Monaco - Montpellier, 1 - 1",8
+619,2500760,29/09/2017,"Monaco - Montpellier, 1 - 1",8
+620,2500750,24/09/2017,"Olympique Marseille - Toulouse, 2 - 0",7
+621,2500750,24/09/2017,"Olympique Marseille - Toulouse, 2 - 0",7
+622,2500755,24/09/2017,"Strasbourg - Nantes, 1 - 2",7
+623,2500755,24/09/2017,"Strasbourg - Nantes, 1 - 2",7
+624,2500754,24/09/2017,"Saint-Étienne - Rennes, 2 - 2",7
+625,2500754,24/09/2017,"Saint-Étienne - Rennes, 2 - 2",7
+626,2500746,23/09/2017,"Bordeaux - Guingamp, 3 - 1",7
+627,2500746,23/09/2017,"Bordeaux - Guingamp, 3 - 1",7
+628,2500747,23/09/2017,"Caen - Amiens SC, 1 - 0",7
+629,2500747,23/09/2017,"Caen - Amiens SC, 1 - 0",7
+630,2500749,23/09/2017,"Olympique Lyonnais - Dijon, 3 - 3",7
+631,2500749,23/09/2017,"Olympique Lyonnais - Dijon, 3 - 3",7
+632,2500751,23/09/2017,"Metz - Troyes, 0 - 1",7
+633,2500751,23/09/2017,"Metz - Troyes, 0 - 1",7
+634,2500752,23/09/2017,"Montpellier - PSG, 0 - 0",7
+635,2500752,23/09/2017,"Montpellier - PSG, 0 - 0",7
+636,2500748,22/09/2017,"Lille - Monaco, 0 - 4",7
+637,2500748,22/09/2017,"Lille - Monaco, 0 - 4",7
+638,2500753,22/09/2017,"Nice - Angers SCO, 2 - 2",7
+639,2500753,22/09/2017,"Nice - Angers SCO, 2 - 2",7
+640,2500742,17/09/2017,"PSG - Olympique Lyonnais, 2 - 0",6
+641,2500742,17/09/2017,"PSG - Olympique Lyonnais, 2 - 0",6
+642,2500737,17/09/2017,"Angers SCO - Metz, 0 - 1",6
+643,2500737,17/09/2017,"Angers SCO - Metz, 0 - 1",6
+644,2500743,17/09/2017,"Rennes - Nice, 0 - 1",6
+645,2500743,17/09/2017,"Rennes - Nice, 0 - 1",6
+646,2500736,17/09/2017,"Amiens SC - Olympique Marseille, 0 - 2",6
+647,2500736,17/09/2017,"Amiens SC - Olympique Marseille, 0 - 2",6
+648,2500738,16/09/2017,"Dijon - Saint-Étienne, 0 - 1",6
+649,2500738,16/09/2017,"Dijon - Saint-Étienne, 0 - 1",6
+650,2500739,16/09/2017,"Guingamp - Lille, 1 - 0",6
+651,2500739,16/09/2017,"Guingamp - Lille, 1 - 0",6
+652,2500741,16/09/2017,"Nantes - Caen, 1 - 0",6
+653,2500741,16/09/2017,"Nantes - Caen, 1 - 0",6
+654,2500745,16/09/2017,"Troyes - Montpellier, 0 - 1",6
+655,2500745,16/09/2017,"Troyes - Montpellier, 0 - 1",6
+656,2500740,16/09/2017,"Monaco - Strasbourg, 3 - 0",6
+657,2500740,16/09/2017,"Monaco - Strasbourg, 3 - 0",6
+658,2500744,15/09/2017,"Toulouse - Bordeaux, 0 - 1",6
+659,2500744,15/09/2017,"Toulouse - Bordeaux, 0 - 1",6
+660,2500729,10/09/2017,"Olympique Marseille - Rennes, 1 - 3",5
+661,2500729,10/09/2017,"Olympique Marseille - Rennes, 1 - 3",5
+662,2500728,10/09/2017,"Olympique Lyonnais - Guingamp, 2 - 1",5
+663,2500728,10/09/2017,"Olympique Lyonnais - Guingamp, 2 - 1",5
+664,2500733,10/09/2017,"Saint-Étienne - Angers SCO, 1 - 1",5
+665,2500733,10/09/2017,"Saint-Étienne - Angers SCO, 1 - 1",5
+666,2500726,09/09/2017,"Caen - Dijon, 2 - 1",5
+667,2500726,09/09/2017,"Caen - Dijon, 2 - 1",5
+668,2500731,09/09/2017,"Montpellier - Nantes, 0 - 1",5
+669,2500731,09/09/2017,"Montpellier - Nantes, 0 - 1",5
+670,2500734,09/09/2017,"Strasbourg - Amiens SC, 0 - 1",5
+671,2500734,09/09/2017,"Strasbourg - Amiens SC, 0 - 1",5
+672,2500735,09/09/2017,"Troyes - Toulouse, 0 - 0",5
+673,2500735,09/09/2017,"Troyes - Toulouse, 0 - 0",5
+674,2500732,09/09/2017,"Nice - Monaco, 4 - 0",5
+675,2500732,09/09/2017,"Nice - Monaco, 4 - 0",5
+676,2500730,08/09/2017,"Metz - PSG, 1 - 5",5
+677,2500730,08/09/2017,"Metz - PSG, 1 - 5",5
+678,2500727,08/09/2017,"Lille - Bordeaux, 0 - 0",5
+679,2500727,08/09/2017,"Lille - Bordeaux, 0 - 0",5
+680,2500722,27/08/2017,"Monaco - Olympique Marseille, 6 - 1",4
+681,2500722,27/08/2017,"Monaco - Olympique Marseille, 6 - 1",4
+682,2500717,27/08/2017,"Angers SCO - Lille, 1 - 1",4
+683,2500717,27/08/2017,"Angers SCO - Lille, 1 - 1",4
+684,2500721,27/08/2017,"Guingamp - Strasbourg, 2 - 0",4
+685,2500721,27/08/2017,"Guingamp - Strasbourg, 2 - 0",4
+686,2500716,26/08/2017,"Amiens SC - Nice, 3 - 0",4
+687,2500716,26/08/2017,"Amiens SC - Nice, 3 - 0",4
+688,2500718,26/08/2017,"Bordeaux - Troyes, 2 - 1",4
+689,2500718,26/08/2017,"Bordeaux - Troyes, 2 - 1",4
+690,2500719,26/08/2017,"Caen - Metz, 1 - 0",4
+691,2500719,26/08/2017,"Caen - Metz, 1 - 0",4
+692,2500720,26/08/2017,"Dijon - Montpellier, 2 - 1",4
+693,2500720,26/08/2017,"Dijon - Montpellier, 2 - 1",4
+694,2500725,26/08/2017,"Toulouse - Rennes, 3 - 2",4
+695,2500725,26/08/2017,"Toulouse - Rennes, 3 - 2",4
+696,2500723,26/08/2017,"Nantes - Olympique Lyonnais, 0 - 0",4
+697,2500723,26/08/2017,"Nantes - Olympique Lyonnais, 0 - 0",4
+698,2500724,25/08/2017,"PSG - Saint-Étienne, 3 - 0",4
+699,2500724,25/08/2017,"PSG - Saint-Étienne, 3 - 0",4
+700,2500712,20/08/2017,"PSG - Toulouse, 6 - 2",3
+701,2500712,20/08/2017,"PSG - Toulouse, 6 - 2",3
+702,2500708,20/08/2017,"Olympique Marseille - Angers SCO, 1 - 1",3
+703,2500708,20/08/2017,"Olympique Marseille - Angers SCO, 1 - 1",3
+704,2500706,20/08/2017,"Lille - Caen, 0 - 2",3
+705,2500706,20/08/2017,"Lille - Caen, 0 - 2",3
+706,2500710,19/08/2017,"Montpellier - Strasbourg, 1 - 1",3
+707,2500710,19/08/2017,"Montpellier - Strasbourg, 1 - 1",3
+708,2500711,19/08/2017,"Nice - Guingamp, 2 - 0",3
+709,2500711,19/08/2017,"Nice - Guingamp, 2 - 0",3
+710,2500713,19/08/2017,"Rennes - Dijon, 2 - 2",3
+711,2500713,19/08/2017,"Rennes - Dijon, 2 - 2",3
+712,2500714,19/08/2017,"Saint-Étienne - Amiens SC, 3 - 0",3
+713,2500714,19/08/2017,"Saint-Étienne - Amiens SC, 3 - 0",3
+714,2500715,19/08/2017,"Troyes - Nantes, 0 - 1",3
+715,2500715,19/08/2017,"Troyes - Nantes, 0 - 1",3
+716,2500707,19/08/2017,"Olympique Lyonnais - Bordeaux, 3 - 3",3
+717,2500707,19/08/2017,"Olympique Lyonnais - Bordeaux, 3 - 3",3
+718,2500709,18/08/2017,"Metz - Monaco, 0 - 1",3
+719,2500709,18/08/2017,"Metz - Monaco, 0 - 1",3
+720,2500700,13/08/2017,"Guingamp - PSG, 0 - 3",2
+721,2500700,13/08/2017,"Guingamp - PSG, 0 - 3",2
+722,2500699,13/08/2017,"Dijon - Monaco, 1 - 4",2
+723,2500699,13/08/2017,"Dijon - Monaco, 1 - 4",2
+724,2500704,13/08/2017,"Strasbourg - Lille, 3 - 0",2
+725,2500704,13/08/2017,"Strasbourg - Lille, 3 - 0",2
+726,2500696,12/08/2017,"Amiens SC - Angers SCO, 0 - 2",2
+727,2500696,12/08/2017,"Amiens SC - Angers SCO, 0 - 2",2
+728,2500697,12/08/2017,"Bordeaux - Metz, 2 - 0",2
+729,2500697,12/08/2017,"Bordeaux - Metz, 2 - 0",2
+730,2500698,12/08/2017,"Caen - Saint-Étienne, 0 - 1",2
+731,2500698,12/08/2017,"Caen - Saint-Étienne, 0 - 1",2
+732,2500705,12/08/2017,"Toulouse - Montpellier, 1 - 0",2
+733,2500705,12/08/2017,"Toulouse - Montpellier, 1 - 0",2
+734,2500701,12/08/2017,"Nantes - Olympique Marseille, 0 - 1",2
+735,2500701,12/08/2017,"Nantes - Olympique Marseille, 0 - 1",2
+736,2500703,11/08/2017,"Rennes - Olympique Lyonnais, 1 - 2",2
+737,2500703,11/08/2017,"Rennes - Olympique Lyonnais, 1 - 2",2
+738,2500702,11/08/2017,"Nice - Troyes, 1 - 2",2
+739,2500702,11/08/2017,"Nice - Troyes, 1 - 2",2
+740,2500689,06/08/2017,"Olympique Marseille - Dijon, 3 - 0",1
+741,2500689,06/08/2017,"Olympique Marseille - Dijon, 3 - 0",1
+742,2500686,06/08/2017,"Angers SCO - Bordeaux, 2 - 2",1
+743,2500686,06/08/2017,"Angers SCO - Bordeaux, 2 - 2",1
+744,2500687,06/08/2017,"Lille - Nantes, 3 - 0",1
+745,2500687,06/08/2017,"Lille - Nantes, 3 - 0",1
+746,2500688,05/08/2017,"Olympique Lyonnais - Strasbourg, 4 - 0",1
+747,2500688,05/08/2017,"Olympique Lyonnais - Strasbourg, 4 - 0",1
+748,2500690,05/08/2017,"Metz - Guingamp, 1 - 3",1
+749,2500690,05/08/2017,"Metz - Guingamp, 1 - 3",1
+750,2500692,05/08/2017,"Montpellier - Caen, 1 - 0",1
+751,2500692,05/08/2017,"Montpellier - Caen, 1 - 0",1
+752,2500694,05/08/2017,"Saint-Étienne - Nice, 1 - 0",1
+753,2500694,05/08/2017,"Saint-Étienne - Nice, 1 - 0",1
+754,2500695,05/08/2017,"Troyes - Rennes, 1 - 1",1
+755,2500695,05/08/2017,"Troyes - Rennes, 1 - 1",1
+756,2500693,05/08/2017,"PSG - Amiens SC, 2 - 0",1
+757,2500693,05/08/2017,"PSG - Amiens SC, 2 - 0",1
+758,2500691,04/08/2017,"Monaco - Toulouse, 3 - 2",1
+759,2500691,04/08/2017,"Monaco - Toulouse, 3 - 2",1
