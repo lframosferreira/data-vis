@@ -37,9 +37,9 @@ def render(df_dict: dict[str, DataFrame]):
                 line={"shape": "spline"},
             )
             traces.append(trace)
-
+        br_league: str = "BRA1"
         layout = go.Layout(
-            title=f"Ranking Simulado dos Times no Campeonato {league if league is not None else "BRA1"}",
+            title=f"Ranking Simulado dos Times no Campeonato {league if league is not None else br_league}",
             title_x=0.5,
             template="seaborn",
             xaxis={"title": "Rodada", "tickangle": 0},
