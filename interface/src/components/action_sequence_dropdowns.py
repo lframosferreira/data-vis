@@ -25,22 +25,29 @@ def render(df_dict: dict[str, pd.DataFrame], spadl_dict: dict[str, pd.DataFrame]
         league_key = next(
             (key for key, value in LEAGUES.items() if value == league), None
         )
-        if league_key is not None:
-            shots = df_dict[f"{league_key}_shots"]
-            filtered_goals = (
-                shots[
-                    (shots["player_name"] == player_name)
-                    & (
-                        (shots["xG"] > min_prob)
-                        & (shots["xG"] < max_prob)
-                        & (shots["result_name"] == "success")
-                    )
-                ]
-                .sort_values(by="xG")
-            )
+        if league_key is None:
+            return [], True
 
-            goal_options = [{"label": f"Gol com {row['xG'] * 100:.2f}% de chance", "value": row['original_event_id']} for row in filtered_goals.to_dict(orient="records")]
-            return goal_options, False
+        shots = df_dict[f"{league_key}_shots"]
+        filtered_goals = (
+            shots[
+                (shots["player_name"] == player_name)
+                & (
+                    (shots["xG"] > min_prob)
+                    & (shots["xG"] < max_prob)
+                    & (shots["result_name"] == "success")
+                )
+            ]
+            .sort_values(by="xG")
+        )
+
+        goal_options = [
+            {
+                "label": f"Gol com {row['xG'] * 100:.2f}% de chance - {row['game_label']} | Rodada {row['game_week']} em {row['game_date']}",
+                "value": row['original_event_id']}
+            for row in filtered_goals.to_dict(orient="records")
+        ]
+        return goal_options, False
 
     return html.Div(
         children=[
