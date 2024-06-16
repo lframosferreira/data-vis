@@ -1,18 +1,20 @@
 import base64
 from io import BytesIO
 
+import matplotlib
 import matplotlib.pyplot as plt
 import matplotsoccer
 import pandas as pd
 from dash import Input
 from dash import Output
 from dash import callback
-from dash import html
 
 from settings import LEAGUES
 
+matplotlib.use("Agg")
 
-def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
+
+def render(df_dict: dict[str, pd.DataFrame]) -> None:
     @callback(
         Output("action-sequence-plot", "src"),
         [
@@ -62,4 +64,3 @@ def render(df_dict: dict[str, pd.DataFrame]) -> html.Div:
         plt.close(fig)
 
         return f"data:image/png;base64,{img_base64}"
-

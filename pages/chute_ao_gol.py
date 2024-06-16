@@ -45,9 +45,6 @@ for filename in files:
     merged_df = merged_df.loc[:, ~merged_df.columns.str.contains("^Unnamed")]
     spald_df_dict[f"{spadl_league}_spadl"] = merged_df
 
-keys = list(df_dict.keys())
-print(df_dict[keys[0]].columns)
-
 layout = html.Div(
     [
         html.H2(
