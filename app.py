@@ -3,3 +3,4 @@ from dash import Dash
 
 app = Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.ZEPHYR])
 app.title = "Visualização de Dados"
+server = app.server
