@@ -3,7 +3,7 @@ from dash import html
 from dash import page_container
 from dash import page_registry
 
-from app import app
+from app import app, server
 
 # Define a special style for the home page
 special_style = {
