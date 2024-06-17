@@ -21,12 +21,17 @@ df_dict: dict[str, pd.DataFrame] = {}
 spald_df_dict: dict[str, pd.DataFrame] = {}
 
 files_match = [f for f in os.listdir(SPALD_DATA_DIR) if "matches" in f]
-
 for filename in os.listdir(SHOTS_DATA_DIR):
     league_name: str = filename[: filename.index("_")]
     csv = pd.read_csv(f"{SHOTS_DATA_DIR}/{filename}")
+    shots_path = f"{SHOTS_DATA_DIR}/{filename}"
 
     league_name_match = league_name[0].upper() + league_name[1:]
+    matches_path = f"{SPALD_DATA_DIR}/{league_name_match}_matches.csv"
+
+    if not os.path.exists(shots_path) or not os.path.exists(matches_path):
+        continue
+    
     csv_matches = pd.read_csv(f"{SPALD_DATA_DIR}/{league_name_match}_matches.csv")
     merged_df = csv.merge(csv_matches, on="game_id", how="left")
     # drop columns that have "Unnamed" in the name
@@ -36,12 +41,20 @@ for filename in os.listdir(SHOTS_DATA_DIR):
 
 files = [f for f in os.listdir(SPALD_DATA_DIR) if "matches" not in f]
 for filename in files:
-    spadl_league: str = filename[: filename.index(".")]
-    spadl_league_df = pd.read_csv(f"{SPALD_DATA_DIR}/{filename}")
-    df_matches = pd.read_csv(f"{SPALD_DATA_DIR}/{spadl_league}_matches.csv")
+    spadl_league = filename[: filename.index(".")]
+    spadl_league_path = f"{SPALD_DATA_DIR}/{filename}"
+    matches_path = f"{SPALD_DATA_DIR}/{spadl_league}_matches.csv"
+
+    # Check if both files exist
+    if not os.path.exists(spadl_league_path) or not os.path.exists(matches_path):
+        continue
+
+    spadl_league_df = pd.read_csv(spadl_league_path)
+    df_matches = pd.read_csv(matches_path)
     merged_df = spadl_league_df.merge(df_matches, on="game_id", how="left")
-    # drop columns that have "Unnamed" in the name
+    # Drop columns that have "Unnamed" in the name
     merged_df = merged_df.loc[:, ~merged_df.columns.str.contains("^Unnamed")]
+
     spald_df_dict[f"{spadl_league}_spadl"] = merged_df
 
 layout = html.Div(

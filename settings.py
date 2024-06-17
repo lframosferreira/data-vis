@@ -150,10 +150,6 @@ TIMES_BRASILEIRAO_E_POSICOES: list[str] = [
 
 LEAGUES: dict[str, str] = {
     "england": "Premier League",
-    "spain": "La Liga",
-    "germany": "Bundesliga",
-    "italy": "Serie A",
-    "france": "Ligue 1",
 }
 
 
