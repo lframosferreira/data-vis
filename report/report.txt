@@ -29,16 +29,16 @@ Compreensão dos calculos relacionados às métricas de expectativa de gols. Obt
 criado por nós mesmos para as tabelas referentes às métricas do brasileirão série A. Filtragem e melhora da base de dados para facilitar seu uso
 na visualização.
 
-A primeira visualização elaborada permite a comparação das métricas entre jogadores utilizando um radar-plot, no qual múltiplos jogadores podem
+Visualização elaborada permite a comparação das métricas entre jogadores utilizando um radar-plot, no qual múltiplos jogadores podem
 ser selecionados. Complementando essa visualização temos uma outra em que o usuário pode selecionar um jogador e um time ou posição, de modo que
 seja simples comparar um jogador à média das métricas.
 
-A segunda visualização elaborada foi a de expectativa de gols entre os times. Através de uma série temporal que segue as rodadas do campeonato,é
-possível acompanhar a evolução das métricas de um time (expectativa de marcar gols, expectativa de tomar gols e a diferença entre elas).
-
 - Diogo Oliveira Neiss
 
-nao lembro agr
+Concepção das telas e prototipação da interface no excalidraw. Implementação do serviço web com paginação e interface moderna. Ajuste das visualizações do Luis e Ivan para interatividade e correção de bugs. 
+
+Visualização elaborada da expectativa de gols entre os times. Através de uma série temporal que segue as rodadas do campeonato,é
+possível acompanhar a evolução das métricas de um time (expectativa de marcar gols, expectativa de tomar gols e a diferença entre elas).
 
 - Igor Lacerda Faria da Silva
 
@@ -52,3 +52,11 @@ e ajustes para garantir a consistência do projeto, tanto em termos de código c
 Preparação dos dados aplicando o modelo de Regressão Logística para prever a probabilidade de um chute ser um gol. Elaboração da visualização
 de chutes ao gol com a opção de seleção dos chutes mais improváveis. Elaboração do plot de sequências de ações até o gol utilizando os dados
 de partida que foram preparados pelo Diogo. Ajustes e pequenas refatorações no sistema em geral.
+
+LINK PARA SLIDES EM PDF
+
+https://github.com/lframosferreira/data-vis/blob/main/slides.pdf
+
+LINK PARA ACESSO A FERRAMENTA
+
+https://datavis.gestaoescala.com.br/
