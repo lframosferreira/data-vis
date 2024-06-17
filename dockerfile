@@ -20,5 +20,6 @@ RUN rm data/spadl_format/Spain_matches.csv
 RUN rm data/spadl_format/Spain.csv
 
 RUN pip install -r requirements.txt
-
-CMD ["gunicorn", "--bind", "0.0.0.0:9000", "main:server"]
+EXPOSE 9000
+# vou colocar no docker compose diretamente
+#CMD ["gunicorn", "--bind", "0.0.0.0:9000", "main:server"]
