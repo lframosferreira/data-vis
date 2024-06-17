@@ -84,6 +84,11 @@ def render(df_dict: dict[str, pd.DataFrame], spadl_dict: dict[str, pd.DataFrame]
                         step=1,
                         disabled=False,
                     ),
+                    html.P(
+                        "Note que descontinuidades na sequência indicam bola parada/interceptação",
+                        style={"margin-left": "20px"},
+                        className="text-muted"
+                    ),
                 ],
                 style={"margin-top": "15px"},
             ),
