@@ -69,7 +69,7 @@ app.layout = html.Div(
 
 # Define the main function to run the app
 def main() -> None:
-    app.run(debug=True)
+    app.run_server(debug=False, host='0.0.0.0', port=9000)
 
 
 # Run the app

@@ -44,7 +44,7 @@ df_dict["sportsref"]["xG_diff"] = (
 layout = html.Div(
     [
         html.H2(
-            "Comparação da expectativa de gols entre um time e seus adversários no campeonato",
+            "Comparação da expectativa de gols entre um time e seus adversários no campeonato.",
             style={"textAlign": "center"},
         ),
         html.P(

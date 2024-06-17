@@ -16,7 +16,7 @@ Em particular, cada integrante teve como objetivo e foco específico as seguinte
 
 Compreensão da métrica de Elo quando aplicada ao contexto do futebol. Obtenção dos dados necessários para a construção das visualizações
 desejadas. As tabelas de Elo foram construídas utilizando os dados disponibilizados pela API disponibilizada pela plataforma ClubELO.
-Existem duas visualizações de séries temporais quando contextualizadasem relação ao Elo. A primeira, mais básica, permite selecionar quais
+Existem duas visualizações de séries temporais quando contextualizadas em relação ao Elo. A primeira, mais básica, permite selecionar quais
 clubes comparar e ver na tabela a variação bruta do valor de Elo de cada time ao longo dos anos.
 
 A segunda visualização, por sua vez, permite que se aplique uma média móvel sobre o valor do Elo, permitindo que uma visualização mais fluida
@@ -25,7 +25,16 @@ predeterminado pelo usuário.
 
 - Caio Teles Cunha
 
-radar plot
+Compreensão dos calculos relacionados às métricas de expectativa de gols. Obtenção dos dados necessários do site fbref utilizando um crawler
+criado por nós mesmos para as tabelas referentes às métricas do brasileirão série A. Filtragem e melhora da base de dados para facilitar seu uso
+na visualização.
+
+A primeira visualização elaborada permite a comparação das métricas entre jogadores utilizando um radar-plot, no qual múltiplos jogadores podem
+ser selecionados. Complementando essa visualização temos uma outra em que o usuário pode selecionar um jogador e um time ou posição, de modo que
+seja simples comparar um jogador à média das métricas.
+
+A segunda visualização elaborada foi a de expectativa de gols entre os times. Através de uma série temporal que segue as rodadas do campeonato,é
+possível acompanhar a evolução das métricas de um time (expectativa de marcar gols, expectativa de tomar gols e a diferença entre elas).
 
 - Diogo Oliveira Neiss
 
@@ -33,8 +42,13 @@ nao lembro agr
 
 - Igor Lacerda Faria da Silva
 
-poisson
+Distribuição inicial das tarefas e orientações gerais de quais plots desenvolver. Desenvolvimento do pipeline e visualização da simulação de 
+campeonatos usando-se o modelo de Poisson. O pipeline consiste na extração e simulação de partidas com base no modelo, que são organizadas em 
+tabelas para cada rodada. Depois, a criação do ranking e da visualização e seus elementos interativos em si. Além disso, pequenas refatorações 
+e ajustes para garantir a consistência do projeto, tanto em termos de código como em termos das visualizações.
 
 - Ivan Vilaça de Assis
 
-chutes
+Preparação dos dados aplicando o modelo de Regressão Logística para prever a probabilidade de um chute ser um gol. Elaboração da visualização
+de chutes ao gol com a opção de seleção dos chutes mais improváveis. Elaboração do plot de sequências de ações até o gol utilizando os dados
+de partida que foram preparados pelo Diogo. Ajustes e pequenas refatorações no sistema em geral.
